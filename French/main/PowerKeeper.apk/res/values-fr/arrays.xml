@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Défaut</item>
+        <item>Mode caché</item>
+        <item>Mode lecture</item>
+        <item>Mode médias</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Application fonctionnant en arrière-plan</item>
+        <item>Affichage activé</item>
+        <item>Affichage désactivé</item>
+        <item>Affichage éteint après 10 minutes</item>
+        <item>Plein écran</item>
+        <item>Quitter le plein écran</item>
+        <item>Application fonctionnant en arrière-plan</item>
+        <item>Téléphone en charge</item>
+        <item>Téléphone pas en charge</item>
+        <item>Téléphone en veille</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>"Luminosité max de l'affichage"</item>
+        <item>Fréquence max du CPU</item>
+        <item>"Mode d'affichage"</item>
+        <item>Utilisation du CPU</item>
+        <item>Connexion de données</item>
+        <item>Localisation</item>
+        <item>Première notification</item>
+        <item>"Notifications d'écran de verrouillage"</item>
+        <item>Restreindre la connexion de données en arrière-plan</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Aucun</item>
+        <item>Défaut</item>
+        <item>Image</item>
+        <item>Film</item>
+        <item>Économiseur de batterie</item>
+        <item>Équilibré</item>
+        <item>Performance</item>
+        <item>Activé</item>
+        <item>Désactivé</item>
+        <item>Immédiatement</item>
+        <item>Après 10 min</item>
+        <item>Après 30 min</item>
+        <item>"Quand l'affichage est désactivé"</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>Dans ce mode</item>
+        <item>Non sélectionné</item>
+        <item>"Sélectionné dans d'autres modes"</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Personnaliser</item>
+        <item>Économiseur de batterie</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>Maintenant</item>
+        <item>Arrière-plan</item>
+        <item>Récemment</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Bloquer le mode Sommeil profond</item>
+        <item>Bloquer le mode Sommeil</item>
+        <item>Recherche de Wi-Fi</item>
+        <item>Utiliser GPS</item>
+        <item>Occupation du CPU</item>
+        <item>"Réveille fréquemment l'appareil"</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>recherche Wi-Fi</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Éveil</item>
+    </string-array>
+</resources>

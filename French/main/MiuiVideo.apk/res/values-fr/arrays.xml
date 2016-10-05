@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+    <string-array name="movie_channel_tabs">
+        <item>Recommandé</item>
+        <item>Classement</item>
+        <item>Populaire</item>
+        <item>Nouveautés</item>
+    </string-array>
+    <string-array name="variety_channel_tabs">
+        <item>Recommandé</item>
+        <item>Populaire</item>
+    </string-array>
+    <string-array name="channel_tabs">
+        <item>Populaire</item>
+        <item>Classement</item>
+        <item>Nouveautés</item>
+    </string-array>
+    <string-array name="version_list_entries">
+        <item>Stable</item>
+        <item>Dev</item>
+    </string-array>
+    <string-array name="server_list_entries">
+        <item>Serveur de test</item>
+        <item>Serveur en ligne</item>
+    </string-array>
+</resources>

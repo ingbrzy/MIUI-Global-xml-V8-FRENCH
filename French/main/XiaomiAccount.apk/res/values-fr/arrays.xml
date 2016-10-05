@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Homme</item>
+        <item>Femme</item>
+    </string-array>
+    <string-array name="education">
+        <item>Collège</item>
+        <item>École primaire</item>
+        <item>Lycée</item>
+        <item>École professionnelle</item>
+        <item>Université</item>
+        <item>Maîtrise</item>
+        <item>Doctorat</item>
+    </string-array>
+    <string-array name="income">
+        <item>&amp;lt ; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>&amp;gt ; 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>Famille</item>
+        <item>Nom de la grand-mère maternelle</item>
+        <item>Nom du grand-père maternel</item>
+        <item>Nom du grand-père paternel</item>
+        <item>Nom de la grand-mère paternelle</item>
+        <item>Date de naissance du père</item>
+        <item>Date de naissance de la mère</item>
+        <item>"Quelle est la différence d'âge entre vos 2 parents (années et mois) ?"</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>"École d'enfance"</item>
+        <item>"Quel était le nom de l'un de vos délégués de classe au collège ?"</item>
+        <item>Quel était le nom de votre délégué de classe dans une de vos classes au cours élémentaire ?</item>
+        <item>"Votre numéro d'étudiant à l'université"</item>
+        <item>"Quel est le nom de votre colocataire à l'université ?"</item>
+        <item>"Quel était le nom de votre superviseur à l'université ?"</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>Informations personnelles</item>
+        <item>Comment vos parents vous appellent ?</item>
+        <item>Les 6 derniers chiffres de votre numéro de passeport</item>
+        <item>Dans quel hôpital êtes-vous né ?</item>
+        <item>Quel est le nom de votre meilleur ami ?</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>Premières fois</item>
+        <item>Quel est le nom de votre premier animal de compagnie ?</item>
+        <item>Quel est le nom de votre première petite amie / petit ami ?</item>
+        <item>"Nom de l'entreprise où vous avez obtenu votre premier emploi ?"</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>Mariage</item>
+        <item>"Quand t'es tu marié ?"</item>
+        <item>Le nom de votre conjoint(e)</item>
+        <item>"Date d'anniversaire de votre conjoint(e)"</item>
+    </string-array>
+</resources>

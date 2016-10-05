@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Musique</item>
+        <item>Voix</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Musique</item>
+        <item>Voix</item>
+        <item>Interview</item>
+    </string-array>
+    <string-array name="hd_record_scenes_entries">
+        <item>Musique</item>
+        <item>Voix</item>
+        <item>Interview</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="record_scenes_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Enregistrez à travers 2 canaux, écoutez un son stéréo avec les écouteurs</item>
+        <item>Rapprochez le micro de la source sonore pour améliorer la qualité</item>
+        <item>Mettez le téléphone entre 2 personnes pour les enregistrer cliarement tous les deux</item>
+        <item>La distance maximum efficace du micro est 10 mètres</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Élevée</item>
+        <item>Normale</item>
+        <item>Faible</item>
+    </string-array>
+    <string-array name="record_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90Mo/h</item>
+        <item>MP3, ~100kbit/s, ~45Mo/h</item>
+        <item>MP3, ~75kbit/s, ~32Mo/h</item>
+    </string-array>
+    <string-array name="record_locale_language">
+        <item>fa</item>
+        <item>ar</item>
+        <item>bn</item>
+    </string-array>
+</resources>

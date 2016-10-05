@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Refroidissement</item>
+        <item>Chauffage</item>
+        <item>Déshumidification</item>
+        <item>Ventilateur</item>
+    </string-array>
+    <string-array name="answer">
+        <item>"Votre appareil peut seulement s'associer avec la Mi TV, la Mi Box, et une poignée d'autres appareils Android en utilisant une connexion Wi-Fi."</item>
+        <item>"Assurez-vous que vous avez sélectionné le bon modèle de climatiseur dans le processus d'appairage. Suivez les instructions sur votre appareil jusqu'à ce que l'appairage soit terminé."</item>
+        <item>Non. Acutellement, seuls les Mi 4, Mi 4c et le Redmi Note 2 peuvent être utilisés comme télécommandes infrarouge.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Dim</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+    </string-array>
+    <string-array name="question">
+        <item>Pourquoi mon téléphone ne cesse de rechercher des appareils sans fil ?</item>
+        <item>"Pourquoi puis-je seulement allumer mon climatiseur et n'arrive pas à l'éteindre ?"</item>
+        <item>Puis-je utiliser les Mi 3, Mi 2 et Redmi comme télécommande ?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>Blanc</item>
+        <item>Jaune</item>
+        <item>Gris</item>
+        <item>Marron</item>
+        <item>Vert</item>
+        <item>Bleu</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>PC</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>"Page d'accueil par défaut"</item>
+        <item>Personnalisé</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Très petite</item>
+        <item>Petite</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Très grande</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Téléphone</item>
+        <item>Tablette</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Message du navigateur</item>
+        <item>Suivez les jeux olympiques avec Mi</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK </item>
+        <item>Suivre</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Supprimer</item>
+        <item>Non merci</item>
+    </string-array>
+</resources>

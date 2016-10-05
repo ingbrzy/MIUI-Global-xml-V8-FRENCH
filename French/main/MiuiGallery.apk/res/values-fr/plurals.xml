@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">Ne plus afficher ces personnes ?</item>
+        <item quantity="one">Ne plus afficher cette personne ?</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s photos de %2$s >></item>
+        <item quantity="one">%1$s photo de %2$s >></item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d années</item>
+        <item quantity="one">%d année</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d mois</item>
+        <item quantity="one">%d mois</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d jours</item>
+        <item quantity="one">%d jour</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d photos de %2$s seront ajoutées</item>
+        <item quantity="one">%1$d photo de %2$s sera ajoutée</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d photos de %2$s seront ajoutées</item>
+        <item quantity="one">%1$d photo de %2$s sera ajoutée</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Partagé avec %d personnes</item>
+        <item quantity="one">Partagé avec %d personne</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">"Les photos sélectionnées ne se trouvent pas sur l'appareil, les télécharger en utilisant les données mobiles ?"</item>
+        <item quantity="one">"La photo sélectionnée ne se trouve pas sur l'appareil, la télécharger en utilisant les données mobiles ?"</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">"Les photos sélectionnées (%d Mo) ne se trouvent pas sur l'appareil. Voulez-vous les télécharger en utilisant vos données mobiles ?"</item>
+        <item quantity="one">"La photo sélectionnée (%d Mo) ne se trouve pas sur l'appareil. Voulez-vous la télécharger en utilisant vos données mobiles ?"</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">"Les photos sélectionnées ne se trouvent pas sur l'appareil. Elle seront téléchargées."</item>
+        <item quantity="one">"La photo sélectionnée ne se trouve pas sur l'appareil. Elle sera téléchargée."</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">"a ignoré %d photos ne se trouvant pas sur l'appareil."</item>
+        <item quantity="one">"a ignoré une photo ne se trouvant pas sur l'appareil."</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Impossible de télécharger %1$d photos, réessayer ?</item>
+        <item quantity="one">Impossible de télécharger une photo, réessayer ?</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">Impossible de télécharger les %1$d photos, veuillez vous connecter au réseau puis réessayez</item>
+        <item quantity="one">Impossible de télécharger la photo, veuillez vous connecter au réseau puis réessayez</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Impossible de télécharger %1$d photos (%2$d Mo), réessayer ?</item>
+        <item quantity="one">Impossible de télécharger une photo (%2$dMB), réessayer ?</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Impossible de télécharger les %1$d photos (%2$d Mo), veuillez vous connecter au réseau puis réessayez</item>
+        <item quantity="one">Impossible de télécharger la photo (%2$d Mo), veuillez vous connecter au réseau puis réessayez</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Annuler le téléchargement des %d photos restantes ?</item>
+        <item quantity="one">Annuler le téléchargement de la dernière photo ?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">%d photo cloud ont été ajoutées, désactiver \"Afficher uniquement les albums locaux\" pour les voir.</item>
+        <item quantity="one">%d photo cloud a été ajoutée, désactiver \"Afficher uniquement les albums locaux\" pour la voir.</item>
+    </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">Supprimer %1$d photos %2$s ?</item>
+        <item quantity="one">Supprimer cette photo %2$s ?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">Supprimer %1$d vidéos de %2$s ?</item>
+        <item quantity="one">Supprimer cette vidéo de %2$s ?</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Supprimer%1$d éléments de %2$s ?</item>
+        <item quantity="one">Supprimer%1$d élément de %2$s ?</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d éléments)</item>
+        <item quantity="one">(%d élément)</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d éléments |%2$s</item>
+        <item quantity="one">%1$d élément |%2$s</item>
+    </plurals>
+    <plurals name="backuped">
+        <item quantity="other">%1$d éléments ont été sauvegardés</item>
+        <item quantity="one">%1$d élément a été sauvegardé</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">%1$d éléments en attente de sauvegarde</item>
+        <item quantity="one">%1$d élément en attente de sauvegarde</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+        <item quantity="other">Erreur de réseau ! %1$d éléments en attentent de sauvegarde</item>
+        <item quantity="one">Erreur de réseau ! %1$d élément en attente de sauvegarde</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">"La synchronisation est désactivée. %1$d éléments attendent d'être synchronisés"</item>
+        <item quantity="one">"La synchronisation est désactivée. %1$d élément attende d'être synchronisé"</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">"Plus de place sur Mi Cloud. %1$d éléments attendent d'être synchronisés"</item>
+        <item quantity="one">"Plus de place sur Mi Cloud. %1$d élément attende d'être synchronisé"</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">"Plus de place sur le téléphone. %1$d éléments attendent d'être synchronisés"</item>
+        <item quantity="one">"Plus de place sur le téléphone. %1$d élément attende d'être synchronisé"</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d photos en attente de sauvegarde</item>
+        <item quantity="one">1 photo en attente de sauvegarde</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d vidéos de sauvegarde</item>
+        <item quantity="one">1 vidéo en attente de sauvegarde</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d éléments en attente de sauvegarde</item>
+        <item quantity="one">1 objet en attente de sauvegarde</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Sauvegarde de %1$d photos en cours…</item>
+        <item quantity="one">Sauvegarde de photo en cours…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Sauvegarde de %1$d vidéos en cours…</item>
+        <item quantity="one">Sauvegarde de 1 vidéo en cours…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Sauvegarde en cours %1$d objets…</item>
+        <item quantity="one">Sauvegarde en cours 1 objet…</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">Impossible de télécharger %1$d éléments</item>
+        <item quantity="one">Impossible de télécharger %1$d élément</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d éléments sélectionnés</item>
+        <item quantity="one">%d élément sélectionné</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">"%1$d photos qui n'ont pas pu être rendues ont été ignorées."</item>
+        <item quantity="one">"Une photo qui n'a pas pu être rendue a été ignorée."</item>
+    </plurals>
+</resources>

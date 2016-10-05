@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">%d éléments trouvés</item>
+        <item quantity="one">1 élément trouvé</item>
+    </plurals>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Supprimer %d éléments ?</item>
+        <item quantity="one">Supprimer cet élément ?</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">%d résultats trouvés</item>
+        <item quantity="one">1 résultat trouvé</item>
+    </plurals>
+</resources>

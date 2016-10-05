@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Heureux</item>
+        <item>Triste</item>
+        <item>"Clin d'oeil"</item>
+        <item>Tire la langue</item>
+        <item>Étonné</item>
+        <item>Embrasser</item>
+        <item>Hurler</item>
+        <item>Cool</item>
+        <item>Argent</item>
+        <item>Maladroit</item>
+        <item>Embarrassé</item>
+        <item>Ange</item>
+        <item>Indécis</item>
+        <item>En pleurs</item>
+        <item>Lèvres scellées</item>
+        <item>Rires</item>
+        <item>Confus</item>
+        <item>Coeur</item>
+        <item>Furieux</item>
+        <item>Narquois</item>
+        <item>Neutre</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nom</item>
+        <item>Pseudo</item>
+        <item>Téléphone</item>
+        <item>E-mail</item>
+        <item>Société</item>
+        <item>Messagerie instantanée</item>
+        <item>VoIP</item>
+        <item>Anniversaire</item>
+        <item>Site web</item>
+        <item>Adresse</item>
+        <item>Notes</item>
+        <item>Relation</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi Message</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi Message</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Non défini</item>
+        <item>1 heure</item>
+        <item>6 heures</item>
+        <item>12 heures</item>
+        <item>1 jour</item>
+        <item>Maximum</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Maximum</item>
+        <item>Deux jours</item>
+    </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Synchroniser tous les messages</item>
+        <item>Synchroniser les messages des cartes SIM sélectionnées</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 seconde</item>
+        <item>2 secondes</item>
+        <item>3 secondes</item>
+        <item>4 secondes</item>
+        <item>5 secondes</item>
+        <item>6 secondes</item>
+        <item>7 secondes</item>
+        <item>8 secondes</item>
+        <item>9 secondes</item>
+        <item>10 secondes</item>
+        <item>Autre</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Toujours</item>
+        <item>Seulement en mode silencieux</item>
+        <item>Jamais</item>
+    </string-array>
+</resources>

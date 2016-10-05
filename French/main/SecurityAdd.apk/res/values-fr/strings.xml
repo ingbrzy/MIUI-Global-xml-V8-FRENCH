@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plugin du service de sécurité</string>
+    <string name="ok_button">OK </string>
+    <string name="cancel_button">Annuler</string>
+    <string name="privacy_declare_dialog_title">"Conditions générales d'utilisation"</string>
+    <string name="privacy_prompt_traffic_purchase_message">"Votre numéro de téléphone ainsi que les détails de l'opérateur vont être transmis aux serveurs de Mi afin d'obtenir plus d'info sur les options d'achat de données."</string>
+    <string name="miuishare_title_more">Plus</string>
+    <string name="miuishare_title_share">Partager</string>
+    <string name="miuishare_wechat_timeline_title">Moments WeChat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="network_not_available">Impossible de se connecter au réseau</string>
+    <string name="no_network_btn">Veuillez réessayer</string>
+    <string name="main_toolbar_purchase">Recharger</string>
+    <string name="usage_sorted_loading_text">Un instant…</string>
+    <string name="month_report_activity_label">Rapport mensuel</string>
+    <string name="month_report_disconnect_tip">Impossible de se connecter au réseau</string>
+    <string name="month_report_click_reconnect_network">Réessayer</string>
+    <string name="month_report_warning_dialog_title">Rapport de sécurité mensuel</string>
+    <string name="month_report_warning_dialog_description">"Pour afficher le rapport mensuel, activer cette fonction dans les paramètres de l'application Sécurité."</string>
+    <string name="month_report_warning_dialog_positive">Activer</string>
+    <string name="month_report_history_activity_label">Historique des rapports</string>
+    <string name="month_report_result_share">Partager</string>
+    <string name="month_report_share_img_fail">Impossible de partager</string>
+    <string name="month_report_share_loading">Un instant…</string>
+    <string name="month_report_network_dialog_title">"Impossible d'obtenir les informations du rapport"</string>
+    <string name="month_report_network_dialog_description">Autoriser cette application à se connecter à internet pour obtenir les informations du rapport ?</string>
+    <string name="month_report_network_dialog_positive">Autoriser</string>
+    <string name="month_report_follow_service_title">Mise à jour de Sécurité</string>
+    <string name="month_report_follow_service_summary">"Rester à jour avec les nouvelles de sécurité et les informations en suivant le compte officiel de l'application Sécurité de MIUI."</string>
+    <string name="month_report_follow_service_positive">Suivre</string>
+    <string name="month_report_follow_service_negative">Non merci</string>
+    <string name="app_not_installed_toast">"L'application n'est pas installée sur votre appareil."</string>
+    <string name="empty">" "</string>
+    <string name="share">Partager</string>
+    <string name="open_browser">Ouvrir dans le navigateur</string>
+    <string name="title_share_link">"Partager l'URL"</string>
+    <string name="pm_lable_name">"À propos de l'accès root"</string>
+    <string name="pc_activity_title">Optimiser la batterie</string>
+</resources>

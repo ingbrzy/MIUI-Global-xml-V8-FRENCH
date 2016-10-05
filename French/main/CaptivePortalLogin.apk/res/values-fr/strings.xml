@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"CaptivePortalLogin"</string>
+    <string name="action_use_network">"Utiliser ce réseau tel quel"</string>
+    <string name="action_do_not_use_network">"Ne pas utiliser ce réseau"</string>
+    <string name="action_bar_label">"Se connecter au réseau"</string>
+    <string name="ssl_error_continue">Continuer dans le navigateur malgré tout</string>
+    <string name="ssl_error_example">Par exemple, la page d\'identification peut ne pas appartenir à l\'organisation affichée.</string>
+    <string name="ssl_error_warning">Le réseau que vous essayez de rejoindre présente des failles de sécurité.</string>
+</resources>

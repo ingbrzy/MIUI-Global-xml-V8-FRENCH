@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">Supprimer</string>
+    <string name="unlockscreen_recharging_message">Chargement %d%%</string>
+    <string name="unlockscreen_recharge_completed">Batterie chargée</string>
+    <string name="unlockscreen_low_battery">Branchez le chargeur</string>
+    <string name="lockscreen_charging_msg">En charge</string>
+    <string name="emergency_call_string">"Appel d'urgence"</string>
+    <string name="forget_password_string">Mot de passe oublié ?</string>
+    <string name="input_puk_code">Entrer le code PUK</string>
+    <string name="unlocking_sim_card">Déverrouillage de la carte SIM</string>
+    <string name="input_pin_code">Code PIN</string>
+    <string name="incorrect_pukcode_remaining_attempts">Code PUK incorrect, %d tentatives restantes</string>
+    <string name="incorrect_pincode_remaining_attempts">Code PIN incorrect, %d tentatives restantes</string>
+    <string name="incorrect_pukcode">Code PUK incorrect</string>
+    <string name="incorrect_pincode">Code PIN incorrect</string>
+    <string name="open_wifi_settings">Ouvrir les connexions réseau</string>
+    <string name="lock_screen_date">EEEE d MMMM</string>
+    <string name="lock_screen_date_12">EEEE d MMMM</string>
+    <string name="lockscreen_glogin_password_hint">Mot de passe</string>
+    <string name="lockscreen_glogin_checking_password">Vérification…</string>
+    <string name="login_website_in_case_forget_password">Pour réinitialiser votre mot de passe, allez sur www.mi.com/micloud</string>
+    <string name="experimental_validate_thanks">Merci !</string>
+    <string name="experimental_validate_warning">Merci de votre aide pour améliorer MIUI !</string>
+    <string name="experimental_validate">Valider</string>
+    <string name="experimental_try_string">Essayer</string>
+    <string name="experimental_validate_username">"Nom d'utilisateur"</string>
+    <string name="experimental_validate_password">Mot de passe</string>
+    <string name="experimental_validate_progress">Connexion…</string>
+    <string name="experimental_validate_fail">Impossible de se connecter</string>
+    <string name="lockscreen_glogin_invalid_input">"Nom d'utilisateur ou mot de passe incorrect."</string>
+    <string name="find_device_turn_off_flight_mode">Désactiver le Mode Avion</string>
+    <string name="phone_locked_string">Appareil verrouillé</string>
+    <string name="phone_locked_timeout_seconds_string">Réessayer dans %s secondes</string>
+    <string name="phone_locked_timeout_minutes_string">Réessayer dans %s minutes</string>
+    <string name="unlock_sim_string">Déverrouiller</string>
+    <string name="lockscreen_glogin_submit_button">Se connecter</string>
+    <string name="lockscreen_access_pattern_start">Schéma commencé</string>
+    <string name="lockscreen_access_pattern_cleared">Schéma effacé</string>
+    <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée.</string>
+    <string name="lockscreen_access_pattern_detected">Schéma terminé.</string>
+    <string name="default_lockscreen_unlock_hint_text">Glissez vers le haut pour déverrouiller</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vous avez mal saisi votre mot de passe %d fois. Après %d tentatives infructueuses supplémentaires, il vous sera demandé de déverrouiller votre téléphone en vous connectant avec votre compte Mi.
+
+ Réessayez dans %d secondes."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Vous avez échoué à déverrouiller l'appareil %d fois. Après %d tentatives infructueuses, l'appareil sera remis au format usine et toutes les données utilisateur seront perdues."</string>
+    <string name="lockscreen_failed_attempts_now_wiping">"Vous avez incorrectement tenté de déverrouiller l'appareil à %d reprises. L'appareil va maintenant être remis au format usine par défaut."</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Déverrouillé par un périphérique Bluetooth</string>
+    <string name="missed_call_text">%d appels manqués</string>
+    <string name="wrong_password">Mot de passe incorrect</string>
+    <string name="keyguard_torch_cover_text">Pour garder le flash allumé, maintenez le bouton Power</string>
+    <string name="confirm_pin_msg">Répétez le code PIN</string>
+    <string name="invalid_confirm_pin_hint">Les codes PIN ne correspondent pas</string>
+    <string name="unlock_string">Déverrouiller</string>
+    <string name="open_camera_hint_text">Faites glisser vers la gauche pour ouvrir %s</string>
+    <string name="open_remote_center_hint_text">Faites glisser vers la droite pour ouvrir %s</string>
+    <string name="left_action_default_hint_text">Mi Télécommande</string>
+    <string name="click_to_enter_text">Appuyez pour afficher</string>
+    <string name="fingerprint_try_again_text">Réessayer</string>
+    <string name="fingerprint_not_identified_title">Entrez le mot de passe</string>
+    <string name="fingerprint_not_identified_msg">Pour déverrouiller votre appareil, saisissez votre mot de passe.</string>
+    <string name="invalid_sim_pin_hint">Le code PIN doit contenir 4 à 8 chiffres</string>
+    <string name="invalid_sim_puk_hint">Le code PUK doit contenir au moins 8 chiffres</string>
+    <string name="input_password_hint_text">Entrez le mot de passe</string>
+    <string name="input_pattern_hint_text">Dessinez un schéma de déverrouillage</string>
+    <string name="input_password_after_boot_msg">Pour déverrouiller votre appareil, saisissez votre mot de passe</string>
+    <string name="fingerprint_lockout_msg">Patientez une minute, puis réessayez de déverrouiller avec votre empreinte</string>
+    <string name="accessibility_enter_lock_wallpaper">"Appuyer pour ouvrir le Fond d'écran Carousel"</string>
+    <string name="lock_wallpaper_learn_more">Plus</string>
+    <string name="lock_wallpaper_enter">Entrer</string>
+    <string name="custom_lock_wallpaper_enter">Entrer</string>
+    <string name="fingerprint_enter_second_psw_title">Mot de passe du Second espace ajouté</string>
+    <string name="fingerprint_enter_second_psw_msg">"Entrez le mot de passe du Second espace après avoir redémarrer l'appareil afin de pouvoir utiliser le lecteur d'empreinte"</string>
+</resources>

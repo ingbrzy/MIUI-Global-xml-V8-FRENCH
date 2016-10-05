@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekday">
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
+        <item>Dimanche</item>
+    </string-array>
+    <string-array name="weekday_short">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+        <item>Dim</item>
+    </string-array>
+    <string-array name="family_memeber_names">
+        <item>Conjoint</item>
+        <item>Papa</item>
+        <item>Maman</item>
+        <item>Fils</item>
+        <item>Fille</item>
+        <item>Cousin</item>
+        <item>Autre membre</item>
+    </string-array>
+    <string-array name="device_shop_detail_webview_title">
+        <item>Descriptif</item>
+        <item>Caractéristiques</item>
+        <item>Contenu</item>
+    </string-array>
+</resources>

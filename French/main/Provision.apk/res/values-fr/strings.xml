@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Bienvenue</string>
+    <string name="app_name">Provision</string>
+    <string name="input_method_setting">Choisir un clavier</string>
+    <string name="input_method_category">"Choisissez le clavier par défaut que vous utiliserez lors de la rédaction des e-mails, notes, et partout ailleurs. Notez que vous pourrez installer d'autres claviers plus tard."</string>
+    <string name="provision_inputmethod_policy_description">"
+Voir la politique de confidentialité du clavier sélectionné."</string>
+    <string name="provision_inputmethod_policy_description1">Politique de confidentialité</string>
+    <string name="multisim_settings_title">2 cartes SIM détectées</string>
+    <string name="multisim_settings_category">Paramètres de la carte SIM</string>
+    <string name="sim_card_detection">Insérez une carte SIM</string>
+    <string name="sim_card_detecting_title">Vérifier la carte SIM</string>
+    <string name="sim_card_detection_info">"Pour insérez la carte SIM, veuillez consulter le manuel fourni avec l'appareil."</string>
+    <string name="sim_card_detecting">Vérification de votre carte SIM…</string>
+    <string name="other_settings">Autres paramètres</string>
+    <string name="other_settings_location">Localisation</string>
+    <string name="other_settings_location_summary">"Permettre aux applications d'accéder à votre localisation"</string>
+    <string name="other_settings_user_experience">"Programme d'expérience utilisateur"</string>
+    <string name="other_settings_user_experience_summary">Help improve our products and services by sending anonymous usage data.</string>
+    <string name="other_settings_upload_debug_log_title">Envoyer automatiquement les données de diagnostic</string>
+    <string name="other_settings_upload_debug_log_summary">The information we collect will be used to locate and analyze the problems in the system and may contain personal information. No data will be used to identify you personally.</string>
+    <string name="other_settings_auto_update">Mettre à jour automatiquement</string>
+    <string name="other_settings_auto_update_summary">MIUI sélectionnera le temps de veille pour télécharger et installer les mises à jour.</string>
+    <string name="other_settings_mifg_online_content">"Carrousel de fond d'écran"</string>
+    <string name="other_settings_mifg_online_content_summary">Get new wallpapers delivered to your Lock screen regularly.</string>
+    <string name="back">Retour</string>
+    <string name="next">Suivant</string>
+    <string name="skip_underline">Passer cette étape</string>
+    <string name="sim_dectection_next">Continuer</string>
+    <string name="shut_down">Éteindre</string>
+    <string name="sim_redetection">Vérifier à nouveau</string>
+    <string name="congratulation_title">Configuration terminée</string>
+    <string name="congratulation_label">Vous êtes prêt à faire sensation !</string>
+    <string name="pref_title_voice_slot">Carte SIM préférée pour les appels vocaux</string>
+    <string name="pref_title_data_slot">Carte SIM préférée pour les données</string>
+    <string name="summary_not_set">Non défini</string>
+    <string name="ime_privacy_policy">Politique de confidentialité du clavier sélectionné</string>
+    <string name="ime_privacy_policy_no_network">Aucune connexion réseau. Consulter la politique de confidentialité de ce clavier à %s.</string>
+    <string name="terms_of_use">"Conditions d'utilisation"</string>
+    <string name="terms_of_use_label">"Votre vie privée est très importante pour nous. Veuillez lire les conditions d'utilisation ainsi que la politique de confidentialité pour savoir quelles informations nous collectons, comment nous les utilisons et les différents choix disponibles.
+
+Vous devez les accepter avant de pouvoir utiliser MIUI. Vous devez vous connecter à internet pour activer les services Mi, Mi Home et Localiser l'appareil."</string>
+    <string name="user_agreement">"Conditions générales d'utilisation"</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="agree">Accepter</string>
+    <string name="disagree">Annuler</string>
+    <string name="setting_locale">Définition de la région…</string>
+    <string name="agree_terms">"J'ai lu et accepté les Conditions générales d'utilisation et la Politique de confidentialité."</string>
+    <string name="miui_terms_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir les Conditions Générales d'Utilisation sur %s."</string>
+    <string name="miui_privacy_policy_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir la Politique de Confidentialité sur %s."</string>
+    <string name="locale_picker_title">Sélectionnez votre région</string>
+    <string name="install_preinstall_app">Chargement des applications…</string>
+    <string name="title_fingerprint">Ajouter votre empreinte</string>
+    <string name="desc_fingerprint">Utiliser votre empreinte digitale pour déverrouiller votre appareil, vérifier les transactions Mi Pay ou pour vous connecter à des applications et services.</string>
+    <string name="next_fingerprint">Suivant</string>
+    <string name="desc_international_fingerprint">Utilisez votre empreinte pour déverrouiller votre appareil, ou pour se connecter à des applications ou services.</string>
+    <string name="content_description_start">Commencer</string>
+    <string name="content_description_miui_version">MIUI 8</string>
+    <string name="content_description_complete">Terminé</string>
+    <string name="content_description_language_picker">Sélectionnez une langue</string>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">%s applications ne peuvent pas afficher les notifications</item>
+        <item quantity="one">1 application ne peut pas afficher les notifications</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s applications ne peuvent pas afficher les notifications</item>
+        <item quantity="one">1 application ne peut pas afficher les notifications</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Plus que %1$d étapes pour devenir développeur</item>
+        <item quantity="one">Plus que %1$d étape pour devenir développeur</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d empreintes digitales configurées</item>
+        <item quantity="one">%1$d empreinte digitale configurée</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins %d lettre.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres minuscules.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins %d lettre minuscule.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres majuscules.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins %d lettre majuscule.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Le mot de passe doit comporter au moins %d chiffres.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins %d chiffre.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Le mot de passe doit comporter au moins %d caractères spéciaux.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins %d caractère spécial.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Le mot de passe doit comporter au moins %d caractères qui ne sont pas des lettres.</item>
+        <item quantity="one">"Le mot de passe doit comporter au moins %d caractère qui n'est pas une lettre."</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Code PIN de la carte SIM erroné. Il vous reste %d tentatives.</item>
+        <item quantity="one">Code PIN de la carte SIM erroné. Il vous reste %d tentative.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d applications peuvent lire les notifications.</item>
+        <item quantity="one">%d application peut lire les notifications.</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">"Ne recevoir que les alarmes pendant %1$d minutes jusqu'à %2$s"</item>
+        <item quantity="one">"Ne recevoir que les alarmes pendant %1$d minute jusqu'à %2$s"</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">"Ne recevoir que les alarmes pendant %1$d heures jusqu'à %2$s"</item>
+        <item quantity="one">"Ne recevoir que les alarmes pendant %1$d heure jusqu'à %2$s"</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d autorisations accordées</item>
+        <item quantity="one">%d autorisation accordée</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d autorisations accordées sur %2$d</item>
+        <item quantity="one">%1$d autorisation accordée sur %2$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d autorisations supplémentaires</item>
+        <item quantity="one">%d autorisation supplémentaire</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d applications peuvent ouvrir les liens compatibles</item>
+        <item quantity="one">%d application peut ouvrir les liens compatibles</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">"%d applications autorisées à ignorer l'optimisation de la batterie"</item>
+        <item quantity="one">"%d application autorisée à ignorer l'optimisation de la batterie"</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d applications ont utilisé de la mémoire au cours de la période suivante : %2$s.</item>
+        <item quantity="one">%1$d application a utilisé de la mémoire au cours de la période suivante : %2$s.</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d appareils</item>
+        <item quantity="one">%d appareil</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">"Encore %1$d pas pour accéder aux infos de l'appareil."</item>
+        <item quantity="one">"Encore %1$d pas pour accéder aux infos de l'appareil."</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">"Encore %1$d pas pour accéder aux tests de l'appareil."</item>
+        <item quantity="one">"Encore %1$d pas pour accéder aux tests de l'appareil."</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Encore %1$d pas pour accéder au rapport de bug.</item>
+        <item quantity="one">Encore %1$d pas pour accéder au rapport de bug.</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Toujours désactiver pour %d applications</item>
+        <item quantity="one">Toujours désactiver pour 1 application</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Ne jamais désactiver pour %d applications</item>
+        <item quantity="one">Ne jamais désactiver pour 1 application</item>
+    </plurals>
+</resources>

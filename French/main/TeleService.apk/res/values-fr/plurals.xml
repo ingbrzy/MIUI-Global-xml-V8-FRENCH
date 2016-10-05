@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Pas de connexion de données pendant %s minutes</item>
+        <item quantity="one">Pas de connexion de données pendant %s minute</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">"L'appareil va passer en mode appel d'urgence pendant %s minutes. Pendant ce mode aucune connexion au réseau de données ne sera possible. Voulez vous quittez maintenant?"</item>
+        <item quantity="one">"L'appareil va passer en mode appel d'urgence pendant %s minute. Pendant ce mode aucune connexion au réseau de données ne sera possible. Voulez vous quittez maintenant?"</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">"L'action sélectionnée n'est pas disponible en mode appel d'urgence. Le téléphone sera dans ce mode pendant %s minutes. Voulez vous quitter maintenant ?"</item>
+        <item quantity="one">"L'action sélectionnée n'est pas disponible en mode appel d'urgence. Le téléphone sera dans ce mode pendant %s minute. Voulez vous quitter maintenant ?"</item>
+    </plurals>
+</resources>

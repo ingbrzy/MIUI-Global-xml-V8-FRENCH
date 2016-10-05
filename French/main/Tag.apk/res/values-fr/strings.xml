@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+<resources>
+  <string name="app_name">Tags</string>
+  <string name="title_scanned_tag">Nouveau tag ajouté</string>
+  <string name="title_existing_tag">Tag</string>
+  <string name="tag_unknown">Type de tag inconnu</string>
+  <string name="tag_empty">Tag vide</string>
+  <string name="button_done">OK</string>
+  <string name="action_text">Envoyer un SMS à %s</string>
+  <string name="action_call">Appeler %s</string>
+  <string name="empty_tag_prompt">Ce tag est vide.</string>
+  <string name="import_vcard">Importer ^1</string>
+  <string name="mime_display_name">Données du tag NFC</string>
+  <string name="vcard_title">Coordonnées de ^1</string>
+</resources>

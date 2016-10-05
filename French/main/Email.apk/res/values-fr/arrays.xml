@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calendar_remind_string_array">
+        <item>Ce soir</item>
+        <item>Demain</item>
+        <item>Weekend</item>
+        <item>Semaine prochaine</item>
+        <item>Mois prochain</item>
+        <item>Choisir une date</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Répondre</item>
+        <item>Répondre à tous</item>
+        <item>Transférer</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Très petit</item>
+        <item>Petit</item>
+        <item>Normal</item>
+        <item>Grand</item>
+        <item>Énorme</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Récemment vu</item>
+        <item>Format</item>
+        <item>Nom</item>
+        <item>Expéditeur</item>
+        <item>Date de réception</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Système</item>
+        <item>Utilisé fréquement</item>
+        <item>Tous les dossiers</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Message récent</item>
+        <item>Ancien message</item>
+        <item>Liste de conversation</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresse :</item>
+        <item>Tél :</item>
+        <item>Nom :</item>
+        <item>E-mail :</item>
+        <item>Mobile :</item>
+        <item>WeChat :</item>
+        <item>Fax :</item>
+        <item>Code postal :</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Merci,</item>
+        <item>Sincères salutations</item>
+        <item>Envoyé de mon</item>
+        <item>E-mail original</item>
+        <item>Envoyé de mon</item>
+        <item>Envoyé par</item>
+        <item>De</item>
+        <item>Cet e-mail</item>
+        <item>Avertissement</item>
+        <item>Avertissement par email</item>
+    </string-array>
+</resources>

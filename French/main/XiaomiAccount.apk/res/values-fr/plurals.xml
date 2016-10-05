@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d contacts</item>
+        <item quantity="one">%d contact</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d messages</item>
+        <item quantity="one">%d message</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d notes</item>
+        <item quantity="one">%d note</item>
+    </plurals>
+    <plurals name="updated_contacts">
+        <item quantity="other">%s contacts mis à jour</item>
+        <item quantity="one">%s contact mis à jour</item>
+    </plurals>
+    <plurals name="view_all_devices">
+        <item quantity="other">Afficher tous les %d appareils</item>
+        <item quantity="one">Afficher %d appareil</item>
+    </plurals>
+    <plurals name="view_all_apps">
+        <item quantity="other">Afficher toutes les %d applications</item>
+        <item quantity="one">Afficher %d applications</item>
+    </plurals>
+    <plurals name="view_all_browsers">
+        <item quantity="other">Afficher tous les %d navigateurs</item>
+        <item quantity="one">Afficher %d navigateur</item>
+    </plurals>
+</resources>

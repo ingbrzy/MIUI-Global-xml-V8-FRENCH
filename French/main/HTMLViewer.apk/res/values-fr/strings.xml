@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2013 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+<resources>
+  <string name="app_label">Visionneuse HTML</string>
+  <string name="app_name_which_call">Application: %s</string>
+  <string name="app_version_which_call">Version de l\'app: %s</string>
+  <string name="license_host_unreachable">"Échec de connexion au réseau. Pour consulter cette information maintenant,
+rendez-vous sur %s"</string>
+  <string name="loading">Chargement…</string>
+  <string name="mibi_license">Conditions d\'utilisation de Mi Credit</string>
+  <string name="open_wifi_connect_summary">Touchez pour voir les détails.</string>
+  <string name="open_wifi_connect_title">Connecté à %1$s</string>
+  <string name="permdesc_accessDrm">Autorise les applications à accéder à du contenu légalement protégé par DRM.</string>
+  <string name="policy_name">Politique: %s</string>
+  <string name="settings_license_activity_loading">Chargement…</string>
+  <string name="settings_license_activity_title">Licences Open Source</string>
+  <string name="settings_license_activity_unavailable">Problème de chargement des licences.</string>
+  <string name="settings_safetylegal_activity_loading">Chargement…</string>
+  <string name="settings_safetylegal_activity_title">Information de sécurité</string>
+  <string name="settings_safetylegal_activity_unreachable">"Vous ne disposez pas d'une connexion Internet. Pour consulter cette information maintenant, rendez-vous sur %s à partir de n\'importe quel appareil connecté à Internet."</string>
+  <string name="settings_safetylegal_title">Information de sécurité</string>
+</resources>

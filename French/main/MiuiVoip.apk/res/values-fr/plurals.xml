@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
+         authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
+    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Il vous reste %1$d étapes pour devenir un développeur voip.</item>
+        <item quantity="one">Il vous reste %1$d étape pour devenir un développeur voip.</item>
+    </plurals>
+    <plurals name="show_nondev_countdown">
+        <item quantity="other">Il vous reste %1$d étapes pour quitter le mode développeur voip.</item>
+        <item quantity="one">Il vous reste %1$d étape pour quitter le modé développeur voip.</item>
+    </plurals>
+</resources>
+

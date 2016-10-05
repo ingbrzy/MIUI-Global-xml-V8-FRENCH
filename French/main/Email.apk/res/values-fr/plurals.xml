@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d nouveaux messages</item>
+        <item quantity="one">%1$d nouveau message</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Archiver %1$d conversations ?</item>
+        <item quantity="one">Archiver %1$d conversation ?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Supprimer %1$d conversations?</item>
+        <item quantity="one">Supprimer %1$d conversation ?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Les conversations contiennent plusieurs messages, supprimer quand même ?</item>
+        <item quantity="one">La conversation contient plusieurs messages, supprimer quand même ?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d éléments sélectionnés</item>
+        <item quantity="one">%d élément sélectionné</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">%1$d conversations archivées.</item>
+        <item quantity="one">%1$d conversation archivée.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">%1$d conversations supprimées.</item>
+        <item quantity="one">%1$d conversation supprimée.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Dossiers modifiés.</item>
+        <item quantity="one">Dossier modifié.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Ignorer %1$d conversations.</item>
+        <item quantity="one">Ignorer %1$d conversation.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">%1$d conversations sans importance.</item>
+        <item quantity="one">%1$d conversation sans importance.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">%1$d conversations retirées de spam</item>
+        <item quantity="one">%1$d conversation retirée de spam</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">%1$d conversations rapportées commes frauduleuses.</item>
+        <item quantity="one">%1$d conversation rapportée comme frauduleuse.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">%1$d conversations rapportées comme spam.</item>
+        <item quantity="one">%1$d conversation rapportée comme spam.</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Brouillons</item>
+        <item quantity="one">Brouillon</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d messages seront définitivement supprimés.</item>
+        <item quantity="one">%1$d message sera définitivement supprimé.</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Déplacer %1$d conversations</item>
+        <item quantity="one">Déplacer %1$d conversation</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d nouveaux messages</item>
+        <item quantity="one">%1$d nouveau message</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d éléments sélectionnés</item>
+        <item quantity="one">%d élément sélectionné</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d anciens messages</item>
+        <item quantity="one">%1$d ancien message</item>
+    </plurals>
+</resources>

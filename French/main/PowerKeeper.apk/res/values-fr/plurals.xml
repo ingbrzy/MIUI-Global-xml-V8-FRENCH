@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">%1$d étapes avant passage en mode Ultime</item>
+        <item quantity="one">%1$d étape avant passage en mode Ultime</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">%1$d étapes avant la désactivation du mode Ultime</item>
+        <item quantity="one">%1$d étape avant la désactivation du mode Ultime</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Finissez %1$d étapes pour débloquer tous les objets</item>
+        <item quantity="one">Finissez %1$d étape pour débloquer tous les objets</item>
+    </plurals>
+</resources>
