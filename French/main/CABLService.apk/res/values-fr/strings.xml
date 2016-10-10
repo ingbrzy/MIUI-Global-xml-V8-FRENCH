@@ -10,6 +10,5 @@
   <string name="cabl_enable_summary_off">Le rétro-éclairage ne se réajustera plus</string>
   <string name="cabl_levels_title">Niveaux de qualité visuelle</string>
   <string name="cabl_levels_summary">"Un niveau faible améliorera l'autonomie mais l'écran pourrait être, dans certains cas, trop sombre"</string>
-  <string name="cabl_info_default">Inconnu</string>
   <string name="cabl_version_title">Version CABL</string>
 </resources>

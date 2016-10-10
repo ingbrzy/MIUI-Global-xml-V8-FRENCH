@@ -129,9 +129,6 @@ Veuillez tenir le téléphone comme lors d'un appel, parlez dans le microphone e
     <string name="cit_audio_cali_playing">Appuyez sur le bouton pour calibrer</string>
     <string name="cit_audio_cali_file_existed">Le fichier audio est absent, impossible de démarrer le calibrage !</string>
     <string name="cit_audio_cali_done">Calibration terminée</string>
-    <string name="cit_audio_cali_valueR">Ref_diff:</string>
-    <string name="cit_audio_cali_valueT">Temp_acc:</string>
-    <string name="cit_audio_cali_valueF0">F0 :</string>
     <string name="cit_audio_cali_failed">Calibrage échoué, veuillez recommencer !</string>
     <string name="cit_aud_spkcal">Calibrage</string>
     <string name="cit_audio_calibrating">Calibrage en cours...</string>
@@ -322,5 +319,4 @@ Tournez le téléphone, parler dans le microphone arrière, vous devriez entendr
     <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Test du microphone avant.
 
 Tournez le téléphone, parlez dans le microphone avant, vous devriez entendre votre voix dans le haut-parleur"</string>
-    <string name="cit_audio_cali_valueC">Compteur :</string>
 </resources>

@@ -3,10 +3,4 @@
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
-    <string-array name="cabl_level_values">
-        <item>Faible</item>
-        <item>Moyen</item>
-        <item>Élevé</item>
-        <item>Auto</item>
-    </string-array>
 </resources>

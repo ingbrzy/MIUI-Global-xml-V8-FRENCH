@@ -104,7 +104,6 @@
     <string name="apply_password_confirm_dlg_title">%s Mot de passe</string>
     <string name="apply_password_confirm_dlg_msg">"Utilisez votre mot de passe du verrouillage d'écran en cours pour accéder aux paramètres de %s."</string>
     <string name="apply_password_action">OK </string>
-    <string name="subinfo_default_name">SIM %d</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Placez votre doigt sur le bouton Accueil</string>
     <string name="maml_component_customization_title">Paramètres</string>
     <string name="default_name">Nom par défaut</string>

@@ -19,7 +19,6 @@
   <string name="search_dialog_title">Recherche des Stations</string>
   <string name="fmradio_clear_confirm_msg">Les stations enregistrées seront supprimées.</string>
   <string name="radio_text_string">Ceci est un message radio dont le texte demande un défilement</string>
-  <string name="default_station">FM</string>
   <string name="transmit_msg_string">Transmission à :</string>
   <string name="set">Définir</string>
   <string name="stations_list">Liste des stations</string>

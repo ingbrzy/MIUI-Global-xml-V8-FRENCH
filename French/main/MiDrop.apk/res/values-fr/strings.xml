@@ -1,30 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi Drop</string>
-    <string name="hello_world">Bienvenue !</string>
     <string name="action_settings">Paramètres</string>
-    <string name="title_activity_p2p_group_owner">P2pGroupOwnerActivity</string>
-    <string name="title_activity_p2p_legacy_station">P2pLegacyStationActivity</string>
-    <string name="title_activity_bonjour">BonjourActivity</string>
     <string name="Start">Démarrer</string>
     <string name="Stop">Arrêter</string>
     <string name="StartScan">StartScan</string>
     <string name="StopScan">StopScan</string>
     <string name="Connect">Connexion</string>
     <string name="Disconnect">Déconnecter</string>
-    <string name="action_p2pgo">P2pGroupOwner</string>
-    <string name="action_p2pls">P2pLegacyStation</string>
-    <string name="action_bonjour">Bonjour</string>
     <string name="Register">register</string>
     <string name="Unregister">unregister</string>
-    <string name="title_activity_main">MainActivity</string>
     <string name="TestSender">Test Sender</string>
     <string name="TestReceiver">Test Receiver</string>
     <string name="TestP2pGo">Test P2pGroupOwner</string>
     <string name="TestP2pGc">Test P2pGroupClient</string>
     <string name="TestP2pLs">Test P2pLegacyStation</string>
     <string name="TestBonjour">Test Bonjour</string>
-    <string name="title_activity_reception">ReceptionActivity</string>
     <string name="transmission_click_send">envoyer</string>
     <string name="newText">Nouveau Texte</string>
     <string name="transmission_connect">Impossible de trouver le destinataire</string>
@@ -88,12 +79,10 @@
     <string name="cancel_receive_confirm">Annuler</string>
     <string name="cancel_receive_stop">Continuer à recevoir</string>
     <string name="cancel_confirm_title">"Le transfert n'est pas terminé, annuler maintenant ?"</string>
-    <string name="title_activity_p2p_group_client">P2pGroupClientActivity</string>
     <string name="file_not_support">"Ce type de fichier n'est pas supporté"</string>
     <string name="help">Aide</string>
     <string name="send_file_time_format_m">m:s</string>
     <string name="send_file_time_format_s">s</string>
-    <string name="title_activity_intro">IntroActivity</string>
     <string name="intro_midrop">Mi Drop</string>
     <string name="intro_page1_text1">Partagez des fichiers avec les appareils à proximité</string>
     <string name="intro_page1_text2">"Maintenant c'est plus facile que jamais"</string>

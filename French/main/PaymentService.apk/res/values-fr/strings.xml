@@ -94,7 +94,6 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="giftcard_push_notification_prime_title">Vous avez reçu un certificat de cadeau</string>
   <string name="giftcard_push_notification_sub_title">%1$s : don de %2$s MiCredit.</string>
   <string name="giftcard_record">MiCredits reçus</string>
-  <string name="giftcard_value">" (Carte-cadeau %1$s MiCredit)"</string>
   
 <!-- à traduire ? non utilisée hors de la chine ? en attentant l'anglais est mieux que le chinois… -->
   <string name="hfb_app_name">UMPay</string>
@@ -308,7 +307,6 @@ Service client : 400-100-5678"</string>
   <string name="btn_finish">Finir</string>
   <string name="pc_pay_login">Connectez-vous sur :</string>
   <string name="milicenter_title">Mi Credit</string>
-  <string name="unit_value">%1$s MiCredit</string>
   <string name="unit">MiCredit</string>
   <string name="balance_title">Solde</string>
   <string name="payment_actionbar_title">Confirmation</string>

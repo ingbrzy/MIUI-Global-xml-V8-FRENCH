@@ -152,7 +152,6 @@ Please check your local date and try again."</string>
      <string name="mipay_my_balance">Balance</string>
      <string name="mipay_nfc_balance_limit_title">E-Cash Balance Limit</string>
      <string name="mipay_nfc_bank_card_details_title">Bank card</string>
-     <string name="mipay_nfc_bank_card_name_default">A Bank</string>
      <string name="mipay_nfc_bind_card">Bind card</string>
      <string name="mipay_nfc_bind_card_dialog_title">Binding card …</string>
      <string name="mipay_nfc_cancel_bind_card">Cancel binding card</string>
@@ -176,7 +175,6 @@ Please check your local date and try again."</string>
      <string name="mipay_nfc_per_limit_title">Per-Trade Limit</string>
      <string name="mipay_nfc_record_empty">No records</string>
      <string name="mipay_nfc_record_title">Records</string>
-     <string name="mipay_nfc_shop_name_default">No name</string>
      <string name="mipay_nfc_support_list_tip">&lt;u&gt;Supported cards&lt;/u&gt;</string>
      <string name="mipay_nfc_support_tip">Use your Mi device anywhere NFC is supported, from ATMs to public transit.</string>
      <string name="mipay_nfc_tail_num_hint">Tail Num: %1$s</string>
@@ -191,7 +189,6 @@ Please check your local date and try again."</string>
      <string name="mipay_order_change">Replace</string>
      <string name="mipay_order_choose">Use:</string>
      <string name="mipay_order_denom">Price:</string>
-     <string name="mipay_order_denom_value">￥%1$s</string>
      <string name="mipay_pass_err_find">Find Password</string>
      <string name="mipay_pass_err_reinput">Re-Input Password</string>
      <string name="mipay_pay_check_order_title">Please check payment information</string>

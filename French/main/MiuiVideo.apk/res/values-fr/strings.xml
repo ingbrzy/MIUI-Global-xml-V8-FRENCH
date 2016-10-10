@@ -195,7 +195,6 @@
   <string name="play_history">Lu récemment</string>
   <string name="share_device">Périphériques partagés</string>
   <string name="not_login">Non connecté</string>
-  <string name="notification_default_title">Vidéo téléchargée</string>
   <string name="notification_sub_title">Total: %d téléchargement(s) terminé(s)</string>
   <string name="notification_ticker_text">Offline video download completion</string>
   <string name="notification_title">\"%s\" download completion</string>

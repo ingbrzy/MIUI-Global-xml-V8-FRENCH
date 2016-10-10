@@ -160,7 +160,6 @@
     <string name="recharge_input_phone_title">Entrer un numéro de téléphone (China Mobile, China Unicom, ou China Telecom)</string>
     <string name="recharge_select_money_title">Sélectionnez le montant</string>
     <string name="recharge_charge_range">Prix : %1$s-%2$s RMB</string>
-    <string name="recharge_charge_value">Prix : %s RMB</string>
     <string name="recharge_pay">Recharger maintenant</string>
     <string name="mishop_web_payment_title">Commande Mi Store</string>
     <string name="recharge_pay_hint_license">"Note d'approvisionnement"</string>
@@ -334,7 +333,6 @@ Vérifiez votre numéro de suivi."</string>
     <string name="balance_inquiry_send_sms_hint">Un SMS sera envoyé à votre opérateur pour vérifier votre solde.</string>
     <string name="balance_inquiry_send_sms_summmary">Vérifie le solde</string>
     <string name="balance_inquiry_send_sms_fail_hint">"Impossible d'obtenir le solde"</string>
-    <string name="navigation_search_default_hint">Rechercher les localisations</string>
     <string name="navigation_search_automatically_positioned_city">Ville actuelle</string>
     <string name="navigation_search_positioning">Localisation…</string>
     <string name="navigation_search_positioning_failed">Sélectionnez une ville</string>

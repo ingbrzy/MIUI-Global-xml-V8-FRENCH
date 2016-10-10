@@ -48,7 +48,6 @@
   <string name="invalid_json">Une erreur est survenue</string>
   <string name="level">Niveau</string>
   <string name="level_detail">Limite d\'objectif quotidienne: %d</string>
-  <string name="level_exp_value" formatted="false">Points : %d/%d</string>
   <string name="level_info_format" formatted="false">"Niveau %d %d/%d
 %s"</string>
   <string name="limit_task">Défis limités</string>

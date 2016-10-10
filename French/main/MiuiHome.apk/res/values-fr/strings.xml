@@ -103,8 +103,6 @@
     <string name="default_folder_title_recommend">"Plus d'Applications"</string>
     <string name="default_folder_title_game">Jeux</string>
     <string name="default_folder_title_security">Système</string>
-    <string name="default_folder_title_telcel">Telcel</string>
-    <string name="default_folder_title_claro">Claro</string>
     <string name="wallpaper_settings">"Fond d'écran"</string>
     <string name="choose_wallpaper">"Sélectionner le fond d'écran"</string>
     <string name="current_preview">Aperçu</string>
@@ -120,7 +118,6 @@
     <string name="apply_both">Les 2</string>
     <string name="enable_wallpaper_scroll">Activer le défilement</string>
     <string name="disable_wallpaper_scroll">Désactiver le défilement</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="online_wallpaper">En ligne</string>
     <string name="custom_wallpaper_picker">Parcourir</string>
     <string name="reset_scene_prompt">"Le bureau va être remis dans sa disposition d'origine."</string>

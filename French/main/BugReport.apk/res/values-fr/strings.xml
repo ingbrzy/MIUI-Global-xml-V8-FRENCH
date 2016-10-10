@@ -61,7 +61,6 @@
     <string name="michat_skillset_product_title">Sélectionnez un produit</string>
     <string name="michat_skillset_business_type_title">Sélectionnez le service</string>
     <string name="michat_close_text">Conversation terminée</string>
-    <string name="default_text_view">TextView</string>
     <string name="michat_message_robot_welcome">Mon nom est Lapin Mi. Je suis un robot de support en ligne.</string>
     <string name="michat_message_join_again">Content que tu sois de retour !</string>
     <string name="michat_invalid_url">URL non valide</string>
