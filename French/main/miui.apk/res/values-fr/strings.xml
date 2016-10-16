@@ -269,11 +269,11 @@
     <string name="the_double_ninth_festival">Double Ninth Festival</string>
     <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="the_laba_festival">Laba Festival</string>
-    <string name="the_new_years_day">New Years Day</string>
-    <string name="the_valentines_day">Valentines Day</string>
-    <string name="the_international_womens_day">Womens Day</string>
+    <string name="the_new_years_day">Jour de l'an</string>
+    <string name="the_valentines_day">Saint-Valentin</string>
+    <string name="the_international_womens_day">Journée internationale des femmes</string>
     <string name="the_arbor_day">Arbor Day</string>
-    <string name="the_fools_day">Fools Day</string>
+    <string name="the_fools_day">Poisson d'avril</string>
     <string name="the_labour_day">Labour Day</string>
     <string name="the_chinese_youth_day">Youth Day</string>
     <string name="the_childrens_day">Childrens Day</string>
