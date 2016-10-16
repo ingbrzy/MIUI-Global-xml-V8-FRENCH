@@ -75,7 +75,7 @@
     <string name="account_setup_exchange_no_certificate">Aucun</string>
     <string name="account_setup_failed_certificate_inaccessible">"Le certificat n'est pas valide ou est inaccessible."</string>
     <string name="account_setup_failed_certificate_required">Certificat client requis. Voulez-vous vous connecter au serveur avec le certificat client ?</string>
-    <string name="account_setup_failed_check_credentials_message">The server responded with an error. Check your username and password, then try again.</string>
+    <string name="account_setup_failed_check_credentials_message">"Le serveur a répondu avec une erreur. Vérifiez votre nom d'utilisateur et mot de passe, puis essayez à nouveau."</string>
     <string name="account_setup_failed_dlg_auth_message">"Le nom d'utilisateur ou le mot de passe est incorrect."</string>
     <string name="account_setup_failed_dlg_bar_title">Façons de se connecter à %s</string>
     <string name="account_setup_failed_dlg_certificate_message">"Impossible d'établir une connexion sécurisée avec le serveur."</string>
@@ -134,10 +134,10 @@
     <string name="account_setup_outgoing_port_label">Port</string>
     <string name="account_setup_outgoing_require_login_label">Connexion obligatoire</string>
     <string name="account_setup_outgoing_smtp_server_label">Serveur SMTP</string>
-    <string name="account_setup_security_policies_required_fmt">The server %s requires that you allow it to remotely control some security features of your Android device. Do you want to finish setting up this account?</string>
+    <string name="account_setup_security_policies_required_fmt">Le serveur %s exige que vous lui permettre de contrôler à distance certaines fonctionnalités de sécurité de votre appareil Android. Voulez-vous terminer la configuration de ce compte?</string>
     <string name="account_setup_security_required_title">Administration de la sécurité à distance</string>
     <string name="account_setup_server_acc_manager_title">Comptes</string>
-    <string name="account_setup_username_password_toast">Enter a valid email address and password.</string>
+    <string name="account_setup_username_password_toast">Entrez une adresse e-mail et mot de passe.</string>
     <string name="account_sync_off">La synchronisation du compte est désactivée.</string>
     <string name="account_waiting_for_folders_msg">Chargement des dossiers…</string>
     <string name="actionbar_large_unread_count">%1$d+ non lu(s)</string>
