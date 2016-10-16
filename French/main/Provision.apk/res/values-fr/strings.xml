@@ -17,13 +17,13 @@ Voir la politique de confidentialité du clavier sélectionné."</string>
     <string name="other_settings_location">Localisation</string>
     <string name="other_settings_location_summary">"Permettre aux applications d'accéder à votre localisation"</string>
     <string name="other_settings_user_experience">"Programme d'expérience utilisateur"</string>
-    <string name="other_settings_user_experience_summary">Help improve our products and services by sending anonymous usage data.</string>
+    <string name="other_settings_user_experience_summary">"Aider à améliorer nos produits et services en envoyant des données d'utilisation anonymes."</string>
     <string name="other_settings_upload_debug_log_title">Envoyer automatiquement les données de diagnostic</string>
-    <string name="other_settings_upload_debug_log_summary">The information we collect will be used to locate and analyze the problems in the system and may contain personal information. No data will be used to identify you personally.</string>
+    <string name="other_settings_upload_debug_log_summary">"Les informations que nous recueillons seront utilisées pour localiser et analyser les problèmes dans le système et peut contenir des renseignements personnels. Aucune donnée ne sera utilisée pour vous identifier personnellement."</string>
     <string name="other_settings_auto_update">Mettre à jour automatiquement</string>
     <string name="other_settings_auto_update_summary">MIUI sélectionnera le temps de veille pour télécharger et installer les mises à jour.</string>
     <string name="other_settings_mifg_online_content">"Carrousel de fond d'écran"</string>
-    <string name="other_settings_mifg_online_content_summary">Get new wallpapers delivered to your Lock screen regularly.</string>
+    <string name="other_settings_mifg_online_content_summary">"Obtenez régulièrement de nouveaux fonds d'écran pour votre écran de verrouillage."</string>
     <string name="back">Retour</string>
     <string name="next">Suivant</string>
     <string name="skip_underline">Passer cette étape</string>
