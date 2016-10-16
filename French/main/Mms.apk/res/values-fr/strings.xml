@@ -202,10 +202,10 @@ Dernière tentative : %s."</string>
     <string name="sms_full_body">"Message entrant rejeté : Il n'y a pas assez d'espace sur cet appareil."</string>
     <string name="sms_rejected_title">SMS rejeté</string>
     <string name="sms_rejected_body">Un SMS entrant a été rejeté.</string>
-    <string name="type_audio">audio</string>
+    <string name="type_audio">Audio</string>
     <string name="type_picture">Image</string>
-    <string name="type_video">vidéo</string>
-    <string name="type_attachment">pièce jointe</string>
+    <string name="type_video">Vidéo</string>
+    <string name="type_attachment">Pièce jointe</string>
     <string name="confirm">Ok</string>
     <string name="message_send_read_report">Le rapport de lecture sera envoyé.</string>
     <string name="message_queued">"Impossible d'envoyer le message maintenant. Il sera envoyé dès que le service sera disponible."</string>
