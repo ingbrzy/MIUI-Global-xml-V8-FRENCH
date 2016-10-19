@@ -56,7 +56,7 @@
   <string name="alert_msg_vip_song_for_stream">Achetez un Pack Premium pour écouter cette piste.</string>
   <string name="alert_msg_vip_songs_for_download">Achetez un Pack Premium pour télécharger toutes les pistes.</string>
   <string name="alert_msg_vip_songs_for_download_upgrade">Vous avez utilisé votre quota de téléchargement pour ce mois. Mettez à jour votre Pack Premium pour en télécharger davantage.</string>
-  <string name="alert_msg_vip_songs_for_stream">Some songs can only be streamed with Premium Song Pack.</string>
+  <string name="alert_msg_vip_songs_for_stream">Achetez un Pack Premium pour écouter ces pistes.</string>
   <string name="alert_title_vip_song">Pistes Premium</string>
   <string name="alert_title_vip_songs">Pack Premium</string>
   <string name="alert_title_vip_songs_upgrade">Mettre à jour votre Pack Premium</string>
