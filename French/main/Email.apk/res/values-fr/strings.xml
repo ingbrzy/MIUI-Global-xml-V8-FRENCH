@@ -237,9 +237,9 @@
     <string name="compose_send">Envoyer</string>
     <string name="compose_sent">E-mail envoyé</string>
     <string name="confirm">OK</string>
-    <string name="confirm_before_delete">Confirm before deleting</string>
+    <string name="confirm_before_delete">Confirmer avant suppression</string>
     <string name="confirm_before_delete_keywords">confirm before deleting;delete confirm</string>
-    <string name="confirm_before_send">Confirm before sending</string>
+    <string name="confirm_before_send">Confirmer avant envoi</string>
     <string name="confirm_before_send_keywords">confirm before sending;send confirm</string>
     <string name="confirm_delete_conversation_title">Supprimer</string>
     <string name="confirm_discard_text">Supprimer ce message ?</string>
@@ -303,7 +303,7 @@
     <string name="default_signature">Envoyé depuis mon Téléphone Mi</string>
     <string name="del_account_questionnair_hint">Pourriez-vous nous dire pourquoi vous voulez supprimer ce compte ?</string>
     <string name="delete">Supprimer</string>
-    <string name="delete_message_flow">Delete message flow</string>
+    <string name="delete_message_flow">Supprimer les messages</string>
     <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>
     <string name="deleted">Supprimé</string>
     <string name="device_activity_btn_str">Activer</string>
@@ -318,7 +318,7 @@
     <string name="dialog_gmail_proxy_server_is_error">Erreur de serveur proxy Gmail.</string>
     <string name="dialog_insufficient_space_on_external">Impossible de télécharger la pièce jointe. Espace insuffisant sur le stockage externe.</string>
     <string name="dialog_insufficient_space_on_internal">Espace disque insuffisant sur le stockage interne.</string>
-    <string name="disable_admin_warning">"WARNING: Deactivating the Email app's permission to administer your device will delete all email accounts that require it, along with their messages, contacts, calendar events, and other data."</string>
+    <string name="disable_admin_warning">"ATTENTION : Désactiver l'autorisation de l'application Email d'aministrer votre appareil supprimera tous les comptes mails qui la nécessitent, ainsi que les messages, contacts, événements, et autres données liées."</string>
     <string name="discard">Effacer</string>
     <string name="discard_drafts">Effacer les brouillons</string>
     <string name="dismiss_tip_hover_text">"Désactiver l'astuce"</string>
@@ -363,7 +363,7 @@
         Cet événement a été annulé
         pour le :
 %s "</string>
-    <string name="exception_updated">The details of this event have been changed for: %s</string>
+    <string name="exception_updated">Les détails de cet événement ont été modifié pour : %s</string>
     <string name="exchange_name">Entreprise</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="expand_recipient_details">Afficher les détails du destinataire</string>
@@ -612,12 +612,12 @@
     <string name="outbox_no_mails">Vide</string>
     <string name="parase_setup_data">Obtention de donnée…</string>
     <string name="password_expire_warning_content_title">Expiration du mot de passe</string>
-    <string name="password_expire_warning_dialog_content_fmt">You need to change your lock screen PIN or password soon, or the data for %s will be erased. Do you want to change it now?</string>
+    <string name="password_expire_warning_dialog_content_fmt">"Vous devez modifier bientôt votre code Pin ou mot de passe de l'écran de verrouillage, ou les données de %s seront effacées. Voulez-vous le modifier maintenant ?"</string>
     <string name="password_expire_warning_dialog_title">Expiration mot de passe de verrouillage</string>
     <string name="password_expire_warning_ticker_fmt">"\"%s\" exige que le code PIN ou mot de passe 
             de l'écran de verrouillage soit modifié."</string>
     <string name="password_expired_content_title">Mot de passe verrou. expiré</string>
-    <string name="password_expired_dialog_content_fmt">The data for %s is being erased from your device. You can restore it by changing your lock screen PIN or password. Change it now?</string>
+    <string name="password_expired_dialog_content_fmt">"Les données de %s sont en cours de suppression. Vous pouvez les restaurer en modifiant votre code PIN ou votre mot de passe d'écran de verrouillage. Le modifier maintenant ?"</string>
     <string name="password_expired_dialog_title">"Le mot de passe de verrouillage de l'écran a expiré"</string>
     <string name="password_expired_ticker">"Le code PIN ou le mot de passe de verrouillage d'écran a expiré."</string>
     <string name="path_about_account_setting">Mail/Settings/Accounts</string>
@@ -678,12 +678,12 @@
     <string name="preference_sender_image_description">"Afficher la photo de profile à côté du nom de l'expéditeur dans la Boîte de réception"</string>
     <string name="preference_sender_image_title">Afficher les photos de profil dans la boîte de réception</string>
     <string name="preferences_signature_dialog_title">Signature</string>
-    <string name="preferences_signature_summary_not_set">Not set</string>
+    <string name="preferences_signature_summary_not_set">Non défini</string>
     <string name="preferences_signature_title">Signature</string>
     <string name="preview_attachment">Aperçu</string>
     <string name="previous_action">Retour</string>
     <string name="print">Imprimer</string>
-    <string name="prompt_title">Prompt</string>
+    <string name="prompt_title">Demander</string>
     <string name="pull_to_refresh">Tirer vers le bas pour actualiser</string>
     <string name="pull_up_to_load_more">Tirez vers le haut pour charger plus</string>
     <string name="push_wps_better_confirm_download">Télécharger</string>
@@ -710,10 +710,10 @@
     <string name="quick_3">Je vais le lire plus tard et revenir vers vous.</string>
     <string name="quick_4">Nous allons fixer un rendez-vous pour en discuter.</string>
     <string name="quick_reply_dialog_title">Choisir une réponse</string>
-    <string name="quick_reply_hint">Reply to %1$d people</string>
+    <string name="quick_reply_hint">Répondre à %1$d personnes</string>
     <string name="quick_reply_hint_bcc">(En CCI)</string>
     <string name="quick_reply_hint_cc">(En CC)</string>
-    <string name="quick_reply_hint_reply_only_from">Quick reply (sender only)</string>
+    <string name="quick_reply_hint_reply_only_from">Réponse rapide (expéditeur seul)</string>
     <string name="quick_responses_empty_view">Aucune réponse rapide</string>
     <string name="quoted_text">Inclure le texte cité</string>
     <string name="quoted_text_label">Citer le texte</string>
@@ -755,20 +755,20 @@
     <string name="search_tabs_name_sender">Expéditeur</string>
     <string name="search_tabs_name_subject">Objet</string>
     <string name="search_txt_size_limit_prompt">Entrez plus de 3 caractères</string>
-    <string name="security_changed_ticker_fmt">Account \"%s\" changed its security settings; no user action is required.</string>
-    <string name="security_needed_ticker_fmt">Account \"%s\" requires security settings update.</string>
+    <string name="security_changed_ticker_fmt">Le compte \"%s\" a modifié ses paramètres de sécurité ; aucune action requise.</string>
+    <string name="security_needed_ticker_fmt">Le compte \"%s\" requiert une modification de ses paramètres de sécurité.</string>
     <string name="security_notification_content_change_title">"Les politiques de sécurité ont 
          changé"</string>
     <string name="security_notification_content_unsupported_title">"Les politiques de sécurité ne peuvent être
          respectées"</string>
     <string name="security_notification_content_update_title">Mise à jour de sécurité requise</string>
-    <string name="security_unsupported_ticker_fmt">"Account \"%s\" can't be synced due to security requirements."</string>
+    <string name="security_unsupported_ticker_fmt">"Le compte \"%s\" ne peut être synchronisé à cause de la sécurité requise."</string>
     <string name="select_attachment_type">Choisir la pièce jointe depuis</string>
     <string name="select_no_file">Aucune pièce jointe sélectionnée</string>
     <string name="selected_lable">Sélectionné</string>
     <string name="send">Envoyer</string>
     <string name="send_failed">"Le message n'a pas été envoyé."</string>
-    <string name="send_feed_back">Send feedback</string>
+    <string name="send_feed_back">Envoyer votre avis</string>
     <string name="send_feed_back_keywords">send feedback</string>
     <string name="sender_whitelist_cleared">Les photos ne seront pas affichés automatiquement.</string>
     <string name="senders_split_token">, </string>
@@ -777,11 +777,11 @@
     <string name="sent_folder_selection_title">Sélectionner le dossier des éléments envoyés du serveur pour %s</string>
     <string name="ser_resp_err_map_certificate_validator_err">"\"Échec de la validation du certificat du serveur
 \u0009 (Vérifiez si le réglage est sur 'temps de synchronisation automatique')\""</string>
-    <string name="ser_resp_err_map_landing_more_failure">Too many unsuccessful sign in attempts</string>
-    <string name="ser_resp_err_map_landing_too_frequently">Too many sign in attempts</string>
-    <string name="ser_resp_err_map_mailbox_locked">Email account is password protected</string>
-    <string name="ser_resp_err_map_mailbox_not_open">No email accounts</string>
-    <string name="ser_resp_err_map_max_connections">Too many connection attempts</string>
+    <string name="ser_resp_err_map_landing_more_failure">Trop de tentatives de connexion échouées</string>
+    <string name="ser_resp_err_map_landing_too_frequently">Trop de tentatives de connexion</string>
+    <string name="ser_resp_err_map_mailbox_locked">Le compte mail est protégé par un mot de passe</string>
+    <string name="ser_resp_err_map_mailbox_not_open">Aucun compte mail</string>
+    <string name="ser_resp_err_map_max_connections">Trop de tentatives de connexion</string>
     <string name="ser_resp_err_map_nouser">"L'utilisateur n'existe pas"</string>
     <string name="ser_resp_err_map_or">%1$s ou %2$s</string>
     <string name="ser_resp_err_map_pserr">"Nom d'utilisateur ou mot de passe incorrect"</string>
@@ -854,8 +854,8 @@
     <string name="upload_log_success">Envoyé avec succès, nous reviendrons bientôt vers vous.</string>
     <string name="upload_log_title">Envoyer les journaux pour nous aider à améliorer WPS Mail</string>
     <string name="upload_log_yes">Envoyer</string>
-    <string name="upload_logs">Upload logs</string>
-    <string name="upload_logs_keywords">upload logs</string>
+    <string name="upload_logs">Envoyer les journaux</string>
+    <string name="upload_logs_keywords">Envoyer les journaux</string>
     <string name="uploading_logs">Un instant…</string>
     <string name="validation_failed_prompt">Impossible de vérifier le compte, vérifiez les paramètres serveur de %s</string>
     <string name="via_domain">via %1$s</string>
