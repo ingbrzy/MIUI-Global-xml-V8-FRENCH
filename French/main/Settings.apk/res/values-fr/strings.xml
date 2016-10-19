@@ -4508,7 +4508,7 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="uninstall_dlg_msg">"La désinstallation va supprimer toutes les données de l'application."</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Les applications clonées correspondantes seront supprimées avec les données des applications.</string>
     <string name="mqsas_settings_category">MQSAS</string>
-    <string name="record_anr_in_background">Enregistrer les cas ARN (Application not Responding) en arrière-plan</string>
+    <string name="record_anr_in_background">Enregistrer les cas ANR (Application not Responding) en arrière-plan</string>
     <string name="anr_record_interval_title">Enregistrer les intervalles ANR</string>
     <string name="open_anr_debug">Activer le débogage ANR</string>
     <string name="keyguard_shortcut_title">"Raccourcis de l'Écran d'accueil"</string>
