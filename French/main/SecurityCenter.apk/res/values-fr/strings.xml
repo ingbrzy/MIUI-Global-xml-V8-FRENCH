@@ -163,7 +163,6 @@ Heures creuses : %1$s | %2$s utilisé"</string>
     <string name="datausage_ignore_app_list_count">Données de %d applications sont ignorées</string>
     <string name="free_traffic_settings">"Paramètres de l'utilisation de données en heures creuses"</string>
     <string name="free_time_traffic">"Limite d'utilisation de données en heures creuses"</string>
-    <string name="power_save_on_time_default_time_na">00:00</string>
     <string name="power_save_on_time_start_time_summary_na">De</string>
     <string name="power_save_on_time_end_time_summary_na">À</string>
     <string name="manual_input_traffic">"Ajuster l'utilisation des données"</string>
@@ -491,9 +490,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="tc_diagnostic_onekey_repair_botton">Corriger</string>
     <string name="tc_diagnostic_repair_and_continue">Corriger et continuer</string>
     <string name="tc_diagnostic_upload_button">Rapporter</string>
-    <string name="tc_diagnostic_fragment_default">"À propos des diagnostiques
-1. L'appareil se connectera au réseau de l'opérateur, envoyera un message gratuit et attendra la réponse de l'opérateur. Ceci pourrait prendre jusqu'à 5 minutes.
-2. Vous pouvez quitter cette page pendant les diagnostiques, cela se fera en arrière plan."</string>
     <string name="sim_location_diagnostic">Diagnostics de localisation</string>
     <string name="operator_diagnostic">Diagnostiques opérateur</string>
     <string name="brand_diagnostic">"Diagnostiques de l'opérateur"</string>
@@ -894,7 +890,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="memory_check_content">Libéré %s</string>
     <string name="memory_check_content_none">Vide</string>
     <string name="system_check_content_none">Sûr</string>
-    <string name="cache_check_content_none">@string/memory_check_content_none</string>
     <string name="system_header_title">Vider %1$d processus pour libérer %2$s de mémoire</string>
     <string name="cache_header_title">"Vider %1$d fichiers en cache pour libérer %2$s d'espace"</string>
     <string name="activity_title_virus">Virus</string>
@@ -1332,7 +1327,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="card_main_monthreport_action">Afficher</string>
     <string name="card_main_speeddetail_title">Vitesse de connexion</string>
     <string name="card_main_speeddetailt_summary">Afficher individuellement la vitesse de connexion des applications</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Tester le réseau</string>
     <string name="card_main_netcheck_summary">Tester la connexion pour des problèmes de réseau</string>
     <string name="card_main_netcheck_action">Test</string>
@@ -1616,13 +1610,9 @@ Assurez-vous de connaître l'origine de cet appareil, et contactez un centre de 
     <string name="sys_app_prot_cracked_confirm">"C'est compris"</string>
     <string name="sys_app_prot_cracked_login">Se connecter avec un Compte Mi</string>
     <string name="confirmSecondSpacePassword">Confirmer le mot de passe du Second Espace</string>
-    <string name="power_center_auto_shutdown_summary_default">Allumer ou éteindre votre appareil à une heure programmée</string>
-    <string name="power_center_custom_summary_default">"Améliorer l'autonomie de la batterie avec un profil personnalisé"</string>
     <string name="power_center_low_battery_title">Économiser la batterie</string>
-    <string name="power_center_low_battery_summary_default">Changer de profil quand la batterie est faible</string>
     <string name="power_center_low_battery_summary_dynamic">À %1$d%%, activer le profil %2$s</string>
     <string name="power_center_on_time_title">Planifier le changement de profil</string>
-    <string name="power_center_on_time_summary_default">"Changer le profil de gestion d'énergie à l'heure programmée"</string>
     <string name="power_center_on_time_summary_dynamic">Entre %1$s - %2$s, activer le profil %3$s</string>
     <string name="power_chooser_title">"Profils de gestion d'énergie"</string>
     <string name="power_chooser_check_box_title">Sélectionnez un profil</string>
@@ -1701,7 +1691,6 @@ Assurez-vous de connaître l'origine de cet appareil, et contactez un centre de 
     <string name="power_dialog_screen_brightness_automatic_on">"La luminosité de l'écran variera selon l'environnement"</string>
     <string name="power_dialog_delete_dialog_title">Supprimer le profil</string>
     <string name="power_dialog_delete_dialog_delete">Supprimer ce profil de batterie ?</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_default">"Suppression impossible : profil en cours d'utilisation."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">Suppression impossible : votre appareil est réglé pour activer cette configuration quand la batterie est faible, changez vos réglages de batterie avant de supprimer ce profil.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Suppression impossible : votre appareil est réglé pour activer ce profil, changez vos réglages de batterie avant de supprimer ce profil.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Suppression impossible: ce profil peut être en cours d'utilisation, changez vos réglages de batterie avant de supprimer ce profil."</string>

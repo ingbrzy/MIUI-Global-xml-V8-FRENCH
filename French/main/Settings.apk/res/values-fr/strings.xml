@@ -1279,8 +1279,6 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
     <string name="terms_title">"Conditions d'utilisation"</string>
     <string name="webview_license_title">Licence WebView du système</string>
     <string name="wallpaper_attributions">"Fonds d'écran"</string>
-    <string name="wallpaper_attributions_values">"Fournisseurs d'images satellite :
-© CNES/Astrium, DigitalGlobe, Bluesky 2014"</string>
     <string name="settings_license_activity_title">Licences open source</string>
     <string name="settings_license_activity_unavailable">Un problème est survenu lors du chargement des licences.</string>
     <string name="settings_license_activity_loading">Chargement...</string>
