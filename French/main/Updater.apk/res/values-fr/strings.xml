@@ -176,9 +176,6 @@ http://zhushou.xiaomi.com"</string>
     <string name="confirm_local_package_wipe_title">Supprimer les données ?</string>
     <string name="confirm_local_package_wipe_msg">Vos données personnelles seront supprimées. Assurez-vous de sauvegarder tout ce dont vous avez besoin avant de procéder.</string>
     <string name="confirm_local_package_wipe_btn">Supprimer et mettre à jour</string>
-    <string name="dialog_reboot_title">Mise à jour système</string>
-    <string name="dialog_reboot_message">MIUI sera mise à jour. Ce processus pourra durer 5 à 25 minutes. Veuillez laisser votre appareil en marche ni le redémarrer pendant sa mise à jour.</string>
-    <string name="dialog_reboot_yes">Mise à jour</string>
     <string name="delay_update_text">Mettre à jour plus tard</string>
     <string name="dialog_delay_update_title">Mise à jour disponible</string>
     <string name="dialog_delay_update_msg">Votre appareil va redémarrer pour appliquer les mises à jour et la batterie doit avoir au moins 30% de charge</string>
@@ -279,4 +276,7 @@ Impossible d'envoyer le retour"</string>
     <string name="sogou_uninstall_msg">"Le clavier Sogou (Édition Mi) n'est plus compatible avec MIUI 7. Changez de clavier ou mettez à jour vers une nouvelle version de Sogou."</string>
     <string name="sogou_uninstall_positive_button">Changement de claviers</string>
     <string name="sogou_uninstall_negative_button">Mettre à jour Sogou</string>
+    <string name="dialog_reboot_title">Mise à jour système</string>
+    <string name="dialog_reboot_message">MIUI sera mise à jour. Ce processus pourra durer 5 à 25 minutes. Veuillez laisser votre appareil en marche ni le redémarrer pendant sa mise à jour.</string>
+    <string name="dialog_reboot_yes">Mise à jour</string>
 </resources>

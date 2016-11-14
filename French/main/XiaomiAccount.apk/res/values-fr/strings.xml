@@ -156,17 +156,9 @@ Pour activer votre compte, suivez le
     <string name="app_name">Compte Mi</string>
     <string name="account">Compte</string>
     <string name="logout_failed">Impossible de se déconnecter</string>
-    <string name="turning_off_find_device">"Désactivation de Localiser l'appareil…"</string>
     <string name="turn_off_find_device_failed_title">"Impossible de désactiver Localiser l'appareil"</string>
     <string name="no_response_retry">Pas de réponse, veuillez réessayer.</string>
-    <string name="alert_title_remove_account">Retirer le compte ?</string>
-    <string name="remove_account_notice">Que souhaitez vous faire avec les messages, contacts et autres données qui ont été synchronisées depuis votre compte Mi ?</string>
-    <string name="data_keep_in_device">"Conserver sur l'appareil"</string>
-    <string name="data_wipe_from_device">"Supprimer de l'appareil"</string>
     <string name="removing_account">Suppression du compte…</string>
-    <string name="wipe_data_dialog_title">"Certains éléments n'ont pas été synchronisés."</string>
-    <string name="wipe_data_dialog_msg">%s sera supprimé si vous continuez.</string>
-    <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="delete_bank_card_title">Supprimer votre carte bancaire</string>
     <string name="delete_bank_card_message">Votre carte bancaire sera supprimée pour des raisons de sécurité une fois que vous vous déconnecté</string>
     <string name="bind_settings">Comptes</string>
@@ -329,7 +321,6 @@ Assurez-vous de vous rappeler des réponses à toutes ces questions."</string>
     <string name="device_name">"Nom de l'appareil"</string>
     <string name="cta_declaration_title">"Conditions Générales d'Utilisation"</string>
     <string name="cta_declaration_message">"Pour se connecter à votre Compte Mi, vous devez vous connecter à internet, localiser votre appareil et activez Mi Cloud. Pour sauvegarder vos données personnelles, cette application doit accéder à vos contacts, SMS et MMS, historique des appels, et enregistrements. Nous n'utiliserons pas ces données pour des fins commerciales ou les partager avec parties tierces. Après la connexion à votre Compte Mi, Mi VIP et le Service de numéro se connecteront à internet."</string>
-    <string name="cta_declaration_ignore">Ne plus afficher</string>
     <string name="cta_declaration_agree_and_continue">Accepter</string>
     <string name="cta_declaration_exit">Quitter</string>
     <string name="find_device_access_denied">"Impossible d'obtenir les états, accès rejeté"</string>
@@ -353,7 +344,7 @@ Assurez-vous de vous rappeler des réponses à toutes ces questions."</string>
     <string name="notify_network_restricted_content_hidden_state">"L'activité en arrière-plan du compte Mi est restreinte. Appuyer pour autoriser."</string>
     <string name="notify_network_restricted_content_bg_network">"Le compte Mi est restreint d'accéder à internet. Appuyer pour autoriser."</string>
     <string name="notify_network_restricted_content_mobile_network">"Le compte Mi est restreint d'accéder à internet. Appuyer pour autoriser."</string>
-    <string name="login_guard_prompt">Numéro de téléphone de vérification requis lorsque vous vous connectez à votre compte Mi sur un périphérique inconnu ou dans une application inconnue pour la première fois.</string>
+    <string name="login_guard_prompt">Numéro de téléphone de vérification est requis lorsque vous vous connectez à votre compte Mi sur un périphérique inconnu ou dans une application inconnue pour la première fois.</string>
     <string name="verified_devices">Appareils vérifiés</string>
     <string name="verified_apps">Applications vérifiées</string>
     <string name="trusted_browsers">Navigateurs fiables</string>
@@ -377,7 +368,11 @@ Assurez-vous de vous rappeler des réponses à toutes ces questions."</string>
  Si vous avez oublié votre mot de passe, rendez-vous sur id.mi.com pour le réinitialiser.
  Si vous n'arrivez pas à déverrouiller l'appareil, rendez-vous sur i.mi.com pour désactiver Trouver l'appareil
  Veuillez communiquer ce numéro de déverrouillage au service client : %s"</string>
-    <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
+    <string name="io_error_title">Confirmez votre réseau</string>
+    <string name="find_device_display_id">Débloquer un numéro : %s</string>
     <string name="login_check_find_device_failed_title">"Impossible de vérifier l'état de Localiser l'appareil"</string>
     <string name="login_find_device_bind">"Votre appareil est associé avec un Compte Mi existant(%s). Connectez-vous à internet pour vérifier l'appareil."</string>
+    <string name="miui_provision_find_status_text">"Cet appareil est associé à un compte Mi existant (%1$s), veuillez entrer le mot de passe pour vérifier l'appareil.
+(Numéro de déverrouillage : %2$s)"</string>
+    <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
 </resources>

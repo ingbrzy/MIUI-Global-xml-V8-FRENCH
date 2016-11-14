@@ -29,6 +29,7 @@
     <string name="view_indexes_item_today">"Aujourd'hui"</string>
     <string name="view_indexes_item_tommorrow">Demain</string>
     <string name="activity_main_update_time">Mis à jour %1$s</string>
+    <string name="activity_main_update_time_expire">Données expirées</string>
     <string name="activity_main_update_time_right_now">"à l'instant"</string>
     <string name="refresh_fail">Impossible de se connecter au réseau</string>
     <string name="activity_find_city_dialog_cancel">Annuler</string>
@@ -124,8 +125,6 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
     <string name="ads_extension" />
-    <string name="close">Fermer</string>
-    <string name="hide_topic">Masquer</string>
     <string name="install">Installer</string>
     <string name="open">Ouvrir</string>
     <string name="daily_forecast_detail_date">d/M</string>
@@ -163,5 +162,6 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="unit_wind">Unités de la vitesse du vent</string>
     <string name="set">Paramètres</string>
     <string name="global_aqi">IQA : %1$s %2$s</string>
-    <string name="common_loading_text">Just a sec…</string>
+    <string name="common_loading_text">Un instant…</string>
+    <string name="change_alert">Vérifiez votre connexion réseau et réessayez</string>
 </resources>

@@ -60,6 +60,22 @@
         <item quantity="other">%d éléments peuvent être optimisés</item>
         <item quantity="one">%d élément peut être optimisé</item>
     </plurals>
+    <plurals name="people">
+        <item quantity="other">Téléchargé par %1$d personnes</item>
+        <item quantity="one">Téléchargé par %1$d personne</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Téléchargé par %1$d personnes</item>
+        <item quantity="one">Téléchargé par %1$d personne</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Téléchargé par %1$d personnes</item>
+        <item quantity="one">Téléchargé par %1$d personne</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d vues</item>
+        <item quantity="one">%1$d vue</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d éléments sécurisés</item>
         <item quantity="one">%1$d élément sécurisé</item>
@@ -95,6 +111,22 @@
     <plurals name="summary_app_update">
         <item quantity="other">Mises à jour disponibles pour %d applications.</item>
         <item quantity="one">Mise à jour disponible pour %d application.</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d risques,</item>
+        <item quantity="one">%d risque,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d chevaux de Troie</item>
+        <item quantity="one">%d cheval de Troie</item>
+    </plurals>
+    <plurals name="hints_scan_result_virus_number">
+        <item quantity="other">%d risques</item>
+        <item quantity="one">%d risque</item>
+    </plurals>
+    <plurals name="hints_scan_result_danger">
+        <item quantity="other">%d risques trouvés, corriger maintenant</item>
+        <item quantity="one">%d risque trouvé, corriger maintenant</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d applications contiennent des risques de confidentialité</item>
@@ -139,6 +171,10 @@
     <plurals name="found_apps_title">
         <item quantity="other">%d applications trouvées</item>
         <item quantity="one">%d application trouvée</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">1 item</item>
     </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s risques de paiement</item>

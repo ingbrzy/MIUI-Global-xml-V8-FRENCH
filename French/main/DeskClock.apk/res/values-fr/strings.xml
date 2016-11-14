@@ -27,8 +27,12 @@
     <string name="alarm_disabled">Désactivé</string>
     <string name="alarm_ascending_mode_title">Volume croissant</string>
     <string name="alarm_ascending_mode_summary">"Le volume de l'alarme augmente progressivement"</string>
+    <string name="setting_alarm_arriving_title">"Notification avant le déclenchement de l'alarme"</string>
+    <string name="setting_alarm_arriving_summary">"Envoyer une notification avant le déclenchement de l'alarme"</string>
     <string name="close_alarm">"Fermer l'alarme"</string>
     <string name="timer_notify_text">Répéter ou annuler la minuterie.</string>
+    <string name="upcoming_alarm">Alarme entrante</string>
+    <string name="upcoming_alarm_hint">"Vous pouvez fermer cette alarme à l'avance"</string>
     <string name="start">Départ</string>
     <string name="pause">Pause</string>
     <string name="reset">RAZ</string>

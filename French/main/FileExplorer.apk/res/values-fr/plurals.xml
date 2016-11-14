@@ -120,21 +120,9 @@
         <item quantity="other">vidéos</item>
         <item quantity="one">vidéo</item>
     </plurals>
-    <plurals name="user_follow_me_items">
-        <item quantity="other">abonnés</item>
-        <item quantity="one">abonné</item>
-    </plurals>
-    <plurals name="number_of_comment">
-        <item quantity="other">%1$s commentaires</item>
-        <item quantity="one">%1$s commentaire</item>
-    </plurals>
     <plurals name="video_count">
         <item quantity="other">%1$s vidéos</item>
         <item quantity="one">%1$s vidéo</item>
-    </plurals>
-    <plurals name="follow_count">
-        <item quantity="other">%1$s abonnés</item>
-        <item quantity="one">%1$s abonné</item>
     </plurals>
     <plurals name="number_of_comment_flow">
         <item quantity="other">%1$s commentaires</item>
@@ -143,5 +131,25 @@
     <plurals name="user_sign_limt">
         <item quantity="other">Vous pouvez entrer %d caractères</item>
         <item quantity="one">Vous pouvez entrer %d caractère</item>
+    </plurals>
+    <plurals name="video_items">
+        <item quantity="other"> %1$d éléments</item>
+        <item quantity="one"> %1$d élément</item>
+    </plurals>
+    <plurals name="original_user_days">
+        <item quantity="other">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> jours</item>
+        <item quantity="one">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> jour</item>
+    </plurals>
+    <plurals name="original_user_play_1">
+        <item quantity="other">Vous avez téléchargé &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> vidéos,</item>
+        <item quantity="one">Vous avez téléchargé &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> vidéos,</item>
+    </plurals>
+    <plurals name="original_user_play_2">
+        <item quantity="other">Vous avez fait &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> personnes heureuses !</item>
+        <item quantity="one">Vous avez fait &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> personne heureuse !</item>
+    </plurals>
+    <plurals name="original_user_fans">
+        <item quantity="other">Vous avez &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> follower!</item>
+        <item quantity="one">Vous avez &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> follower!</item>
     </plurals>
 </resources>

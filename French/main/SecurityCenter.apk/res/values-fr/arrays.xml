@@ -76,6 +76,14 @@
         <item>"Lorsque l'appareil est verrouillé ou en sortant d'une application"</item>
         <item>"Lorsque l'appareil est verrouillé ou 1 minutes après la sortie d'une application"</item>
     </string-array>
+    <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="long_add_menu">
+        <item>Ajouter aux exceptions</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Après 1 minute</item>
         <item>Après 5 minutes</item>
@@ -117,5 +125,10 @@
         <item>Jamais</item>
         <item>Vibrer en mode silencieux</item>
         <item>Toujours</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

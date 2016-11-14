@@ -253,10 +253,12 @@
     <string name="st_antispam_title_anoy_incoming">"Appels d'inconnus"</string>
     <string name="st_antispam_title_null_incoming">Numéros inconnus</string>
     <string name="st_antispam_title_service_sms">Service des notifications</string>
-    <string name="st_summary_keywords_blacklist">Add keywords to block messages</string>
-    <string name="st_summary_blacklist_numbers">Block calls and massages using numbers and area codes</string>
-    <string name="st_summary_whitelist_numbers">Allow calls and messages from specific numbers and areas</string>
-    <string name="st_summary_special_numbers">Block flagged phone numbers</string>
+    <string name="st_summary_keywords_blacklist">Ajoutez des mots clés pour bloquer des messages</string>
+    <string name="st_summary_blacklist_numbers">"Bloquez des appels et messages en utilisant des numéros et codes d'indicatifs"</string>
+    <string name="st_summary_whitelist_numbers">Autorisez des appels et messages depuis des numéros et indicatifs spécifiques</string>
+    <string name="st_summary_blacklist_numbers_international">Block calls and massages using numbers</string>
+    <string name="st_summary_whitelist_numbers_international">Autorisez des appels et messages depuis des numéros spécifiques</string>
+    <string name="st_summary_special_numbers">Bloquez des numéros de téléphone signalés</string>
     <string name="st_antispam_mode_smart_sum">"Bloquer les numéros que vous avez définis et ceux signalés par d'autres utilisateurs"</string>
     <string name="st_antispam_mode_blacklist_sum">Bloquer les appels et SMS des numéros que vous avez ajouté manuellement à la liste noire</string>
     <string name="st_antispam_mode_only_contacts_sum">Autoriser uniquement les appels et les messages des contacts</string>
@@ -301,7 +303,7 @@
     <string name="mark_agent_block_large">Agences</string>
     <string name="mark_sell_block_large">Télévendeurs</string>
     <string name="mark_harass_block_large">Nuisances</string>
-    <string name="mark_courier_block_large">Service de courrier</string>
+    <string name="mark_courier_block_large">Services de courrier</string>
     <string name="mark_number_info">"Notez que parfois ces appels peuvent être utiles (par exemple quand vous recherchez un logement). Bloquez uniquement les numéros à partir desquels vous ne voulez jamais recevoir d'appel."</string>
     <string name="dlg_title_not_open_stranger_identify">Idenditier comme étrange</string>
     <string name="dlg_message_not_open_stranger_identify">Pour activer cette fonctionnalité, allez dans Paramètres > Téléphone.</string>
@@ -319,7 +321,7 @@
     <string name="mark_agent_time_setting">Bloquer les numéros qui ont été signalés comme agences un certain nombre de fois</string>
     <string name="mark_sell_time_setting">Bloquer les numéros qui ont été rapportés comme télé-vendeurs un certain nombre de fois</string>
     <string name="mark_harass_time_setting">Bloquer les numéros qui ont été signalés pour nuisances un certain nombre de fois</string>
-    <string name="mark_courier_time_setting">Bloquer les numéros qui ont été signalés pour les services de courrier un certain nombre de fois</string>
+    <string name="mark_courier_time_setting">Bloquez les numéros qui ont été signalés pour les services de courrier un certain nombre de fois</string>
     <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">Signaler un numéro</string>
     <string name="sms_smart_engine_update">Mettre à jour automatiquement le filtre des SMS</string>
