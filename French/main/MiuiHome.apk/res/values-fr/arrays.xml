@@ -51,13 +51,4 @@
         <item>"Poussière dans l'air"</item>
         <item>Brume</item>
     </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Ranger</item>
-        <item>Widgets</item>
-        <item>"Fond d'écran"</item>
-        <item>Transitions</item>
-    </string-array>
-    <string-array name="quality_business_devices">
-        <item>Lithium</item>
-    </string-array>
 </resources>
