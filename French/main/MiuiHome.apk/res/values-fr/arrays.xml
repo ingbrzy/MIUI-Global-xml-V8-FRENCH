@@ -22,7 +22,7 @@
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Par défaut</item>
-        <item>Elégant</item>
+        <item>Classique</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Ensoleillé</item>
@@ -50,5 +50,12 @@
         <item>Grêle</item>
         <item>"Poussière dans l'air"</item>
         <item>Brume</item>
+    </string-array>
+        <string-array name="editing_mode_entries">
+        <item>Thème</item>
+        <item>Widgets</item>
+        <item>"Fonds d'écran"</item>
+        <item>Effets</item>
+        <item>Agencement</item>
     </string-array>
 </resources>
