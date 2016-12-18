@@ -79,7 +79,7 @@ Pour activer votre compte, suivez le
     <string name="passport_quick_login_step2_title">Vérification en 2 étapes</string>
     <string name="passport_quick_login_dialog_title">Vérifier le mot de passe</string>
     <string name="passport_quick_login_dialog_step2_title">Vérification en 2 étapes</string>
-    <string name="passport_delete_account">Se Déconnecter</string>
+    <string name="passport_delete_account">Se déconnecter</string>
     <string name="passport_vcode_notification_title">"La vérification n'est pas terminée"</string>
     <string name="passport_account_name">Compte : %1$s</string>
     <string name="passport_account_hint_text">Adresse email ou ID du compte Mi</string>
