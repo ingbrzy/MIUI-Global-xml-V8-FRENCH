@@ -54,7 +54,7 @@
     <string name="sunrise">Lever du soleil</string>
     <string name="sunset">Coucher de soleil</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s plus tard.</string>
-    <string name="daily_forcast_drawer_on_top">Prévisions de %1$s jours</string>
+    <string name="daily_forcast_drawer_on_top">Prévisions à %1$s jours</string>
     <string name="daily_forcast_drawer_on_bottom">Masquer</string>
     <string name="daily_forcast_temperature_connect" />
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
