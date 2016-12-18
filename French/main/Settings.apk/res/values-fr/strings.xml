@@ -789,7 +789,7 @@ Donner cette autorisation à toutes les applications souhaitant activer la reche
     <string name="wifi_tether_configure_ap_text">"Configurer le point d'accès"</string>
     <string name="wifi_hotspot_configure_ap_text">Configuration point accès Wi‑Fi</string>
     <string name="wifi_hotspot_configure_ap_text_summary">"Point d'acc. Wi-Fi port. AndroidAP WPA2 PSK"</string>
-    <string name="wifi_tether_configure_subtext">"Point d'accès mobile %1$s %2$s"</string>
+    <string name="wifi_tether_configure_subtext">"Point d'accès mobile %1$s, %2$s"</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="wifi_calling_settings_title">Appels Wi-Fi</string>
     <string name="wifi_calling_mode_title">"Préférence d'appel"</string>
@@ -4697,4 +4697,20 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="miui_silent_title">Mode silencieux</string>
     <string name="zen_mode_miui_disturb_category">Ne pas déranger</string>
     <string name="miui_disturb_title">Ne pas déranger</string>
+    <string name="fingerprint_first_open_screen_password_tittle">"Empreintes (activer un mot de passe à l'écran de vérouillage avant)"</string>
+    <string name="fingerprint_manage">Gérer les empreintes</string>
+    <string name="fingerprint_manage_category_title">Gérer les empreintes</string>
+    <string name="manage_fingerprint_text">Gérer les empreintes</string>
+    <string name="password_turned_off_text">Mot de passe désactivé</string>
+    <string name="password_turned_on_text">Mot de passe activé</string>
+    <string name="advanced_settings">Paramètres avancés</string>
+    <string name="smartcover_lock_or_unlock_screen_tittle">Mode Smart Cover</string>
+    <string name="smartcover_sensitive_summary">Vérouiller/Dévérouiller automatiquement le téléphone avec la Smart Cover</string>
+    <string name="lock_screen_signature_summary">"La signature sera affichée sur l'écran de vérouillage"</string>
+    <string name="lock_screen_signature_title">Signature sur écran de vérouillage</string>
+    <string name="launcher_auto_fill_empty_title">Remplir les cellules vides</string>
+    <string name="lock_screen_cells_title">"Geler l'agencement de l'écran d'accueil"</string>
+    <string name="defalut_launcher_title">Lanceur par défaut</string>
+    <string name="miui_screen_config_title">"Paramètres écran d'accueil"</string>
+    <string name="launcher_title">"Écran d'accueil"</string>
 </resources>
