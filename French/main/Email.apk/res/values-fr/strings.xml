@@ -106,9 +106,9 @@
     <string name="account_setup_incoming_security_label">Type de sécurité</string>
     <string name="account_setup_incoming_security_none_label">Aucun</string>
     <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Accept all certificates)</string>
+    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Tous les certificats)</string>
     <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-    <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Accept all certificates)</string>
+    <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Tous les certificats)</string>
     <string name="account_setup_incoming_server_label">Serveur</string>
     <string name="account_setup_incoming_username_label">"Nom d'utilisateur"</string>
     <string name="account_setup_incoming_username_label_default_hint">Vous devez inclure un domaine</string>
@@ -143,7 +143,7 @@
     <string name="actionbar_large_unread_count">%1$d+ non lu(s)</string>
     <string name="activity_folder_selection">Choisir un dossier</string>
     <string name="activity_mailbox_selection">Choisir un compte</string>
-    <string name="ad_merge">Ads &amp; Notifications</string>
+    <string name="ad_merge">Publicités &amp; Notifications</string>
     <string name="add_account">Ajouter un compte</string>
     <string name="add_account_keywords">Add account;add mail account</string>
     <string name="add_attachment">Ajouter une pièce jointe</string>
@@ -833,7 +833,7 @@
     <string name="too_large_to_attach_additional">Taille du fichier ne doit pas dépasser %1$s .</string>
     <string name="too_large_to_attach_multiple">"Un ou plusieurs fichiers n'ont pas été joints. Limite de %1$s atteinte."</string>
     <string name="too_large_to_attach_single">Impossible de joindre un fichier supérieur à %1$s.</string>
-    <string name="topic_merge">Merge themes</string>
+    <string name="topic_merge">Regrouper par sujet</string>
     <string name="trash_folder_selection_title">Sélectionner le dossier de la corbeille du serveur pour %s</string>
     <string name="try_exchange_login">Se connecter avec EXCHANGE</string>
     <string name="turn_auto_sync_on_dialog_body">"Les modifications que vous apportez 
@@ -870,7 +870,13 @@ Appuyer sur \""<b>Synchroniser maintenant</b> pour la première synchronisation 
     <string name="wipe_account_fail_title">Impossible de supprimer les informations personnelles</string>
     <string name="wrong_password">Le mot de passe entré est incorrect</string>
     <string name="yes">Oui</string>
-    <string name="yidianzixun">Yi Dian Zixun</string>
     <string name="you_are_in_mobile_network">Envoyer le journal en utilisant la connexion mobile ? Si vous dépassez votre forfait, votre opérateur peut vous facturer des frais supplémentaires.</string>
     <string name="zip_viewer_no_file">Aucun fichier.</string>
+    <string name="conversation_quick_button_received">Accusé de réception</string> 
+    <string name="sending_quick_reply">Envoi de \"%s\"</string>
+    <string name="message_body_load_set_description">"A télécharger pour les nouveaux messages lors d'une connexion mobiles"</string>
+    <string name="account_setting_message_body_load_complete">Message complet</string>
+    <string name="account_setting_message_body_load_head_abstract">Résumé du message</string>
+    <string name="account_setting_message_body_load_head_only">En-tête seulement</string>
+    <string name="account_setting_message_body_load_text">Corps seulement</string>
 </resources>
