@@ -1732,4 +1732,10 @@ Assurez-vous de connaître l'origine de cet appareil, et contactez un centre de 
     <string name="power_mode_my_mode">Mon profil</string>
     <string name="power_mode_my_mode_summary">Sauvegarder automatiquement votre profil actuel</string>
     <string name="power_apply_toast">basculer vers le mode %s et sauvegarder automatiquement votre profil actuel</string>
+    <string name="pref_title_manual_check_virus_db_update">Rechercher une mise à jour</string>
+    <string name="virus_dp_update_title">Mises à jour des définitions</string>
+    <string name="virus_update_fail">Mise à jour impossible</string>
+    <string name="virus_update_success">Mise à jour réussie</string>
+    <string name="msg_update_up">Masquer</string>
+    <string name="antivirus_choose_engine_update_disable_toast">"Impossible de changer de définition quand une mise à jour est en cours"</string>
 </resources>
