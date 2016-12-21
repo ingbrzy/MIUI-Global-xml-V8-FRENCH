@@ -99,7 +99,7 @@ Heures creuses : %1$s | %2$s utilisé"</string>
     <string name="pref_adjust_traffic_data">"Définir l'utilisation des données"</string>
     <string name="pref_app_traffic_managent">"Restreindre l'utilisation des données par application"</string>
     <string name="pref_connect_settings_exceed_limit_hint">"Désactiver la connexion de données lorsque l'utilisation des données atteint la limite"</string>
-    <string name="pref_connect_settings_exceed_limit">"Restreindre l'utilisation des données en heures pleines"</string>
+    <string name="pref_connect_settings_exceed_limit">"Restreindre l'utilisation des données"</string>
     <string name="pref_free_traffic_exceed_limit">"Me notifier en cas d'approche de la limite"</string>
     <string name="pref_free_traffic_limit_warn">"Alerte d'utilisation de données en heures creuses"</string>
     <string name="pref_special_traffic_exceed_limit">"Me notifier en cas d'approche de la limite"</string>

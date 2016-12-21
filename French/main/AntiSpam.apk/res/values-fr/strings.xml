@@ -256,7 +256,7 @@
     <string name="st_summary_keywords_blacklist">Ajoutez des mots clés pour bloquer des messages</string>
     <string name="st_summary_blacklist_numbers">"Bloquez des appels et messages en utilisant des numéros et codes d'indicatifs"</string>
     <string name="st_summary_whitelist_numbers">Autorisez des appels et messages depuis des numéros et indicatifs spécifiques</string>
-    <string name="st_summary_blacklist_numbers_international">Block calls and massages using numbers</string>
+    <string name="st_summary_blacklist_numbers_international">Bloquer appels et messages depuis des numéros spécifiques</string>
     <string name="st_summary_whitelist_numbers_international">Autorisez des appels et messages depuis des numéros spécifiques</string>
     <string name="st_summary_special_numbers">Bloquez des numéros de téléphone signalés</string>
     <string name="st_antispam_mode_smart_sum">"Bloquer les numéros que vous avez définis et ceux signalés par d'autres utilisateurs"</string>
