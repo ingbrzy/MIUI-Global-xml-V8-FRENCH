@@ -613,11 +613,6 @@
         <item>1,5 secondes</item>
         <item>2 secondes</item>
     </string-array>
-    <string-array name="long_press_volume_down_action">
-        <item>Aucun</item>
-        <item>Mode de prise rapide (Sélectionner dans App. photo)</item>
-        <item>Raccourcis de transports publics</item>
-    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 seconde</item>
         <item>2 secondes</item>
