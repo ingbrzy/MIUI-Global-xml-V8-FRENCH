@@ -81,4 +81,8 @@
   <string name="default_hint">Rechercher des applis, musique, vidéos, livres…</string>
   <string name="network_unavailable">Non connecté à Internet</string>
   <string name="connect_and_retry">Connectez-vous à Internet puis réessayez</string>
+  <string name="swipe_up_summary">Glisser vers le haut pour ouvrir la recherche globale</string>
+  <string name="swipe_up_title">Glisser vers le haut</string>
+  <string name="recent_apps">Applis. récentes</string>
+  <string name="search_button">Chercher</string>
 </resources>

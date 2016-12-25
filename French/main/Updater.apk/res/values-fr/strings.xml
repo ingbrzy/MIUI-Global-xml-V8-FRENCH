@@ -86,8 +86,8 @@
     <string name="space_not_enough_title">Espace de stockage insuffisant</string>
     <string name="space_not_enough_msg">Votre appareil est trop plein pour télécharger cette mise à jour. Nettoyez le stockage de votre appareil et essayez à nouveau.</string>
     <string name="clean_up_button">Nettoyer</string>
-    <string name="no_wifi_title">"Avertissement de l'utilisation de données"</string>
-    <string name="no_wifi_msg">Utilisez votre connexion de données mobiles pour télécharger ce fichier augmentera votre consommation de données. Si vous dépassez la limite de votre forfait, votre opérateur de téléphonie mobile pourrait vous facturer des frais supplémentaires.</string>
+    <string name="no_wifi_title">"Connectez vous au Wi-Fi"</string>
+    <string name="no_wifi_msg">Utiliser votre connexion de données mobiles peut générer des frais supplémentaires. Connectez vous au Wi-Fi pour télécharger les mises à jour.</string>
     <string name="go_on_download">Télécharger</string>
     <string name="pause">Pause</string>
     <string name="repeat">Réessayer</string>
@@ -96,7 +96,7 @@
     <string name="recovery_power_not_enough_title">Batterie faible</string>
     <string name="recovery_power_not_enough_msg">Connectez votre chargeur pour mettre à jour si votre batterie est inférieur à 30%</string>
     <string name="recovery_power_not_enough_msg_plugged">La batterie doit être supérieure à 30% avant de pouvoir mettre à jour</string>
-    <string name="recovery_failed_msg">"Votre appareil n'a pas assez de mémoire pour entrer en mode Recovery et mettre à jour votre système. Veuillez utiliser Mi PC Suite : 
+    <string name="recovery_failed_msg">"Votre appareil n'a pas assez de mémoire pour entrer en mode Recovery et mettre à jour votre système. Veuillez utiliser Mi PC Suite :
 http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_button">OK</string>
     <string name="recovery_failed_notification_msg">"Impossible d'entrer en mode Recovery"</string>
@@ -144,7 +144,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="share_qq">Poster sur Tencent weibo</string>
     <string name="install_qq">Installer Tencent weibo</string>
     <string name="upgrade_kernel">Le kernel est obsolète</string>
-    <string name="upgrade_kernel_msg">"La version actuelle du kernel ne correspond pas à la rom MIUI. Vous allez devoir procéder à une mise à jour manuelle. Référez vous au tutoriel de mise à jour: 
+    <string name="upgrade_kernel_msg">"La version actuelle du kernel ne correspond pas à la rom MIUI. Vous allez devoir procéder à une mise à jour manuelle. Référez vous au tutoriel de mise à jour:
 "</string>
     <string name="view_upgrade_tutorial">Voir</string>
     <string name="upgrade_close">Fermer</string>

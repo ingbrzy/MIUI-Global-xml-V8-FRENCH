@@ -468,7 +468,7 @@ La procédure de chiffrement dure au moins une heure. La batterie du téléphone
 
 Pour continuer d'utiliser votre téléphone, vous devez rétablir la configuration d'usine. Une fois cette opération terminée, vous pourrez restaurer toutes les données sauvegardées sur votre compte Google lors de la nouvelle configuration de votre téléphone."</string>
     <string name="crypt_keeper_data_corrupt_title">Échec du déchiffrement</string>
-    <string name="crypt_keeper_data_corrupt_summary">"Le mot de passe saisi est correct. Malheureusement, vos données sont corrompues. 
+    <string name="crypt_keeper_data_corrupt_summary">"Le mot de passe saisi est correct. Malheureusement, vos données sont corrompues.
 
 Pour continuer d'utiliser votre téléphone, vous devez rétablir sa configuration d'usine. Une fois cette opération terminée, vous pourrez restaurer toutes les données que vous aviez sauvegardées dans votre compte Google lors de la nouvelle configuration de votre téléphone."</string>
     <string name="crypt_keeper_switch_input_method">Changer le mode de saisie</string>
@@ -1015,32 +1015,32 @@ Le code PIN est peut-être incorrect."</string>
     <string name="storage_format_success">La mémoire de stockage \"%1$s\" a bien été formatée.</string>
     <string name="storage_format_failure">Impossible de formater la mémoire de stockage \"%1$s\".</string>
     <string name="storage_rename_title">Renommer la mémoire de stockage</string>
-    <string name="storage_dialog_unmounted">"La mémoire de stockage \"^1\" a bien été éjectée, mais elle est toujours disponible. 
+    <string name="storage_dialog_unmounted">"La mémoire de stockage \"^1\" a bien été éjectée, mais elle est toujours disponible.
 
 Pour utiliser la mémoire \"^1\", vous devez d'abord l'installer."</string>
-    <string name="storage_dialog_unmountable">"La mémoire de stockage \"^1\" est corrompue. 
+    <string name="storage_dialog_unmountable">"La mémoire de stockage \"^1\" est corrompue.
 
 Pour utiliser la mémoire \"^1\", vous devez d'abord la configurer."</string>
-    <string name="storage_dialog_unsupported">"Cet appareil n'est pas compatible avec la mémoire de stockage \"^1\". 
+    <string name="storage_dialog_unsupported">"Cet appareil n'est pas compatible avec la mémoire de stockage \"^1\".
 
 Pour utiliser la mémoire de stockage \"^1\" avec cet appareil, vous devez d'abord la configurer."</string>
-    <string name="storage_internal_format_details">"Après le formatage, vous pouvez utiliser la mémoire de stockage \"^1\" avec d'autres appareils. 
+    <string name="storage_internal_format_details">"Après le formatage, vous pouvez utiliser la mémoire de stockage \"^1\" avec d'autres appareils.
 
-Toutes les données enregistrées sur \"^1\" vont être effacées. Nous vous conseillons de sauvegarder vos contenus avant de continuer. 
+Toutes les données enregistrées sur \"^1\" vont être effacées. Nous vous conseillons de sauvegarder vos contenus avant de continuer.
 
-"<b>Sauvegardez vos photos et vos autres fichiers</b>" 
-Déplacez vos fichiers multimédias vers une autre mémoire de stockage sur cet appareil, ou transférez-les sur un ordinateur à l'aide d'un câble USB. 
+"<b>Sauvegardez vos photos et vos autres fichiers</b>"
+Déplacez vos fichiers multimédias vers une autre mémoire de stockage sur cet appareil, ou transférez-les sur un ordinateur à l'aide d'un câble USB.
 
-"<b>Sauvegardez vos applications</b>" 
+"<b>Sauvegardez vos applications</b>"
 Toutes les applications enregistrées sur \"^1\" vont être désinstallées, et les données correspondantes vont être effacées. Pour conserver ces applications, déplacez-les vers une autre mémoire de stockage sur cet appareil."</string>
-    <string name="storage_internal_unmount_details"><b>"Lorsque vous éjectez la mémoire de stockage \"^1\", les applications qui y sont enregistrées cessent de fonctionner, et les fichiers multimédias qu'elle contient ne sont plus disponibles jusqu'à ce que vous la réinsériez."</b>" 
+    <string name="storage_internal_unmount_details"><b>"Lorsque vous éjectez la mémoire de stockage \"^1\", les applications qui y sont enregistrées cessent de fonctionner, et les fichiers multimédias qu'elle contient ne sont plus disponibles jusqu'à ce que vous la réinsériez."</b>"
 
 La mémoire de stockage \"^1\" a été configurée pour ne fonctionner que sur cet appareil. Vous ne pouvez pas l'utiliser sur d'autres appareils."</string>
-    <string name="storage_internal_forget_details">"Pour utiliser les applications, les photos ou les données que la mémoire de stockage \"^1\" contient, insérez de nouveau celle-ci. 
+    <string name="storage_internal_forget_details">"Pour utiliser les applications, les photos ou les données que la mémoire de stockage \"^1\" contient, insérez de nouveau celle-ci.
 
-Vous pouvez également la supprimer de la liste des mémoires de stockage si elle n'est pas disponible. 
+Vous pouvez également la supprimer de la liste des mémoires de stockage si elle n'est pas disponible.
 
-Si vous la supprimez, toutes les données qu'elle contient seront définitivement effacées. 
+Si vous la supprimez, toutes les données qu'elle contient seront définitivement effacées.
 
 Vous pouvez réinstaller les applications plus tard, mais les données correspondantes enregistrées sur cette mémoire seront perdues."</string>
     <string name="storage_internal_forget_confirm_title">Supprimer la mémoire \"^1\" ?</string>
@@ -1052,10 +1052,10 @@ Vous pouvez réinstaller les applications plus tard, mais les données correspon
     <string name="storage_detail_cached">Données en cache</string>
     <string name="storage_detail_other">Autre</string>
     <string name="storage_detail_explore">Explorer la mémoire de stockage \"^1\"</string>
-    <string name="storage_detail_dialog_other">"Le libellé \"Autre\" fait référence aux fichiers partagés enregistrés par les applications, aux fichiers téléchargés sur Internet ou via le Bluetooth, aux fichiers Android, etc. 
+    <string name="storage_detail_dialog_other">"Le libellé \"Autre\" fait référence aux fichiers partagés enregistrés par les applications, aux fichiers téléchargés sur Internet ou via le Bluetooth, aux fichiers Android, etc.
 
 Pour afficher l'intégralité du contenu de la mémoire de stockage \"^1\", appuyez sur \"Explorer\"."</string>
-    <string name="storage_detail_dialog_user">"L'utilisateur \"^1\" a peut-être enregistré des photos, de la musique, des films, des applications et d'autres données qui occupent ^2 d'espace. 
+    <string name="storage_detail_dialog_user">"L'utilisateur \"^1\" a peut-être enregistré des photos, de la musique, des films, des applications et d'autres données qui occupent ^2 d'espace.
 
 Pour afficher des informations détaillées, utilisez le compte utilisateur \"^1\"."</string>
     <string name="storage_wizard_init_title">Configurer la mémoire \"^1\"</string>
@@ -1064,19 +1064,19 @@ Pour afficher des informations détaillées, utilisez le compte utilisateur \"^1
     <string name="storage_wizard_init_internal_title">Utiliser en tant que mémoire de stockage interne</string>
     <string name="storage_wizard_init_internal_summary">"Pour enregistrer tout type de contenus, y compris des applications et des photos, sur cet appareil uniquement. Cette option nécessite de formater la mémoire de stockage pour l'empêcher de fonctionner avec d'autres appareils."</string>
     <string name="storage_wizard_format_confirm_title">Formater mémoire stockage interne</string>
-    <string name="storage_wizard_format_confirm_body">"Cette option nécessite de formater la mémoire de stockage \"^1\" pour qu'elle soit sécurisée. 
+    <string name="storage_wizard_format_confirm_body">"Cette option nécessite de formater la mémoire de stockage \"^1\" pour qu'elle soit sécurisée.
 
-Après le formatage, \"^1\" ne fonctionnera que sur cet appareil. 
+Après le formatage, \"^1\" ne fonctionnera que sur cet appareil.
 
 "<b>Le formatage entraîne la suppression de toutes les données enregistrées sur \"^1\".</b> Pour ne pas risquer de perdre vos données, nous vous conseillons de les sauvegarder.</string>
     <string name="storage_wizard_format_confirm_public_title">Formater mémoire stockage externe</string>
-    <string name="storage_wizard_format_confirm_public_body">"Cela exige que ^1 soit formaté. 
+    <string name="storage_wizard_format_confirm_public_body">"Cela exige que ^1 soit formaté.
 "<b>Formater efface toutes les données stockées sur ^1.</b>" Pour éviter une perte de données, veuillez les sauvegarder. "</string>
     <string name="storage_wizard_format_confirm_next">Effacer et formater</string>
     <string name="storage_wizard_format_progress_title">Formatage de mémoire \"^1\" en cours</string>
     <string name="storage_wizard_format_progress_body">Ne retirez pas \"^1\" pendant le formatage.</string>
     <string name="storage_wizard_migrate_title">Déplacer vers une autre mémoire</string>
-    <string name="storage_wizard_migrate_body">"Vous pouvez transférer vos photos, fichiers, et quelques applications vers cette nouvelle ^1. 
+    <string name="storage_wizard_migrate_body">"Vous pouvez transférer vos photos, fichiers, et quelques applications vers cette nouvelle ^1.
 Le transfert peut durer environ ^2 et libèrera ^3 sur le stockage interne. Certaines applications ne fonctionneront pas pendant qu'elles seront transférées."</string>
     <string name="storage_wizard_migrate_now">Déplacer les données maintenant</string>
     <string name="storage_wizard_migrate_later">Déplacer les données plus tard</string>
@@ -1084,27 +1084,27 @@ Le transfert peut durer environ ^2 et libèrera ^3 sur le stockage interne. Cert
     <string name="storage_wizard_migrate_confirm_body"><b>Le transfert des données dure ^1 environ et permet de libérer ^2 sur la mémoire de stockage \"^3\".</b></string>
     <string name="storage_wizard_migrate_confirm_next">Déplacer</string>
     <string name="storage_wizard_migrate_progress_title">Déplacement des données en cours</string>
-    <string name="storage_wizard_migrate_details">"Pendant le déplacement des données : 
-• Ne retirez pas la mémoire de stockage \"^1\". 
-• Certaines applications ne fonctionneront pas correctement. 
+    <string name="storage_wizard_migrate_details">"Pendant le déplacement des données :
+• Ne retirez pas la mémoire de stockage \"^1\".
+• Certaines applications ne fonctionneront pas correctement.
 • Assurez-vous que l'appareil reste chargé."</string>
     <string name="storage_wizard_ready_title">^1 est prêt</string>
     <string name="storage_wizard_ready_external_body">"Votre ^1 est totalement configurée afin d'être utilisée avec des photos et d'autres médias."</string>
-    <string name="storage_wizard_ready_internal_body">"Votre nouvelle mémoire de stockage \"^1\" fonctionne correctement. 
+    <string name="storage_wizard_ready_internal_body">"Votre nouvelle mémoire de stockage \"^1\" fonctionne correctement.
 
 Pour déplacer des photos, des fichiers et des données d'application sur cet appareil, sélectionnez Paramètres > Stockage."</string>
     <string name="storage_wizard_move_confirm_title">Déplacer ^1</string>
-    <string name="storage_wizard_move_confirm_body">"Le déplacement de l'application \"^1\" et des données correspondantes vers \"^2\" ne prend que quelques minutes. Vous ne pourrez pas utiliser l'application jusqu'à la fin de l'opération. 
+    <string name="storage_wizard_move_confirm_body">"Le déplacement de l'application \"^1\" et des données correspondantes vers \"^2\" ne prend que quelques minutes. Vous ne pourrez pas utiliser l'application jusqu'à la fin de l'opération.
 
 Ne retirez pas la mémoire de stockage \"^2\" pendant le déplacement."</string>
     <string name="storage_wizard_move_progress_title">"Déplacement de l'appli \"^1\" en cours"</string>
-    <string name="storage_wizard_move_progress_body">"Ne retirez pas la mémoire de stockage \"^1\" pendant le déplacement. 
+    <string name="storage_wizard_move_progress_body">"Ne retirez pas la mémoire de stockage \"^1\" pendant le déplacement.
 
 L'application \"^2\" ne sera pas disponible jusqu'à la fin de l'opération."</string>
     <string name="storage_wizard_move_progress_cancel">Annuler le déplacement</string>
-    <string name="storage_wizard_slow_body">"Ce ^1 ne semble pas rapide. 
+    <string name="storage_wizard_slow_body">"Ce ^1 ne semble pas rapide.
 
-Vous pouvez continuer, mais les applis déplacées vers cet emplacement risquent de se bloquer et les transferts de données pourront prendre du temps. 
+Vous pouvez continuer, mais les applis déplacées vers cet emplacement risquent de se bloquer et les transferts de données pourront prendre du temps.
 
 Veuillez utiliser un ^1 plus rapide pour de meilleures performances."</string>
     <string name="battery_status_title">État de la batterie</string>
@@ -2387,7 +2387,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="user_add_user_item_title">Utilisateur</string>
     <string name="user_add_profile_item_title">Profil limité</string>
     <string name="user_add_user_title">Ajouter un utilisateur ?</string>
-    <string name="user_add_user_message_long">"Vous pouvez partager cet appareil avec d'autres personnes par la création d'utilisateurs supplémentaires. Chaque utilisateur dispose de son propre espace, où ils peut personnaliser ses propres applications, fonds d'écran, et ainsi de suite. Les utilisateurs peuvent également régler les paramètres de l'appareil comme le Wi-Fi qui touche tout le monde. 
+    <string name="user_add_user_message_long">"Vous pouvez partager cet appareil avec d'autres personnes par la création d'utilisateurs supplémentaires. Chaque utilisateur dispose de son propre espace, où ils peut personnaliser ses propres applications, fonds d'écran, et ainsi de suite. Les utilisateurs peuvent également régler les paramètres de l'appareil comme le Wi-Fi qui touche tout le monde.
 
 Après avoir créé un nouvel utilisateur, cette personne doit passer par un processus d'installation.
 
@@ -2736,13 +2736,13 @@ Pour épingler l'écran, procédez comme suit :
     <string name="imei_information_title">IMEI</string>
     <string name="encryption_interstitial_header">Démarrage sécurisé</string>
     <string name="encryption_continue_button">Continuer</string>
-    <string name="encryption_interstitial_message_pin">"Pour améliorer la protection de cet appareil, vous pouvez exiger la saisie du code PIN avant le démarrage. Dans ce cas, l'appareil ne reçoit pas d'appels, de messages ni de notifications, y compris les alertes, tant qu'il n'a pas démarré. 
+    <string name="encryption_interstitial_message_pin">"Pour améliorer la protection de cet appareil, vous pouvez exiger la saisie du code PIN avant le démarrage. Dans ce cas, l'appareil ne reçoit pas d'appels, de messages ni de notifications, y compris les alertes, tant qu'il n'a pas démarré.
 
 Cette fonctionnalité permet de protéger les données en cas de perte ou de vol de l'appareil."</string>
-    <string name="encryption_interstitial_message_pattern">"Pour améliorer la protection de cet appareil, vous pouvez exiger la saisie du schéma avant le démarrage. L'appareil ne reçoit pas d'appels, de messages ni de notifications, y compris les alertes, tant qu'il n'a pas démarré. 
+    <string name="encryption_interstitial_message_pattern">"Pour améliorer la protection de cet appareil, vous pouvez exiger la saisie du schéma avant le démarrage. L'appareil ne reçoit pas d'appels, de messages ni de notifications, y compris les alertes, tant qu'il n'a pas démarré.
 
 Cette fonctionnalité permet de protéger les données en cas de perte ou de vol de l'appareil."</string>
-    <string name="encryption_interstitial_message_password">"Pour améliorer la protection de cet appareil, vous pouvez exiger la saisie du mot de passe avant le démarrage. L'appareil ne reçoit pas d'appels, de messages ni de notifications, y compris les alertes, tant qu'il n'a pas démarré. 
+    <string name="encryption_interstitial_message_password">"Pour améliorer la protection de cet appareil, vous pouvez exiger la saisie du mot de passe avant le démarrage. L'appareil ne reçoit pas d'appels, de messages ni de notifications, y compris les alertes, tant qu'il n'a pas démarré.
 
 Cette fonctionnalité permet de protéger les données en cas de perte ou de vol de l'appareil."</string>
     <string name="encryption_interstitial_message_pin_for_fingerprint">"Vous pouvez ajouter un niveau de protection pour le déverrouillage de cet appareil en demandant la saisie de votre code PIN avant que l'appareil ne démarre, en plus de la lecture de votre empreinte digitale. L'appareil ne peut pas recevoir d'appel, de message, de notification ni d'alarme tant qu'il n'a pas démarré.
@@ -3751,7 +3751,7 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="high_performance_notif_summary">"L'appareil peut chauffer pendant une utilisation intensive."</string>
     <string name="skip_step">Passer</string>
     <string name="msd_help_title">Aide</string>
-    <string name="msd_help_summary">"Impossible de se connecter à votre appareil ? 
+    <string name="msd_help_summary">"Impossible de se connecter à votre appareil ?
 Slectionnez votre système d'exploitation :"</string>
     <string name="msd_install_succeed">Pilote installé</string>
     <string name="msd_install_next">Suivant</string>
@@ -3885,7 +3885,7 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="lockpassword_pin_fixed_length">Le code PIN doit comporter %d chiffres</string>
     <string name="lockpassword_confirm_for_second_user">Confirmer le mot de passe du Second Espace</string>
     <string name="lockpassword_choose_for_second_user">Définir le mot de passe du Second Espace</string>
-    <string name="lockpassword_choose_your_password_second_space">"Définir un mot de passe 
+    <string name="lockpassword_choose_your_password_second_space">"Définir un mot de passe
  pour le Second Espace"</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Définir un code PIN
  pour le Second Espace"</string>
@@ -4703,8 +4703,8 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="password_turned_off_text">Mot de passe désactivé</string>
     <string name="password_turned_on_text">Mot de passe activé</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Mode Smart Cover</string>
-    <string name="smartcover_sensitive_summary">Vérouiller/Dévérouiller automatiquement le téléphone avec la Smart Cover</string>
-    <string name="lock_screen_signature_summary">"La signature sera affichée sur l'écran de vérouillage"</string>
+    <string name="lock_screen_signature_summary">"Ce message sera affiché sur l'écran de vérouillage"</string>
+    <string name="lock_screen_signature_title">"Info. propriétaire sur l'écran de vérouillage"</string>
     <string name="lock_screen_signature_title">Signature sur écran de vérouillage</string>
     <string name="launcher_auto_fill_empty_title">Remplir les cellules vides</string>
     <string name="lock_screen_cells_title">"Geler l'agencement de l'écran d'accueil"</string>

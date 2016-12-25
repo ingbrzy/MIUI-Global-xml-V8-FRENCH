@@ -71,4 +71,8 @@ Appuyez sur le bouton «Plus» dans le coin supérieur droit d'une note, sélect
         <item></item>
         <item></item>
     </string-array>
+    <string-array name="note_sort_way">
+        <item>Trié par date de création</item>
+        <item>Trié par date de modification</item>
+    </string-array>
 </resources>

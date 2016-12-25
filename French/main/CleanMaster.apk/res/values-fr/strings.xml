@@ -399,8 +399,8 @@
     <string name="dialog_msg_stop_scan">Arrêter le nettoyage en cours ?</string>
     <string name="dialog_title_esc_cleanmaster">Quitter le Nettoyeur</string>
     <string name="dialog_msg_esc_cleanmaster">Arrêter le nettoyage en cours ?</string>
-    <string name="pref_category_title_engine_settings">Paramètres des bases de données</string>
-    <string name="pref_title_choose_engine">Bases de données</string>
+    <string name="pref_category_title_engine_settings">Paramètres de la base de données</string>
+    <string name="pref_title_choose_engine">Base de données</string>
     <string name="recommend_the_following">Prenez les mesures suivantes pour tirer le meilleur parti de votre appareil</string>
     <string name="news_change">Changer</string>
     <string name="long_click_dialog_title">Notification</string>

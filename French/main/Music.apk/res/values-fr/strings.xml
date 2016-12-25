@@ -134,7 +134,7 @@
   <string name="online_playlist_is_empty">Désolé, la playlist en-ligne est vide !</string>
   <string name="favourite_music_left_half">Pour ajouter des pistes à la playlist, appuyez sur</string>
   <string name="favourite_music_right_half">l\'icône \"favori\" à droite du titre de la piste</string>
-  <string name="download_while_playing_no_vip_summary">Télécharger automatiquement les pistes que vous écoutez en ligne (à l\'exception du contenu payant)</string> 
+  <string name="download_while_playing_no_vip_summary">Télécharger automatiquement les pistes que vous écoutez en ligne (à l\'exception du contenu payant)</string>
   <string name="download_while_playing_title">Télécharger les pistes écoutées</string>
   <string name="download_while_playing_summary">Télécharge automatiquement la musique écoutée en-ligne</string>
   <string name="error_forbidden">Il y a un problème avec votre compte. Synchronisation désactivée.</string>
@@ -351,7 +351,7 @@
   <string name="disable_auto_payment_fail">"Échec lors de la désactivation"</string>
   <string name="disable_auto_payment_fail_message">"Impossible de désactiver le renouvellement automatique"</string>
   <string name="disable_auto_payment_success">Désactivé</string>
-  <string name="disable_auto_payment_success_message">Paiement et renouvellement automatiques désactivés. Votre abonnement ne sera pas renouvelé après votre prochain paiement.</string>  
+  <string name="disable_auto_payment_success_message">Paiement et renouvellement automatiques désactivés. Votre abonnement ne sera pas renouvelé après votre prochain paiement.</string>
   <string name="enable_auto_payment_fail">"Échec lors de l'activation"</string>
   <string name="enable_auto_payment_fail_message">"Impossible d'activer le renouvellement automatique"</string>
   <string name="enable_auto_payment_success">Renouveler automatiquement</string>
@@ -531,6 +531,14 @@
   <string name="permission_declaration_message">Autoriser l\'accès au stockage dans : Sécurité &gt; Permissions &gt; Permissions &gt; Stockage &gt; Musique, pour utiliser Musique normalement.</string>
   <string name="permission_declaration_negative_text">Plus tard</string>
   <string name="permission_declaration_positive_text">Allez à Securité</string>
-  <string name="permission_declaration_title">Autoriser l\accès</string>  
+  <string name="permission_declaration_title">Autoriser l\accès</string>
   <string name="desktop_lyric_lock_toast">Verouillé. Utilisez le mini lecteur dans la barre de notifications pour déverouiller.</string>
+  <string name="preferences_title">Paramètres</string>
+  <string name="notification_play_title">Widget du panneau de notification</string>
+  <string name="notification_play_summary">"Afficher le morceau actuel et suivant, les paroles sur l'écran d'accueil"</string>
+  <string name="local_page_song_download">Morceaux locaux</string>
+  <string name="local_page_song_favorite">Morceaux favoris</string>
+  <string name="settings">Paramètres</string>
+  <string name="action_settings">Paramètres</string>
+  <string name="menu_title_settings">Paramètres</string>
 </resources>

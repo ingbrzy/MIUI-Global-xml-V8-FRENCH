@@ -22,7 +22,7 @@
     <string name="main_toolbar_purchase">Recharger</string>
     <string name="main_button_usage_adjust">"Synchroniser l'utilisation des données mobiles"</string>
     <string name="main_button_usage_adjusting">Changement…</string>
-    <string name="main_button_usage_adjust_manual">"Définir la limite d'utilisation des données"</string>
+    <string name="main_button_usage_adjust_manual">"Ajuster l'utilisation des données"</string>
     <string name="main_button_usage_package_setting">"Définir la limite d'utilisation des données"</string>
     <string name="main_traffic_used">%s utilisé</string>
     <string name="main_traffic_used_text">utilisé</string>
@@ -171,7 +171,7 @@ Heures creuses : %1$s | %2$s utilisé"</string>
     <string name="input_used_hint">Entrez les données utilisées</string>
     <string name="input_used_max_hint">"Entrez les données d'utilisation (moins de %s)"</string>
     <string name="settings">"Paramètres d'utilisation des données"</string>
-    <string name="adjust_traffic_data">"Définir l'utilisation des données"</string>
+    <string name="adjust_traffic_data">"Ajuster l'utilisation des données"</string>
     <string name="per_month_pkg_traffic_settings">Définir la limite des données</string>
     <string name="free_time_traffic_settings">"Limite d'utilisation de données en heures creuses"</string>
     <string name="traffic_setting_fragment_title">"Rapport d'utilisation des données"</string>
@@ -555,7 +555,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_settings_category_title">Indicateur de batterie</string>
     <string name="power_settings_shape">Graphique</string>
     <string name="power_settings_number">Pourcentage</string>
-    <string name="power_settings_top">Barre du haut</string>
+    <string name="power_settings_top">"Barre en haut de l'écran"</string>
     <string name="power_customize_giveup_change">Annuler les modifications ?</string>
     <string name="menu_item_force_stop">"Forcer l'arrêt"</string>
     <string name="menu_item_uninstall">Désinstaller</string>
@@ -633,7 +633,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="battery_status_overheat">Surchauffe</string>
     <string name="battery_status_unknown">Erreur inconnue</string>
     <string name="deep_clean_never_memory_clean">Jamais</string>
-    <string name="deep_clean_memory_clean_title">"Nettoyer automatiquement la cache quand l'appareil est verrouillé"</string>
+    <string name="deep_clean_memory_clean_title">"Nettoyer automatiquement le cache quand l'appareil est verrouillé"</string>
     <string name="deep_clean_disconnect_data_title">"Désactiver les données mobiles lorsque l'appareil est verrouillé"</string>
     <string name="btn_text_power_consume_suggest_optimize">Optimiser</string>
     <string name="power_analysis_consume_title">Utilisation de la batterie</string>
@@ -656,7 +656,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="quick_optimize_no_issue_title">Aucun problème détecté</string>
     <string name="quick_optimize_no_issue_subtitle">Tout semble bon !</string>
     <string name="quick_optimize_no_issue">Aucun problème</string>
-    <string name="quick_optimize_sub_summary_text">%s ajouté à la vie de la batterie</string>
+    <string name="quick_optimize_sub_summary_text">%s d'autonomie gagnées</string>
     <string name="quick_optimize_checking">Analyse</string>
     <string name="btn_text_optimize_now">Optimiser</string>
     <string name="btn_text_optimize_manually">Optimiser manuellement</string>
@@ -1382,7 +1382,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="lockscreen_glogin_checking_password">Vérification…</string>
     <string name="passwordIncorrect">"Nom d'utilisateur ou de mot de passe incorrect"</string>
     <string name="help_label">Aide</string>
-    <string name="access_control_need_to_unlock">"Scanner votre empreinte 
+    <string name="access_control_need_to_unlock">"Scanner votre empreinte
 ou entrez votre mot de passe de Verr. App"</string>
     <string name="access_control_need_to_unlock_nofingerprint">Entrez le mot de passe de Verr. App</string>
     <string name="access_control_need_password">"%s ajouté avec succès
@@ -1738,4 +1738,5 @@ Assurez-vous de connaître l'origine de cet appareil, et contactez un centre de 
     <string name="virus_update_success">Mise à jour réussie</string>
     <string name="msg_update_up">Masquer</string>
     <string name="antivirus_choose_engine_update_disable_toast">"Impossible de changer de définition quand une mise à jour est en cours"</string>
+    <string name="btn_text_optimize_extend_battery_time">Gagner %s</string>
 </resources>

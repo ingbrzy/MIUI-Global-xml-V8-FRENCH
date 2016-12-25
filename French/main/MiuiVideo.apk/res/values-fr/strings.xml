@@ -597,4 +597,6 @@
   <string name="empty_tv_exiting">Sortie…</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="vp_more_show_video">Afficher la publicité</string>
+  <string name="receive_follow">Notifier les nouveaux épisodes</string>
+  <string name="receive_follow_summary">"Recevoir une notification lorsqu'un nouveau épisode est disponible"</string>
 </resources>

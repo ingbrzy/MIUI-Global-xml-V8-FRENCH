@@ -169,4 +169,6 @@ Appuyez sur le plus pour créer un dossier"</string>
     <string name="welcome_note_for_cm">"Et encore plus de fonctionnalités !
   - Synchroniser avec Mi Cloud
   - Définir des rappels"</string>
+    <string name="note_sort_way">Sélectionner comment trier vos notes</string>
+    <string name="pref_title_show_root_folder_in_homepage">Aficher uniquement les notes rapides sur la page de démarrage</string>
 </resources>
