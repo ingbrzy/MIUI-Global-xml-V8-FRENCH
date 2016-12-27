@@ -653,7 +653,7 @@ Dernière tentative : %s."</string>
     <string name="add_to_browser_favorite_success">Ajoutée avec succès</string>
     <string name="add_to_browser_favorite_failed">Ajout impossible</string>
     <string name="i_know">OK</string>
-    <string name="second_mms_introduction">Aller dans le Second espace</string>
+    <string name="second_mms_introduction">Aller dans le second espace</string>
     <string name="second_mms_switch">Basculer</string>
     <string name="block_support_text">Fourni par Antiy.</string>
     <string name="force_touch_new_message_title">Nouveau message</string>

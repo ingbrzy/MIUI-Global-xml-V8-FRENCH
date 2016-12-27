@@ -1337,10 +1337,10 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="action_button_text_60_80">Corriger</string>
     <string name="action_button_text_60">Corriger</string>
     <string name="card_main_private_space_title">Second espace</string>
-    <string name="card_main_private_space_summary">Utiliser le Second espace est comme si vous aviez deux appareils</string>
+    <string name="card_main_private_space_summary">Activer le second espace vous permet d'utiliser votre smartphone comme deux appareils distincts.</string>
     <string name="card_main_private_space_action">Créer</string>
     <string name="card_main_xspace_title">Applications clônées</string>
-    <string name="card_main_xspace_summary">"Créer des comptes doubles pour n'importe qu'elle application"</string>
+    <string name="card_main_xspace_summary">"Créer des comptes doubles pour n'importe quelle application"</string>
     <string name="card_main_xspace_action">Créer</string>
     <string name="card_main_overscroll_tips">Security at its best</string>
     <string name="system_info_remind">Verrouillez vos applications pour éviter des accès non autorisés</string>
@@ -1609,7 +1609,7 @@ Assurez-vous de connaître l'origine de cet appareil, et contactez un centre de 
 Assurez-vous de connaître l'origine de cet appareil, et contactez un centre de service Xiaomi autorisé à proximité pour obtenir de l'aide."</string>
     <string name="sys_app_prot_cracked_confirm">"C'est compris"</string>
     <string name="sys_app_prot_cracked_login">Se connecter avec un Compte Mi</string>
-    <string name="confirmSecondSpacePassword">Confirmer le mot de passe du Second Espace</string>
+    <string name="confirmSecondSpacePassword">Confirmez le mot de passe du second espace</string>
     <string name="power_center_low_battery_title">Économiser la batterie</string>
     <string name="power_center_low_battery_summary_dynamic">À %1$d%%, activer le profil %2$s</string>
     <string name="power_center_on_time_title">Planifier le changement de profil</string>
