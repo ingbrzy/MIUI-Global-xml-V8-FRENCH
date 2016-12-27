@@ -69,6 +69,6 @@
     <string name="lock_wallpaper_learn_more">Plus</string>
     <string name="lock_wallpaper_enter">Entrer</string>
     <string name="custom_lock_wallpaper_enter">Entrer</string>
-    <string name="fingerprint_enter_second_psw_title">Mot de passe du Second espace ajouté</string>
-    <string name="fingerprint_enter_second_psw_msg">"Entrez le mot de passe du Second espace après avoir redémarrer l'appareil afin de pouvoir utiliser le lecteur d'empreinte"</string>
+    <string name="fingerprint_enter_second_psw_title">Mot de passe du second espace ajouté</string>
+    <string name="fingerprint_enter_second_psw_msg">"Entrez le mot de passe du second espace après avoir redémarré l'appareil afin de pouvoir utiliser le lecteur d'empreintes"</string>
 </resources>

@@ -846,7 +846,7 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>zw</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Écran de vérrouillage</item>
+        <item>Écran de verrouillage</item>
         <item>Mot de passe de protection de la vie privée</item>
         <item>Mode enfant</item>
         <item>Explorateur</item>

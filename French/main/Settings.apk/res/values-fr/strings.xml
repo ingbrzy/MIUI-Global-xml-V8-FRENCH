@@ -3083,7 +3083,7 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="search_wakeup_for_keyguard_notification_title">"Allumer l'écran de verrouillage pour les notifications;allumer l'écran;allumer l'appareil;allumer le téléphone"</string>
     <string name="search_pref_volume_wake_title">Allumer aves les boutons ;boutons de volume</string>
     <string name="search_screen_on_proximity_sensor_title">Prévenir les compositions dans la poche;poche;composition dans la poche;compositions dans la poche</string>
-    <string name="search_second_space">Second Espace</string>
+    <string name="search_second_space">Second espace</string>
     <string name="search_xspace">Doubles applications;applications clônées</string>
     <string name="search_do_not_disturb">Ne pas déranger</string>
     <string name="search_dndm_auto_time_setting">"Régler l'heure;NPD"</string>
@@ -3530,7 +3530,7 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="wifi_tether_settings_title">"Point d'accès personnel"</string>
     <string name="tether_and_hotspot_title">"Partage de connexion et point d'accès"</string>
     <string name="lock_settings">Écran de verrouillage &amp; mot de passe</string>
-    <string name="second_space">Second Espace</string>
+    <string name="second_space">Second espace</string>
     <string name="xspace">Applications clônées</string>
     <string name="call_settings_primary_user_only">"Changer les paramètres d'appel dans le Premier Espace"</string>
     <string name="unlock_set_unlock_summary">Définir un écran de verrouillage</string>
@@ -3552,9 +3552,9 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="manually_add_network">Ajouter un réseau</string>
     <string name="network_detail">Informations réseau %s</string>
     <string name="connected_wifi">Connecté</string>
-    <string name="lockpattern_recording_intro_header_second_space">Dessiner un schéma de verrouillage pour le Second Espace :</string>
-    <string name="lockpattern_pattern_same_with_owner">Il doit être différent de celui du Premier Espace</string>
-    <string name="lockpattern_pattern_same_with_security_space">Il doit être différent de celui du Second Espace</string>
+    <string name="lockpattern_recording_intro_header_second_space">Dessinez un schéma de verrouillage pour le second espace :</string>
+    <string name="lockpattern_pattern_same_with_owner">Il doit être différent de celui du premier espace</string>
+    <string name="lockpattern_pattern_same_with_security_space">Il doit être différent de celui du second espace</string>
     <string name="incoming_call_breathing_light_color_title">Couleur des appels</string>
     <string name="notification_breathing_light_color_title">Couleur du voyant de notifications</string>
     <string name="mms_breathing_light_color_title">Couleur des messages</string>
@@ -3576,7 +3576,7 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="button_light_timeout">Garder les boutons allumés</string>
     <string name="battery_light_title">Allumer lors de la charge</string>
     <string name="battery_light_summary">"Activer le voyant de notification lorsque l'appareil est en charge"</string>
-    <string name="sim_change_failed_enable_sim_lock">Vérouiller la carte SIM maintenant</string>
+    <string name="sim_change_failed_enable_sim_lock">Verrouiller la carte SIM maintenant</string>
     <string name="sim_lock_change_not_supported">Impossible de changer le verrouillage de la SIM.</string>
     <string name="apn_new">Ajouter APN</string>
     <string name="apn_save">Enregistrer les modifications ?</string>
@@ -3883,12 +3883,12 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="private_gallery_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
     <string name="unlock_disable_lock_pin_summary">Désactiver le code PIN</string>
     <string name="lockpassword_pin_fixed_length">Le code PIN doit comporter %d chiffres</string>
-    <string name="lockpassword_confirm_for_second_user">Confirmer le mot de passe du Second Espace</string>
-    <string name="lockpassword_choose_for_second_user">Définir le mot de passe du Second Espace</string>
+    <string name="lockpassword_confirm_for_second_user">Confirmer le mot de passe du second espace</string>
+    <string name="lockpassword_choose_for_second_user">Définir le mot de passe du second espace</string>
     <string name="lockpassword_choose_your_password_second_space">"Définir un mot de passe
- pour le Second Espace"</string>
+ pour le second espace"</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Définir un code PIN
- pour le Second Espace"</string>
+ pour le second espace"</string>
     <string name="cancel_alert">Annuler vos changements ?</string>
     <string name="android_beam_witch_label">Android Beam</string>
     <string name="sim_management_title">Cartes SIM &amp; réseaux mobiles</string>
@@ -4332,7 +4332,7 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="edge_mode_guide_title">Appuyez sur la zone en surbrillance pour utiliser les contrôles de bord</string>
     <string name="apply_password_to_category_title">Demande le déverrouillage</string>
     <string name="turn_on_security_lock">"Désactiver le verrouillage d'écran"</string>
-    <string name="secure_keyguard_business_title">">Définir l'écran de verrouillage"</string>
+    <string name="secure_keyguard_business_title">"Définir l'écran de verrouillage"</string>
     <string name="fingerprint_and_password_entrance_title">"Écran de verrouillage &amp; lecteur d'empreintes"</string>
     <string name="password_entrance_title">Verrouillage écran</string>
     <string name="turn_off_common_password_confirm_msg">Le verrouillage écran sera également désactivé.</string>
@@ -4355,8 +4355,8 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="fingerprint_identify_msg">"Identification d'empreinte…"</string>
     <string name="fingerprint_identify_input_password_msg">Entrez le mot de passe</string>
     <string name="fingerprint_identify_try_again_msg">"Impossible de lire l'empreinte, réessayez"</string>
-    <string name="fingerprint_lock_second">Déverrouiller le Second Espace</string>
-    <string name="fingerprint_lock_first">Déverrouiller le Premier espace</string>
+    <string name="fingerprint_lock_second">Déverrouiller le second espace</string>
+    <string name="fingerprint_lock_first">Déverrouiller le premier espace</string>
     <string name="add_fingerprint_instruction_title">Ajouter votre empreinte</string>
     <string name="add_fingerprint_instruction_msg">Déverrouillez votre appareil ou vérifiez un paiement avec votre empreinte.</string>
     <string name="add_fingerprint_put_finger_title">Ajouter une empreinte</string>
@@ -4562,10 +4562,10 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="privacy_password_confirm_use_finger">Déverrouiller avec empreinte</string>
     <string name="privacy_password_fingerprint_dialog_title">Scannez votre empreinte</string>
     <string name="privacy_password_fingerprint_dialog_message">Mettez votre doigt sur le capteur</string>
-    <string name="privacy_password_fingerprint_dialog_error_title">"Impossible de scanner l'empreinte, réessayer"</string>
+    <string name="privacy_password_fingerprint_dialog_error_title">"Impossible de scanner l'empreinte, réessayez"</string>
     <string name="privacy_password_fingerprint_confirm_succes">Empreinte vérifiée</string>
     <string name="privacy_password_fingerprint_confirm_failed">"Impossible de vérifier l'empreinte"</string>
-    <string name="privacy_password_confirm_SecondSpace_Password">Confirmer le mot de passe du Second Espace</string>
+    <string name="privacy_password_confirm_SecondSpace_Password">Confirmez le mot de passe du second espace</string>
     <string name="music_audio_effect_optimize">Paramètres audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, écouteurs et autres paramètres audio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, écouteurs et autres paramètres audio</string>
@@ -4697,15 +4697,15 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="miui_silent_title">Mode silencieux</string>
     <string name="zen_mode_miui_disturb_category">Ne pas déranger</string>
     <string name="miui_disturb_title">Ne pas déranger</string>
-    <string name="fingerprint_first_open_screen_password_tittle">"Empreintes (activer un mot de passe à l'écran de vérouillage avant)"</string>
+    <string name="fingerprint_first_open_screen_password_tittle">"Empreintes (activez un mot de passe à l'écran de verrouillage avant)"</string>
     <string name="fingerprint_manage">Gérer les empreintes</string>
     <string name="manage_fingerprint_text">Gérer les empreintes</string>
     <string name="password_turned_off_text">Mot de passe désactivé</string>
     <string name="password_turned_on_text">Mot de passe activé</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Mode Smart Cover</string>
-    <string name="lock_screen_signature_summary">"Ce message sera affiché sur l'écran de vérouillage"</string>
-    <string name="lock_screen_signature_title">"Info. propriétaire sur l'écran de vérouillage"</string>
-    <string name="lock_screen_signature_title">Signature sur écran de vérouillage</string>
+    <string name="lock_screen_signature_summary">"Ce message sera affiché sur l'écran de verrouillage"</string>
+    <string name="lock_screen_signature_title">"Info. propriétaire sur l'écran de verrouillage"</string>
+    <string name="lock_screen_signature_title">Signature sur écran de verrouillage</string>
     <string name="launcher_auto_fill_empty_title">Remplir les cellules vides</string>
     <string name="lock_screen_cells_title">"Geler l'agencement de l'écran d'accueil"</string>
     <string name="defalut_launcher_title">Lanceur par défaut</string>
