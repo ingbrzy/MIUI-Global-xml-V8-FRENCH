@@ -656,7 +656,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="quick_optimize_no_issue_title">Aucun problème détecté</string>
     <string name="quick_optimize_no_issue_subtitle">Tout semble bon !</string>
     <string name="quick_optimize_no_issue">Aucun problème</string>
-    <string name="quick_optimize_sub_summary_text">%s d'autonomie gagnées</string>
+    <string name="quick_optimize_sub_summary_text">%s d\'autonomie gagnées</string>
     <string name="quick_optimize_checking">Analyse</string>
     <string name="btn_text_optimize_now">Optimiser</string>
     <string name="btn_text_optimize_manually">Optimiser manuellement</string>
@@ -1337,7 +1337,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="action_button_text_60_80">Corriger</string>
     <string name="action_button_text_60">Corriger</string>
     <string name="card_main_private_space_title">Second espace</string>
-    <string name="card_main_private_space_summary">Activer le second espace vous permet d'utiliser votre smartphone comme deux appareils distincts.</string>
+    <string name="card_main_private_space_summary">Activer le second espace vous permet d\'utiliser votre smartphone comme deux appareils distincts.</string>
     <string name="card_main_private_space_action">Créer</string>
     <string name="card_main_xspace_title">Applications clônées</string>
     <string name="card_main_xspace_summary">"Créer des comptes doubles pour n'importe quelle application"</string>
