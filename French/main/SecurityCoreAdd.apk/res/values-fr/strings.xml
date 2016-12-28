@@ -112,7 +112,7 @@
     <string name="notificationSetPassword">Définir un mot de passe</string>
     <string name="notificationSetPasswordDes">Protéger les données du second espace</string>
     <string name="createANewSpace">Créer un nouvel espace sur votre téléphone.</string>
-    <string name="dataSafe">Activer le second espace vous permet d'utiliser votre smartphone comme deux appareils distincts.</string>
+    <string name="dataSafe">Activer le second espace vous permet d\'utiliser votre smartphone comme deux appareils distincts.</string>
     <string name="createUserFail">Impossible de créer</string>
     <string name="confirmCloseSpaceDes">"Vous ne serez plus en mesure d'entrer dans le second espace une fois supprimé. Toutes les données seront déplacées ou supprimées."</string>
     <string name="confirmDelete">Supprimer</string>
