@@ -144,4 +144,30 @@
         <item quantity="other">"%d contacts ou photos n'ont pas été synchronisés"</item>
         <item quantity="one">"%d contact ou photo n'a pas été synchronisé"</item>
     </plurals>
+    <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">il y a 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">"il y a 1/2 heure"</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">"À l'instant"</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">il y a %d mins</item>
+        <item quantity="one">il y a 1 min</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Dans 1 heure</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Dans une 1/2 heure</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immédiatement</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">dans %d mins</item>
+        <item quantity="one">dans 1 min</item>
+    </plurals>
 </resources>

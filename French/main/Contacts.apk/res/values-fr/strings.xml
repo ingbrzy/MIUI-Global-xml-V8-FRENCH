@@ -208,45 +208,45 @@
     <string name="noContactsHelpText">"\"Vous n'avez aucun contact à afficher.
 
 Pour ajouter des contacts, pressez la touche "<b><font fgcolor="#ffffffff">Menu</font></b>" puis:
- 
+
 "<b><font fgcolor="#ffffffff"><li>"Comptes et ajoutez un compte contenant des contacts à synchroniser avec l'appareil
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un nouveau contact
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts depuis la carte SIM ou SD
 "</li></font></b>"\" "</string>
     <string name="noContactsHelpTextWithSync">"\"Vous n'avez aucun contact à afficher. (Si vous venez d'ajouter un compte, patientez quelques minutes le temps que la synchronisation se termine.)
 
 Pour ajouter des contacts, pressez la touche "<b><font fgcolor="#ffffffff">Menu</font></b>" puis:
- 
+
 "<b><font fgcolor="#ffffffff"><li>"Comptes et ajoutez un compte contenant des contacts à synchroniser avec le téléphone
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Options d'affichage vous permet de définir le filtre d'affichage
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un nouveau contact
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts depuis la carte SIM ou SD
 "</li></font></b>" "</string>
     <string name="noContactsNoSimHelpText">"\"Vous n'avez aucun contact à afficher.
 
 Pour ajouter des contacts, pressez la touche "<b><font fgcolor="#ffffffff">Menu</font></b>" puis:
- 
+
 "<b><font fgcolor="#ffffffff"><li>"Comptes et ajoutez un compte contenant des contacts à synchroniser avec l'appareil
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un nouveau contact
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts depuis la carte SIM ou SD
 "</li></font></b>"\" "</string>
     <string name="noContactsNoSimHelpTextWithSync">"\"Vous n'avez aucun contact à afficher. (Si vous venez d'ajouter un compte, patientez quelques minutes le temps que la synchronisation se termine.)
 
 Pour ajouter des contacts, pressez la touche "<b><font fgcolor="#ffffffff">Menu</font></b>" puis:
- 
+
 "<b><font fgcolor="#ffffffff"><li>"Comptes et ajoutez un compte contenant des contacts à synchroniser avec le téléphone
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Options d'affichage vous permet de définir le filtre d'affichage
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un nouveau contact
-"</li></font></b>" 
+"</li></font></b>"
 "<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts depuis la carte SIM ou SD
 "</li></font></b>" "</string>
     <string name="noFavoritesHelpText">"\"Vous n'avez aucun favori. Pour ajouter un contact à vos favoris: \""<li>"Touchez l'onglet "<b>Contacts</b>\" \"</li>\" \"<li>\"Sélectionnez le contact que vous souhaitez ajouter aux favoris \"</li>\" \"<li>"\"Appuyez sur l'étoile près du nom du contact \""</li>\" \"</string>
@@ -488,9 +488,9 @@ Raison: \"%s\""</string>
     <string name="pick_new_photo">Sélectionnez une nouvelle photo depuis %s</string>
     <string name="locale_change_in_progress">Mise à jour de la liste des contacts pour appliquer le changement de langue.</string>
     <string name="upgrade_in_progress">Mise à jour de la liste de contacts en cours.</string>
-    <string name="upgrade_out_of_memory">"Les contacts vont être mis à jour. 
+    <string name="upgrade_out_of_memory">"Les contacts vont être mis à jour.
 
-Le processus de mise à jour réclame %s Mo de stockage interne. 
+Le processus de mise à jour réclame %s Mo de stockage interne.
 
 Choisissez une des options suivantes:"</string>
     <string name="upgrade_out_of_memory_uninstall">Désinstaller des applications</string>
@@ -841,7 +841,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="photo_fragment">Photo</string>
     <string name="photo_load_failed">Impossible de charger la photo</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données de contact depuis le compte Mi</string>
-    <string name="recent_contacts_label">Récents</string>
+    <string name="recent_contacts_label">Historique</string>
     <string name="noRecentContacts">Aucun contact récent</string>
     <string name="loading_groups">Un instant…</string>
     <string name="loading_group_members">Un instant…</string>
