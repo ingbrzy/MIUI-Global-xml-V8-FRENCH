@@ -4704,7 +4704,7 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="password_turned_on_text">Mot de passe activé</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Mode Smart Cover</string>
     <string name="lock_screen_signature_summary">"Ce message sera affiché sur l'écran de verrouillage"</string>
-    <string name="lock_screen_signature_title">Signature sur écran de verrouillage</string>
+    <string name="lock_screen_signature_title">"Info. propriétaire sur l'écran de verrouillage"</string>
     <string name="launcher_auto_fill_empty_title">Remplir les cellules vides</string>
     <string name="lock_screen_cells_title">"Geler l'agencement de l'écran d'accueil"</string>
     <string name="defalut_launcher_title">Lanceur par défaut</string>
