@@ -91,7 +91,7 @@
   <string name="favorite_playlist">Favoris</string>
   <string name="favorite_singer">Artistes favoris</string>
   <string name="favorite_tracks">Favoris</string>
-   <string name="female_artist">Artistes féminins</string>
+  <string name="female_artist">Artistes féminines</string>
   <string name="fragment_more">Plus</string>
   <string name="ktv_playlist">Mon KTV</string>
   <string name="my_music_empty">Liste vide</string>
