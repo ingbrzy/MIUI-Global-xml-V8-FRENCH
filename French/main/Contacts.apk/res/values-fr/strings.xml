@@ -176,7 +176,7 @@
     <string name="contactsAllLabel">Contacts</string>
     <string name="contactsGroupsLabel">Groupes</string>
     <string name="contactsFavoritesLabel">Favoris</string>
-    <string name="dialerIconLabel">Récents</string>
+    <string name="dialerIconLabel">Historique</string>
     <string name="recentCallsIconLabel">"Journal d'appels"</string>
     <string name="menu_sendTextMessage">Envoyer un SMS</string>
     <string name="recentCalls_callNumber">Appeler %s</string>
@@ -1018,7 +1018,7 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="smart_group_loading">Juste une seconde…</string>
     <string name="smart_group_company_label">Entreprises</string>
     <string name="smart_group_location_label">Localisations</string>
-    <string name="smart_group_frequency_label">Récents</string>
+    <string name="smart_group_frequency_label">Historique</string>
     <string name="smart_group_company_unavailable">"Aucune info sur l'entreprise"</string>
     <string name="smart_group_location_unavailable">Aucune information de localisation</string>
     <string name="smart_group_frequency_1">Dans le dernier mois</string>
