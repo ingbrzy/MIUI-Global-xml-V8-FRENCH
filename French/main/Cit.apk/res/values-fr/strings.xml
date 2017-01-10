@@ -319,4 +319,7 @@ Tournez le téléphone, parler dans le microphone arrière, vous devriez entendr
     <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Test du microphone avant.
 
 Tournez le téléphone, parlez dans le microphone avant, vous devriez entendre votre voix dans le haut-parleur"</string>
+  <string name="cit_ramdump_crash">Forcer un crash system quand le modem crash</string>
+  <string name="cit_ramdump_dload">"Forcer aller dans le mode téléchargement"</string>
+  <string name="cit_tool_ramdump">Config. du ramdump</string>
 </resources>

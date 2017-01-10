@@ -23,7 +23,7 @@ Voir la politique de confidentialité du clavier sélectionné."</string>
     <string name="other_settings_auto_update">Mettre à jour automatiquement</string>
     <string name="other_settings_auto_update_summary">MIUI sélectionnera le temps de veille pour télécharger et installer les mises à jour.</string>
     <string name="other_settings_mifg_online_content">"Carrousel de fond d'écran"</string>
-    <string name="other_settings_mifg_online_content_summary">"Obtenez régulièrement de nouveaux fonds d'écran pour votre écran de verrouillage."</string>
+    <string name="other_settings_mifg_online_content_summary">Autoriser le Carrousel de fond d\'écran à se connecter à Internet afin de télécharger de nouvelles images.</string>
     <string name="back">Retour</string>
     <string name="next">Suivant</string>
     <string name="skip_underline">Passer cette étape</string>
