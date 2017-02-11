@@ -3304,7 +3304,7 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="path_device_info_memory">Paramètres/Stockage</string>
     <string name="path_storage_settings">Paramètres/Stockage/Nettoyeur</string>
     <string name="path_led_settings">Paramètres/Paramètres additionnels/Notifications lumineuses</string>
-    <string name="path_key_settings">Paramètres/Paramètres additionnels/Boutons</string>
+    <string name="path_key_settings">Paramètres/Paramètres supplémentaires/Boutons</string>
     <string name="path_app_switch_key">Paramètres/Paramètres supplémentaires/Boutons/Récents</string>
     <string name="path_home_key">Paramètres/Paramètres supplémentaires/Boutons/Accueil</string>
     <string name="path_back_key">Paramètres/Paramètres supplémentaires/Boutons/Retour</string>
@@ -4309,7 +4309,7 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="children_mode_tips_on">"Après avoir désactivé le Mode enfant, appuyez sur le bouton Accueil pour revenir à l'écran d'accueil."</string>
     <string name="children_mode_tips_off">"Après avoir activé le Mode enfant, appuyez sur le bouton Accueil pour revenir à l'écran d'accueil."</string>
     <string name="children_mode_enable_title">Mode enfant</string>
-    <string name="children_mode_set_apps_title">Applications accesibles</string>
+    <string name="children_mode_set_apps_title">Applications accessibles</string>
     <string name="set_password_title">Définir un mot de passe</string>
     <string name="set_password_message">Définir un mot de passe pour désactiver le Mode enfant comme vous déverrouillez votre appareil.</string>
     <string name="cancel_action">Annuler</string>
