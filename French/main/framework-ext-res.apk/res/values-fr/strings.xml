@@ -132,4 +132,6 @@
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi et données mobiles activées</string>
     <string name="xspace_resolver_activity_title">Sélectionner une application</string>
     <string name="user_switching_dialog_text">Changement…</string>
+    <string name="translation_more">Suite</string>
+    <string name="status_bar_toggle_battery_saver">Éco. batterie</string>
 </resources>

@@ -49,7 +49,7 @@
     <string name="category_other">Autres</string>
     <string name="category_favorite">Mes favoris</string>
     <string name="category_bluetooth">Bluetooth</string>
-    <string name="category_recent">Récent</string>
+    <string name="category_recent">Historique</string>
     <string name="category_download">Téléchargements</string>
     <string name="category_midrive">Mi Drive</string>
     <string name="operation_rename_message">Renommez le dossier</string>
@@ -180,7 +180,7 @@
     <string name="can_not_send_with_too_many">"Impossible d'envoyer autant d'éléments à la fois"</string>
     <string name="tab_source">Applications</string>
     <string name="tab_more">Plus</string>
-    <string name="title_recent">Récent</string>
+    <string name="title_recent">Historique</string>
     <string name="title_expire_video">À expiration</string>
     <string name="title_app_tags">Applications</string>
     <string name="group_title">%2$s dans %1$s</string>
@@ -350,7 +350,7 @@
     <string name="make_private_msg_1">Cacher ce fichier ?</string>
     <string name="make_private_msg_2">Cacher ces fichiers ?</string>
     <string name="make_private_msg_3">Tous les fichiers dans ce dossier seront cachés.</string>
-    <string name="homepage_tab_recent">Récent</string>
+    <string name="homepage_tab_recent">Historique</string>
     <string name="homepage_tab_category">Catégories</string>
     <string name="homepage_tab_file_view">Stockage</string>
     <string name="found_usb">Stockage USB connecté</string>
@@ -620,7 +620,7 @@
     <string name="youliao_dialog_title">Aucune vidéo intéressante ?</string>
     <string name="update">Mise à jour</string>
     <string name="youliao_ad_title">Popular videos have been upgraded!</string>
-    <string name="youliao_dialog_msg">"Popular videos were replaced with \"Youliao\" 
+    <string name="youliao_dialog_msg">"Popular videos were replaced with \"Youliao\"
 which is an app dedicated to bringing you more fun!"</string>
     <string name="youliao_ad_msg">"Amusez-vous avec \"Youliao\" !
 Rejoignez 170 millions de Fans Mi !"</string>

@@ -4710,4 +4710,7 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="defalut_launcher_title">Lanceur par défaut</string>
     <string name="miui_screen_config_title">"Paramètres écran d'accueil"</string>
     <string name="launcher_title">"Écran d'accueil"</string>
+    <string name="keyboard_and_input_methods_category">"Clavier et méthodes de saisie"</string>
+    <string name="virtual_keyboard_category">Clavier virtuel</string>
+    <string name="add_virtual_keyboard">Gérer les claviers</string>
 </resources>

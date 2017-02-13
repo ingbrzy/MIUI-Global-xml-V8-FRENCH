@@ -591,8 +591,8 @@
         <item>Violette</item>
     </string-array>
     <string-array name="screen_key_position_action">
-        <item>Bouton menu sur la gauche, le bouton retour sur la droite</item>
-        <item>Bouton Retour sur la gauche, le bouton menu sur la droite</item>
+        <item>Bouton menu sur la gauche, retour sur la droite</item>
+        <item>Bouton Retour sur la gauche, menu sur la droite</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Afficher les applications récentes</item>
