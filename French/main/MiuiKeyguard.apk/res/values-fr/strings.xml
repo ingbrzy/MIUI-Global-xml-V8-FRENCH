@@ -65,7 +65,7 @@
     <string name="input_pattern_hint_text">Dessinez un schéma de déverrouillage</string>
     <string name="input_password_after_boot_msg">Pour déverrouiller votre appareil, saisissez votre mot de passe</string>
     <string name="fingerprint_lockout_msg">Patientez une minute, puis réessayez de déverrouiller avec votre empreinte</string>
-    <string name="accessibility_enter_lock_wallpaper">"Appuyer pour ouvrir le Fond d'écran Carousel"</string>
+    <string name="accessibility_enter_lock_wallpaper">"Appuyer pour ouvrir le Fond d'écran Carrousel"</string>
     <string name="lock_wallpaper_learn_more">Plus</string>
     <string name="lock_wallpaper_enter">Entrer</string>
     <string name="custom_lock_wallpaper_enter">Entrer</string>

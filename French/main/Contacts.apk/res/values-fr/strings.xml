@@ -749,8 +749,8 @@ Les cartes de contact ont été désactivées"</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d s</string>
-    <string name="callrecordview_item_op_time_short_outgoing">"Sortant : "</string>
-    <string name="callrecordview_item_op_time_short_incoming">"Entrant : "</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"- Sortant : "</string>
+    <string name="callrecordview_item_op_time_short_incoming">"- Entrant : "</string>
     <string name="callrecordview_item_op_time_missed">Non connecté</string>
     <string name="callrecordview_item_op_time_rejected">Rejeté</string>
     <string name="callrecordview_menu_show_title">"Affichage d'historique d'appels"</string>
@@ -1242,4 +1242,5 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="fraud_more_indemnity">Plus</string>
     <string name="telecom_fraud_insurance">Assurance de fraude dans les télécoms</string>
     <string name="telecom_fraud_insurance_description">Assurance 10.000 CNY | Offre exclusive Xiaomi | 9,9 CNY par an</string>
+    <string name="yesterday">Hier</string>
 </resources>

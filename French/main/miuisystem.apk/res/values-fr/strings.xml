@@ -116,7 +116,7 @@
     <string name="frequent_phrases_size_exceeded">"Vous pouvez ajouter jusqu'à %1$d phrases fréquentes. Supprimez celles que vous n'utilisez pas pour en ajouter plus."</string>
     <string name="lollipop">Lollipop</string>
     <string name="glockenspiel">Glockenspiel</string>
-    <string name="carousel">Carousel</string>
+    <string name="carousel">Carrousel</string>
     <string name="toyrobot">ToyRobot</string>
     <string name="daydream">Rêverie</string>
     <string name="cta_permission_delimiter">,</string>
