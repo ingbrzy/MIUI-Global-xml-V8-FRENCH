@@ -280,7 +280,7 @@ Prenez plus de photos à vos amis !"</string>
     <string name="operation_do_delete_local_thumnail">"Supprimer de l'appareil"</string>
     <string name="operation_enable_auto_upload">Activer la synchronisation avec Mi Cloud</string>
     <string name="operation_disable_auto_upload">Désactiver la synchronisation avec Mi Cloud</string>
-    <string name="operation_remove_from_other_albums">Déplacer depuis d'autres albums</string>
+    <string name="operation_remove_from_other_albums">"Déplacer depuis d'autres albums"</string>
     <string name="operation_move_to_other_albums">"Déplacer vers d'autres albums"</string>
     <string name="operation_show_in_photos_tab">Afficher dans Photos</string>
     <string name="operation_not_show_in_photos_tab">Ne pas afficher dans Photos</string>
