@@ -4,7 +4,6 @@
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
 
-  <string name="prepaid_picker_title_default">Sélectionnez le montant</string>
   <string name="prepaid_picker_title_selected">Montant</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Recharge maximum de %1$s RMB par mois uniquement</string>

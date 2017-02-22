@@ -129,7 +129,6 @@
     <string name="deny">Refuser</string>
     <string name="dlg_close">Fermer</string>
     <string name="dlg_switch">Changer</string>
-    <string name="device_info_default">Inconnu</string>
     <string name="show_dev_on">Vous êtes désormais un développeur !</string>
     <string name="show_dev_already">Inutile, vous êtes déjà un développeur.</string>
     <string name="header_category_wireless_networks">Réseau</string>
@@ -259,7 +258,6 @@ Des signaux Bluetooth basse consommation sont utilisés à cet effet."</string>
     <string name="proxy_port_label">Port</string>
     <string name="proxy_exclusionlist_label">Proxy pour</string>
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-    <string name="proxy_defaultView_text">Rétablir les paramètres par défaut</string>
     <string name="proxy_action_text">OK</string>
     <string name="proxy_hostname_label">"Nom de l'hôte"</string>
     <string name="proxy_hostname_hint">proxy.example.com</string>
@@ -544,8 +542,6 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir sa configurati
     <string name="bluetooth_pairing_key_msg">"Code d'association Bluetooth"</string>
     <string name="bluetooth_enter_passkey_msg">"Saisissez le code d'association, puis appuyez sur Retour ou Entrée."</string>
     <string name="bluetooth_enable_alphanumeric_pin">Le code PIN contient des lettres ou des symboles.</string>
-    <string name="bluetooth_pin_values_hint">Habituellement 0000 ou 1234</string>
-    <string name="bluetooth_pin_values_hint_16_digits">Doit comporter 16 chiffres.</string>
     <string name="bluetooth_enter_pin_other_device">"Vous devrez peut-être également saisir ce code PIN sur l'autre appareil."</string>
     <string name="bluetooth_enter_passkey_other_device">"Vous devrez peut-être également saisir ce mot de passe sur l'autre appareil."</string>
     <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assurez-vous que le mot de passe &lt;br>&lt;b>%2$s&lt;/b> s'affiche."</string>
@@ -790,7 +786,6 @@ Donner cette autorisation à toutes les applications souhaitant activer la reche
     <string name="wifi_hotspot_configure_ap_text">Configuration point accès Wi‑Fi</string>
     <string name="wifi_hotspot_configure_ap_text_summary">"Point d'acc. Wi-Fi port. AndroidAP WPA2 PSK"</string>
     <string name="wifi_tether_configure_subtext">"Point d'accès mobile %1$s, %2$s"</string>
-    <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="wifi_calling_settings_title">Appels Wi-Fi</string>
     <string name="wifi_calling_mode_title">"Préférence d'appel"</string>
     <string name="wifi_calling_mode_dialog_title">Mode Appels Wi-fi</string>
@@ -1148,9 +1143,7 @@ Veuillez utiliser un ^1 plus rapide pour de meilleures performances."</string>
     <string name="error_apn_empty">"L'APN est obligatoire."</string>
     <string name="error_mcc_not3">Le champ MCC doit contenir 3 chiffres.</string>
     <string name="error_mnc_not23">Le champ MNC doit contenir 2 ou 3 chiffres.</string>
-    <string name="restore_default_apn">Restauration des paramètres APN par défaut en cours...</string>
     <string name="menu_restore">Réinitialiser</string>
-    <string name="restore_default_apn_completed">La réinitialisation des paramètres APN par défaut est terminée.</string>
     <string name="reset_network_title">Réinitialisation des paramètres réseau</string>
     <string name="reset_network_desc">"Tous les paramètres réseau seront réinitialisés, y compris les suivants :
 
@@ -1222,9 +1215,6 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
     <string name="network_settings_title">Réseaux Mobiles</string>
     <string name="manage_mobile_plan_title">Forfait mobile</string>
     <string name="sms_application_title">Application de SMS</string>
-    <string name="sms_change_default_dialog_title">"Changer d'application pour les SMS ?"</string>
-    <string name="sms_change_default_dialog_text">Utiliser %1$s au lieu de %2$s comme application SMS ?</string>
-    <string name="sms_change_default_no_previous_dialog_text">Utiliser %s comme application SMS ?</string>
     <string name="network_scorer_change_active_dialog_title">"Changer d'assistant Wi‑Fi ?"</string>
     <string name="network_scorer_change_active_dialog_text">Utiliser %1$s au lieu de %2$s pour gérer vos connexions réseau ?</string>
     <string name="network_scorer_change_active_no_previous_dialog_text">Utiliser %s pour gérer vos connexions réseau ?</string>
@@ -1377,7 +1367,6 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
     <string name="sort_order_size">Trier par taille</string>
     <string name="show_running_services">Afficher les services</string>
     <string name="show_background_processes">Voir processus en cache</string>
-    <string name="default_emergency_app">Application pour les urgences</string>
     <string name="reset_app_preferences">Réinitialiser préférences</string>
     <string name="reset_app_preferences_title">Réinitialiser préférences ?</string>
     <string name="reset_app_preferences_desc">"Cette opération a pour effet de réinitialiser toutes les préférences relatives aux éléments suivants :
@@ -1425,7 +1414,6 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
     <string name="security_settings_billing_desc">Cette application peut engendrer des frais :</string>
     <string name="security_settings_premium_sms_desc">Envoyer un SMS premium</string>
     <string name="computing_size">Traitement...</string>
-    <string name="invalid_size_value">Impossible de calculer la taille du package.</string>
     <string name="empty_list_msg">"Aucune application tierce n'est installée."</string>
     <string name="version_text">version %1$s</string>
     <string name="move_app">Déplacer</string>
@@ -1453,7 +1441,6 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
     <string name="app_ops_settings">Fonctionnement des applications</string>
     <string name="app_ops_running">"En cours d'exécution"</string>
     <string name="app_ops_never_used">(Jamais utilisé)</string>
-    <string name="no_default_apps">Aucune appli par défaut</string>
     <string name="storageuse_settings_title">Utilisation du stockage</string>
     <string name="storageuse_settings_summary">"Afficher l'espace de stockage utilisé par les applications"</string>
     <string name="runningservices_settings_title">"Services en cours d'exécution"</string>
@@ -1521,7 +1508,6 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
     <string name="keyboard_layout_dialog_title">Sélectionner disposition du clavier</string>
     <string name="keyboard_layout_dialog_setup_button">Configurer dispositions clavier</string>
     <string name="keyboard_layout_dialog_switch_hint">Appuyez sur Ctrl+Espace pour changer disposition</string>
-    <string name="keyboard_layout_default_label">Par défaut</string>
     <string name="keyboard_layout_picker_title">Dispositions du clavier</string>
     <string name="user_dict_settings_title">Dictionnaire personnel</string>
     <string name="user_dict_settings_summary" />
@@ -1704,7 +1690,6 @@ Si l'appareil est utilisé par plusieurs personnes, l’utilisation de ce raccou
     <string name="captioning_typeface">Famille de polices</string>
     <string name="captioning_preview_text">Aperçu des sous-titres</string>
     <string name="captioning_preview_characters">Aa</string>
-    <string name="locale_default">Par défaut</string>
     <string name="color_title">Couleur</string>
     <string name="color_unspecified">Par défaut</string>
     <string name="color_none">Aucune</string>
@@ -1730,7 +1715,6 @@ Si l'appareil est utilisé par plusieurs personnes, l’utilisation de ce raccou
     <string name="disable_service_title">Arrêter %1$s ?</string>
     <string name="disable_service_message">Si vous appuyez sur \"OK\", %1$s sera interrompu.</string>
     <string name="accessibility_no_services_installed">Aucun service installé</string>
-    <string name="accessibility_service_default_description">Aucune description fournie</string>
     <string name="settings_button">Paramètres</string>
     <string name="print_settings">Impression</string>
     <string name="print_settings_title">"Services d'impression"</string>
@@ -1914,19 +1898,8 @@ Si l'appareil est utilisé par plusieurs personnes, l’utilisation de ce raccou
     <string name="voice_interaction_security_warning">"Ce service de saisie vocale pourra effectuer une écoute vocale permanente et utiliser en votre nom les applications commandées par la voix. Il provient de l'application : %s. Autoriser l'utilisation de ce service ?"</string>
     <string name="tts_settings">Paramètres de la synthèse vocale</string>
     <string name="tts_settings_title">Synthèse vocale</string>
-    <string name="use_default_tts_settings_title">Utiliser mes paramètres</string>
-    <string name="use_default_tts_settings_summary">"Remplacer les paramètres de l'application par les paramètres ci-dessous"</string>
-    <string name="tts_default_settings_section">Paramètres par défaut</string>
-    <string name="tts_default_synth_title">Moteur par défaut</string>
-    <string name="tts_default_synth_summary">Définir le moteur de synthèse vocale à utiliser pour le texte énoncé</string>
-    <string name="tts_default_rate_title">Cadence</string>
-    <string name="tts_default_rate_summary">Vitesse à laquelle le texte est énoncé</string>
-    <string name="tts_default_pitch_title">Ton</string>
-    <string name="tts_default_pitch_summary">Affecte le ton utilisé par la synthèse vocale</string>
-    <string name="tts_default_lang_title">Langue</string>
     <string name="tts_lang_use_system">Utiliser la langue du système</string>
     <string name="tts_lang_not_selected">Langue non sélectionnée</string>
-    <string name="tts_default_lang_summary">Définir la langue utilisée par la synthèse vocale</string>
     <string name="tts_play_example_title">Écouter un échantillon</string>
     <string name="tts_play_example_summary">Lire une courte démonstration de la synthèse vocale</string>
     <string name="tts_install_data_title">Installer les données vocales</string>
@@ -1938,7 +1911,6 @@ Si l'appareil est utilisé par plusieurs personnes, l’utilisation de ce raccou
     <string name="tts_engine_error_reselect">Sélectionner un autre moteur</string>
     <string name="tts_engine_security_warning">Ce moteur de synthèse vocale est susceptible de collecter tout ce qui sera lu, y compris les données personnelles comme les mots de passe et les numéros de carte de paiement. Il provient du moteur %s. Voulez-vous activer son utilisation ?</string>
     <string name="tts_engine_network_required">Une connexion réseau est nécessaire pour la synthèse vocale dans cette langue.</string>
-    <string name="tts_default_sample_string">Voici un échantillon de synthèse vocale.</string>
     <string name="tts_status_title">État de la langue par défaut</string>
     <string name="tts_status_ok">Les paramètres régionaux %1$s sont compatibles.</string>
     <string name="tts_status_requires_network">Les paramètres régionaux %1$s nécessitent une connexion réseau.</string>
@@ -2016,7 +1988,6 @@ Si l'appareil est utilisé par plusieurs personnes, l’utilisation de ce raccou
     <string name="auto_restore_title">Restaurer automatiquement</string>
     <string name="auto_restore_summary">"Lors de la réinstallation d'une application, restaurer les paramètres et les données sauvegardées"</string>
     <string name="backup_inactive_title">"Le service de sauvegarde n'est pas activé."</string>
-    <string name="backup_configure_account_default_summary">Aucun compte ne stocke actuellement des données sauvegardées.</string>
     <string name="local_backup_password_title">Mot de passe sauvegarde PC</string>
     <string name="local_backup_password_summary_none">Les sauvegardes complètes sur PC ne sont pas protégées actuellement.</string>
     <string name="local_backup_password_summary_change">Appuyez pour modifier ou supprimer le mot de passe utilisé pour les sauvegardes complètes sur PC.</string>
@@ -2440,20 +2411,13 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="nfc_payment_settings_title">Paiement sans contact</string>
     <string name="nfc_payment_how_it_works">Fonctionnement</string>
     <string name="nfc_payment_no_apps">Payez avec votre téléphone dans les magasins.</string>
-    <string name="nfc_payment_default">Application de paiement par défaut</string>
-    <string name="nfc_payment_default_not_set">Non définie</string>
     <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
-    <string name="nfc_payment_use_default">"Utiliser l'application par défaut"</string>
-    <string name="nfc_payment_favor_default">Toujours</string>
     <string name="nfc_payment_favor_open">Sauf si une autre application de paiement est ouverte</string>
     <string name="nfc_payment_pay_with">Application à utiliser aux terminaux de paiement sans contact :</string>
     <string name="nfc_how_it_works_title">Paiement à un terminal</string>
     <string name="nfc_how_it_works_content">"Configurez une application de paiement. Il suffit ensuite de poser l'arrière de votre téléphone sur n'importe quel terminal disposant du symbole Sans contact."</string>
     <string name="nfc_how_it_works_got_it">OK</string>
     <string name="nfc_more_title">Plus...</string>
-    <string name="nfc_payment_set_default_label">Définir comme mode de paiement prioritaire ?</string>
-    <string name="nfc_payment_set_default">Toujours utiliser %1$s pour les paiements sans contact ?</string>
-    <string name="nfc_payment_set_default_instead_of">"Toujours utiliser %1$s au lieu de l'application %2$s pour les paiements sans contact ?"</string>
     <string name="restriction_settings_title">Restrictions</string>
     <string name="restriction_menu_reset">Annuler les restrictions</string>
     <string name="restriction_menu_change_pin">Modifier le code PIN</string>
@@ -2546,7 +2510,6 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="search_recents_queries_label">Recherches récentes</string>
     <string name="search_results_label">Résultats</string>
     <string name="keywords_wifi">wifi wi-fi réseau connexion</string>
-    <string name="keywords_more_default_sms_app">SMS SMS/MMS messages messagerie</string>
     <string name="keywords_more_mobile_networks">cellulaire opérateur mobile données sans fil 4g 3g 2g lte</string>
     <string name="keywords_wifi_calling">wifi wi-fi appel appels</string>
     <string name="keywords_home">"lanceur d'applications"</string>
@@ -2576,10 +2539,8 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="keywords_keyboard_and_ime">correction de texte corriger son vibreur automatique langue geste suggérer suggestion thème choquant type de mot emoji international</string>
     <string name="keywords_reset_apps">réinitialiser préférences valeur par défaut</string>
     <string name="keywords_emergency_app">"application par défaut en cas d'urgence"</string>
-    <string name="keywords_default_phone_app">clavier de téléphone par défaut</string>
     <string name="keywords_all_apps">applis télécharger applications système</string>
     <string name="keywords_app_permissions">sécurité des autorisations des applications</string>
-    <string name="keywords_default_apps">applications par défaut</string>
     <string name="keywords_ignore_optimizations">"ignorer les optimisations, mettre en veille l'application"</string>
     <string name="keywords_lockscreen">"faire glisser mot de passe schéma code d'accès"</string>
     <string name="setup_wifi_nfc_tag">Créer un tag NFC pour Wi-Fi</string>
@@ -2589,7 +2550,6 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="status_write_success">Opération réussie.</string>
     <string name="status_failed_to_write">Impossible de modifier des données sur le tag NFC. Si le problème persiste, essayez avec un autre tag.</string>
     <string name="status_tag_not_writable">"Le tag NFC n'est pas accessible en écriture. Veuillez en utiliser un autre."</string>
-    <string name="default_sound">Son par défaut</string>
     <string name="notification_settings">Sons et notifications</string>
     <string name="media_volume_option_title">Volume des contenus multimédias</string>
     <string name="alarm_volume_option_title">"Volume de l'alarme"</string>
@@ -2768,13 +2728,11 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="encrypt_talkback_dialog_message_password">"Lorsque vous saisissez votre mot de passe pour démarrer cet appareil, les services d'accessibilité comme %1$s ne sont pas disponibles."</string>
     <string name="imei_information_summary">Information relative à IMEI</string>
     <string name="slot_number">(Slot%1$d)</string>
-    <string name="launch_by_default">Ouvrir par défaut</string>
     <string name="storage_summary_format">Utilisation de la %2$s : %1$s</string>
     <string name="app_launch_domain_links_title">Liens des applications</string>
     <string name="app_launch_open_domain_urls_title">Ouvrir les liens compatibles</string>
     <string name="app_launch_open_domain_urls_summary">"Ouvrir sans demander l'autorisation"</string>
     <string name="app_launch_supported_domain_urls_title">Liens compatibles</string>
-    <string name="app_launch_other_defaults_title">Autres valeurs par défaut</string>
     <string name="storage_type_internal">Stockage interne</string>
     <string name="storage_type_external">Stockage externe</string>
     <string name="app_data_usage">Consommation données application</string>
@@ -2792,8 +2750,6 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="notifications_three_items">%1$s/%2$s/%3$s</string>
     <string name="runtime_permissions_summary_no_permissions_granted">Aucune autorisation accordée</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Aucune autorisation demandée</string>
-    <string name="launch_defaults_some">Certains paramètres par défaut définis</string>
-    <string name="launch_defaults_none">Aucun paramètre par défaut défini</string>
     <string name="filter_all_apps">Toutes les applications</string>
     <string name="filter_enabled_apps">Activées</string>
     <string name="filter_personal_apps">Personnelles</string>
@@ -2821,20 +2777,13 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="app_link_open_ask">Toujours demander</string>
     <string name="app_link_open_never">Ne pas ouvrir dans cette application</string>
     <string name="fingerprint_not_recognized">Non reconnu</string>
-    <string name="default_apps_title">Applications par défaut</string>
     <string name="assist_and_voice_input_title">Assistance et saisie vocale</string>
-    <string name="default_assist_title">"Application d'assistance"</string>
-    <string name="default_assist_none">Aucune</string>
     <string name="choose_assist_title">"Sélectionner l'appli d'assistance"</string>
     <string name="assistant_security_warning_title">"Définir %s comme application d'assistance ?"</string>
     <string name="assistant_security_warning">"L'assistant pourra accéder aux informations relatives aux applications en cours d'utilisation sur votre système, y compris aux informations visibles à l'écran ou accessibles au sein des applications."</string>
     <string name="assistant_security_warning_agree">Accepter</string>
     <string name="assistant_security_warning_disagree">Refuser</string>
     <string name="choose_voice_input_title">Sélectionner la saisie vocale</string>
-    <string name="default_browser_title">Application de navigateur</string>
-    <string name="default_browser_title_none">Aucun navigateur par défaut</string>
-    <string name="default_phone_title">Application Téléphone</string>
-    <string name="default_app">(Par défaut)</string>
     <string name="apps_storage">Stockage pour les applications</string>
     <string name="usage_access">"Accès aux données d'utilisation"</string>
     <string name="permit_usage_access">"Autoriser l'accès aux données d'utilisation"</string>
@@ -3526,7 +3475,6 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="power_hide_mode_summary">"Économiser la batterie en limitant les processus d'applications en arrière-plan, Wi-Fi, données mobiles et GPS"</string>
     <string name="battery_indicator_style">Indicateur de batterie</string>
     <string name="power_usage_history">"Historique d'utilisation"</string>
-    <string name="default_usb_mode">Connexion USB</string>
     <string name="wifi_tether_settings_title">"Point d'accès personnel"</string>
     <string name="tether_and_hotspot_title">"Partage de connexion et point d'accès"</string>
     <string name="lock_settings">Écran de verrouillage &amp; mot de passe</string>
@@ -3586,7 +3534,6 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="wifi_disabled_help">"Le réseau a été déconnecté à cause d'un signal trop faible"</string>
     <string name="wifi_wps_overlap_error">Une autre session Wi-Fi a été détectée. Patientez 1 ou 2 minutes et réessayer.</string>
     <string name="wifi_p2p_wps_setup">Configuration WPS</string>
-    <string name="default_input_method">Choisir le clavier par défaut</string>
     <string name="locale_settings">Région</string>
     <string name="country_name">%s (système)</string>
     <string name="install_preinstall_app">Chargement des applications…</string>
@@ -4047,7 +3994,6 @@ Slectionnez votre système d'exploitation :"</string>
     <string name="wifi_required_info_text">"Pour terminer la configuration, votre appareil doit avoir accès au Wi-Fi. Après l'installation, vous pouvez basculer entre les données mobiles et le Wi-Fi."</string>
     <string name="toast_need_login">Connectez-vous à votre compte Mi</string>
     <string name="preferred_app_settings">Par défaut</string>
-    <string name="preferred_app_settings_default">Par défaut</string>
     <string name="preferred_app_settings_not_selected">Non sélectionné</string>
     <string name="preferred_app_settings_reset">Remettre par défaut</string>
     <string name="preferred_app_settings_reset_message">"Les préférences d'application seront restaurées par les paramètres par défaut."</string>

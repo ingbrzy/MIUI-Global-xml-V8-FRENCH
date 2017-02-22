@@ -396,7 +396,6 @@ Prenez plus de photos à vos amis !"</string>
     <string name="create_new_album">Créer un album</string>
     <string name="album_already_exists">Un album avec le même nom existe déjà</string>
     <string name="create_new_album_failed">Impossible de créer</string>
-    <string name="default_album_name">Nouvel album</string>
     <string name="new_album_invalid_prefix">"N'utilisez pas le caractère \".\" ou \"_\" au début du nom de l'album."</string>
     <string name="new_album_invalid_char">Les noms ne peuvent pas contenir \"%s\", entrer une lettre ou un chiffre.</string>
     <string name="new_album_invalid_name">\"%s\" est un album système, veuillez le renommer.</string>
@@ -521,7 +520,6 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="browse_category_title">Parcourir</string>
     <string name="show_hidden_album_title">Afficher les albums cachés</string>
     <string name="slideshow_interval_title">Afficher chaque diapositive</string>
-    <string name="slideshow_interval_value">%1$d secondes</string>
     <string name="slideshow_interval_dialog_title">Entrer un intervalle</string>
     <string name="slideshow_interval_invalid">"L'intervalle doit être compris entre 3 et 3600 secondes"</string>
     <string name="other_settings">Paramètres supplémentaires</string>

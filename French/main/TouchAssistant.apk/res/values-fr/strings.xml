@@ -38,7 +38,6 @@
     <string name="pref_category_quick_pay">Paiement rapide</string>
     <string name="pref_category_quick_settings">Paramètres rapides</string>
     <string name="pref_category_system">Paramètres système</string>
-    <string name="restore_default">Rétablir les paramètres par défaut</string>
     <string name="restore_intro">Cacher menu raccourci dans les applications sélectionnées .</string>
     <string name="show_on_keyguard">"Afficher sur l'écran de verrouillage"</string>
     <string name="theme_manager_not_supported">Gestionnaire de thème non pris en charge.</string>

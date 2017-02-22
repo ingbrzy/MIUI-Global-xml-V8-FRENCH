@@ -102,9 +102,6 @@
     <string name="search_history_cleared">Historique des recherches effacé.</string>
     <string name="preferences_alerts_title">Notifications</string>
     <string name="preferences_alerts_popup_title">Notification dans pop-up</string>
-    <string name="preferences_default_reminder_title">Rappel par défaut</string>
-    <string name="preferences_default_reminder_dialog">Rappel par défaut</string>
-    <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_use_home_tz_title">Mon fuseau horaire</string>
     <string name="preferences_use_home_tz_descrip">"Afficher les agendas et les événements dans votre fuseau horaire habituel, même en  déplacement"</string>
     <string name="preferences_home_tz_title">Mon fuseau horaire</string>
@@ -141,7 +138,6 @@
     <string name="menu_reminder_preferences">Rappels</string>
     <string name="account_and_calendar">Comptes</string>
     <string name="account_and_calendar_to_display">Événements du calendrier</string>
-    <string name="default_reminder_mode">Rappels</string>
     <string name="time_zone">Fuseau horaire</string>
     <string name="event_all_day_label">Toute la journée</string>
     <string name="today_no_events">Aucun événement</string>
@@ -207,7 +203,6 @@
     <string name="birthday_notification_title_days_later">%2$s de %1$s est pour très bientôt.</string>
     <string name="birthday_notification_text_days_later">"%1$s jours jusqu'à l'%4$s (%5$s)"</string>
     <string name="birthday_event_description">"Aujourd'hui, c'est l'%4$s de %1$s !"</string>
-    <string name="birthday_event_description_default">%4$s de %1$s %2$s %3$s</string>
     <string name="birthday_event_description_special">"%1$s c'est l'%5$s de %2$s (%3$s %4$s)"</string>
     <string name="birthday_event_description_today">"Aujourd'hui c'est"</string>
     <string name="birthday_event_description_tomorrow">"Demain c'est"</string>

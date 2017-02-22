@@ -271,7 +271,6 @@
     <string name="match_data_error_tips">"Impossible d'obtenir les informations
 Retounez pour continuer"</string>
     <string name="match_dataset_frame">%1$d/%2$d</string>
-    <string name="match_direction_default">Les boutons de direction fonctionnent-ils ?</string>
     <string name="match_dvd_intro_pause">Relâchez quand la lecture du DVD pause</string>
     <string name="match_dvd_intro_play">Relâchez quand le DVD commence à jouer</string>
     <string name="match_dvd_intro_stop">"Relâchez quand la lecture du DVD s'arrête"</string>
@@ -292,7 +291,6 @@ Relâchez lorsque %1$s réagit"</string>
     <string name="match_mibox_sencond">    · Contrôler votre Mi TV avec cet appareil.</string>
     <string name="match_mibox_third">"    · Ajouter d'autres appareils Mi automatiquement"</string>
     <string name="match_name_power">Batterie</string>
-    <string name="match_number_default">Les boutons numérotés fonctionnent-ils ?</string>
     <string name="match_stb_intro_left">Relâchez quand le curseur se déplace à gauche</string>
     <string name="match_stb_intro_ok">"Relâchez lorsque le changement s'affiche à l'écran"</string>
     <string name="match_stb_intro_up">Relâchez quand le curseur se déplace vers le haut</string>
@@ -301,7 +299,6 @@ Relâchez lorsque %1$s réagit"</string>
     <string name="match_stb_name_up">En haut</string>
     <string name="match_stb_seletion_des">Choisissez votre localisation</string>
     <string name="match_succuss">La configuration est terminée</string>
-    <string name="match_tip_default">"L'appareil réagit-il ?"</string>
     <string name="match_tip_eject">Le bouton éjecter fonctionne-t-il ?</string>
     <string name="match_tip_exit">Le bouton sortie fonctionne-t-il ?</string>
     <string name="match_tip_ff">Le bouton avance rapide fonctionne-t-il ?</string>
@@ -418,7 +415,6 @@ attendez un instant après l'action."</string>
     <string name="save_share_title">Sauvegarder la télécommande sur cet appareil ?</string>
     <string name="scaning">Recherche…</string>
     <string name="scanning_milink">"Recherche d'appareils…"</string>
-    <string name="scene_default">Par défaut</string>
     <string name="scene_name_frame">%1$s %2$s%3$s</string>
     <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">"Capture d'écran"</string>

@@ -3,12 +3,6 @@
 	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
     more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
-  <string-array name="sleep_duration_values">
-      <item>15 minutes</item>
-      <item>30 minutes</item>
-      <item>45 minutes</item>
-      <item>1 Heure</item>
-  </string-array>
   <string-array name="presetlist_edit_category">
       <item>Renommer</item>
       <item>Sélection auto</item>

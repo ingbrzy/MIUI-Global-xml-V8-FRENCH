@@ -111,7 +111,6 @@
     <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Tous les certificats)</string>
     <string name="account_setup_incoming_server_label">Serveur</string>
     <string name="account_setup_incoming_username_label">"Nom d'utilisateur"</string>
-    <string name="account_setup_incoming_username_label_default_hint">Vous devez inclure un domaine</string>
     <string name="account_setup_need_password_verification">Votre compte nécessite une deuxième authentification par mot de passe</string>
     <string name="account_setup_options_mail_check_frequency_10min">Toutes les 10 minutes</string>
     <string name="account_setup_options_mail_check_frequency_12hour">Toutes les 12 heures</string>
@@ -127,7 +126,6 @@
     <string name="account_setup_options_mail_window_3days">3 derniers jours</string>
     <string name="account_setup_options_mail_window_all">Tout</string>
     <string name="account_setup_options_mail_window_auto">Automatique</string>
-    <string name="account_setup_options_mail_window_default">Utiliser le compte par défaut</string>
     <string name="account_setup_options_mail_window_label">Synchroniser les e-mails à partir de</string>
     <string name="account_setup_options_mail_window_label_imap_or_pop3">Garder pour</string>
     <string name="account_setup_options_title">Paramètres du compte</string>
@@ -260,7 +258,6 @@
     <string name="contact_in_filter_call_phone_str">Appeler depuis %s</string>
     <string name="contact_in_filter_title">Expéditeur</string>
     <string name="contact_info_string">Afficher les informations de contact pour %1$s</string>
-    <string name="contact_info_string_default">Afficher les informations de contact</string>
     <string name="contact_list_add_btn">Ajouter</string>
     <string name="contact_list_search_hint">Rechercher des contacts</string>
     <string name="contact_list_title">Contacts</string>
@@ -298,9 +295,6 @@
     <string name="date_heading">"Date : "</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">"Aujourd'hui, %1$s"</string>
-    <string name="default_">DEFAULT</string>
-    <string name="default_setup">PARAMETRES PAR DEFAUT</string>
-    <string name="default_signature">Envoyé depuis mon Téléphone Mi</string>
     <string name="del_account_questionnair_hint">Pourriez-vous nous dire pourquoi vous voulez supprimer ce compte ?</string>
     <string name="delete">Supprimer</string>
     <string name="delete_message_flow">Supprimer les messages</string>
@@ -518,7 +512,6 @@
 %s "</string>
     <string name="megabytes">%s Mo</string>
     <string name="menu_att_mgr">Pièces jointes</string>
-    <string name="menu_att_mgr_order_default">Récemment vu</string>
     <string name="menu_att_mgr_order_mime">Trier par format</string>
     <string name="menu_att_mgr_order_name">Trier par nom</string>
     <string name="menu_att_mgr_order_rev_date">Trier par date de réception</string>

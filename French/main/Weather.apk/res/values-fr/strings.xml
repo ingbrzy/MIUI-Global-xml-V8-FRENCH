@@ -106,7 +106,6 @@
     <string name="tts_report_aqi" />
     <string name="tts_report_split" />
     <string name="tts_report_defautl_head" />
-    <string name="realtime_wind_default_title">Vent</string>
     <string name="realtime_humidity_title">Humidité Relative</string>
     <string name="realtime_aqi_title">"Indice de qualité de l'air (IQA)"</string>
     <string name="aqi_detail_sub_title">"Détails de l'IQA"</string>

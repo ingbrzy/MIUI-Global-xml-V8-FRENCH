@@ -195,7 +195,6 @@ d MMMM"</string>
     <string name="torch_activity_hint">"Maintenez [icon] pour activer la torche sur l'écran de verrouillage"</string>
     <string name="torch_opened">Torche allumée</string>
     <string name="torch_closed">Torche éteinte</string>
-    <string name="lockscreen_carrier_default">Aucun service</string>
     <string name="chooseUsbActivity">Choisissez une application à associer au périphérique USB</string>
     <string name="usb_storage_title">USB connecté</string>
     <string name="usb_storage_message">Vous êtes connecté à votre ordinateur par USB. Appuyez sur le bouton ci-dessous si vous souhaitez copier des fichiers entre votre ordinateur et le stockage de votre téléphone.</string>

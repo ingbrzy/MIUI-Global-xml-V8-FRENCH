@@ -106,7 +106,6 @@
     <string name="apply_password_action">OK </string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Placez votre doigt sur le bouton Accueil</string>
     <string name="maml_component_customization_title">Paramètres</string>
-    <string name="default_name">Nom par défaut</string>
     <string name="resource_select">Sélectionner</string>
     <string name="group_name_contacts">Contacts</string>
     <string name="group_name_friends">Amis</string>

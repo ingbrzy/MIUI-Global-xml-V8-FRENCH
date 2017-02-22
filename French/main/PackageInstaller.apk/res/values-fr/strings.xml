@@ -81,7 +81,6 @@ Toutes vos données d'utilisateur précédentes vont être enregistrées."</stri
     <string name="no_permissions">Aucune autorisation</string>
     <string name="additional_permissions">Autorisations supplémentaires</string>
     <string name="old_sdk_deny_warning">"Cette application a été conçue pour une ancienne version d'Android. Si vous désactivez les autorisations, l'application risque de ne plus fonctionner comme prévu."</string>
-    <string name="default_permission_description">effectuer une action inconnue</string>
     <string name="app_permissions_group_summary">%1$d application(s) autorisée(s) sur %2$d</string>
     <string name="menu_show_system">Afficher les processus système</string>
     <string name="menu_hide_system">Masquer les processus système</string>

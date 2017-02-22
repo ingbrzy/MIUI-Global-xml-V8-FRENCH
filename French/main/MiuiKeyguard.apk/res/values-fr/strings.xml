@@ -39,7 +39,6 @@
     <string name="lockscreen_access_pattern_cleared">Schéma effacé</string>
     <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée.</string>
     <string name="lockscreen_access_pattern_detected">Schéma terminé.</string>
-    <string name="default_lockscreen_unlock_hint_text">Glissez vers le haut pour déverrouiller</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vous avez mal saisi votre mot de passe %d fois. Après %d tentatives infructueuses supplémentaires, il vous sera demandé de déverrouiller votre téléphone en vous connectant avec votre compte Mi.
 
  Réessayez dans %d secondes."</string>
@@ -54,7 +53,6 @@
     <string name="unlock_string">Déverrouiller</string>
     <string name="open_camera_hint_text">Faites glisser vers la gauche pour ouvrir %s</string>
     <string name="open_remote_center_hint_text">Faites glisser vers la droite pour ouvrir %s</string>
-    <string name="left_action_default_hint_text">Mi Télécommande</string>
     <string name="click_to_enter_text">Appuyez pour afficher</string>
     <string name="fingerprint_try_again_text">Réessayer</string>
     <string name="fingerprint_not_identified_title">Entrez le mot de passe</string>

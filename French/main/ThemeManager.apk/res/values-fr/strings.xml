@@ -9,10 +9,6 @@
     <string name="sdcard_not_mounted_dialog_message">"Insérez une carte SD maintenant.
 "</string>
     <string name="resource_mute">Vide</string>
-    <string name="resource_default">Sonnerie par défaut</string>
-    <string name="resource_ringtone_default">Sonneries</string>
-    <string name="resource_notification_default">Notifications</string>
-    <string name="resource_alarm_default">Alarme</string>
     <string name="resource_detail_header_theme_designer_title">Designer : %1$s</string>
     <string name="description_designer">Créateur</string>
     <string name="description_author">Auteur</string>
@@ -58,7 +54,6 @@
     <string name="download_preview_failed">Impossible de charger laperçu</string>
     <string name="resource_delete_confirm">Supprimer ces ressources ?</string>
     <string name="all_resources">Tout</string>
-    <string name="resource_default_name">Ressource</string>
     <string name="resource_detail">Détails</string>
     <string name="resource_detail_window_title">%1$s détails</string>
     <string name="resource_detail_update_log_title">Mises à jour</string>
@@ -182,9 +177,7 @@
     <string name="resource_comment_edit_title">Commentaire à propos de %1$s</string>
     <string name="resource_comment_edit_comment">Ajouter un commentaire</string>
     <string name="resource_comment_edit_comment_waiting">"Vérification de l'historique…"</string>
-    <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
     <string name="resource_comment_publish">Envoyer</string>
-    <string name="resource_comment_name_default">Utilisateur %1$s</string>
     <string name="resource_comment_loading_list">Un instant…</string>
     <string name="resource_comment_rate">Note :</string>
     <string name="resource_comment_entry_tips">Commentaires (%1$s)</string>
@@ -227,7 +220,6 @@
     <string name="backup_theme_success_message">Les paramètres de votre thème actuel ont été sauvegardés.</string>
     <string name="backup_theme_fail_trial_rights_message">"Impossible de sauvegarder les ressources d'essai"</string>
     <string name="backup_theme_name">Mon thème</string>
-    <string name="theme_description_title_default">Par défaut</string>
     <string name="theme_description_title_customized">Personnaliser</string>
     <string name="component_category_finest_title">GÉNÉRAL</string>
     <string name="component_category_more_title">AVANCÉ</string>
@@ -265,7 +257,6 @@
     <string name="apply_font_tip">Redémarrez pour appliquer la police de ce thème.</string>
     <string name="apply_font_btn_reboot">Redémarrer</string>
     <string name="apply_font_btn_exclude">Plus tard</string>
-    <string name="apply_default_font_tip">Conserver la police actuelle ?</string>
     <string name="theme_yes">Oui</string>
     <string name="theme_no">Non</string>
     <string name="title_component">Personnaliser le thème</string>
@@ -370,7 +361,6 @@
     <string name="provision_loading_tips">Un instant…</string>
     <string name="provision_title">Choisir un thème</string>
     <string name="provision_second_title">Sélectionner un des cinqs thèmes par défaut</string>
-    <string name="provision_default_theme_title">Défaut</string>
     <string name="theme_precast_create_notification_title">Mis à jour vers MIUI 7</string>
     <string name="theme_precast_create_notification_content">Appuyez pour voir les nouveaux thèmes.</string>
     <string name="theme_precast_update_notification_title">Thèmes MIUI 7 mis à jour</string>

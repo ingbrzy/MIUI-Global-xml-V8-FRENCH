@@ -39,7 +39,6 @@
     <string name="toast_notes_hidden_count">%1$s a été masqué avec succès</string>
     <string name="toast_notes_unhidden_count">%1$s a été démasqué avec succès</string>
     <string name="toast_notes_delete_success">Supprimé avec succès</string>
-    <string name="theme_title_default">Défaut</string>
     <string name="theme_title_invitation">Invitation</string>
     <string name="theme_title_arty">Floral</string>
     <string name="theme_title_antique">Automne</string>
@@ -117,7 +116,6 @@ Appuyez sur le plus pour créer un dossier"</string>
     <string name="search_setting_description">Rechercher du texte dans vos notes</string>
     <string name="search">Notes</string>
     <string name="button_new_note">Nouveau</string>
-    <string name="default_folder_name">Dossier sans nom</string>
     <string name="attachment_gallery">Choisir dans Galerie</string>
     <string name="attachment_camera">Prendre une photo</string>
     <string name="attachment_contact">Contacts</string>
@@ -158,7 +156,6 @@ Appuyez sur le plus pour créer un dossier"</string>
     <string name="sns_footer_text">Créé avec Mi Notes</string>
     <string name="dlg_info_creating_message">Création du message…</string>
     <string name="sns_message_disconnect">Impossible de se connecter au réseau. Vérifiez votre connexion et réessayez.</string>
-    <string name="sns_content_default">Partager des photos</string>
     <string name="sns_toast_empty">"Impossible d'envoyer un message vide"</string>
     <string name="sns_toast_over_limit">"Envoyé en tant qu'image"</string>
     <string name="sns_desc_preview_weibo">Prévisualiser le message Weibo</string>

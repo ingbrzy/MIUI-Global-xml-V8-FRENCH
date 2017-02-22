@@ -29,20 +29,13 @@
   <string name="button_no">Non</string>
   <string name="alphabet">Alphabets</string>
   <string name="digits">Chiffres (0-9, *, #, +)</string>
-  <string name="default_call_setup_msg">Appel en cours…</string>
   <string name="stk_app_state">État de l\'application</string>
   <string name="enable_app">Activé</string>
   <string name="disable_app">Désactivé</string>
   <string name="stk_dialog_title">Outils SIM</string>
-  <string name="default_open_channel_msg">Ouvrir le canal ?</string>
-  <string name="default_send_data_msg">Envoi des données</string>
-  <string name="default_receive_data_msg">Réception des données</string>
-  <string name="default_close_channel_msg">Canal fermé</string>
   <string name="stk_dialog_accept">Accepter</string>
   <string name="stk_dialog_reject">Refuser</string>
   <string name="app_name2">Services SIM2</string>
-  <string name="default_setup_call_msg">Appel en cours de paramétrage</string>
   <string name="app_name3">Services SIM3</string>
-  <string name="default_tone_dialog_msg">Sonnerie en cours…</string>
   <string name="stk_intent_permission">Autoriser les opérations STK</string>
 </resources>

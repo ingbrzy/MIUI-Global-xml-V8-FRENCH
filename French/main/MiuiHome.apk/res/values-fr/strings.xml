@@ -99,10 +99,6 @@
     <string name="failed_to_delete_temporary">Impossible de supprimer</string>
     <string name="confirm_btn_label">OK</string>
     <string name="cancel_btn_label">Annuler</string>
-    <string name="default_folder_title_tools">Outils</string>
-    <string name="default_folder_title_recommend">"Plus d'Applications"</string>
-    <string name="default_folder_title_game">Jeux</string>
-    <string name="default_folder_title_security">Système</string>
     <string name="wallpaper_settings">"Fond d'écran"</string>
     <string name="choose_wallpaper">"Sélectionner le fond d'écran"</string>
     <string name="current_preview">Aperçu</string>
@@ -244,7 +240,6 @@
     <string name="recommend_apps_notice">Applications recomlandées</string>
     <string name="recommend_apps_switch_title">Applications recomlandées</string>
     <string name="recommend_apps_notice_nodata">Applications recommandées (Aucune donnée)</string>
-    <string name="recommend_apps_default_title">Vide</string>
     <string name="recommend_apps_tips">Cette fonction doit se connecter à Internet pour fonctionner normalement. Pour désactiver cette fonction, touchez son nom de dossier.</string>
     <string name="children_folder_title">Enfants</string>
     <string name="children_mode_exit">Quitter</string>

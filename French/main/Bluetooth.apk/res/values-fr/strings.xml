@@ -115,7 +115,6 @@
     <string name="auth_notif_ticker">"Demande d'authentification Obex"</string>
     <string name="auth_notif_title">Clé de session</string>
     <string name="auth_notif_message">Entrer la clé de session de %1$s</string>
-    <string name="defaultname">Carkit</string>
     <string name="unknownName">Nom inconnu</string>
     <string name="localPhoneName">Mon nom</string>
     <string name="bluetooth_sap_notif_title">Accès SIM Bluetooth</string>

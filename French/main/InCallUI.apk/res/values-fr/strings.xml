@@ -118,7 +118,6 @@
     <string name="pause_prompt_no">Non</string>
     <string name="waiting_close_airplane_mode">Un instant…</string>
     <string name="select_voice_call_sim">Choisir une carte SIM</string>
-    <string name="msim_select_default_time_left">(%d s)</string>
     <string name="select_sim_hint">"Impossible d'accéder à la SIM %2$d, lorsque la SIM %1$d est en cours d'utilisation."</string>
     <string name="select_one_sim_title">Peut seulement utiliser la SIM %1$d</string>
     <string name="can_not_use">"Impossible d'utiliser"</string>
@@ -156,8 +155,6 @@
     <string name="non_ivr_menu_collapse_menu">Réduire le menu</string>
     <string name="livetalk_left_minute">%s min restante(s)</string>
     <string name="livetalk_dial">Utiliser la recharge</string>
-    <string name="areacode_set_default">Définir par défaut</string>
-    <string name="default_area_code_setting">Indicatif régional par défaut</string>
     <string name="not_activate_sim_card_content_title">"Le numéro de téléphone n'a pas été vérifié"</string>
     <string name="not_activate_sim_card_content">Vérifier votre numéro de téléphone pour commencer à utiliser la recharge. Vous pourrez toujours passer des appels normaux pour lesquels vous serez facturé par votre opérateur.</string>
     <string name="not_activate_sim_card_content_with_operator">Vérifier la SIM %1$s (%2$s) pour appeler en utilisant la recharge. Vous pouvez toujours passer des appels normaux pour lesquels vous serez facturé par votre opérateur.</string>

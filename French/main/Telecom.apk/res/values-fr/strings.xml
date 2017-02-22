@@ -29,9 +29,6 @@
     <string name="no_vm_number">Aucun numéro de messagerie vocale</string>
     <string name="no_vm_number_msg">Aucun numéro messagerie vocale présent sur la carte SIM.</string>
     <string name="add_vm_number_str">Ajouter un numéro</string>
-    <string name="change_default_dialer_dialog_title">Changer le pavé numérique par défaut ?</string>
-    <string name="change_default_dialer_with_previous_app_set_text">Utiliser %1$s au lieu de %2$s comme votre application de pavé numérique par défaut ?</string>
-    <string name="change_default_dialer_no_previous_app_set_text">Utiliser %s comme votre pavé numérique par défaut ?</string>
     <string name="test_account_0_label">Q Mobile</string>
     <string name="test_account_1_label">Market Wireless</string>
     <string name="test_account_2_label">Sonoma Circles Talk Plus</string>

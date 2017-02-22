@@ -280,7 +280,6 @@ Vous devez flasher la version développeur de MIUI pour avoir accès au ROOT."</
     <string name="permission_group_title_media_related">Multimédia</string>
     <string name="permission_group_title_settings_related">Paramètres</string>
     <string name="ok">OK</string>
-    <string name="default_permission_description">effectuer une action inconnue</string>
     <string name="location_settings">Paramètres de localisation</string>
     <string name="location_warning">"%1$s est un fournisseur de services de localisation pour cet appareil. L'accès à la localisation peut être modifié à partir des paramètres de localisation."</string>
     <string name="permission_request_title">"Demande d'autorisation"</string>

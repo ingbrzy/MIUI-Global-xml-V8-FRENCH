@@ -143,7 +143,6 @@ Heures creuses : %1$s | %2$s utilisé"</string>
     <string name="pref_avaible_traffic">Quota de donnée</string>
     <string name="pref_daily_traffic">"Limite d'utilisation de données en heures pleines"</string>
     <string name="pref_data_usage_not_set">"Définir la limite d'utilisation des données"</string>
-    <string name="pref_warning_values">"Avertissement de l'utilisation de données"</string>
     <string name="pref_pkg_begin_date">"Date de réinitialisation d'utilisation"</string>
     <string name="pref_month_first_day">1</string>
     <string name="pref_month_begin_date">"Date de réinitialisation d'utilisation"</string>
@@ -309,7 +308,6 @@ Prendre cela ?"</string>
     <string name="tc_sms_report_get_sms_failure">"Impossible d'obtenir le format du SMS d'utilisation des données"</string>
     <string name="tc_sms_report_get_sms_timeout">La requête a expiré</string>
     <string name="tc_sms_report_get_sms_successs">"Format du SMS d'utilisation des données mis à jour"</string>
-    <string name="tc_sms_report_get_default">"Vous n'encourrez pas de frais pour les SMS d'alerte envoyés par votre opérateur pour vous informer de votre utilisation de données."</string>
     <string name="tc_sms_report_toast_text">"Obtention d'infos…"</string>
     <string name="privacy_declare_dialog_title">"Conditions générales d'utilisation"</string>
     <string name="privacy_declare_dialog_message">"En utilisant ce service, vous acceptez les &lt;a href=%s>Conditions d'utilisations&lt;/a> d'Opera."</string>
@@ -355,8 +353,6 @@ Prendre cela ?"</string>
     <string name="daily_limit_and_lock_screen">Limite de données &amp; notifications</string>
     <string name="pref_title_traffic_limit_number">Taille</string>
     <string name="pref_title_over_traffic_limit_warning">Lorsque dépassée</string>
-    <string name="reach_daily_limit_value_title">Limite quotidienne de données atteinte</string>
-    <string name="reach_daily_limit_value_body">Réduisez votre consommation de données mobiles.</string>
     <string name="daily_limit_network_available_body">"Appuyez pour afficher les statistiques d'utilisation de données."</string>
     <string name="daily_limit_over_message">Vous avez dépassé votre limite quotidienne de données mobiles.</string>
     <string name="three_percent_total_pkg">%s (3%% de données mensuelles)</string>
@@ -365,7 +361,6 @@ Prendre cela ?"</string>
     <string name="lock_screen_warning_category">"Notifications sur l'écran de verrouillage"</string>
     <string name="lock_screen_warning_switch_title">"Afficher les avertissements sur l'écran de verrouillage"</string>
     <string name="lock_screen_warning_switch_summary">"Afficher un avertissement sur l'écran de verrouillage lorsque le volume de données atteint une certaine quantité"</string>
-    <string name="lock_screen_warning_value">"Alerte d'utilisations de données"</string>
     <string name="traffic_setting_completed">OK </string>
     <string name="traffic_setting_extra_pkg_title">Paramètres supplémentaires</string>
     <string name="traffic_setting_extra_pkg_summary">Ajuster le quota de données et les limites</string>
@@ -854,7 +849,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="last_check_date_yesterday">"Analysé hier "</string>
     <string name="last_check_never_checked">Analyser maintenant</string>
     <string name="last_check_canceled">Analyse précédente annulée</string>
-    <string name="last_checked_default">Analysé il y a %s jours</string>
     <string name="examination_score_100">Tout va bien !</string>
     <string name="examination_score_100_with_recommend">%d éléments peuvent être optimisés</string>
     <string name="examination_score_80_100">Quelques petites choses à optimiser</string>
@@ -992,7 +986,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="menu_item_virus_install_monitor_title">"Analyser avant d'installer"</string>
     <string name="menu_item_virus_install_monitor_summary">"Vérifier l'absence de virus avant l'installation d'applications"</string>
     <string name="activity_title_virus_settings">Paramètres</string>
-    <string name="hints_virus_lib_update_default_summary">Date de la dernière mise à jour inconnue</string>
     <string name="menu_item_virus_lib_auto_update_summary">Mise à jour le %s</string>
     <string name="hints_virus_app_list_item_summary">Virus (app)</string>
     <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
@@ -1017,7 +1010,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="activity_title_perm_manager">Permissions</string>
     <string name="activity_title_auto_start_manager">Gestion du démarrage automatique</string>
     <string name="activity_title_notification_bar_manager">Gestion de la barre de notification</string>
-    <string name="activity_title_default_apps_manager">Gestion des apps par défaut</string>
     <string name="activity_title_permission_manager">Autorisations</string>
     <string name="activity_title_other_permission_manager">Autres autorisations</string>
     <string name="activity_title_root_manager">Accès ROOT</string>
@@ -1193,9 +1185,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pref_category_title_lock_screen_memory_clean">"Nettoyer quand l'écran est verrouillé"</string>
     <string name="pref_title_lock_screen_memory_clean">"Nettoyer quand l'écran est verrouillé"</string>
     <string name="pref_summary_lock_screen_memory_clean">"Nettoyer automatiquement quand l'appareil est verrouillé"</string>
-    <string name="title_default_app">"MIUI %s n'est pas défini par défaut"</string>
-    <string name="summary_default_app">"%s n'est pas défini comme une application système par défaut"</string>
-    <string name="toast_default_app">%1$s défini comme %2$s du système par défaut</string>
     <string name="notification_title_cmcc_app_check">%d jours depuis la dernière vérification</string>
     <string name="notification_summary_cmcc_app_check">Appuyez pour afficher les détails.</string>
     <string name="title_cmcc_app_check">Vérification incomplète</string>
@@ -1442,7 +1431,6 @@ ou entrez votre mot de passe de Verr. App"</string>
     <string name="button_text_disconnect_now">Déconnecter</string>
     <string name="apps_item_sms_reset_button_text">Réinitialiser</string>
     <string name="apps_item_sms_title">Paramètres par défaut</string>
-    <string name="apps_item_sms_default_set_success">Défini avec succès</string>
     <string name="apps_item_virus_cleanup_text">Nettoyer</string>
     <string name="apps_item_virus_cleanup_success">Nettoyé avec succès</string>
     <string name="apps_item_virus_summary_installed">Applications installées</string>
@@ -1500,7 +1488,6 @@ ou entrez votre mot de passe de Verr. App"</string>
     <string name="safe_result_item_info_system_scan">Suivi de paiement activé</string>
     <string name="safe_result_item_info_system_antivirus">Protection contre les virus de filoutage</string>
     <string name="safe_result_item_info_sms_auth">"Veuillez restreindre l'accès des applications tierces aux codes de vérification"</string>
-    <string name="safe_result_item_info_sms_default">"Basculer vers l'application de messagerie par défaut"</string>
     <string name="safe_result_item_info_sms_url">Protection contre les liens de message malveillants</string>
     <string name="safe_result_item_info_app_sign">Aucune application non officielle</string>
     <string name="safe_result_item_info_app_virus">Aucun virus ni application à risque</string>
@@ -1576,9 +1563,6 @@ ou entrez votre mot de passe de Verr. App"</string>
     <string name="optimize_result_button_purchase_flow">Tout voir</string>
     <string name="optimize_result_button_purchase">Acheter</string>
     <string name="optimize_result_button_cloudspace">Augmenter le volume de stockage cloud</string>
-    <string name="optimize_result_title_system_default_settings">Les paramètres par défaut ont été modifiés</string>
-    <string name="optimize_result_summary_system_default_settings">Utiliser les applications MIUI par défaut augmente le niveau de stabilité et de sécurité du système.</string>
-    <string name="optimize_result_toast_system_default_settings">Paramètres par défaut restaurés</string>
     <string name="optimize_result_toast_system_no_item_selected">Aucun élément sélectionné</string>
     <string name="optimize_result_title_sucurity_risk">Risques de sécurité détectés</string>
     <string name="optimize_result_summary_sucurity_risk">Certaines fonctionnalités de sécurité sont désactivées. Activez ces fonctionnalitées pour mieux sécuriser votre appareil:</string>
@@ -1713,7 +1697,6 @@ Assurez-vous de connaître l'origine de cet appareil, et contactez un centre de 
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_option_title">Durant cette période basculer vers</string>
     <string name="power_save_on_time_option_summary">"A la fin de cette période l'appareil reviendra au dernier profil utilisé"</string>
-    <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_save_on_time_goout_title">Après cette période, revenir à</string>
     <string name="power_save_choose_recovery_mode">Sélectionnez un profil</string>
     <string name="power_new_choose_mode">Sélectionnez un profil</string>

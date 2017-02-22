@@ -287,7 +287,6 @@
   <string name="download_auto_network_settings">Paramètres de téléchargement</string>
   <string name="download_auto_when_free_network">Télécharger uniquement via Wi-Fi</string>
   <string name="download_auto_when_all_network">Télécharger via Wi-Fi et réseau mobile</string>
-  <string name="download_auto_default_quality">Qualité de la musique</string>
   <string name="download_auto_quality_alert_title">Qualité des pistes téléchargée</string>
   <string name="download_auto_quality_alert_sub_title_for_login">Pour activer cette option, veuillez vous connecter à votre compte Mi.</string>
   <string name="download_auto_cancel">Téléchargement des favoris désactivé</string>
