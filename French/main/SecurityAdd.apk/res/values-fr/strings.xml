@@ -38,7 +38,6 @@
     <string name="pm_lable_name">"À propos de l'accès root"</string>
     <string name="pc_activity_title">Optimiser la batterie</string>
     <string name="game_booster">Augmentation de la vitesse de jeu</string>
-    <string name="top_game">Meilleurs jeux</string>
     <string name="game_setting">Paramètres de jeu</string>
     <string name="gs_app_back_self_start">Économiseur de batterie</string>
     <string name="gs_only_self_start_for_list">Restreindre les processus en arrière-plan pour économiser la batterie pour les jeux</string>
