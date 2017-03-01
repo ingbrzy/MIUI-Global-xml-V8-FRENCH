@@ -96,6 +96,7 @@
     <string name="heavy_snow">大雪</string>
     <string name="winter_solstice">冬至</string>
     <string name="no_notification_tips">Aucune notification.</string>
+    <string name="android_ringtone_default_with_actual">Sonnerie par défaut (%1$s)</string>
     <string name="cloud_state_disabled">La synchronisation avec Mi Cloud est désactivée</string>
     <string name="cloud_state_finished">Synchronisé avec Mi Cloud</string>
     <string name="cloud_state_syncing">Synchronisé avec Mi Cloud</string>

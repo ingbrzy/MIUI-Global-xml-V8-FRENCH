@@ -130,6 +130,12 @@
         <item>Uniquement cet événement</item>
         <item>Tous les événements de la série</item>
     </string-array>
+    <string-array name="quick_response_defaults">
+        <item>"J'aurai juste quelques minutes de retard."</item>
+        <item>Rendez-vous dans 10 minutes environ.</item>
+        <item>Commencez sans moi.</item>
+        <item>Désolé, je ne peux pas venir. Nous allons devoir reporter.</item>
+    </string-array>
     <string-array name="widget_style_list">
         <item>Transparent</item>
         <item>Arrière-plan blanc</item>
@@ -137,6 +143,18 @@
     <string-array name="miui_reminder_minutes_labels">
         <item>Aucun rappel</item>
         <item>"Au moment de l'évènement"</item>
+        <item>5 minutes avant</item>
+        <item>10 minutes avant</item>
+        <item>15 minutes avant</item>
+        <item>30 minutes avant</item>
+        <item>1 heure avant</item>
+        <item>1 Jour avant</item>
+        <item>2 Jours avant</item>
+        <item>1 semaine avant</item>
+    </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Aucun rappel</item>
+        <item>"Au moment de l'événement"</item>
         <item>5 minutes avant</item>
         <item>10 minutes avant</item>
         <item>15 minutes avant</item>
@@ -244,6 +262,25 @@
         <item>Jamais</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
+        <item>0 minute</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>20 minutes</item>
+        <item>25 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+        <item>1 heure</item>
+        <item>2 heures</item>
+        <item>3 heures</item>
+        <item>12 heures</item>
+        <item>24 heures</item>
+        <item>2 jours</item>
+        <item>1 semaine</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Aucun</item>
         <item>0 minute</item>
         <item>1 minute</item>
         <item>5 minutes</item>

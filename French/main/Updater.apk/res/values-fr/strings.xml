@@ -219,6 +219,7 @@ Mais vous pourrez voter à partir de lundi prochain."</string>
     <string name="comment_publish">Envoyer</string>
     <string name="edit_comment_title">Éditer le commentaire</string>
     <string name="edit_comment">Ajouter un commentaire</string>
+    <string name="edit_text_default">Écrire un commentaire</string>
     <string name="comment_sending">Envoi…</string>
     <string name="comment_upload_failed">"Impossible d'envoyer le commentaire"</string>
     <string name="comment_upload_hint">Merci de votre retour !</string>

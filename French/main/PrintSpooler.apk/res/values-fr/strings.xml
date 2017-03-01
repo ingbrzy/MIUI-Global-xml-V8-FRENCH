@@ -56,6 +56,7 @@
   <string name="no_connection_to_printer">Aucune connexion à l\'imprimante.</string>
   <string name="reason_unknown">inconnue</string>
   <string name="printer_unavailable">%1$s – indisponible</string>
+  <string name="print_error_default_message">Impossible de générer la tâche d\'impression.</string>
   <string name="permlab_accessAllPrintJobs">Tous les travaux</string>
   <string name="permdesc_accessAllPrintJobs">Autorise le propriétaire à accéder aux travaux créés par une autre appli. Ne devrait jamais être demandé par les applis classiques.</string>
   <string name="permlab_startPrintServiceConfigActivity">démarrer les activités de configuration du service d\'impression</string>

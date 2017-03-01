@@ -193,6 +193,7 @@
     <string name="toast_uninstall_success">Désinstallation terminée</string>
     <string name="toast_app_no_residual_on_sdcard">"L'application n'a aucune donnée stockée sur votre carte SD"</string>
     <string name="last_check_canceled">Analyse précédente annulée</string>
+    <string name="default_cache_type">Fichiers de donnée</string>
     <string name="deepclean_normal_title">Nettoyer automatiquement</string>
     <string name="deepclean_normal_item_desc1">Dossiers Corbeille</string>
     <string name="deepclean_normal_item_desc2">"L'activité du nettoyeur n'influencera la performance du système"</string>
@@ -268,6 +269,7 @@
     <string name="hints_cleanfinish">Nettoyage terminé</string>
     <string name="hints_num">0</string>
     <string name="mainbtn_text_quick_cleanup">Nettoyer %s</string>
+    <string name="mainbtn_text_quick_cleanup_default">Nettoyer</string>
     <string name="pref_title_open_optimizer_memory_scan">Scan des applications en mémoire</string>
     <string name="toast_select_white_need_remove">Choisissez les éléments à supprimer</string>
     <string name="network_not_available">Impossible de se connecter au réseau</string>

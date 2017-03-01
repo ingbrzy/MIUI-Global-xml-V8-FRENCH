@@ -8,6 +8,7 @@
     <string name="holiday_data_no_network">Pas de réseau, essayer plus tard.</string>
     <string name="calendar_storage">Archive du calendrier</string>
     <string name="upgrade_msg">Mise à jour de la base de donnée du calendrier …</string>
+    <string name="calendar_default_name">Défaut</string>
     <string name="calendar_info">"Information d'Agenda"</string>
     <string name="calendar_info_error">Erreur</string>
     <string name="calendar_info_no_calendars">Vide</string>

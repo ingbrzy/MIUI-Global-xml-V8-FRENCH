@@ -4,7 +4,10 @@
     <string name="purchase_list">"Historique d'achat"</string>
     <string name="sim_card_activate">Carte SIM actuelle</string>
     <string name="feedback">Commentaires</string>
+    <string name="default_areacode">Code de la zone par défaut</string>
     <string name="area_code_preference_summary">"Ajouter automatiquement l'indicatif"</string>
+    <string name="default_area_code_setting">Indicatif régional par défaut</string>
+    <string name="areacode_set_default">Défaut</string>
     <string name="dialog_no">Non</string>
     <string name="dialog_yes">Oui</string>
     <string name="ensure_info">Oui</string>
@@ -171,6 +174,7 @@ Rechargez et commencez à communiquer"</string>
     <string name="advanced_settings">Paramètres facultatifs</string>
     <string name="auth_username_title">"Authentication par nom d'utilisateur"</string>
     <string name="auth_username_summary">"Nom d'utilisateur utilisé pour l'authentification"</string>
+    <string name="default_preference_summary">&lt;Non défini></string>
     <string name="display_name_summary">"&lt;Identique au nom d'utilisateur>"</string>
     <string name="optional_summary">&lt;Facultatif></string>
     <string name="advanced_settings_show">▷ Appuyer pour tout afficher</string>
@@ -187,6 +191,7 @@ Rechargez et commencez à communiquer"</string>
     <string name="description_delete_button">retour arrière</string>
     <string name="description_image_button_plus">plus</string>
     <string name="description_voicemail_button">messagerie vocale</string>
+    <string name="default_notification_description">Sonnerie par défaut (%1$s)</string>
     <string name="callFailed_userBusy">Ligne occupée.</string>
     <string name="callFailed_congestion">Réseau occupé.</string>
     <string name="callFailed_timedOut">Aucune réponse, délai expiré.</string>
@@ -312,6 +317,7 @@ Rechargez et commencez à communiquer"</string>
     <string name="phone_accounts_all_calling_accounts">"Tous les comptes d'appels"</string>
     <string name="phone_accounts_all_calling_accounts_summary">Choisir avec quel compte passer les appels</string>
     <string name="wifi_calling">Appel Wi-Fi</string>
+    <string name="connection_service_default_label">Service de connexion intégré</string>
     <string name="voicemail">Boite vocale</string>
     <string name="voicemail_settings_with_label">Messagerie vocale (%s)</string>
     <string name="voicemail_abbreviated">MV :</string>
@@ -328,6 +334,7 @@ Rechargez et commencez à communiquer"</string>
     <string name="sum_loading_settings">Chargement des paramètres…</string>
     <string name="sum_hide_caller_id">Numéro masqué pour les appels sortants</string>
     <string name="sum_show_caller_id">Numéro affiché pour les appels sortants</string>
+    <string name="sum_default_caller_id">Utiliser les paramètres opérateur pour afficher mon numéro pour les appels sortants</string>
     <string name="labelCW">Appel en attente</string>
     <string name="sum_cw_enabled">Me signaler les appels entrants lorsque je suis en communication</string>
     <string name="sum_cw_disabled">Me signaler les appels entrants lorsque je suis en communication</string>
@@ -394,6 +401,7 @@ Veuillez contacter votre opérateur si le problème persiste."</string>
 Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="no_change">"Aucune modification n'a été apportée."</string>
     <string name="sum_voicemail_choose_provider">Choisissez un service de messagerie vocale</string>
+    <string name="voicemail_default">Mon opérateur</string>
     <string name="mobile_networks">Paramètres du réseau mobile</string>
     <string name="label_available">Réseaux disponibles</string>
     <string name="load_networks_progress">Recherche…</string>
@@ -783,6 +791,7 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
     <string name="enable_video_calling_dialog_close">Fermer</string>
     <string name="sim_label_emergency_calls">"Appel d'urgence"</string>
     <string name="sim_description_emergency_calls">"Appel d'urgence uniquement"</string>
+    <string name="sim_description_default">Carte SIM %s</string>
     <string name="accessibility_settings_activity_title">Accessibilité</string>
     <string name="status_hint_label_incoming_wifi_call">Appel Wi-Fi entrant</string>
     <string name="status_hint_label_wifi_call">Appel Wi-Fi</string>
@@ -1018,6 +1027,7 @@ Le réseau préféré sera utilisé."</string>
     <string name="other_settings_category">Autre</string>
     <string name="caller_id_title">"Numéro de l'appelant"</string>
     <string name="caller_id_summary">Masquer mon numéro sur les appels sortants (Assurez-vous que votre opérateur supporte cette fonction)</string>
+    <string name="clir_choices_network_default">Valeur par défaut</string>
     <string name="clir_choices_hide_number">Masquer le numéro</string>
     <string name="clir_choices_show_number">Afficher le numéro</string>
     <string name="get_smsc_address_error">Impossible de se connecter au réseau.</string>
@@ -1048,6 +1058,7 @@ Le réseau préféré sera utilisé."</string>
     <string name="preference_telocation_summary_teloc_off">Cacher la localisation du contact</string>
     <string name="preference_telocation_summary_teloc_on">Afficher la localisation du contact</string>
     <string name="preference_telocation_summary_countrycode_on">Ajouter automatiquement le code Pays</string>
+    <string name="preference_dial_pad_touch_tone_default">Par défaut</string>
     <string name="preference_dial_pad_touch_tone_piano">Touches de piano</string>
     <string name="preference_dial_pad_touch_tone_off">Désactivé</string>
     <string name="preference_telocation_summary_countrycode_off">Ne pas ajouter automatiquement le code Pays</string>
@@ -1055,6 +1066,7 @@ Le réseau préféré sera utilisé."</string>
     <string name="msim_setting_screen_title">Cartes SIM &amp; réseaux mobiles</string>
     <string name="msim_setting_categery_title">Paramètres de la carte SIM</string>
     <string name="msim_general_setting">Paramètres</string>
+    <string name="msim_default_setting">Paramètres par défaut</string>
     <string name="msim_setting_no_sim_indicator">Aucune carte SIM</string>
     <string name="msim_setting_sim_info_editor_title">Éditer les infos de la carte SIM</string>
     <string name="msim_setting_operator_network_title">Réseaux cellulaires</string>
@@ -1076,6 +1088,8 @@ Le réseau préféré sera utilisé."</string>
     <string name="msim_switch_data_conn_toast">Cartes SIM échangées. Le type de réseau a changé. Voir les informations supplémentaires des cartes SIM et les réseaux mobiles dans le menu Paramètres.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">"L'emplacement SIM 2 prend uniquement en charge les réseaux GSM. Le type de réseau préféré pour cet emplacement a été changé à 2G seulement."</string>
     <string name="msim_disable_sim_card_title">"Arrêter d'utiliser la carte SIM"</string>
+    <string name="msim_disable_sim_card_summary_non_default_card">"Vous ne pouvez pas être en mesure de passer des appels ou d'utiliser votre connexion de données mobile. Arrêter d'utiliser la carte SIM %s ?"</string>
+    <string name="msim_disable_sim_card_summary_default_card">"Cette carte est actuellement définie comme votre carte SIM par défaut. Si vous arrêtez de l'utiliser, vous ne serez plus en mesure de passer des appels ou d'utiliser votre connexion de données mobile. Vous pourrez arrêter cette carte SIM après avoir réglé une autre carte SIM comme votre carte par défaut."</string>
     <string name="msim_disable_sim_card_btn_text">OK</string>
     <string name="msim_has_been_disabled">(Désactivé)</string>
     <string name="international_roaming_setting">Itinérance international</string>
@@ -1120,6 +1134,7 @@ Le réseau préféré sera utilisé."</string>
     <string name="respond_via_sms_setting_title">Réponses rapides</string>
     <string name="respond_via_sms_setting_summary">Éditer les textes prédéfinis</string>
     <string name="respond_via_sms_edittext_dialog_title">Réponse rapide</string>
+    <string name="respond_via_sms_menu_reset_default_activity">Rétablir les paramètres par défaut</string>
     <string name="respond_via_sms_confirmation_format">Message envoyé à %s.</string>
     <string name="sip_add_account_tip_text">Pour utiliser les appels internet, ajouter un compte SIP</string>
     <string name="callwait_open_hint">"La fonction « Appel en attente » est fournie par votre opérateur. Si vous recevez une notification d'erreur, contactez votre opérateur pour s'assurer que cette fonctionnalité est prise en charge."</string>
@@ -1197,6 +1212,8 @@ Les fonctions relatives au Pin2 seront bloquées en cas de nouvel échec."</stri
     <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
     <string name="network_type_3g_preferred_cmcc">3G/2G</string>
     <string name="network_unlock">Déverrouiller</string>
+    <string name="change_default_data_card">Carte SIM par défaut pour les données mobile</string>
+    <string name="change_default_data_card_summary">Il semble que vous changé de carte SIM. Choisir cette carte comme SIM par défaut pour les données mobile ?</string>
     <string name="fdn_full">"FDN n'a pas été mis à jour parce que la liste est pleine."</string>
     <string name="enhanced_4g_lte_mode_on_failed">"Impossible d'activer VoLTE."</string>
     <string name="enhanced_4g_lte_mode_off_failed">Impossible de désactiver VoLTE.</string>
@@ -1207,10 +1224,12 @@ Les fonctions relatives au Pin2 seront bloquées en cas de nouvel échec."</stri
     <string name="roaming_notification_content">Vous pouvez ajouter automatiquement les indicatifs pour rendre la composition plus pratique.</string>
     <string name="cdma_alert_title">La carte UIM doit être par défaut</string>
     <string name="cdma_alert_message">"Si vous sélectionnez une autre carte par défaut pour vos données mobiles, vous ne serez plus en mesure d'utiliser votre carte China Telecom UIM (sauf en itinérance)."</string>
+    <string name="config_default_data_sim">Paramètres</string>
     <string name="got_it">OK</string>
     <string name="can_not_use_for_not_data_sim">(Utilisation impossible : Doit être défini comme SIM de données par défaut)</string>
     <string name="network_settings_title">Réseaux Mobiles</string>
     <string name="call_background_setting">Conversation en arrière-plan</string>
+    <string name="call_background_default">Défaut</string>
     <string name="call_background_lock_wallpaper">"Fond d'écran de verrouillage"</string>
     <string name="antispam_setting">Liste noire</string>
     <string name="call_advanced_setting_title">Paramètres avancés</string>
@@ -1350,6 +1369,7 @@ Les fonctions relatives au Pin2 seront bloquées en cas de nouvel échec."</stri
     <string name="close">Fermer</string>
     <string name="change">Définir</string>
     <string name="new_sim_detected">Nouvelle carte SIM détectée :</string>
+    <string name="default_sim_setting">Carte SIM par défaut :</string>
     <string name="mobile_data">"Données Mobiles : "</string>
     <string name="slot">Emplacement</string>
     <string name="carrier_name">"(Nom de l'opérateur)"</string>

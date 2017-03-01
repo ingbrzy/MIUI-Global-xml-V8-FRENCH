@@ -121,6 +121,7 @@
   <string name="for_second_simcard">Pour la carte de SIM 2</string>
   <string name="for_third_simcard">Pour la carte de SIM 3</string>
   <string name="for_fourth_simcard">For la carte de SIM 4</string>
+  <string name="default_sim_setting_prompt">Maintenant les paramètres par défaut sont :</string>
   <string name="keyguard_video_call">Appel vidéo :</string>
   <string name="dm_prompt">Terminal a déjà été verrouillé</string>
   <string name="invalid_sim_title">Carte SIM non valide</string>
@@ -190,6 +191,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="find_previous">Précédent</string>
   <string name="find_next">Suivant</string>
   <string name="tethered_notification_message_for_hotspot">%1$d connecté(s), %2$d bloqué(s)</string>
+  <string name="default_wallpaper_name">Par défaut</string>
   <string name="keyguard_accessibility_alarm_unlock">Arrêter l\'alarme</string>
   <string name="alarm_alert_dismiss_text">Rejeter</string>
   <string name="description_direction_right">Glisser vers la droite pour rejeter</string>
@@ -200,6 +202,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="every_day">Tous les jours</string>
   <string name="never">Jamais</string>
   <string name="day_concat">", "</string>
+  <string name="default_label">Alarme</string>
   <string name="dismiss_power_on">Ignorer et allumer</string>
   <string name="dismiss_power_off">Ignorer et éteindre</string>
   <string name="voice_unlock_service_error">Erreur du service de voix !</string>
@@ -246,6 +249,8 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="hdmi_notification_title">Câble HDMI connecté</string>
   <string name="sd_accessing_swtich_user_title">Changer d\'utilisateur ?</string>
   <string name="sd_accessing_swtich_user_message">Toutes les données non sauvegardées sur le compte du propriétaire seront perdus ou endommagées.</string>
+  <string name="sdcard_select_default_path">"Souhaitez-vous changer le disque d'écriture par défaut ?"</string>
+  <string name="sdcard_default_path_change">"Le stockage du téléphone deviendra le disque d'écriture par défaut."</string>
   <string name="wifi_display_wfd_off_hdmi_on">"L'affichage sans-fil sera désactivé lorsque vous activerez la fonction HDMI. Continuer ?"</string>
   <string name="wifi_display_bt_hdmi_off_wfd_on">"Les fonctions Bluetooth et HDMI seront désactivées lorsque vous activerez l'affichage sans-fil. Continuer ?"</string>
   <string name="simlock_slot_locked_message">"Le slot a été définitivement verrouillée."</string>

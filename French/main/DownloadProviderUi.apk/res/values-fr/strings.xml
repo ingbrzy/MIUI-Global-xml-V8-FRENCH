@@ -172,6 +172,7 @@
     <string name="version">Version %s</string>
     <string name="new_add">Nouveau téléchargement</string>
     <string name="pref_download_storage_path">Créer un nouveau dossier pour les téléchargements</string>
+    <string name="pref_download_revert_default">Défaut</string>
     <string name="file_picker">Choisir un emplacement</string>
     <string name="new_add_bt">Ajouter un torrent</string>
     <string name="pref_sniff_shortcut">"Créer un raccourci sur l'écran d'accueil pour la recherche web"</string>
@@ -180,6 +181,7 @@
     <string name="third_web_filename_hint">Nom</string>
     <string name="third_web_filesize">Taille</string>
     <string name="third_web_savepath">Emplacement</string>
+    <string name="third_web_default">Mémoriser cet emplacement</string>
     <string name="third_web_cancel">Annuler</string>
     <string name="third_web_confirm">Ok</string>
     <string name="creat_task_success">"Ajouté à la file d'attente des téléchargements"</string>
@@ -208,6 +210,7 @@ Accélérez les téléchargements sur tous vos appareils."</string>
     <string name="do_not_support_url">"Ce type d'URL n'est pas supporté"</string>
     <string name="edit_hint">Entrez une adresse http, torrent ou eMule</string>
     <string name="revert_download_path">"Utiliser l'emplacement des téléchargements par défaut ?"</string>
+    <string name="revert_default">Restaurer les paramètres par défaut</string>
     <string name="save_path">"Enregistrer les téléchargements vers : "</string>
     <string name="cancel">Annuler</string>
     <string name="confirm">OK </string>

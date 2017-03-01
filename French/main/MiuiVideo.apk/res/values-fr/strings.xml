@@ -141,6 +141,7 @@
   <string name="receive_mipush">Notifications de nouveaux contenus</string>
   <string name="receive_mipush_summary">Afficher des notifications en cas de disponibilité de nouveaux contenus</string>
   <string name="mipush_setting">Notifications Mi</string>
+  <string name="defaults">Par défaut</string>
   <string name="done">OK</string>
   <string name="fullscreen">Plein écran</string>
   <string name="no_longer_tips">Ne pas rappeler</string>
