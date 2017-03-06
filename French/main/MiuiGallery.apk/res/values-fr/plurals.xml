@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">Ne plus afficher ces personnes ?</item>
-        <item quantity="one">Ne plus afficher cette personne ?</item>
+    <plurals name="face_count">
+        <item quantity="other">%d photos au total</item>
+        <item quantity="one">%d photo au total</item>
     </plurals>
-    <plurals name="more_face">
-        <item quantity="other">%1$s photos de %2$s >></item>
-        <item quantity="one">%1$s photo de %2$s >></item>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">%d photos au total</item>
+        <item quantity="one">%d photo au total</item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d années</item>
@@ -96,29 +96,45 @@
         <item quantity="other">%1$d éléments |%2$s</item>
         <item quantity="one">%1$d élément |%2$s</item>
     </plurals>
-    <plurals name="backuped">
-        <item quantity="other">%1$d éléments ont été sauvegardés</item>
-        <item quantity="one">%1$d élément a été sauvegardé</item>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d photos et vidéos</item>
+        <item quantity="one">%1$d photo ou vidéo</item>
     </plurals>
-    <plurals name="backup_waiting">
-        <item quantity="other">%1$d éléments en attente de sauvegarde</item>
-        <item quantity="one">%1$d élément en attente de sauvegarde</item>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d photos et vidéos | %2$s</item>
+        <item quantity="one">%1$d photo ou vidéo | %2$s</item>
     </plurals>
-    <plurals name="network_unsatisfied">
-        <item quantity="other">Erreur de réseau ! %1$d éléments en attentent de sauvegarde</item>
-        <item quantity="one">Erreur de réseau ! %1$d élément en attente de sauvegarde</item>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Reprendre la sauvegarde dans %d heures</item>
+        <item quantity="one">Reprendre la sauvegarde dans %d heure</item>
     </plurals>
-    <plurals name="sync_off">
-        <item quantity="other">"La synchronisation est désactivée. %1$d éléments attendent d'être synchronisés"</item>
-        <item quantity="one">"La synchronisation est désactivée. %1$d élément attende d'être synchronisé"</item>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d photos ou vidéos | En pause</item>
+        <item quantity="one">%d photo ou vidéo | En pause</item>
     </plurals>
-    <plurals name="cloud_space_full">
-        <item quantity="other">"Plus de place sur Mi Cloud. %1$d éléments attendent d'être synchronisés"</item>
-        <item quantity="one">"Plus de place sur Mi Cloud. %1$d élément attende d'être synchronisé"</item>
+    <plurals name="sync_error_title">
+        <item quantity="other">"N'a pas sauvegardé %d photos ou vidéos"</item>
+        <item quantity="one">"N'a pas sauvegardé %d photo ou vidéo"</item>
     </plurals>
-    <plurals name="local_space_full">
-        <item quantity="other">"Plus de place sur le téléphone. %1$d éléments attendent d'être synchronisés"</item>
-        <item quantity="one">"Plus de place sur le téléphone. %1$d élément attende d'être synchronisé"</item>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d éléments</item>
+        <item quantity="one">%d élément</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d vidéos</item>
+        <item quantity="one">%d vidéo</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d photos</item>
+        <item quantity="one">1 photo</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d vidéos</item>
+        <item quantity="one">1 vidéo</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d photos en attente de sauvegarde</item>
@@ -130,7 +146,7 @@
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d éléments en attente de sauvegarde</item>
-        <item quantity="one">1 objet en attente de sauvegarde</item>
+        <item quantity="one">1 élément en attente de sauvegarde</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Sauvegarde de %1$d photos en cours…</item>
@@ -148,6 +164,10 @@
         <item quantity="other">Impossible de télécharger %1$d éléments</item>
         <item quantity="one">Impossible de télécharger %1$d élément</item>
     </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">Impossible de télécharger %1$d fichiers, vérifiez la connexion réseau puis réessayez</item>
+        <item quantity="one">Impossible de télécharger %1$d fichier, vérifiez la connexion réseau puis réessayez</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d éléments sélectionnés</item>
         <item quantity="one">%d élément sélectionné</item>
@@ -155,5 +175,13 @@
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"%1$d photos qui n'ont pas pu être rendues ont été ignorées."</item>
         <item quantity="one">"Une photo qui n'a pas pu être rendue a été ignorée."</item>
+    </plurals>
+    <plurals name="file_count_format">
+        <item quantity="other">Total %1$d éléments</item>
+        <item quantity="one">Total %1$d élément</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d photos trouvées</item>
+        <item quantity="one">Une nouvelle photo trouvée</item>
     </plurals>
 </resources>

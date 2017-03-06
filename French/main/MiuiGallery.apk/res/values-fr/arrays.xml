@@ -16,9 +16,9 @@
         <item>Moi</item>
         <item>Enfant</item>
         <item>Famille</item>
-        <item>Collègue</item>
+        <item>Collègues</item>
         <item>Copain de classe</item>
         <item>Amis</item>
-        <item>Inconnu</item>
+        <item>Retiré</item>
     </string-array>
 </resources>

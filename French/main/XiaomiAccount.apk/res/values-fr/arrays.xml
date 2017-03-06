@@ -19,7 +19,7 @@
         <item>4001~6000</item>
         <item>6001~8000</item>
         <item>8001~12000</item>
-        <item>&amp;gt ; 12000</item>
+        <item>> 12000</item>
     </string-array>
     <string-array name="question_no1">
         <item>Famille</item>

@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">Compte Weibo expiré</string>
     <string name="sina_token_invalid_warning">Compte Weibo incorrect</string>
     <string name="sina_share_fail_content_repeat">Impossible de partager, le contenu existe déjà…</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">Notes;Mémo</string>
     <string name="search_path_notes">Applications système/Notes</string>
     <string name="dlg_move_message">Déplacement…</string>
@@ -16,11 +17,11 @@
     <string name="dlg_quick_delete_title">Suppression rapide</string>
     <string name="dlg_check_reminder">Ne plus afficher</string>
     <string name="dlg_title_set_password">Définir un mot de passe</string>
-    <string name="dlg_message_set_password">Le mot de passe de protection de la vie privée fonctionne pour les applications, les photos et les dossiers cachés</string>
+    <string name="dlg_message_set_password">Le mot de passe de protection de la vie privée fonctionne pour les messages, les photos et les dossiers cachés</string>
     <string name="dlg_title_use_privacy_password">Utiliser le mot de passe de protection de la vie privée</string>
-    <string name="dlg_message_use_privacy_password">Utiliser le mot de passe de protection de la vie privée. Il fonctionne pour les applications, les photos et les dossiers cachés</string>
+    <string name="dlg_message_use_privacy_password">Le mot de passe de protection de la vie privée fonctionne pour les messages, les photos et les dossiers cachés</string>
     <string name="dlg_title_password_reset">Mettre à jour votre mot de passe</string>
-    <string name="dlg_message_password_reset">Le mot de passe de notes cachés sera remplacé par le mot de passe de protection de la vie privée qui fonctionne pour les applications, les photos et les dossiers cachés</string>
+    <string name="dlg_message_password_reset">Le mot de passe de notes cachées sera remplacé par le mot de passe de protection de confidentialité qui fonctionne pour les messages, les photos et les dossiers cachés</string>
     <string name="dlg_btn_set_password">Définir un mot de passe</string>
     <string name="rename_folder_dialog_tile">Renommer le dossier</string>
     <string name="delete_folder_dialog_tile">Supprimer le dossier</string>
@@ -50,8 +51,6 @@
     <string name="theme_title_red">Rouge</string>
     <string name="theme_title_candy">Bonbon</string>
     <string name="theme_title_star">Étoiles</string>
-    <string name="empty_folder_hint">"Aucun dossier
-Appuyez sur le plus pour créer un dossier"</string>
     <string name="error_hide_empty_note">Impossible de cacher une note vide</string>
     <string name="error_send_empty_note">"Impossible d'envoyer une note vide"</string>
     <string name="error_send_empty_note_to_weibo">"Impossible d'envoyer une note vide via Weibo"</string>
@@ -59,14 +58,18 @@ Appuyez sur le plus pour créer un dossier"</string>
     <string name="force_touch_menu_add">Ajouter une note</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Suppression rapide</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">"Ne pas demander de confirmation lors de la suppression gestuelle d'une note"</string>
+    <string name="pref_title_show_root_folder_in_homepage">Voir seulement les notes rapides sur la page de démarrage</string>
     <string name="alert_title_hidden_note">Vous avez reçu un rappel de note masquée</string>
     <string name="hint_cannot_view_hidden_note_content">Vous ne pouvez pas afficher le contenu des notes cachées</string>
+    <string name="alert_title_restore">Restaurer la note</string>
+    <string name="alert_message_restore">"Impossible d'ouvrir cette note. Restaurer la pour modifier son contenu."</string>
+    <string name="note_sort_way">Sélectionner le mode de tri de vos notes</string>
+    <string name="trash_folder_reminder">Les notes que vous effacez seront supprimées définitivement dans 30 jours.</string>
     <string name="app_name">Notes</string>
     <string name="app_widget">Notes</string>
     <string name="widget_havenot_content">Appuyer pour créer une note. Maintenir le widget pour redimensionner.</string>
     <string name="widget_content_loading">Un instant…</string>
     <string name="notelist_string_info">...</string>
-    <string name="notelist_menu_new">Ajouter une note</string>
     <string name="note_alert_expired">Expirée</string>
     <string name="notealert_ok">Ignorer</string>
     <string name="notealert_enter">Ouvrir une note</string>
@@ -87,7 +90,6 @@ Appuyez sur le plus pour créer un dossier"</string>
     <string name="menu_source">De %1$s</string>
     <string name="unknown_source">Source inconnue</string>
     <string name="menu_send_weibo">Envoyer sur Weibo</string>
-    <string name="menu_send_wechat">Envoyer sur WeChat</string>
     <string name="info_note_enter_desktop">Note créée sur le bureau</string>
     <string name="all_terms">%1$s et %2$s</string>
     <string name="alert_title_delete">Supprimer la note ?</string>
@@ -116,20 +118,13 @@ Appuyez sur le plus pour créer un dossier"</string>
     <string name="search_hint">Rechercher des notes</string>
     <string name="search_setting_description">Rechercher du texte dans vos notes</string>
     <string name="search">Notes</string>
-    <string name="button_new_note">Nouveau</string>
     <string name="default_folder_name">Dossier sans nom</string>
-    <string name="attachment_gallery">Choisir dans Galerie</string>
-    <string name="attachment_camera">Prendre une photo</string>
-    <string name="attachment_contact">Contacts</string>
-    <string name="alert_edit_action_update">Changer</string>
-    <string name="alert_edit_action_delete">Supprimer</string>
     <string name="notify_alarm_title">Rappel de note</string>
     <string name="alarm_bar_title">Rappel</string>
     <string name="toast_message_add_image_fail">"Impossible d'ajouter une image"</string>
-    <string name="toast_message_add_text_warn">"Ce type de fichier n'est pas supporté"</string>
     <string name="toast_reach_text_limit_truncate">Cette note est trop longue. Une partie du texte a été coupée à la fin.</string>
     <string name="toast_reach_text_limit_attachment">Le contenu de la note est trop long pour être joint au message.</string>
-    <string name="snippet_image_stub">[Image]</string>
+    <string name="snippet_image_stub">[image]</string>
     <string name="snippet_image_template">[Image %1$s]</string>
     <string name="select_account_prompt">Synchroniser les notes</string>
     <string name="enable_sync_desc">Synchronisez vos notes avec votre compte MI (%1$s) ?</string>
@@ -139,11 +134,7 @@ Appuyez sur le plus pour créer un dossier"</string>
     <string name="login_sync">Se connecter &amp; synchroniser</string>
     <string name="pref_title_note_style">Style</string>
     <string name="pref_title_common">Paramètres supplémentaires</string>
-    <string name="pref_title_alarm_when_silent">Ne pas passer les rappels en silencieux</string>
-    <string name="pref_desc_alarm_when_silent">Les alarmes du réveil et des notes sonneront en mode silencieux</string>
-    <string name="pref_title_recover_help">Récupérer des notes</string>
-    <string name="dlg_title_confirm_alarm_silent">Neutraliser les alarmes en mode silencieux ?</string>
-    <string name="dlg_desc_confirm_alarm_silent">Les alarmes du réveil et des notes ne sonneront pas en mode silencieux.</string>
+    <string name="pref_title_cloud_trash_bin">Supprimer les notes dans Mi Cloud</string>
     <string name="dlg_delete_message">Suppression…</string>
     <string name="permlab_accessNote">Accès aux notes</string>
     <string name="permdesc_accessNote">"Des applications malveillantes peuvent l'utiliser pour accéder à vos informations personnelles."</string>
@@ -162,13 +153,11 @@ Appuyez sur le plus pour créer un dossier"</string>
     <string name="sns_toast_empty">"Impossible d'envoyer un message vide"</string>
     <string name="sns_toast_over_limit">"Envoyé en tant qu'image"</string>
     <string name="sns_desc_preview_weibo">Prévisualiser le message Weibo</string>
-    <string name="sns_desc_preview_wechat">Prévisualiser le message WeChat</string>
     <string name="sns_choose_quality_title">"Choisissez la qualité d'image"</string>
     <string name="sns_choose_quality_high">Haute ( %1$s )</string>
     <string name="sns_choose_quality_low">Faible</string>
     <string name="welcome_note_for_cm">"Et encore plus de fonctionnalités !
   - Synchroniser avec Mi Cloud
   - Définir des rappels"</string>
-    <string name="note_sort_way">Sélectionner comment trier vos notes</string>
-    <string name="pref_title_show_root_folder_in_homepage">Aficher uniquement les notes rapides sur la page de démarrage</string>
+    <string name="cloud_trash_bin_title">Supprimer les notes dans Mi Cloud</string>
 </resources>

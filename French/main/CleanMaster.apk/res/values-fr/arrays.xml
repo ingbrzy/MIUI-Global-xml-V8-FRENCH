@@ -24,9 +24,9 @@
         <item>1 Go</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Afficher</item>
-        <item>Ne pas afficher</item>
-        <item>Afficher après</item>
+        <item>Toujours notifier</item>
+        <item>Nettoyer automatiquement</item>
+        <item>Nettoyer et notifier</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Nettoyer ce fichier</item>
@@ -66,7 +66,14 @@
         <item>Clean Master</item>
         <item>Tencent</item>
     </string-array>
-    <string-array name="low_memory_clean_menu">
-        <item>Nettoyer</item>
+    <string-array name="wechat_menu_delete">
+        <item>Vider</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist">
+        <item>Vider</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist_view">
+        <item>Vider</item>
+        <item>Voir</item>
     </string-array>
 </resources>

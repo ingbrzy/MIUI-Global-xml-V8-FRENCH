@@ -5,11 +5,11 @@
 Taille : %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Version %1$s
 Taille de la mise à jour : %2$s"</string>
-    <string name="xiaomi_external_storage_unavailable">Stockage non disponible, vérifiez votre carte SD.</string>
+    <string name="xiaomi_external_storage_unavailable">Stockage indisponible, vérifiez votre carte SD.</string>
     <string name="xiaomi_bytes_unit">%1$s</string>
     <string name="xiaomi_kilobytes_unit">%1$s ko</string>
     <string name="xiaomi_megabytes_unit">%1$s Mo</string>
-    <string name="xiaomi_connect_download_manager_fail">"Impossible de se connecter au gestionnaire de téléchargement, vérifier l'état du gestionnaire de téléchargement dans le gestionnaire d'applications."</string>
+    <string name="xiaomi_connect_download_manager_fail">Impossible de démarrer le téléchargement. Vérifier que le gestionnaire de téléchargements fonctionne normalement.</string>
     <string name="app_name">Sauvegarde</string>
     <string name="local_app_name">Sauvegarde</string>
     <string name="local_home_title">Sauvegarder localement</string>
@@ -45,7 +45,7 @@ Taille de la mise à jour : %2$s"</string>
     <string name="restore_progress">Restauration…</string>
     <string name="restore_contacts_hit">Vous devrez peut-être vous reconnecter pour voir votre restauration</string>
     <string name="restore_telephony_hit">La restauration va réinitialiser les applications et leurs données</string>
-    <string name="restore_launcher_layout_hit">(Restaure les emplacements des icônes du bureau, mais pas les widgets)</string>
+    <string name="restore_launcher_layout_hit">"Restaurer les paramètres du lanceur d'applications"</string>
     <string name="settings_summary">Paramètres du téléphone et de la messagerie</string>
     <string name="camera_summary">"Paramètres de l'appareil photo (n'inclut pas les photos)"</string>
     <string name="account_summary">Sauvegarde les comptes Google, MI, et les autres données utilisateur</string>
@@ -55,7 +55,7 @@ Taille de la mise à jour : %2$s"</string>
     <string name="prompt_sending">Envoi...</string>
     <string name="prompt_writing">Sauvegarde…</string>
     <string name="backup_new">Nouveau :</string>
-    <string name="backup_update">Modifier</string>
+    <string name="backup_update">Mettre à jour</string>
     <string name="backup_delete">Supprimer :</string>
     <string name="findlost_contact">Restaurer les contacts</string>
     <string name="findlost_contact_online">Restaurer les contacts depuis Mi Cloud</string>
@@ -205,7 +205,7 @@ Taille de la mise à jour : %2$s"</string>
     <string name="system_backup">Sauvegarde</string>
     <string name="backup_empty_info">Sauvegarder vos données, paramètres et applications</string>
     <string name="backup_empty_info_onpad">" Sauvegarder vos données, paramètres et applications"</string>
-    <string name="system_backup_info">"Paramètres système et agencement de l'écran d'accueil"</string>
+    <string name="system_backup_info">"Paramètres système et disposition de l'écran d'accueil"</string>
     <string name="software_backup_info">"Données d'application"</string>
     <string name="account_contact_backup_info">Données des comptes Google, Mi, et de Contacts</string>
     <string name="files_backup_info">"Tous les fichiers sur la carte SD (photos, musiques, vidéos, les données d'applications, etc.)"</string>
@@ -257,6 +257,8 @@ Taille de la mise à jour : %2$s"</string>
     <string name="notif_restore_complete_title">Restauré avec succès</string>
     <string name="notif_trans_sending_completed">Données envoyées avec succès</string>
     <string name="notif_trans_receiving_completed">Données reçues avec succès</string>
+    <string name="notif_trans_sending_failed">"Impossible d'envoyer les données"</string>
+    <string name="notif_trans_receiving_failed">Impossible de recevoir les données</string>
     <string name="custom_progress">%d éléments</string>
     <string name="remote_receive">Recevoir</string>
     <string name="click_to_view">Appuyez pour voir</string>
@@ -295,13 +297,13 @@ Temps écoulé : %s"</string>
     <string name="trans_progress_subdescript_transing_receiver">Réception %1$s, %2$s terminé</string>
     <string name="trans_progress_subdescript_transingsd_sender">Envoi de fichiers, %s terminé</string>
     <string name="trans_progress_subdescript_transingsd_receiver">Réception de fichiers, %s terminé</string>
-    <string name="trans_progress_subdescript_transingsddata_sender">Envoi %1$s fichiers de la carte SD, %2$s terminé(s)</string>
-    <string name="trans_progress_subdescript_transingsddata_receiver">Réception de %1$s fichiers de la carte SD, %2$s terminé(s)</string>
+    <string name="trans_progress_subdescript_transingsddata_sender">Envoi des fichiers de la carte SD de %1$s, %2$s terminé(s)</string>
+    <string name="trans_progress_subdescript_transingsddata_receiver">Réception des fichiers de la carte SD de %1$s, %2$s terminé(s)</string>
     <string name="trans_progress_subdescript_br_sender">Sauvegarde %1$s, %2$s terminé</string>
     <string name="trans_progress_subdescript_br_receiver">Restauration %1$s, %2$s terminé</string>
     <string name="trans_progress_subdescript_waiting">En attente de réception de %s</string>
     <string name="trans_progress_subdescript_br_sender_finish">"Sauvegardé(s) %s, en attendant d'envoyer…"</string>
-    <string name="trans_progress_subdescript_transing_receiver_finish">Reçu(s) %s, en attente de restaurer…</string>
+    <string name="trans_progress_subdescript_transing_receiver_finish">Reçu %s, en attente de restauration…</string>
     <string name="trans_cancel_confirm">Transfert en cours, arrêter maintenant ?</string>
     <string name="trans_cancelling">Annulation…</string>
     <string name="trans_device_disconnected">Appareil déconnecté</string>

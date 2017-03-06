@@ -100,6 +100,10 @@
     <string name="pref_camera_whitebalance_entry_manual">Manuel</string>
     <string name="pref_camera_whitebalance_entry_measure">Mesure</string>
     <string name="pref_camera_coloreffect_title">Filtres</string>
+    <string name="pref_camera_coloreffect_entry_sepia" />
+    <string name="pref_camera_coloreffect_entry_negative" />
+    <string name="pref_camera_coloreffect_entry_posterize" />
+    <string name="pref_camera_coloreffect_entry_aqua" />
     <string name="pref_camera_coloreffect_entry_instagram_clarendon">Couleur Pop</string>
     <string name="pref_camera_coloreffect_entry_instagram_crema">Rustique</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">Matte</string>
@@ -319,8 +323,8 @@
     <string name="camera_snap_mode_title">Mode de prise rapide</string>
     <string name="camera_snap_mode_title_detail">Appuyez pour voir les détails</string>
     <string name="pref_camera_snap_enable_title">Mode de prise rapide</string>
-    <string name="pref_camera_snap_entry_take_picture">"Mode photo rapide. Lorsque l'écran est éteint, appuyez &amp; maintenez le bouton bas du volume pour prendre des photos en rafale. Relâchez pour arrêter."</string>
-    <string name="pref_camera_snap_entry_take_movie">"Mode vidéo rapide. Lorsque l'écran est éteint, appuyez &amp; maintenez le bas du bouton de volume pour démarrer un enregistrement vidéo. Relâchez pour arrêter."</string>
+    <string name="pref_camera_snap_entry_take_picture">Mode de prise rapide (photo)</string>
+    <string name="pref_camera_snap_entry_take_movie">Mode de prise rapide (vidéo)</string>
     <string name="pref_camera_snap_entry_off">Désactivé</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Impossible d'utiliser le Mode de prise rapide pendant que \"Réveil par le volume\" est activé."</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
@@ -352,9 +356,22 @@ Les objets ne devraient pas se situer à plus de 2 mètres."</string>
     <string name="pref_camera_beautify_entry_low">Faible</string>
     <string name="pref_camera_beautify_entry_normal">Moyen</string>
     <string name="pref_camera_beautify_entry_high">Elevé</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Modes</string>
     <string name="button_front_camera_title">Prendre un selfie</string>
     <string name="button_normal_video_title">Enregistrer une vidéo</string>
     <string name="button_fisheye_camera_title">Fisheye</string>
+    <string name="pref_camera_groupshot_mode_title">Groupe de selfies</string>
+    <string name="simple_mode_button_text_groupshot">Désactiver le Groupe de selfies</string>
+    <string name="pref_groupshot_with_primitive_title">"Enregistrer les photos d/'origine ainsi"</string>
+    <string name="pref_camera_mono_mode_title">N&amp;B</string>
+    <string name="simple_mode_button_text_mono">Désactiver N&amp;B</string>
+    <string name="title_snap_double_confirm">Confirmer</string>
+    <string name="message_snap_double_confirm">Appuyez longuement sur le bouton de volume pour déclencher le NFC. Remplacer cette fonctionnalité ?</string>
+    <string name="snap_confirmed">Remplacer</string>
+    <string name="snap_cancel">Annuler</string>
+    <string name="pref_camera_raw_title">RAW</string>
+    <string name="simple_mode_button_text_raw">Désactiver RAW</string>
+    <string name="toast_saving">Enregistrement des photos…</string>
     <string name="cannot_connect_camera_volte_call">Un appel vidé est déjà en cours, veuillez réessayez plus tard.</string>
 </resources>

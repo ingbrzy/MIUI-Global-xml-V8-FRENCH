@@ -10,7 +10,7 @@
     <string name="qrcode_detail_menu_scan">Scanner</string>
     <string name="qrcode_editor_flash">Code QR actualisé</string>
     <string name="qrcode_editor_flash_failed">"Impossible d'actualiser le code QR"</string>
-    <string name="vcard_info_send_error">"Impossible d'envoyer dû à une erreur de la vCard"</string>
+    <string name="vcard_info_send_error">"Impossible d'envoyer en raison d'une erreur de la vCard"</string>
     <string name="photo_labels_group">Photo de profil</string>
     <string name="rcs_send_vcard">Envoyer la vCard</string>
     <string name="rcs_recipient_type_contact">Ajouter à un contact</string>
@@ -28,20 +28,20 @@
     <string name="pref_rcs_fetion_entry_title">Fetion settings</string>
     <string name="rcs_fetion_not_exist">Impossible de trouver le plug-in de Fetion</string>
     <string name="contacts_setting_title">Paramètres des contacts</string>
-    <string name="search_contacts_setting">"Paramètres des Contacts;Afficher les photos et infos;Assigner des photos de contact;Importer et exporter;Partager; Importer de la carte SD;Importer de la carte SIM;Importer à partir d'un autre téléphone;Exporter de la carte SD;Exporter depuis la carte SIM;Partager des contacts; Afficher les préférences;Masquer les numéros incomplets;Afficher les contacts de la SIM;Configurer les listes de contacts;Groupes intelligents;Organiser les contacts; Fusionner les contacts en double;Supprimer le lot;Effacer les données;Recréer les index de données;t9;Stockage de la carte SIM;Introduction de la récupération des contacts"</string>
+    <string name="search_contacts_setting">"Paramètres des Contacts;Afficher les photos et infos;Assigner des photos de contact;Importer et exporter;Partager; Importer de la carte SD;Importer de la carte SIM;Importer à partir d'un autre téléphone;Exporter de la carte SD;Exporter depuis la carte SIM;Partager des contacts; Afficher les préférences;Masquer les numéros incomplets;Afficher les contacts de la SIM;Configurer les listes de contacts;Groupes intelligents;Organiser les contacts; Fusionner les contacts en double;Supprimer le lot;Effacer les données;Recréer les index de données;t9;Stockage de la carte SIM;Introduction de la récupération des contacts;Photos de contact"</string>
     <string name="path_contacts_setting">Applications système/Contacts</string>
     <string name="path_simple_mode">Applications système/Contacts/Afficher photos et infos</string>
     <string name="search_simple_mode">Afficher;informations;photos;Contacts</string>
-    <string name="path_key_photo_word">Applications système/Contacts/Assigner les photos des contacts</string>
+    <string name="path_key_photo_word">Applications système/Contacts/Assigner des photos aux contacts</string>
     <string name="search_key_photo_word">Assigner;contacts;photos;Contacts</string>
-    <string name="path_import_export">Applications système/Contacts/Importer/Exporter des contacts</string>
+    <string name="path_import_export">Applications système/Contacts/Importer/Exporter les contacts</string>
     <string name="search_import_export">Importer;Exporter;Partager</string>
     <string name="path_import_from_sdcard">"Applications système/Contacts/Importer/Exporter des contacts/Importer à partir d'un stockage"</string>
     <string name="search_import_from_sdcard">Contacts;Importer;stockage</string>
     <string name="path_import_from_sim">Applications système/Contacts/Importer/Exporter des contacts/Importer depuis la carte SIM</string>
     <string name="search_import_from_sim">Contacts;Importer;Carte SIM</string>
     <string name="path_import_from_other_phone">Applications système/Contacts/Importer/Exporter des contacts/Importer depuis un autre téléphone</string>
-    <string name="search_import_from_other_phone">Contacts;Importer;auter téléphone</string>
+    <string name="search_import_from_other_phone">Contacts;Importer;autre téléphone</string>
     <string name="path_export_to_sdcard">Applications système/Contacts/Importer/Exporter des contacts/Importer depuis un stockage</string>
     <string name="search_export_to_sdcard">Contacts;Importer;stockage</string>
     <string name="path_export_to_sim">Applications système/Contacts/Importer/Exporter des contacts/Exporter depuis la carte SIM</string>
@@ -176,7 +176,7 @@
     <string name="contactsAllLabel">Contacts</string>
     <string name="contactsGroupsLabel">Groupes</string>
     <string name="contactsFavoritesLabel">Favoris</string>
-    <string name="dialerIconLabel">Historique</string>
+    <string name="dialerIconLabel">Récents</string>
     <string name="recentCallsIconLabel">"Journal d'appels"</string>
     <string name="menu_sendTextMessage">Envoyer un SMS</string>
     <string name="recentCalls_callNumber">Appeler %s</string>
@@ -193,8 +193,8 @@
     <string name="clearFrequentsConfirmation_title">Supprimer les appels fréquents ?</string>
     <string name="clearFrequentsConfirmation">"Vous êtes sur le point de supprimer la liste des appels fréquents. Les applications d'e-mail recommenceront l'apprentissage de vos préférences habituelles."</string>
     <string name="clearFrequentsProgress_title">Suppression des appels fréquents...</string>
-    <string name="imei">"IMEI : "</string>
-    <string name="meid">"MEID : "</string>
+    <string name="imei">IMEI</string>
+    <string name="meid">MEID</string>
     <string name="voicemail">Messagerie vocale</string>
     <string name="unknown">Inconnu</string>
     <string name="private_num">Numéro privé</string>
@@ -208,45 +208,45 @@
     <string name="noContactsHelpText">"\"Vous n'avez aucun contact à afficher.
 
 Pour ajouter des contacts, pressez la touche "<b><font fgcolor="#ffffffff">Menu</font></b>" puis:
-
+ 
 "<b><font fgcolor="#ffffffff"><li>"Comptes et ajoutez un compte contenant des contacts à synchroniser avec l'appareil
-"</li></font></b>"
+"</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un nouveau contact
-"</li></font></b>"
+"</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts depuis la carte SIM ou SD
 "</li></font></b>"\" "</string>
     <string name="noContactsHelpTextWithSync">"\"Vous n'avez aucun contact à afficher. (Si vous venez d'ajouter un compte, patientez quelques minutes le temps que la synchronisation se termine.)
 
 Pour ajouter des contacts, pressez la touche "<b><font fgcolor="#ffffffff">Menu</font></b>" puis:
-
+ 
 "<b><font fgcolor="#ffffffff"><li>"Comptes et ajoutez un compte contenant des contacts à synchroniser avec le téléphone
-"</li></font></b>"
+"</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Options d'affichage vous permet de définir le filtre d'affichage
-"</li></font></b>"
+"</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un nouveau contact
-"</li></font></b>"
+"</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts depuis la carte SIM ou SD
 "</li></font></b>" "</string>
     <string name="noContactsNoSimHelpText">"\"Vous n'avez aucun contact à afficher.
 
 Pour ajouter des contacts, pressez la touche "<b><font fgcolor="#ffffffff">Menu</font></b>" puis:
-
+ 
 "<b><font fgcolor="#ffffffff"><li>"Comptes et ajoutez un compte contenant des contacts à synchroniser avec l'appareil
-"</li></font></b>"
+"</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un nouveau contact
-"</li></font></b>"
+"</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts depuis la carte SIM ou SD
 "</li></font></b>"\" "</string>
     <string name="noContactsNoSimHelpTextWithSync">"\"Vous n'avez aucun contact à afficher. (Si vous venez d'ajouter un compte, patientez quelques minutes le temps que la synchronisation se termine.)
 
 Pour ajouter des contacts, pressez la touche "<b><font fgcolor="#ffffffff">Menu</font></b>" puis:
-
+ 
 "<b><font fgcolor="#ffffffff"><li>"Comptes et ajoutez un compte contenant des contacts à synchroniser avec le téléphone
-"</li></font></b>"
+"</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Options d'affichage vous permet de définir le filtre d'affichage
-"</li></font></b>"
+"</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un nouveau contact
-"</li></font></b>"
+"</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts depuis la carte SIM ou SD
 "</li></font></b>" "</string>
     <string name="noFavoritesHelpText">"\"Vous n'avez aucun favori. Pour ajouter un contact à vos favoris: \""<li>"Touchez l'onglet "<b>Contacts</b>\" \"</li>\" \"<li>\"Sélectionnez le contact que vous souhaitez ajouter aux favoris \"</li>\" \"<li>"\"Appuyez sur l'étoile près du nom du contact \""</li>\" \"</string>
@@ -488,9 +488,9 @@ Raison: \"%s\""</string>
     <string name="pick_new_photo">Sélectionnez une nouvelle photo depuis %s</string>
     <string name="locale_change_in_progress">Mise à jour de la liste des contacts pour appliquer le changement de langue.</string>
     <string name="upgrade_in_progress">Mise à jour de la liste de contacts en cours.</string>
-    <string name="upgrade_out_of_memory">"Les contacts vont être mis à jour.
+    <string name="upgrade_out_of_memory">"Les contacts vont être mis à jour. 
 
-Le processus de mise à jour réclame %s Mo de stockage interne.
+Le processus de mise à jour réclame %s Mo de stockage interne. 
 
 Choisissez une des options suivantes:"</string>
     <string name="upgrade_out_of_memory_uninstall">Désinstaller des applications</string>
@@ -623,6 +623,7 @@ Choisissez une des options suivantes:"</string>
     <string name="dialog_voicemail_not_ready_message">Pour paramétrer la messagerie vocale, allez dans Menu > Paramètres.</string>
     <string name="dialog_voicemail_airplane_mode_message">Pour appeler votre boîte vocale, désactiver le mode Avion.</string>
     <string name="action_menu_overflow_description">"Plus d'options"</string>
+    <string name="update_sim_contact_photo_toast">Impossible de définir des photos de profil pour les contacts SIM</string>
     <string name="import_from_sim">Importer depuis la carte SIM</string>
     <string name="export_to_sim_title">Exportation…</string>
     <string name="import_from_sim1">Importer depuis la carte SIM 1</string>
@@ -701,10 +702,11 @@ Les cartes de contact ont été désactivées"</string>
     <string name="miprofile_switch_on_alertdialog_title">Mettre à jour la photo de profil</string>
     <string name="miprofile_switch_on_alertdialog_message">Échangez les cartes de contact pour voir la photo de profil mise à jour.</string>
     <string name="miprofile_switch_on_alertdialog_positive">Activer</string>
-    <string name="miprofile_alertdialog_title">Entrer un nom</string>
+    <string name="miprofile_alertdialog_title">Saisir un nom</string>
     <string name="miprofile_alertdialog_message">"Afficher ce nom aux contacts quand vous demandez d'échanger des cartes."</string>
-    <string name="miprofile_alertdialog_edit">Entrer un nom</string>
+    <string name="miprofile_alertdialog_edit">Saisir un nom</string>
     <string name="miprofile_switch_off_alertdialog_message">"Vous ne pouvez pas échanger de carte de contact avec d'autres personnes."</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">Ajouter un numéro de téléphone</string>
     <string name="miprofile_bind_account_alertdialog_message">Vous devez ajouter le numéro de téléphone de cet appareil dans votre compte Mi pour utiliser cette fonction.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Ajouter un numéro</string>
@@ -741,7 +743,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="miprofile_error_unknown">Erreur inconnue</string>
     <string name="miprofile_nick_name_edit_dialog_title">Éditer le pseudo</string>
     <string name="miprofile_nick_name_edit_dialog_message">"Votre pseudo apparaitra dans l'historique des appels et les informations de profile"</string>
-    <string name="miprofile_nick_name_edit_dialog_hint">Entrer un pseudo</string>
+    <string name="miprofile_nick_name_edit_dialog_hint">Saisir un pseudo</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="miprofile_nick_name_edit">Éditer le surnom du contact</string>
     <string name="summary_kind_title">Résumé</string>
@@ -749,8 +751,8 @@ Les cartes de contact ont été désactivées"</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d s</string>
-    <string name="callrecordview_item_op_time_short_outgoing">"- Sortant : "</string>
-    <string name="callrecordview_item_op_time_short_incoming">"- Entrant : "</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"Sortant : "</string>
+    <string name="callrecordview_item_op_time_short_incoming">"Entrant : "</string>
     <string name="callrecordview_item_op_time_missed">Non connecté</string>
     <string name="callrecordview_item_op_time_rejected">Rejeté</string>
     <string name="callrecordview_menu_show_title">"Affichage d'historique d'appels"</string>
@@ -767,8 +769,8 @@ Les cartes de contact ont été désactivées"</string>
     <string name="callrecordview_menu_delete_called">Supprimer les appels émis</string>
     <string name="callrecordview_menu_delete_accepted">Supprimer les appels reçus</string>
     <string name="callrecordview_menu_delete_stranger">Supprimer les appels inconnus</string>
-    <string name="callrecordview_menu_delete_new">"Effacer l'historique des appels des nouveaux contacts"</string>
-    <string name="callrecordview_menu_delete_sim">"Supprimer %s historiques d'appels"</string>
+    <string name="callrecordview_menu_delete_new">Clear call history for new contacts</string>
+    <string name="callrecordview_menu_delete_sim">Clear call history records (%s)</string>
     <string name="callrecordview_menu_delete_confirm">%s ?</string>
     <string name="callrecordview_menu_delete_one">"Retirer de l'historique des appels"</string>
     <string name="callrecordview_menu_add_call_note">"Ajouter une note d'appel"</string>
@@ -791,7 +793,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="callrecordview_menu_conference">Conférence téléphonique</string>
     <string name="openDialKeyboard">Pavé numérique</string>
     <string name="t9_search_guide_pinyin_title1">Entrez de numéros pour trouver des contacts</string>
-    <string name="t9_search_guide_pinyin_title2">Tapez \"2\" et \"3\" pour chercher \"<font fgcolor="">W</font>ashington <font fgcolor="">I</font>rank»rving\"</string>
+    <string name="t9_search_guide_pinyin_title2">Entrez \"9\" et \"4\" pour chercher \"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\"</string>
     <string name="t9_search_guide_zhuyin_title1">Entrez de numéros pour trouver des contacts</string>
     <string name="t9_search_guide_zhuyin_title2">Tapez «2» et «3» pour chercher «<font fgcolor="">A</font>lan <font fgcolor="">F</font>rank»</string>
     <string name="date_time_set">Définir</string>
@@ -826,7 +828,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="multi_number_menu_delete">Supprimer</string>
     <string name="video_call">Appel vidéo</string>
     <string name="copy_number">Copier</string>
-    <string name="edit_contact_card_title">Éditer la carte du contact</string>
+    <string name="edit_contact_card_title">Sélectionner des éléments à partager</string>
     <string name="preview_contact_card_title">Importer une carte de contact</string>
     <string name="import_contact_card_button">Importer le contact</string>
     <string name="import_contact_card_aggregate_suggestion_button">Fusionner les cartes</string>
@@ -840,8 +842,10 @@ Les cartes de contact ont été désactivées"</string>
     <string name="menuMoreDescription">Plus</string>
     <string name="photo_fragment">Photo</string>
     <string name="photo_load_failed">Impossible de charger la photo</string>
+    <string name="empty_divider_title" />
+    <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données de contact depuis le compte Mi</string>
-    <string name="recent_contacts_label">Historique</string>
+    <string name="recent_contacts_label">Récents</string>
     <string name="noRecentContacts">Aucun contact récent</string>
     <string name="loading_groups">Un instant…</string>
     <string name="loading_group_members">Un instant…</string>
@@ -950,7 +954,6 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="custom_nickname_hint">Entrez le pseudo</string>
     <string name="open_contact">Afficher le contact</string>
     <string name="send_contact_shortcut_todesktop_success">Ajouté sur le bureau</string>
-    <string name="date_picker_label">Me rappeler 3 jours avant et le jour même</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="next_birthday">Prochain anniversaire : %s</string>
     <string name="ringLabelsGroup">Sonnerie</string>
@@ -1015,30 +1018,28 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="preference_smart_group_frequency_summary">Regrouper par le plus récent</string>
     <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_label">Regroupements intelligents</string>
-    <string name="smart_group_loading">Juste une seconde…</string>
+    <string name="smart_group_loading">Un instant…</string>
     <string name="smart_group_company_label">Entreprises</string>
     <string name="smart_group_location_label">Localisations</string>
-    <string name="smart_group_frequency_label">Historique</string>
+    <string name="smart_group_frequency_label">Récents</string>
     <string name="smart_group_company_unavailable">"Aucune info sur l'entreprise"</string>
     <string name="smart_group_location_unavailable">Aucune information de localisation</string>
     <string name="smart_group_frequency_1">Dans le dernier mois</string>
     <string name="smart_group_frequency_2">1 à 3 mois</string>
     <string name="smart_group_frequency_3">3 à 6 mois</string>
     <string name="smart_group_frequency_4">Depuis plus de 6 mois</string>
-    <string name="contact_detail_calllog_call_record_tips">Enregistrements des appels</string>
+    <string name="contact_detail_calllog_call_record_tips">Recorded call</string>
     <string name="contact_detail_calllog_call_note_tips">Notes</string>
     <string name="contact_detail_calllog_empty">Aucun historique</string>
     <string name="import_from_onekey_migrate">Importer en utilisant Mi Mover</string>
     <string name="import_from_other_phone">Importer depuis un autre téléphone</string>
-    <string name="device_brand_title">Choisissez une marque</string>
-    <string name="device_version_title">Choisissez un modèle</string>
     <string name="device_list_title">Choisissez un téléphone</string>
     <string name="next">Suivant</string>
     <string name="previous">Précédent</string>
     <string name="scan">Analyser</string>
     <string name="device_bluetooth_title">Transférer des contacts</string>
-    <string name="device_version_header_no_bluetooth">Importer des contacts via la carte SIM</string>
-    <string name="device_version_header_bluetooth">Assurez-vous que Bluetooth est activée</string>
+    <string name="device_version_header_no_bluetooth">Importer depuis la carte SIM</string>
+    <string name="device_version_header_bluetooth">Importer par Bluetooth</string>
     <string name="none_paired">"Pas d'appareil appairé"</string>
     <string name="device_pairing_dialog_title">"Appairage d'appareil"</string>
     <string name="device_pairing_dialog_message">Appairage en cours…</string>
@@ -1052,16 +1053,17 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="title_other_devices">Autres appareils disponibles</string>
     <string name="button_scan">Scanner</string>
     <string name="button_cancel_scan">Arrêter</string>
-    <string name="device_other_title">Autre téléphone</string>
-    <string name="device_other_guide">"Si votre téléphone n'est pas listé, suivez les instructions suivantes"</string>
-    <string name="my_phone_provider_bluetooth">Mon téléphone possède le Bluetooth</string>
-    <string name="my_phone_not_provider_bluetooth">Mon téléphone ne possède pas le Bluetooth</string>
+    <string name="device_other_title">"Importer depuis d'autres téléphones"</string>
+    <string name="device_other_guide">"L'autre téléphone dispose du Bluetooth ?"</string>
+    <string name="my_phone_provider_bluetooth">Oui</string>
+    <string name="my_phone_not_provider_bluetooth">Non</string>
     <string name="other_phone">Autres téléphones</string>
     <string name="device_import_title">Importer</string>
     <string name="device_import_progress_begin_message">Importation…</string>
     <string name="device_import_progress_end_message">Importé</string>
     <string name="device_import_progress_message">Importation…</string>
     <string name="device_import_failed_message">"Impossible d'importer"</string>
+    <string name="hint_distance" />
     <string name="hint_more_contact">Fusionner les contacts en double</string>
     <string name="device_import_account_dialog_title">Choisissez un compte</string>
     <string name="device_import_account_dialog_title_suffix">"
@@ -1078,6 +1080,17 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="bluetooth_connection_failed_toast">Connexion Bluetooth interrompue</string>
     <string name="device_import_progress_toast">%1$d contacts importés</string>
     <string name="no_contact_in_other_phone">Aucun contact détecté</string>
+    <string name="device_transfer_by_bluetooth_message">"\"1. Veuillez activer le \"Bluetooth\" des autres appareils; 
+
+- Pour les appareils sous Android le \"Bluetooth\" devrait généralement se trouver dans la rubrique réseau 
+- Pour les appareils sous iOS le \"Bluetooth\" devrait se trouver dans Paramètres 
+
+2. Pour les appareils sous Android il faut aussi activer l'option \"Visible\"; 
+
+3. Appuyez sur \"Suivant\", et autoriser les permission d'ccès des contacts à l'étape suivante.\""</string>
+    <string name="device_transfer_by_sim_message">"\"1. Save the contacts from the other device on the SIM card; 
+
+2. Open settings in the Contacts app, and then go to \"Import/Export contacts\" -- \"Import from SIM card\", hold any SIM contact to select it, select all the required contacts, and tap \"Import\".\""</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="import_weibo_dialog_title">Import des contacts Weibo</string>
     <string name="import_weibo_fetch_followers">Obtention des contacts...</string>
@@ -1148,7 +1161,7 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="refresh">Actualiser</string>
     <string name="pull_to_refresh_pull_label">Glissez pour actualiser</string>
     <string name="pull_to_refresh_release_label">Relâcher pour actualiser</string>
-    <string name="pull_to_refresh_refreshing_label">Juste une seconde…</string>
+    <string name="pull_to_refresh_refreshing_label">Un instant…</string>
     <string name="yellowpage_navigation_no_content">Pas de résultat</string>
     <string name="yellowpage_navigation_clear_search_history">"Effacer l'historique"</string>
     <string name="yellowpage_navigation_search_history">Historique</string>
@@ -1163,8 +1176,8 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Ajouté au bureau</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Téléchargement…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">\"Pas de réseau disponible\"</string>
-    <string name="yellowpage_navigation_balance_refresh_succeed">Solde et données ont été vérifiés</string>
-    <string name="yellowpage_navigation_balance_refresh_failed">"Solde et données n'ont pu être vérifiés, réessayer plus tard."</string>
+    <string name="yellowpage_navigation_balance_refresh_succeed">Solde et données mobiles ont été vérifiés</string>
+    <string name="yellowpage_navigation_balance_refresh_failed">"Solde et données mobile n'ont pu être vérifiés, réessayer plus tard."</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="yellowpage_navigation_more_items">Plus</string>
     <string name="yellowpage_navigation_more_items_title">Plus de services</string>
@@ -1174,17 +1187,27 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="useful_numbers">Numéros utiles</string>
     <string name="service_more">Plus</string>
     <string name="call_left">Solde du téléphone</string>
-    <string name="call_unit">USD</string>
+    <string name="call_unit">CNY</string>
     <string name="call_charge">Recharger</string>
     <string name="call_operator_init">Mon opérateur</string>
     <string name="call_problem_report">Signaler un problème</string>
     <string name="call_not_found">--</string>
-    <string name="data_charge">Recharger les données mobiles</string>
+    <string name="disclaimer_title">Avertissement</string>
+    <string name="disclaimer_text">"Les Pages jaunes obtiennent les informations sur votre solde en envoyant un SMS. Votre transporteur peut mettre à jour ces informations avec un délai, de sorte que les numéros que vous obtenez peuvent ne pas être exacts. Si vous voyez une erreur, vous pouvez signaler le SMS pour nous aider à améliorer ce service. 
+
+Pour éviter les requêtes fréquentes, nous mettons à jour l'information de la balance une fois par jour."</string>
+    <string name="report_inquiry_mms">Signaler un SMS</string>
+    <string name="data_charge">Recharger les données</string>
     <string name="data_already_used">Données utilisées</string>
     <string name="data_left">Données restantes</string>
     <string name="data_unit_mb">Mo</string>
     <string name="data_unit_gb">Go</string>
     <string name="set_data_package">"Définir d'abord le plan de données"</string>
+    <string name="livetalk_charge">Top up</string>
+    <string name="livetalk_switch_on">Turn on</string>
+    <string name="livetalk_left">Remaining</string>
+    <string name="livetalk_title">Top-up package</string>
+    <string name="live_talk_switch_on_toast">Turned on Top-up package successfully</string>
     <string name="button_join_service_number">Ajouter un numéro de service</string>
     <string name="button_my_center">Profile</string>
     <string name="gallery">Galerie</string>
@@ -1199,6 +1222,7 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="edit_contact_photo">Éditer la photo du contact</string>
     <string name="qrcode_card_title">Code QR</string>
     <string name="scan_qrcode_card_hint1">Scannez le code QR ci-dessus</string>
+    <string name="scan_qrcode_card_hint2" />
     <string name="create_qrcode_fail_message">Impossible de créer le code QR</string>
     <string name="phone_call_type_voip">Mi Voix</string>
     <string name="phone_call_type_livetalk">Recharge de forfait</string>
@@ -1243,4 +1267,7 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="telecom_fraud_insurance">Assurance de fraude dans les télécoms</string>
     <string name="telecom_fraud_insurance_description">Assurance 10.000 CNY | Offre exclusive Xiaomi | 9,9 CNY par an</string>
     <string name="yesterday">Hier</string>
+    <string name="tomorrow">Demain</string>
+    <string name="low_memory_toast">"Impossible d/'utiliser cette fonctionnalité en raison d/'une mémoire insuffisante."</string>
+    <string name="yellowpage_fc_toast">"Impossible d'utiliser cette fonctionnalité car les pages jaunes sont inaccessibles."</string>
 </resources>

@@ -19,16 +19,33 @@
         <item>Interview</item>
         <item>HD</item>
     </string-array>
+    <string-array name="record_scenes_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
     <string-array name="record_scenes_summaries">
-        <item>Enregistrez à travers 2 canaux, écoutez un son stéréo avec les écouteurs</item>
-        <item>Rapprochez le micro de la source sonore pour améliorer la qualité</item>
-        <item>Mettez le téléphone entre 2 personnes pour les enregistrer cliarement tous les deux</item>
-        <item>La distance maximum efficace du micro est 10 mètres</item>
+        <item>Enregistrez de la musique avec une meilleure qualité</item>
+        <item>Rapprochez le micro de la source du son pour une meilleure qualité</item>
+        <item>Placez le téléphone entre 2 personnes pour enregistrer clairement leur conversation</item>
+        <item>La technologie de gamme dynamique élevée permet au microphone de capturer des sons plus détaillés</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Enregistrez via 2 canaux, écoutez le son stéréo dans les écouteurs</item>
+        <item>Rapprochez le micro de la source du son pour une meilleure qualité</item>
+        <item>Placez le téléphone entre 2 personnes pour enregistrer clairement leur conversation</item>
+        <item>La technologie de gamme dynamique élevée permet au microphone de capturer des sons plus détaillés</item>
     </string-array>
     <string-array name="record_quality_entries">
         <item>Élevée</item>
         <item>Normale</item>
         <item>Faible</item>
+    </string-array>
+    <string-array name="record_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="record_quality_summaries">
         <item>MP3, ~192kbit/s, ~90Mo/h</item>

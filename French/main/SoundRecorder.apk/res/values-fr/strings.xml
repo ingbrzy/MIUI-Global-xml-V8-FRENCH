@@ -9,7 +9,11 @@
     <string name="search_silent_mode">"Couper le son pendant l'enregistrement"</string>
     <string name="search_enable_earpiece_title">Utiliser les haut-parleurs</string>
     <string name="search_quliaty_title">"Qualité d'enregistrement"</string>
+    <string name="keywords_search_record_list">Enregistreur;Transcription;Transcriptions;Enregistrement;Enregistrement partagé;Enregistrer;Enregistrements</string>
+    <string name="keywords_search_record">"Nouvel enregistrement;Ajouter enregistrement;Enregistrement;Enregistrements;Transcription;Transcrire;Enregistreur;Enregistreur vocal;Enregistreur de son;Application Enregistrement;Application Enregistreur;Comment enregistrer;Comment enregistrer un son;Où est l'enregistreur;Enregistreur Miui"</string>
+    <string name="keywords_search_call_record">Enregistrer appels;Enregistrer appel;Appel enregistré;Appels enregistrés</string>
     <string name="app_name">Magnéto</string>
+    <string name="record">Enregistrer</string>
     <string name="recording">Enregistrement audio</string>
     <string name="recording_stopped">Arrêté</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
@@ -47,9 +51,10 @@
     <string name="status_bar_back">Appuyez pour revenir au Magnéto</string>
     <string name="status_bar_recording_pause">"Enregistrement en pause. "</string>
     <string name="low_battery_error_title">Batterie faible</string>
-    <string name="low_battery_error">"Less than 5% battery remaining. Stop and save your recording to make sure it isn't lost."</string>
+    <string name="low_battery_error">"Moins de 5% de batterie restant. Arrêtez et sauvegardez votre enregistrement pour vous assurer qu'il n'est pas perdu."</string>
     <string name="low_battery_error_confirm">OK </string>
     <string name="record_name_hour">.</string>
+    <string name="record_name_minute" />
     <string name="sound_recorder_settings">Paramètres</string>
     <string name="preference_led_indicator">"Notifications sur l'écran de verrouillage"</string>
     <string name="preference_tip_rename">Enregistrer le nom manuellement</string>
@@ -143,4 +148,7 @@
     <string name="network_tip_dialog_content">Le moteur de reconnaissance vocale doit être connecté à internet pour fonctionner normalement.</string>
     <string name="network_tip_dialog_ok">Autoriser</string>
     <string name="network_tip_dialog_cancel">Annuler</string>
+    <string name="head_set_tip_dialog_title">Utiliser le microphone interne</string>
+    <string name="head_set_tip_dialog_msg">"Déconnectez vos écouteurs afin d'enregistrer du son avec des préréglages spécifiques (ex. Musique, Voix)."</string>
+    <string name="head_set_tip_dialog_ok">"C'est compris"</string>
 </resources>

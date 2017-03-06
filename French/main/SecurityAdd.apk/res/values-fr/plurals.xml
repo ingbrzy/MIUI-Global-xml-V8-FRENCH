@@ -8,4 +8,12 @@
         <item quantity="other">%d jeux ont été désinstallés</item>
         <item quantity="one">%d jeu a été désinstallé</item>
     </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d applications trouvées</item>
+        <item quantity="one">%d application trouvée</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Rechercher parmi %d applications</item>
+        <item quantity="one">Rechercher parmi %d application</item>
+    </plurals>
 </resources>

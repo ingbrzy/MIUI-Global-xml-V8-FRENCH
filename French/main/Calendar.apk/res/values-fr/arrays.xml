@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>Notification</item>
-        <item>E-mail</item>
-        <item>SMS</item>
-        <item>Alarme</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>Paramètres régionaux par défaut</item>
-        <item>Samedi</item>
-        <item>Dimanche</item>
-        <item>Lundi</item>
-    </string-array>
     <string-array name="timezone_labels">
         <item>Marshall (Îles)</item>
         <item>Atoll de Midway</item>
@@ -98,16 +86,6 @@
         <item>Fidji</item>
         <item>Tonga</item>
     </string-array>
-    <string-array name="availability">
-        <item>Occupé</item>
-        <item>Disponible</item>
-        <item>À confirmer</item>
-    </string-array>
-    <string-array name="visibility">
-        <item>Par défaut</item>
-        <item>Privé</item>
-        <item>Public</item>
-    </string-array>
     <string-array name="ordinal_labels">
         <item>1er</item>
         <item>2e</item>
@@ -130,39 +108,31 @@
         <item>Uniquement cet événement</item>
         <item>Tous les événements de la série</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>"J'aurai juste quelques minutes de retard."</item>
-        <item>Rendez-vous dans 10 minutes environ.</item>
-        <item>Commencez sans moi.</item>
-        <item>Désolé, je ne peux pas venir. Nous allons devoir reporter.</item>
-    </string-array>
     <string-array name="widget_style_list">
         <item>Transparent</item>
         <item>Arrière-plan blanc</item>
     </string-array>
-    <string-array name="miui_reminder_minutes_labels">
-        <item>Aucun rappel</item>
-        <item>"Au moment de l'évènement"</item>
+    <string-array name="default_reminder_labels">
+        <item>Au moment de lévénement</item>
         <item>5 minutes avant</item>
         <item>10 minutes avant</item>
         <item>15 minutes avant</item>
         <item>30 minutes avant</item>
         <item>1 heure avant</item>
-        <item>1 Jour avant</item>
-        <item>2 Jours avant</item>
+        <item>1 jour avant</item>
+        <item>2 jours avant</item>
         <item>1 semaine avant</item>
     </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
-        <item>Aucun rappel</item>
-        <item>"Au moment de l'événement"</item>
-        <item>5 minutes avant</item>
-        <item>10 minutes avant</item>
-        <item>15 minutes avant</item>
-        <item>30 minutes avant</item>
-        <item>1 heure avant</item>
-        <item>1 Jour avant</item>
-        <item>2 Jours avant</item>
-        <item>1 semaine avant</item>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Paramètre local par défaut</item>
+        <item>Samedi</item>
+        <item>Dimanche</item>
+        <item>Lundi</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Toujours</item>
+        <item>Seulement quand la sonnerie est désactivée</item>
+        <item>Jamais</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 heures avant</item>
@@ -256,10 +226,16 @@
         <item>Heure</item>
         <item>Compteur</item>
     </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Toujours</item>
-        <item>Seulement quand la sonnerie est désactivée</item>
+    <string-array name="repeat_countdown">
         <item>Jamais</item>
+        <item>Tous les mois</item>
+        <item>Tous les ans</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Notification</item>
+        <item>E-mail</item>
+        <item>SMS</item>
+        <item>Alarme</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
         <item>0 minute</item>
@@ -298,6 +274,16 @@
         <item>2 jours</item>
         <item>1 semaine</item>
     </string-array>
+    <string-array name="availability">
+        <item>Occupé</item>
+        <item>Disponible</item>
+        <item>À confirmer</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Par défaut</item>
+        <item>Privé</item>
+        <item>Public</item>
+    </string-array>
     <string-array name="delete_repeating_labels_no_selected">
         <item>Cet événement et les suivants</item>
         <item>Tous les événements</item>
@@ -307,5 +293,11 @@
         <item>Semaine</item>
         <item>Mois</item>
         <item>Planning</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>"J'aurai juste quelques minutes de retard."</item>
+        <item>Rendez-vous dans 10 minutes environ.</item>
+        <item>Commencez sans moi.</item>
+        <item>Désolé, je ne peux pas venir. Nous allons devoir reporter.</item>
     </string-array>
 </resources>

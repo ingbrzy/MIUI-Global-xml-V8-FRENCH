@@ -56,6 +56,10 @@
         <item quantity="other">%d problèmes de batterie</item>
         <item quantity="one">%d problème de batterie</item>
     </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">%d problèmes de batterie détectés, réparer</item>
+        <item quantity="one">%d problème de batterie détecté, réparer</item>
+    </plurals>
     <plurals name="app_check_title_text">
         <item quantity="other">%d éléments peuvent être optimisés</item>
         <item quantity="one">%d élément peut être optimisé</item>
@@ -128,6 +132,10 @@
         <item quantity="other">%d risques trouvés, corriger maintenant</item>
         <item quantity="one">%d risque trouvé, corriger maintenant</item>
     </plurals>
+    <plurals name="virus_clean_num">
+        <item quantity="other">Tout semble bon</item>
+        <item quantity="one">Tout semble bon</item>
+    </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d applications contiennent des risques de confidentialité</item>
         <item quantity="one">%d application contient des risques de confidentialité</item>
@@ -173,8 +181,8 @@
         <item quantity="one">%d application trouvée</item>
     </plurals>
     <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">1 item</item>
+        <item quantity="other">%d éléments</item>
+        <item quantity="one">1 élément</item>
     </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s risques de paiement</item>

@@ -542,6 +542,10 @@
         <item>Wi-Fi préféré</item>
         <item>Mobile préféré</item>
     </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Désactivé</item>
         <item>Léger</item>
@@ -552,6 +556,10 @@
         <item>Fort</item>
         <item>Moyen</item>
         <item>Léger</item>
+    </string-array>
+    <string-array name="ap_identify">
+        <item>défaut</item>
+        <item>iPhone</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graphique</item>
@@ -591,8 +599,8 @@
         <item>Violette</item>
     </string-array>
     <string-array name="screen_key_position_action">
-        <item>Bouton Menu sur la gauche, Retour sur la droite</item>
-        <item>Bouton Retour sur la gauche, Menu sur la droite</item>
+        <item>Bouton menu sur la gauche, le bouton retour sur la droite</item>
+        <item>Bouton Retour sur la gauche, le bouton menu sur la droite</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Afficher les applications récentes</item>
@@ -612,6 +620,12 @@
         <item>1 seconde</item>
         <item>1,5 secondes</item>
         <item>2 secondes</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action">
+        <item>Aucun</item>
+        <item>Mode de prise rapide (photo)</item>
+        <item>Mode de prise rapide (vidéo)</item>
+        <item>Raccourcis de transports publics</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 seconde</item>
@@ -644,6 +658,24 @@
         <item></item>
         <item></item>
         <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
+        <item>Le stockage USB sera ouvert automatiquement quand vous connecterez votre appareil à un PC.</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_xp">
+        <item>@string/msd_install_retry_connect</item>
+        <item>Réinstaller MiPhoneManager.</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>"Outils d'installation: sudo aptitude install mtpfs libfuse-dev libmad0-dev"</item>
@@ -734,6 +766,16 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Moyen</item>
         <item>Élevé</item>
     </string-array>
+    <string-array name="whetstone_level_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="agps_network_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="agps_network_entries">
         <item>Réseau domestique</item>
         <item>Tous les réseaux</item>
@@ -742,9 +784,18 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
+    <string-array name="agps_apn_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
+    </string-array>
+    <string-array name="agps_reset_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>CHAUD</item>
@@ -755,6 +806,11 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>4.5 pouces</item>
         <item>4.0 pouces</item>
         <item>3.5 pouces</item>
+    </string-array>
+    <string-array name="handy_mode_size_value_entries">
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Immédiatement</item>
@@ -787,8 +843,65 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>XXL</item>
         <item>XXXL</item>
     </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Illimité</item>
+    </string-array>
+    <string-array name="organized_locales">
+        <item>dz</item>
+        <item>ao</item>
+        <item>bh</item>
+        <item>bw</item>
+        <item>br</item>
+        <item>cm</item>
+        <item>cd</item>
+        <item>ci</item>
+        <item>eg</item>
+        <item>gq</item>
+        <item>et</item>
+        <item>fr</item>
+        <item>gh</item>
+        <item>hk</item>
+        <item>in</item>
+        <item>id</item>
+        <item>ir</item>
+        <item>ke</item>
+        <item>ls</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>mx</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>na</item>
+        <item>ng</item>
+        <item>ph</item>
+        <item>qa</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sn</item>
+        <item>sg</item>
+        <item>za</item>
+        <item>kr</item>
+        <item>sz</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>vn</item>
+        <item>zm</item>
+        <item>zw</item>
+    </string-array>
     <string-array name="common_password_business_names">
-        <item>Écran de verrouillage</item>
+        <item>Écran de vérrouillage</item>
         <item>Mot de passe de protection de la vie privée</item>
         <item>Mode enfant</item>
         <item>Explorateur</item>
@@ -800,6 +913,12 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>20 sec</item>
         <item>30 sec</item>
         <item>1 min</item>
+    </string-array>
+    <string-array name="anr_record_interval_values">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
     </string-array>
     <string-array name="screen_button_style">
         <item>Style main gauche</item>
@@ -820,12 +939,10 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Photos</item>
         <item>Fichiers</item>
         <item>Notes</item>
-        <item>Mode enfant</item>
     </string-array>
-    <string-array name="long_press_volume_down_action">
-        <item>Aucun</item>
-        <item>Prise rapide (photo)</item>
-        <item>Prise rapide (vidéo)</item>
-        <item>Raccourcis de transports publics</item>
+    <string-array name="miracast_policies">
+        <item>Délai plus court</item>
+        <item>Normal</item>
+        <item>Meilleure qualité</item>
     </string-array>
 </resources>

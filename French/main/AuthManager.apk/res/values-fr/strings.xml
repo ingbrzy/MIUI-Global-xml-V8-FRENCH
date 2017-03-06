@@ -205,7 +205,7 @@ Vous devez flasher la version développeur de MIUI pour avoir accès au ROOT."</
     <string name="Dashboard_Perm_HIPS_Risky">Permissions à risque (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Safe">Permissions standard (%1$d)</string>
     <string name="Dashboard_Perm_AutoStart">Gérer les applications au démarrage</string>
-    <string name="Dashboard_Perm_AutoStart_Desc">Activer ou désactiver les applications au démarrage</string>
+    <string name="Dashboard_Perm_AutoStart_Desc">Contrôler les applications qui peuvent être lancées lors du démarrage de votre appareil</string>
     <string name="Dashboard_HIPS_Disable_Title">Surveillance des permissions</string>
     <string name="Dashboard_HIPS_Disable_Content">"MIUI ne surveillera pas les demandes d'autorisation des applications."</string>
     <string name="Dashboard_Log_Clear_Title">Vider les journaux</string>

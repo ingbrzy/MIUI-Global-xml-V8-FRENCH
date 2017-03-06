@@ -38,7 +38,10 @@
     <string name="pm_lable_name">"À propos de l'accès root"</string>
     <string name="pc_activity_title">Optimiser la batterie</string>
     <string name="game_booster">Augmentation de la vitesse de jeu</string>
+    <string name="top_game">Meilleurs jeux</string>
     <string name="game_setting">Paramètres de jeu</string>
+    <string name="gs_auto_clean_memory">Vider le cache</string>
+    <string name="gs_auto_clean_memory_detail">Efface automatiquement le cache pour optimiser le jeu</string>
     <string name="gs_app_back_self_start">Économiseur de batterie</string>
     <string name="gs_only_self_start_for_list">Restreindre les processus en arrière-plan pour économiser la batterie pour les jeux</string>
     <string name="gs_game_net_priority">Priorité de connexion</string>
@@ -50,6 +53,7 @@
     <string name="gs_dialog_confirm_close_msg">"Le raccourci sera retiré de votre Écran d'accueil. Aller dans Sécurité > Paramètres pour le restaurer."</string>
     <string name="gs_game_performance">Performance</string>
     <string name="gs_game_duration">Durée</string>
+    <string name="gs_game_disturb_msg">NPD</string>
     <string name="install_game_count">%d jeux ajoutés</string>
     <string name="uninstall_game_count">%d jeux ont été désinstallés</string>
     <string name="add_game">Ajouter un jeu</string>
@@ -62,13 +66,15 @@
     <string name="shield_keyboard_detail">Appuyer rapidement deux fois sur les boutons pour les activer</string>
     <string name="anti_disturb_msg_title">NPD</string>
     <string name="anti_disturb_msg_detail">"Désactiver toutes les notifications à l'exception des appels entrants"</string>
+    <string name="wlan_change_protection_title">Empêcher le changement de réseau</string>
+    <string name="wlan_change_protection_detail">Ne passez pas automatiquement en mode Wifi lorsque vous êtes connecté à un réseau de données mobile</string>
     <string name="other">Autres paramètres</string>
     <string name="game_booster_intro">"À propos de l'augmentation de la vitesse de jeu"</string>
     <string name="start_game">Démarrer</string>
     <string name="scan_installed_games">Vérification des jeux installés…</string>
     <string name="boostering">Augmentation de la vitesse…</string>
     <string name="booster_suc">Augmentée avec succès</string>
-    <string name="support_game_booster_tips">"Augmenter la vitesse &amp; améliorer l'expérience de jeu"</string>
+    <string name="support_game_booster_tips">"Lancer les jeux en utilisant l'Accélérateur de vitesse de jeu"</string>
     <string name="setting">Paramètres</string>
     <string name="loading">Un instant…</string>
     <string name="auto_import_games">Placer tous les jeux dans le même dossier</string>
@@ -77,4 +83,5 @@
     <string name="release_memory">Vider le cache</string>
     <string name="start">Démarrer</string>
     <string name="close">Fermer</string>
+    <string name="lucky_result_title">Enveloppes rouges</string>
 </resources>

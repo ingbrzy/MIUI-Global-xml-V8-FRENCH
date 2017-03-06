@@ -111,7 +111,7 @@ Note : Les données des applications que vous avez installées ne seront pas sau
     <string name="confirm_restore">Restaurer</string>
     <string name="cloud_backup_have_data">Sauvegarde trouvée dans Mi Cloud</string>
     <string name="cloud_backup_select_recover">Choisir une sauvegarde à partir de Mi Cloud</string>
-    <string name="backup_finished_notification_content">"Les applications sur l'écran d'accueil, les paramètres du système, etc. sont sauvegardées."</string>
+    <string name="backup_finished_notification_content">"Les applications sur l'écran d'accueil, les paramètres du système, etc. sont sauvegardés."</string>
     <string name="backup_now">Sauvegarder maintenant</string>
     <string name="restore_task_unfinished">Restauration des applications, réessayez plus tard</string>
     <string name="backup_successfully">Sauvegardé avec succès</string>
@@ -119,6 +119,6 @@ Note : Les données des applications que vous avez installées ne seront pas sau
     <string name="btn_back">Retour</string>
     <string name="btn_continue">Continuer</string>
     <string name="btn_skip">Passer cette étape</string>
-    <string name="provision_arrow_back">&lt;</string>
-    <string name="provision_arrow_next">></string>
+    <string name="can_not_restore_in_lite_mode">Impossible de restaurer en mode simplifié</string>
+    <string name="can_not_backup_in_lite_mode">Impossible de sauvegarder en mode simplifié</string>
 </resources>

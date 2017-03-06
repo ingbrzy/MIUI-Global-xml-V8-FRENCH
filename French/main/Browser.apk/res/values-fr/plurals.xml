@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d éléments bloqués</item>
+        <item quantity="one">%d élément bloqué</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d résultats</item>
+        <item quantity="one">%d résultat</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Il y a %d jours</item>
         <item quantity="one">Il y a %d jour</item>
@@ -12,32 +20,24 @@
         <item quantity="other">%1$d sélectionnés</item>
         <item quantity="one">%1$d sélectionné</item>
     </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">Supprimer %1$d vidéos ?</item>
-        <item quantity="one">Supprimer %1$d vidéo ?</item>
-    </plurals>
     <plurals name="video_download_clear_info">
         <item quantity="other">%1$d vidéos ont été supprimées avec succès.</item>
         <item quantity="one">%1$d vidéo a été supprimée avec succès.</item>
     </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">%d minutes restantes</item>
-        <item quantity="one">1 minute restante</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">"Supprimer %1$d éléments de l'historique ?"</item>
-        <item quantity="one">"Supprimer %1$d élément de l'historique ?"</item>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Supprimer %1$d vidéos ?</item>
+        <item quantity="one">Supprimer %1$d vidéo ?</item>
     </plurals>
     <plurals name="video_history_clear_info">
         <item quantity="other">"%1$d éléments ont été supprimés de l'historique."</item>
         <item quantity="one">"%1$d élément a été supprimé de l'historique."</item>
     </plurals>
-    <plurals name="find_on_page_matches">
-        <item quantity="other">%d résultats</item>
-        <item quantity="one">%d résultat</item>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">"Supprimer %1$d éléments de l'historique ?"</item>
+        <item quantity="one">"Supprimer %1$d élément de l'historique ?"</item>
     </plurals>
-    <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d éléments bloqués</item>
-        <item quantity="one">%d élément bloqué</item>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">%d minutes restantes</item>
+        <item quantity="one">1 minute restante</item>
     </plurals>
 </resources>

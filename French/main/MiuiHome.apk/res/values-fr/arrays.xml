@@ -20,12 +20,16 @@
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Par défaut</item>
-        <item>Classique</item>
+        <item>Elégant</item>
     </string-array>
     <string-array name="gadget_weather_image">
-        <item>Ensoleillé</item>
+        <item>Dégagé</item>
         <item>Nuageux</item>
         <item>Couvert</item>
         <item>Brouillard</item>
@@ -51,11 +55,14 @@
         <item>"Poussière dans l'air"</item>
         <item>Brume</item>
     </string-array>
-        <string-array name="editing_mode_entries">
-        <item>Thème</item>
+    <string-array name="editing_mode_entries">
+        <item>Thèmes</item>
         <item>Widgets</item>
-        <item>"Fonds d'écran"</item>
-        <item>Effets</item>
-        <item>Agencement</item>
+        <item>"Fond d'écran"</item>
+        <item>Transitions</item>
+        <item>Disposition</item>
+    </string-array>
+    <string-array name="quality_business_devices">
+        <item>Lithium</item>
     </string-array>
 </resources>

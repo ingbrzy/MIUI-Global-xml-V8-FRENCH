@@ -74,4 +74,9 @@
         <item>CPU</item>
         <item>Éveil</item>
     </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
 </resources>

@@ -8,15 +8,18 @@
         <item>Vert</item>
         <item>Bleu</item>
     </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>PC</item>
-        <item>iPhone</item>
-        <item>iPad</item>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Précédent/Page suivante</item>
+        <item>"Changer d'onglet"</item>
+        <item>Aucune</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>"Page d'accueil par défaut"</item>
         <item>Personnalisé</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Téléphone</item>
+        <item>Tablette</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Très petite</item>
@@ -25,20 +28,22 @@
         <item>Grande</item>
         <item>Très grande</item>
     </string-array>
-    <string-array name="pref_nav_mode_summary">
-        <item>Téléphone</item>
-        <item>Tablette</item>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>PC</item>
+        <item>iPhone</item>
+        <item>iPad</item>
     </string-array>
-    <string-array name="shortcut_dialog_title">
-        <item>Message du navigateur</item>
-        <item>Suivez les jeux olympiques avec Mi</item>
+    <string-array name="shortcut_dialog_delete">
+        <item>Supprimer</item>
+        <item>Non merci</item>
     </string-array>
     <string-array name="shortcut_dialog_keep">
         <item>OK </item>
         <item>Suivre</item>
     </string-array>
-    <string-array name="shortcut_dialog_delete">
-        <item>Supprimer</item>
-        <item>Non merci</item>
+    <string-array name="shortcut_dialog_title">
+        <item>Message du navigateur</item>
+        <item>Suivez les jeux olympiques avec Mi</item>
     </string-array>
 </resources>
