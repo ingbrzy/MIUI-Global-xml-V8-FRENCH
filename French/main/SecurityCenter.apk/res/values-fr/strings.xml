@@ -553,8 +553,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_consume_rank_title">Utilisation de la batterie</string>
     <string name="power_consume_rank_software">Applis</string>
     <string name="power_consume_rank_hardware">Matériel</string>
-    <string name="power_consume_total_software">Applications : %1$d%%</string>
-    <string name="power_consume_total_hardware">Matériel : %1$d%%</string>
     <string name="power_consume_other">Autre</string>
     <string name="battery_desc_other_apps">"Énergie consommée par d'autres applications"</string>
     <string name="power_settings_title">Définir</string>
