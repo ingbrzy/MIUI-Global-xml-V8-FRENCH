@@ -387,7 +387,6 @@ Prenez plus de photos à vos amis !"</string>
     <string name="must_pick_file">Sélectionnez une photo</string>
     <string name="send_multiple_files_hint_format">Envoi (%s)</string>
     <string name="send_too_many_files_error">"Vous pouvez envoyer jusqu'à %d éléments en même temps"</string>
-    <string name="share_app_is_launching">"{0,choice,0#Lancement de l'application…|1#%s est en cours de lancement…}"</string>
     <string name="title_warn">Attention</string>
     <string name="byteShort">o</string>
     <string name="kilobyteShort">ko</string>
