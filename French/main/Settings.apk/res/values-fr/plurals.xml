@@ -5,8 +5,8 @@
         <item quantity="one">1 application ne peut pas afficher les notifications</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s applications ne peuvent pas afficher les notifications</item>
-        <item quantity="one">1 application ne peut pas afficher les notifications</item>
+        <item quantity="other">%s applications peuvent afficher les notifications</item>
+        <item quantity="one">1 application peut afficher les notifications</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Plus que %1$d étapes pour devenir développeur</item>
