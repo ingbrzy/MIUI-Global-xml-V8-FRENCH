@@ -167,7 +167,6 @@
     <string name="color_picker_dialog_title">Sélectionnez la couleur</string>
     <string name="color_picker_hue">Teinte</string>
     <string name="color_picker_saturation">Saturation</string>
-    <string name="color_picker_value">Valeur</string>
     <string name="comment_app_menu">Commentaire</string>
     <string name="comment_description">Commentaire</string>
     <string name="comment_hint">Commentaire</string>

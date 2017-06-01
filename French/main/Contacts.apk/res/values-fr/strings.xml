@@ -708,7 +708,6 @@ Les cartes de contact ont été désactivées"</string>
     <string name="miprofile_alertdialog_message">"Afficher ce nom aux contacts quand vous demandez d'échanger des cartes."</string>
     <string name="miprofile_alertdialog_edit">Saisir un nom</string>
     <string name="miprofile_switch_off_alertdialog_message">"Vous ne pouvez pas échanger de carte de contact avec d'autres personnes."</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">Ajouter un numéro de téléphone</string>
     <string name="miprofile_bind_account_alertdialog_message">Vous devez ajouter le numéro de téléphone de cet appareil dans votre compte Mi pour utiliser cette fonction.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Ajouter un numéro</string>

@@ -590,7 +590,6 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="welcome_to_slim">Optimiser le stockage local</string>
     <string name="slim_introduce">"Remplace les photos en pleine résolution sur l'appareil par des versions optimisées après les avoir sauvegardées sur Mi Cloud. Celles en pleine résolution sont encore stockées dans Mi Cloud."</string>
     <string name="slim_introduce_with_specific_size">"Remplacer les photos en pleine résolution par des versions optimisées après les avoir sauvegardées sur Mi Cloud. Celles en pleine résolution sont encore stockées dans Mi Cloud. Cela permet d'économiser jusqu'à %1$s de stockage local (Compte Mi requis)."</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">Sauvegarde les photos et vidéos automatiquement (le Compte Mi est requis)</string>
     <string name="next">Suivant</string>
     <string name="login_and_enable_service">Se connecter avec un Compte Mi</string>

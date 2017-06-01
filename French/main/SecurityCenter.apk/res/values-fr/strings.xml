@@ -1228,7 +1228,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="memory_check_content">Libéré %s</string>
     <string name="memory_check_content_none">Vide</string>
     <string name="system_check_content_none">Sûr</string>
-    <string name="cache_check_content_none">@string/memory_check_content_none</string>
     <string name="system_header_title">Vider %1$d processus pour libérer %2$s de mémoire</string>
     <string name="cache_header_title">"Vider %1$d fichiers en cache pour libérer %2$s d'espace"</string>
     <string name="activity_title_virus">Virus</string>
@@ -1685,7 +1684,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="card_main_monthreport_action">Afficher</string>
     <string name="card_main_speeddetail_title">Vitesse de connexion</string>
     <string name="card_main_speeddetailt_summary">Afficher individuellement la vitesse de connexion des applications</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Tester le réseau</string>
     <string name="card_main_netcheck_summary">Tester la connexion pour des problèmes de réseau</string>
     <string name="card_main_netcheck_action">Test</string>

@@ -334,16 +334,6 @@
         <item>Très faible</item>
         <item>Sévère</item>
     </string-array>
-    <string-array name="weather_tips_value">
-        <item>"Réduisez les activités à l'extérieur"</item>
-        <item>Les chaussées sont glissantes</item>
-        <item>Le temps est orageux, soyez prudent !</item>
-        <item>"L'air est pollué, veuillez porter un masque !"</item>
-        <item>Prenez un parapluie si vous sortez</item>
-        <item>Faites attention sur la route</item>
-        <item>"Une tempête de sable s'annonce, veuillez porter un masque !"</item>
-        <item>Bonne journée !</item>
-    </string-array>
     <string-array name="alarm_set">
         <item>"L'alarme sonnera dans moins d'une minute."</item>
         <item>"L'alarme sonnera dans %1$s."</item>
@@ -363,15 +353,6 @@
         <item>25 minutes</item>
         <item>30 minutes</item>
     </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="auto_silence_entries">
         <item>Jamais</item>
         <item>1 minute</item>
@@ -386,10 +367,5 @@
         <item>Ne rien faire</item>
         <item>Répéter</item>
         <item>Rejeter</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>
