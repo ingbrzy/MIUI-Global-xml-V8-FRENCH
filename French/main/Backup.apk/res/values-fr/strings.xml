@@ -6,7 +6,7 @@ Taille : %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Version %1$s
 Taille de la mise à jour : %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Stockage indisponible, vérifiez votre carte SD.</string>
-    <string name="xiaomi_bytes_unit">%1$s</string>
+    <string name="xiaomi_bytes_unit">%1$s o</string>
     <string name="xiaomi_kilobytes_unit">%1$s ko</string>
     <string name="xiaomi_megabytes_unit">%1$s Mo</string>
     <string name="xiaomi_connect_download_manager_fail">Impossible de démarrer le téléchargement. Vérifier que le gestionnaire de téléchargements fonctionne normalement.</string>
@@ -234,6 +234,7 @@ Taille de la mise à jour : %2$s"</string>
     <string name="feature_title_call_log">Historique des appels</string>
     <string name="feature_title_mms">MMS</string>
     <string name="feature_title_account">Compte Mi</string>
+    <string name="feature_title_antispam">Blocklist</string>
     <string name="summary_err_backup_encrypting">Connectez-vous à votre Compte Mi.</string>
     <string name="summary_err_restore_encrypting">Impossible de restaurer. Assurez-vous que cette sauvegarde a été créée en utilisant votre compte Mi.</string>
     <string name="summary_err_backup_no_network">Impossible de se connecter au réseau</string>
@@ -321,7 +322,7 @@ Appuyer [Je suis le receveur] pour créer le code QR"</string>
     <string name="trans_operate_old_phone_tips1">"1. Installer l'application Mi Mover sur votre ancien appareil
 2. Ouvrir l'application et appuyer sur Démarrer
 3. Scanner le Code QR avec votre ancien appareil"</string>
-    <string name="trans_operate_old_phone_tips2">"Allez dans Paramètres > Paramètre supplémentaires > Mi Mover, appuyez sur [Je suis l'expéditeur]"</string>
+    <string name="trans_operate_old_phone_tips2">"Allez dans Paramètres > Paramètres supplémentaires > Mi Mover, appuyez sur [Je suis l'expéditeur]"</string>
     <string name="trans_wait_trans_data">"Connectez l'ancien appareil.
 En attente de transfert…"</string>
     <string name="trans_select_data">Sélectionner les éléments à envoyer</string>
@@ -346,6 +347,6 @@ Vider au moins %s."</string>
     <string name="trans_start_failed_message">Impossible de démarrer le transfert, essayez encore ou redémarrez votre appareil.</string>
     <string name="trans_connection_failed">Appareil déconnecté</string>
     <string name="user_notice_title">Attention</string>
-    <string name="user_notice_message">"Certaines fonctionnalités ont besoin d'une connexion internet pour fonctionner normalement."</string>
+    <string name="user_notice_message">"Certaines fonctionnalités ont besoin d'une connexion Internet pour fonctionner normalement."</string>
     <string name="user_notice_declaration_ignore">Ne plus afficher</string>
 </resources>

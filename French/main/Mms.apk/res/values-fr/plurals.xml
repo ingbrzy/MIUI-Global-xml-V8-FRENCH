@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Supprimer les %1$s conversations sélectionnées ?</item>
-        <item quantity="one">Supprimer cette conversation ?</item>
+        <item quantity="other">Supprimer %1$s conversations sélectionnées ?</item>
+        <item quantity="one">Supprimer %1$s conversation sélectionnée ?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s s</item>
-        <item quantity="one">%s s</item>
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s s</item>
-        <item quantity="one">%s s</item>
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s résultats pour %2$s\"</item>
@@ -18,18 +18,26 @@
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s personnes</item>
-        <item quantity="one">1 personne</item>
+        <item quantity="one">%1$s personne</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Retirer%1$s messages ?</item>
+        <item quantity="one">Retirer%1$s message ?</item>
     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d messages</item>
-        <item quantity="one">1 message</item>
+        <item quantity="one">%d message</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%d messages n'ont pas été synchronisés"</item>
-        <item quantity="one">"1 message n'a pas été synchronisé"</item>
+        <item quantity="other">%d messages ont été synchronisés</item>
+        <item quantity="one">%d message a été synchronisé</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s messages</item>
         <item quantity="one">%1$s message</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d sélectionnés</item>
+        <item quantity="one">%d sélectionné</item>
     </plurals>
 </resources>

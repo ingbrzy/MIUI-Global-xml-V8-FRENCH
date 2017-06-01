@@ -119,6 +119,7 @@
     <string name="carousel">Carrousel</string>
     <string name="toyrobot">ToyRobot</string>
     <string name="daydream">Rêverie</string>
+    <string name="miclassic">MiClassic</string>
     <string name="cta_permission_delimiter">,</string>
     <string name="cta_permission_and">et</string>
     <string name="cta_title">"Conditions d'utilisation"</string>

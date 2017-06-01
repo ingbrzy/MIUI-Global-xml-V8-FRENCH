@@ -12,7 +12,6 @@
     <string name="no_applications">Vide</string>
     <string name="add_applications">"Choisir l'application"</string>
     <string name="add_apps_title">Applications</string>
-    <string name="select_items">%d sélectionné</string>
     <string name="settings_safetylegal_activity_loading">Un instant…</string>
     <string name="power_chooser_user_define_title">Nouveau mode</string>
     <string name="power_event_user_define_title">Nouveaux événements</string>
@@ -26,7 +25,7 @@
     <string name="action_bar_delete">Supprimer</string>
     <string name="operation_create_group">Nom</string>
     <string name="operation_create_group_message">Entrez le nouveau nom de groupe</string>
-    <string name="new_group_name">Mode Client</string>
+    <string name="new_group_name">Mode personnalisé</string>
     <string name="error_filename_too_long">Le nom du fichier que vous avez entré est trop long.</string>
     <string name="alter_message_delete">Supprimer ?</string>
     <string name="alter_message_switch_mode">Changer de mode ?</string>
@@ -78,7 +77,7 @@
     <string name="power_config_app_background_title">Arrière-plan</string>
     <string name="power_config_app_full_screen_title">Plein écran</string>
     <string name="power_config_phone_charging_title">En charge</string>
-    <string name="power_config_phone_idle_title">Veille</string>
+    <string name="power_config_phone_idle_title">Mise en veille</string>
     <string name="power_config_cpu_mode_title">Mode CPU</string>
     <string name="power_config_cpu_freq_title">Fréquence CPU</string>
     <string name="power_config_lcd_mode_title">Mode LCD</string>
@@ -113,7 +112,6 @@
     <string name="power_config_apps">"Économise l'énergie en arrière-plan"</string>
     <string name="app_list_title">"Choisir l'application"</string>
     <string name="power_hide_mode_app_list_summary">"Paramètres de l'application"</string>
-    <string name="app_list_total">%d applications</string>
     <string name="power_config_mode_title">"Modes économie d'énergie"</string>
     <string name="power_config_disable_title">Désactivé</string>
     <string name="power_config_disable_description">"MIUI ne limitera pas les activités d'arrière plan"</string>

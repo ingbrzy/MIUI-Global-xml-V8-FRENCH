@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">"Retour à l'accueil"</string>
-    <string name="abc_action_bar_up_description">Naviguer</string>
+    <string name="abc_action_bar_home_description">"Aller à la page d'accueil"</string>
+    <string name="abc_action_bar_up_description">Aller vers le haut</string>
     <string name="abc_action_menu_overflow_description">Plus</string>
     <string name="abc_action_mode_done">Terminé</string>
     <string name="abc_action_mode_select_all">Tout sélectionner</string>
-    <string name="accept_cookies_confirm_message">Désactiver cette fonctionnalité peut faire dysfonctionner certains sites internet.</string>
+    <string name="accept_cookies_confirm_message">Désactiver cette fonctionnalité peut faire dysfonctionner certains sites Internet.</string>
     <string name="accessibility_button_clear">Effacer la saisie</string>
     <string name="accessibility_date_picker_month">Mois</string>
     <string name="accessibility_date_picker_week">Semaine</string>
@@ -63,12 +63,13 @@
     <string name="add_new_quicklink">"Ajouter à la page d'accueil"</string>
     <string name="add_ql_bm_title">Enregistrer</string>
     <string name="add_quicklink_to_popular">"Ajouter à la page d'accueil"</string>
-    <string name="add_quicklinks">"Ajouter à la page d'accueil"</string>
+    <string name="add_quicklinks">Ajouter</string>
     <string name="add_shortcut">Ajouter un raccourci</string>
     <string name="add_shortcut_success">Raccourci ajouté avec succès</string>
     <string name="add_to_bookmark">Favoris</string>
-    <string name="add_to_desk">"Ajouter à l'écran d'accueil"</string>
-    <string name="add_to_desk_success">"Ajouté à l'écran d'accueil"</string>
+    <string name="add_to_desk">"Ajouter à l'Écran d'accueil"</string>
+    <string name="add_to_desk_lite_mode_toast">"Impossible de l'ajouter à l'écran d'accueil en mode simplifié"</string>
+    <string name="add_to_desk_success">"Ajouter à l'Écran d'accueil"</string>
     <string name="add_to_quicklink">"Page d'accueil"</string>
     <string name="added_to_bookmarks">Ajouté aux favoris</string>
     <string name="adjust_text_zoom_toast">Changer la taille du zoom peut rendre certains sites illisibles</string>
@@ -85,6 +86,7 @@
     <string name="aqi_quality_index_moderate">Modéré</string>
     <string name="aqi_quality_index_pure">Excellent</string>
     <string name="aqi_quality_index_unhealthy">Malsain</string>
+    <string name="autoSwithcingSearchEngineTips">Basculé sur le moteur de recherche que vous utilisez le plus souvent</string>
     <string name="autofill_keyboard_accessory_content_description">Suggestions disponibles</string>
     <string name="autofill_popup_content_description">"Afficher la popup d'auto-remplissage"</string>
     <string name="autologin_bar_error">Impossible de se connecter</string>
@@ -92,6 +94,7 @@
     <string name="autologin_bar_login_text">Se connecter</string>
     <string name="autologin_bar_text">Se connecter comme</string>
     <string name="back_button_label">Retour</string>
+    <string name="back_description">Retour</string>
     <string name="block">Bloquer</string>
     <string name="block_ads_choice_block">Bloquer</string>
     <string name="block_ads_choice_continue">Continuer</string>
@@ -103,8 +106,8 @@
     <string name="bookmark_cannot_save_url">Cette URL ne peut pas etre ajouté aux favoris.</string>
     <string name="bookmark_folder_needs_title">Entrez un nom de groupe</string>
     <string name="bookmark_group_lable">Groupe</string>
-    <string name="bookmark_needs_title">Le favoris doit avoir un nom.</string>
-    <string name="bookmark_needs_url">Le favoris doit contenir une URL.</string>
+    <string name="bookmark_needs_title">Le favoris doit avoir un nom</string>
+    <string name="bookmark_needs_url">Le favoris doit contenir une URL</string>
     <string name="bookmark_not_saved">"Impossible d'enregistrer le favoris"</string>
     <string name="bookmark_rename_group">Renommer le groupe</string>
     <string name="bookmark_saved">Enregistré dans les favoris</string>
@@ -112,8 +115,9 @@
     <string name="bookmark_title_lable">Titre</string>
     <string name="bookmark_url">URL http://</string>
     <string name="bookmark_url_already_exisit">Vous avez déjà ajouté cette URL aux favoris</string>
+    <string name="bookmark_url_can_not_null">"Entrez l'URL"</string>
     <string name="bookmark_url_lable">URL</string>
-    <string name="bookmark_url_not_valid">"Cette URL n'est pas valide."</string>
+    <string name="bookmark_url_not_valid">"Cette URL n'est pas valide"</string>
     <string name="bookmarks_content_is_null">Aucun favori</string>
     <string name="bookmarks_management">Favoris</string>
     <string name="bookmarks_root_folder">Dossier racine</string>
@@ -121,12 +125,14 @@
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Glissez vers le bas pour fermer</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Ceci est le dernier onglet</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Glissez vers le haut pour fermer</string>
-    <string name="browserFrameFileErrorLabel">coommandes de fichier</string>
+    <string name="browserFrameFileErrorLabel">Erreur de fichier</string>
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">La page que vous essayez de voir contient des données qui ont déjà été soumises. Si vous transmettez les données, les actions précédentes (par exemple, des recherches ou achats) seront répétées.</string>
-    <string name="browserFrameNetworkErrorLabel">coommandes de connexion</string>
+    <string name="browserFrameNetworkErrorLabel">Erreur de connexion</string>
     <string name="cancel">Annuler</string>
     <string name="cannot_download">Peut seulement télécharger des URL \"http\" ou \"https\"</string>
+    <string name="check_permission_of_current_location">Current location info</string>
+    <string name="check_permission_of_current_url">URL des sites Web que vous visitez</string>
     <string name="choosertitle_sharevia">Partager via</string>
     <string name="clear_history">"Effacer l'historique"</string>
     <string name="clear_most_visited">Historique récent</string>
@@ -161,7 +167,9 @@
     <string name="color_picker_dialog_title">Sélectionnez la couleur</string>
     <string name="color_picker_hue">Teinte</string>
     <string name="color_picker_saturation">Saturation</string>
+    <string name="color_picker_value">Valeur</string>
     <string name="comment_app_menu">Commentaire</string>
+    <string name="comment_description">Commentaire</string>
     <string name="comment_hint">Commentaire</string>
     <string name="comment_menu">Commentaire</string>
     <string name="common_use_phrase_bottom_bar_text_next">Suivant</string>
@@ -177,10 +185,11 @@
     <string name="contextmenu_openlink">Ouvrir</string>
     <string name="contextmenu_openlink_newwindow">Ouvrir dans un nouvel onglet</string>
     <string name="contextmenu_openlink_newwindow_background">"Ouvrir dans un onglet d'arrière-plan"</string>
-    <string name="contextmenu_recognise_qr_code">Reconnaître le QR code</string>
+    <string name="contextmenu_recognise_qr_code">Scanner le code QR</string>
     <string name="contextmenu_savelink">Enregistrer le lien</string>
     <string name="contextmenu_send_mail">Envoyer un e-mail</string>
     <string name="contextmenu_set_wallpaper">"Définir comme fond d'écran"</string>
+    <string name="contextmenu_share_image">"Partager l'image"</string>
     <string name="contextmenu_sharelink">Partager le lien</string>
     <string name="contextmenu_view_image">"Voir l'image"</string>
     <string name="contextmenu_webpage_capture">"Enregistrer comme capture d'écran"</string>
@@ -279,7 +288,7 @@ Les pages que vous visitez n'apparaîtront pas dans l'historique."</string>
     <string name="empty_bookmark">Vide</string>
     <string name="empty_history_hint">"L'historique est vide"</string>
     <string name="empty_snapshot_hint">Vide</string>
-    <string name="enable_geolocation_confirm_message">Désactiver cette fonctionnalité peut faire dysfonctionner certains sites internet.</string>
+    <string name="enable_geolocation_confirm_message">Turning off location services will affect the recommendations you receive.</string>
     <string name="enter_developer_mode">Passer en mode développeur</string>
     <string name="enter_incongnito_mode">Navigation privée</string>
     <string name="error_forbidden">La synchronisation a été arrêtée suite à un problèmes avec votre compte Mi.</string>
@@ -299,18 +308,20 @@ Les pages que vous visitez n'apparaîtront pas dans l'historique."</string>
     <string name="find_on_page_next">Suivant</string>
     <string name="find_on_page_prev">Retour</string>
     <string name="find_previous">Trouver le précédent</string>
+    <string name="firstUsingSearchEngineTips">Changer de moteur de recherche ?</string>
     <string name="fling_on_border_gesture_hint">Vous pouvez choisir la fonction de ce geste dans Paramètres</string>
     <string name="force_quick_search_title">Recherche</string>
     <string name="force_touch_bookmark_history_title">Favoris &amp; Historique</string>
     <string name="force_touch_infoflow_title">Actualités</string>
+    <string name="forward_description">Suivant</string>
     <string name="geolocation_permissions_prompt_dont_share">Refuser</string>
     <string name="geolocation_permissions_prompt_message">%s veut connaître votre localisation</string>
     <string name="geolocation_permissions_prompt_remember">Mémoriser les préférences</string>
     <string name="geolocation_permissions_prompt_share">Partager la localisation</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">Ce site peut accéder a votre localisation. Pour changer cela, allez dans Paramètres > Avancé > Données des sites web.</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">Ce site peut accéder à vos informations de localisation. Vous pouvez changer cela dans les Paramètres.</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Ce site ne peut pas accéder à votre localisation</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Annuler</string>
-    <string name="geolocation_settings_page_dialog_message">"Enlever l'accès à ma localisation pour ce site internet ?"</string>
+    <string name="geolocation_settings_page_dialog_message">"Enlever l'accès à ma localisation pour ce site Internet ?"</string>
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
     <string name="geolocation_settings_page_summary_allowed">Ce site peut accéder à votre localisation</string>
     <string name="geolocation_settings_page_summary_not_allowed">Ce site ne peut pas accéder à votre localisation</string>
@@ -321,7 +332,8 @@ Les pages que vous visitez n'apparaîtront pas dans l'historique."</string>
     <string name="google_bookmarks">Google</string>
     <string name="have_sent_bookmark_to_home_screen">"Ajouté à l'écran d'accueil"</string>
     <string name="hint">Astuce</string>
-    <string name="history_saved_webpage">Enregistrer la page</string>
+    <string name="history_saved_webpage">Pages sauvegardées</string>
+    <string name="home_description">Accueil</string>
     <string name="homepage_delete_card_menu">Supprimer</string>
     <string name="homepage_get_location">Obtenir la localisation</string>
     <string name="homepage_get_location_failed">"Impossible d'obtenir les infos, choisissez une ville"</string>
@@ -343,7 +355,7 @@ Les pages que vous visitez n'apparaîtront pas dans l'historique."</string>
 Quitter cette page ?"</string>
     <string name="js_dialog_before_unload_negative_button">Rester</string>
     <string name="js_dialog_before_unload_positive_button">Quitter</string>
-    <string name="js_dialog_before_unload_title">Confirmer la navigation</string>
+    <string name="js_dialog_before_unload_title">Quitter la page</string>
     <string name="js_dialog_title">La page \"%s\" dit :</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_disable_confirm_message">Désactiver JavaScript peut rendre certains sites non fonctionnel.</string>
@@ -411,7 +423,7 @@ Quitter cette page ?"</string>
     <string name="miuichromium_error_page_diagnose_connection">Impossible de se connecter au réseau</string>
     <string name="miuichromium_error_page_diagnose_dns">"Il se peut que l'URL soit incorrecte"</string>
     <string name="miuichromium_error_page_diagnose_protocol">Erreur de protocol réseau</string>
-    <string name="miuichromium_error_page_diagnose_proxy_server">Serveur Proxy erreur</string>
+    <string name="miuichromium_error_page_diagnose_proxy_server">Erreur du serveur proxy</string>
     <string name="miuichromium_error_page_diagnose_success">Signal de réseau faible</string>
     <string name="miuichromium_error_page_diagnose_timeout">Délai de connexion expiré</string>
     <string name="miuichromium_error_page_diagnose_website">Erreur ! Site web injoignable</string>
@@ -423,7 +435,7 @@ Quitter cette page ?"</string>
     <string name="miuichromium_error_page_no_network">Impossible de se connecter</string>
     <string name="miuichromium_error_page_reload">Actualiser</string>
     <string name="miuichromium_error_page_safe_network">Mode sécurisé</string>
-    <string name="miuichromium_error_page_server_error">"Trop d'appreils essayent de se connecter"</string>
+    <string name="miuichromium_error_page_server_error">"Trop d'appareils essayent de se connecter"</string>
     <string name="miuichromium_error_page_title">Une erreur est survenue</string>
     <string name="miuichromium_error_page_unknown_error">Oups, quelque chose a mal tourné</string>
     <string name="miuichromium_error_page_wlan">Activer le Wi-Fi</string>
@@ -445,6 +457,7 @@ Quitter cette page ?"</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">Une carte SD est requise pour modifier ce chemin.</string>
     <string name="month_picker_dialog_title">Définir le mois</string>
+    <string name="more_description">Menu</string>
     <string name="more_option">"Plus d'options"</string>
     <string name="nav_bottom_bar_back">Retour</string>
     <string name="nav_bottom_bar_close_all">Fermer tout</string>
@@ -472,12 +485,13 @@ Quitter cette page ?"</string>
     <string name="older">Plus ancien</string>
     <string name="open_app_confirm_message">Autoriser cette page à ouvrir %s ?</string>
     <string name="open_file_explorer_failed">"Impossible d'ouvrir l'Explorateur"</string>
+    <string name="open_voice_permission">Open voice networking permission</string>
     <string name="opening_file_error">"Échec de l'ouverture du fichier sélectionné"</string>
     <string name="page_info">Infos sur la page</string>
     <string name="page_info_address">Adresse :</string>
     <string name="page_info_view">Voir les infos sur la page</string>
     <string name="password">Mot de passe</string>
-    <string name="password_generation_popup_content_description">Afficher la popup de génération de mot de passe</string>
+    <string name="password_generation_popup_content_description">Afficher la pop-up de génération de mot de passe</string>
     <string name="pause_download">En pause</string>
     <string name="paused_queued_for_wifi">En attente de connexion…</string>
     <string name="paused_unknown">En pause</string>
@@ -496,9 +510,12 @@ Quitter cette page ?"</string>
     <string name="pref_adblock_counts">%d bloqués</string>
     <string name="pref_adblock_title">Adblock</string>
     <string name="pref_auto_update_under_wifi">Mettre à jour en utilisant le Wi-Fi</string>
+    <string name="pref_automatic_matching_searchengines_title">Basculer sur le moteur de recherche que vous utilisez le plus souvent</string>
     <string name="pref_category_hint">Catégorie</string>
     <string name="pref_check_security_url_summary">"Envoyer l'URL du site Web aux serveurs de Xiaomi pour vérifier si elle est sécurisée"</string>
+    <string name="pref_check_security_url_summary_international">For providing a better referral service, allow the browser to get your access URL</string>
     <string name="pref_check_security_url_title">"Vérifier la sécurité de l'URL"</string>
+    <string name="pref_check_security_url_title_international">"Obtenir l'URL"</string>
     <string name="pref_clear_adblock_statistics">"Effacer l'historique Adblock"</string>
     <string name="pref_clear_adblock_statistics_dlg">Effacer le compteur adblock ?</string>
     <string name="pref_clear_all_data_dlg">Supprimer toutes les données enregistrées ?</string>
@@ -530,8 +547,8 @@ Quitter cette page ?"</string>
     <string name="pref_file_download_default_path_prefix">Emplacement par défaut : %s</string>
     <string name="pref_file_download_save_modify_default_path">"Emplacement d'enregistrements"</string>
     <string name="pref_file_download_save_title">Téléchargements</string>
-    <string name="pref_fling_on_border">"Mouvement en bordure d'écran"</string>
-    <string name="pref_fling_on_border_title_summary">"Mouvement de la gauche ou la droite en bordure d'écran"</string>
+    <string name="pref_fling_on_border">"Balayer depuis la bordure d'écran"</string>
+    <string name="pref_fling_on_border_title_summary">"Balayez de la bordure gauche ou droite de l'écran"</string>
     <string name="pref_font_size_category">Taille du texte des pages</string>
     <string name="pref_force_userscalable">Forcer le zoom</string>
     <string name="pref_force_userscalable_summary">"Remplacer la demande d'un site Web pour contrôler le comportement du zoom"</string>
@@ -566,7 +583,7 @@ Quitter cette page ?"</string>
     <string name="pref_privacy_clear_passwords_summary">Effacer tous les mots de passe enregistrés</string>
     <string name="pref_privacy_cookies_title">Cookies</string>
     <string name="pref_privacy_enable_geolocation">Localisation</string>
-    <string name="pref_privacy_enable_geolocation_summary">"Autoriser les sites à demander l'accès à votre localisation"</string>
+    <string name="pref_privacy_enable_geolocation_summary">Allow browser to request access to your location</string>
     <string name="pref_privacy_formdata_title">Données de formulaire</string>
     <string name="pref_privacy_location_title">Accès à ma localisation</string>
     <string name="pref_privacy_security_title">Confidentialité &amp; sécurité</string>
@@ -585,8 +602,6 @@ Quitter cette page ?"</string>
     <string name="pref_ua_string">User Agent</string>
     <string name="pref_version_info">Informations de version</string>
     <string name="pref_volume_key_action">"Défiler à l'aide des boutons de volume"</string>
-    <string name="pref_weather_location_summary">Utilisé par le plugin météo du navigateur</string>
-    <string name="pref_weather_location_title">Localisation météo</string>
     <string name="private_browsing_warning">"Cette fonctionnalité n'est pas prise en charge dans cette version d'Android."</string>
     <string name="profiler_error_toast">Échec du démarrage du générateur de profils</string>
     <string name="profiler_no_storage_toast">"Impossible de démarrer le générateur de profils, car la mémoire de stockage externe n'est pas disponible"</string>
@@ -596,7 +611,9 @@ Quitter cette page ?"</string>
     <string name="pull_to_refresh_pull_label">Glissez pour actualiser</string>
     <string name="pull_to_refresh_release_label">Relâcher pour recommander et actualiser</string>
     <string name="qr_code_title">Code QR</string>
-    <string name="quicklink_bookmark_save">EMPLACEMENT FAVORIS</string>
+    <string name="quicklink_bookmark_save">Enregistrer sous</string>
+    <string name="quicklink_cannot_save_url">Cette URL ne peut pas etre ajoutée.</string>
+    <string name="quicklink_folder_text">Top des applis</string>
     <string name="quicklink_not_saved">"Impossible d'ajouter comme page d'accueil"</string>
     <string name="quicklink_saved">"Enregistré comme page d'accueil"</string>
     <string name="quicklink_saved_before">Ce site a déjà été ajouté</string>
@@ -642,8 +659,8 @@ Quitter cette page ?"</string>
     <string name="same_folder_name_warning">Un groupe avec le même nom existe déjà</string>
     <string name="save_button_text">Enregistrer</string>
     <string name="save_dialog_title">Enregistrer</string>
-    <string name="save_file">Enregistrer %s fichiers</string>
-    <string name="save_file_already_exist_alert_message">Un fichier avec le même nom existe déjà, voulez-vous le remplacer ?</string>
+    <string name="save_file">Save %s file</string>
+    <string name="save_file_already_exist_alert_message">Un fichier portant le même nom existe déjà, le remplacer ?</string>
     <string name="save_file_already_exist_alert_title">Remplacer le fichier ?</string>
     <string name="save_form_data_confirm_message">"Désactiver cette fonctionnalité peut affecter l'utilisation."</string>
     <string name="save_image_failed">"Impossible d'enregistrer l'image"</string>
@@ -654,9 +671,11 @@ Quitter cette page ?"</string>
     <string name="save_password_never">Jamais</string>
     <string name="save_password_notnow">Pas maintenant</string>
     <string name="save_password_remember">Se souvenir</string>
-    <string name="save_to_camera">Enregistrer vers la caméra</string>
+    <string name="save_to_camera">Enregistrer dans la galerie</string>
     <string name="save_to_camera_failed">"Impossible d'enregistrer l'image"</string>
-    <string name="save_to_camera_success">Enregistré vers la caméra</string>
+    <string name="save_to_camera_success">Enregistré dans la galerie</string>
+    <string name="scanner_uninstalled_text">Continue to use, please install scanner</string>
+    <string name="scanner_uninstalled_title">Scanner has been uninstalled</string>
     <string name="sdcard_error">Vérifiez votre carte SD</string>
     <string name="search">Rechercher</string>
     <string name="search_baidu">Baidu</string>
@@ -690,15 +709,19 @@ Quitter cette page ?"</string>
     <string name="send_comment_title">Commentaire</string>
     <string name="senddesktop">"Écran d'accueil"</string>
     <string name="sendstartpage">"Page d'accueil"</string>
-    <string name="share_page_text">"J'apprécie 【%1$s】 | %2$s"</string>
-    <string name="show_check_security_url_check_tip_dialog_description">"L'adresse du site sera envoyée aux serveurs de Xiaomi pour vérifier sa sécurité. Vous pouvez désactiver cette fonctionnalité à tout moment dans les paramètres."</string>
+    <string name="share_image_text">"I'm enjoying a very wonderful picture"</string>
+    <string name="share_page_text">"J'apprécie %1$s | %2$s"</string>
+    <string name="show_check_security_url_check_tip_dialog_description">Pour améliorer la sécurité de votre navigateur et recevoir les recommandations pertinentes, autorisez le Navigateur à accéder à ces éléments :</string>
+    <string name="show_check_security_url_check_tip_dialog_description_international">Pour recevoir les recommandations pertinentes, autorisez le Navigateur à accéder à ces éléments :</string>
     <string name="show_security_tip_dialog_title">"Conditions générales d'utilisation"</string>
-    <string name="show_weather_location_getter_tip_dialog_description">Les services météorologiques ont besoin de votre localisation pour vous fournir des informations de météo à jour dans votre navigateur. Vous pouvez désactiver cette fonction dans les paramètres.</string>
+    <string name="show_weather_location_getter_tip_dialog_description">For the safety of your site and for providing location-based information referrals service and weather service, the browser needs to get the following information:</string>
     <string name="sign_in_to" formatted="false">Connectez-vous à %s1 %s2\"</string>
     <string name="skip_button_label">Ignorer</string>
     <string name="skip_current_version">Ignorer cette version</string>
     <string name="snapshot_failed">Impossible de sauvegarder pour une lecture hors-ligne</string>
     <string name="snapshot_successed">Enregistrer pour une lecture hors ligne</string>
+    <string name="ssl_bad_clock_date_settings">Définir la date</string>
+    <string name="ssl_bad_clock_warning" formatted="false">"Une connexion privée à %s1 ne peut être établie car la date et l'heure de l'appareil (%s2) ne sont pas correctes."</string>
     <string name="ssl_certificate">Certificat de sécurité</string>
     <string name="ssl_certificate_is_valid">Ce certificat est valide.</string>
     <string name="ssl_continue">Continuer</string>
@@ -713,6 +736,7 @@ Quitter cette page ?"</string>
     <string name="ssl_warnings_header">Il y a des problèmes avec le certificat de sécurité de ce site.</string>
     <string name="start_save_page_capture">Enregistrement de la capture écran…</string>
     <string name="storage_internal">Stockage interne</string>
+    <string name="storage_permission_request_toast">"Les téléchargements nécessite l'accès au stockage de votre appareil"</string>
     <string name="storage_sd_card">Carte SD</string>
     <string name="storage_usb">Stockage USB</string>
     <string name="suggest_access_appstore">Mi App Store</string>
@@ -728,11 +752,13 @@ Quitter cette page ?"</string>
     <string name="suggest_access_music">Mi Music</string>
     <string name="suggest_item_delete_text">Supprimer</string>
     <string name="suggest_open_app_failed">"Impossible d'ouvrir cette application"</string>
+    <string name="switchText">OUI</string>
     <string name="switch_proxy_dialog_msg">"Détournement de réseau détecté. Utilisez l'application Sécurité de MIUI ou signalez le problème à votre opérateur."</string>
     <string name="switch_proxy_dialog_title">Détournement du réseau</string>
     <string name="tab_hotpage">Nouvelles RSS</string>
     <string name="tab_quicklinks">"Page d'accueil"</string>
     <string name="tab_yellowpage">Liens</string>
+    <string name="tabs_description">Onglets</string>
     <string name="time_picker_dialog_am">AM</string>
     <string name="time_picker_dialog_hour_minute_separator">:</string>
     <string name="time_picker_dialog_minute_second_separator">:</string>
@@ -742,6 +768,8 @@ Quitter cette page ?"</string>
     <string name="title_bar_loading">Chargement…</string>
     <string name="too_many_windows_dialog_message">"Impossible d'ouvrir un nouvel onglet tant que vous n'en avez pas fermé un autre"</string>
     <string name="too_many_windows_dialog_title">"Impossible d'ouvrir plus d'onglets"</string>
+    <string name="unSwitchText">NON</string>
+    <string name="undo">Annuler</string>
     <string name="unknown_title">Inconnu</string>
     <string name="unsecurity_url_toast">"Ce site web n'est pas sécurisé"</string>
     <string name="up_to_loading_tips">Relâchez pour actualiser</string>
@@ -778,7 +806,7 @@ Quitter cette page ?"</string>
     <string name="version_dialog_buttion_ok">OK </string>
     <string name="version_dialog_buttion_update">Mettre à jour</string>
     <string name="version_update_file_download_toast">Téléchargement</string>
-    <string name="version_update_file_not_found">Impossible de trouver les mises à jours</string>
+    <string name="version_update_file_not_found">Impossible de trouver les mises à jour</string>
     <string name="video_activity_name">Favoris</string>
     <string name="video_buffering_percent">"Mise en mémoire tampon "</string>
     <string name="video_buffering_percent_string">"Mise en mémoire tampon "</string>
@@ -827,6 +855,11 @@ Quitter cette page ?"</string>
     <string name="video_unknown_duration">Durée inconnue</string>
     <string name="view_certificate">Voir le certificat</string>
     <string name="view_document_downloaded_files">Voir les fichiers téléchargés dans Téléchargements</string>
+    <string name="voice_check_network">Please check the network and try again</string>
+    <string name="voice_connect_network">Unable to connect to network</string>
+    <string name="voice_network_connection">Using voice search need networking,please authorize the network connection</string>
+    <string name="voice_search_permission">Voice search requires voice privileges, please go to the browser settings to open the voice permissions</string>
+    <string name="voice_semantic_analysis">Semantic analysis after networking</string>
     <string name="voice_sub_title">Vous ne savez pas quoi dire ? Essayez \"Ouvrir mi.com !\"</string>
     <string name="voice_title">Dites votre commande…</string>
     <string name="voice_title_distinguish">Traitement…</string>

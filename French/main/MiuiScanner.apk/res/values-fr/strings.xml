@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Scanneur</string>
     <string name="impunity_declaration_title">"Conditions d'Utilisation"</string>
-    <string name="impunity_declaration_content">Cette application doit se connecter à internet pour fonctionner normalement.</string>
+    <string name="impunity_declaration_content">"Cette application a besoin de se connecter aux services d'Internet et de localisation pour fonctionner normalement."</string>
     <string name="impunity_declaration_positive_text">Autoriser</string>
     <string name="impunity_declaration_negative_text">Quitter</string>
     <string name="accessibility_shutter_button">Déclencheur</string>
@@ -11,7 +11,7 @@
     <string name="dialog_dismiss">Ignorer</string>
     <string name="dialog_report">Rapporter</string>
     <string name="error_cannot_connect_camera">"Impossible de se connecter à l'appareil photo"</string>
-    <string name="error_camera_disabled">"L'accès à l'App. photo a été refusé dû à des raisons de sécurité"</string>
+    <string name="error_camera_disabled">"L'accès à l'App. photo a été refusé pour des raisons de sécurité"</string>
     <string name="error_media_storage_failure">"Impossible d'enregistrer la photo"</string>
     <string name="error_permissions">"Le Scanneur n'a pas les autorisations requises pour fonctionner normalement. Allez à Paramètres et vérifiez les autorisations pour continuer."</string>
     <string name="feedback_description_camera_access">"Impossible de se connecter à l'appareil photo"</string>
@@ -20,7 +20,7 @@
     <string name="no_network">Pas de réseau disponible</string>
     <string name="preparing_sd">Préparation du stockage interne…</string>
     <string name="spaceIsLow_content">"Espace insuffisant sur le stockage interne. Libérez de l'espace."</string>
-    <string name="module_title_code">QR Code</string>
+    <string name="module_title_code">Code QR</string>
     <string name="module_title_shopping">Achat</string>
     <string name="module_title_translation">Traduire</string>
     <string name="module_title_study">Étudier</string>
@@ -30,7 +30,7 @@
     <string name="picker_lable">Photo</string>
     <string name="common_retake_picture">Reprendre</string>
     <string name="common_save">Sauvegarder</string>
-    <string name="common_retry">Réessayer</string>
+    <string name="common_retry">Veuillez réessayer</string>
     <string name="sdk_not_ready">Préparation du SDK. Réessayez plus tard.</string>
     <string name="language_entry_chinese_cn">Chinois simplifié</string>
     <string name="language_entry_chinese_tw">Chinois traditionnel</string>
@@ -56,7 +56,7 @@
     <string name="title">Titre :</string>
     <string name="phone">Téléphone :</string>
     <string name="email">E-mail :</string>
-    <string name="web">Site internet :</string>
+    <string name="web">Site Internet :</string>
     <string name="address">Adresse :</string>
     <string name="birthday">Anniversaire :</string>
     <string name="note">Remarque :</string>
@@ -64,6 +64,7 @@
     <string name="recognize_fail">Impossible de lire le code</string>
     <string name="place_barcode_into_rectangle">Placez le code dans le cadre</string>
     <string name="barcode_into_rectangle">Placez le code dans le cadre</string>
+    <string name="drag_barcode_into_frame">Placez le code-barres dans le cadre</string>
     <string name="scan_fail">Impossible de scanner le code</string>
     <string name="scan_result">Résultat</string>
     <string name="url_is_safety">Ce site web est sécurisé</string>
@@ -78,7 +79,7 @@
     <string name="wifi_pwd">Mot de passe :</string>
     <string name="wifi_security">Securité :</string>
     <string name="wifi_details">Wi-Fi :</string>
-    <string name="website_details">Site internet :</string>
+    <string name="website_details">Site Internet :</string>
     <string name="app_details">Application :</string>
     <string name="secure_access_web_url">Aller sur le site web</string>
     <string name="not_recommend_access_web_url">Aller quand même</string>
@@ -91,13 +92,15 @@
     <string name="allow_check_website_security">Afficher les notifications de sécurité du site web</string>
     <string name="accept">Ok</string>
     <string name="cancel">Annuler</string>
-    <string name="tips_message">Connectez-vous à internet pour vérifier si les sites web que vous voulez visiter sont sécurisés.</string>
+    <string name="tips_message">Connectez-vous à Internet pour vérifier si les sites web que vous voulez visiter sont sécurisés.</string>
     <string name="not_tips">Ne plus montrer</string>
     <string name="settings">Paramètres</string>
     <string name="not_insert_contact">"Impossible d'ajouter le contact"</string>
     <string name="choose_picture">"Sélectionner l'image du code QR"</string>
     <string name="payment_weixin">WeChat</string>
     <string name="payment_zhifubao">Alipay</string>
+    <string name="weixin_code_tip">Veuillez utiliser WeChat pour scanner ce code QR</string>
+    <string name="back">Retour</string>
     <string name="shopping_title">Prendre une photo du produit</string>
     <string name="shopping_searching">Recherche…</string>
     <string name="shopping_vendor_info">Propulsé par Opera</string>
@@ -171,4 +174,5 @@
     <string name="recognition_error_download_data_msg">Télécharger le moteur de reconnaissance (environ 15 Mo) pour analyser les cartes. Utiliser les données mobiles pour télécharger ?</string>
     <string name="recognition_error_download_success">Téléchargé avec succès</string>
     <string name="recognition_error_download_fail">Impossible de télécharger le moteur de reconnaissance</string>
+    <string name="low_version_tip">Version MIUI obsolète. Mettez MIUI à jour pour utiliser Scanneur.</string>
 </resources>

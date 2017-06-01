@@ -10,7 +10,7 @@
     <string name="search_enable_earpiece_title">Utiliser les haut-parleurs</string>
     <string name="search_quliaty_title">"Qualité d'enregistrement"</string>
     <string name="keywords_search_record_list">Enregistreur;Transcription;Transcriptions;Enregistrement;Enregistrement partagé;Enregistrer;Enregistrements</string>
-    <string name="keywords_search_record">"Nouvel enregistrement;Ajouter enregistrement;Enregistrement;Enregistrements;Transcription;Transcrire;Enregistreur;Enregistreur vocal;Enregistreur de son;Application Enregistrement;Application Enregistreur;Comment enregistrer;Comment enregistrer un son;Où est l'enregistreur;Enregistreur Miui"</string>
+    <string name="keywords_search_record">"Nouvel enregistrement;Ajouter enregistrement;Enregistrement;Enregistrements;Transcription;Transcrire;Enregistreur;Enregistreur vocal;Enregistreur de son;Application Enregistrement;Application Enregistreur;Comment enregistrer;Comment enregistrer un son;Où est l'enregistreur;Enregistreur MIUI"</string>
     <string name="keywords_search_call_record">Enregistrer appels;Enregistrer appel;Appel enregistré;Appels enregistrés</string>
     <string name="app_name">Magnéto</string>
     <string name="record">Enregistrer</string>
@@ -51,7 +51,7 @@
     <string name="status_bar_back">Appuyez pour revenir au Magnéto</string>
     <string name="status_bar_recording_pause">"Enregistrement en pause. "</string>
     <string name="low_battery_error_title">Batterie faible</string>
-    <string name="low_battery_error">"Moins de 5% de batterie restant. Arrêtez et sauvegardez votre enregistrement pour vous assurer qu'il n'est pas perdu."</string>
+    <string name="low_battery_error">"Moins de 5% de batterie restant. Arrêtez et sauvegardez votre enregistrement pour vous assurer qu'il ne soit pas perdu."</string>
     <string name="low_battery_error_confirm">OK </string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute" />
@@ -84,7 +84,7 @@
     <string name="record_downloading_notification_count">%d téléchargé</string>
     <string name="record_downloading_notification_complete">Téléchargement terminé</string>
     <string name="wifi_recommended_title">"Avertissement de l'utilisation de données"</string>
-    <string name="wifi_recommended_body" formatted="false">Utiliser votre connexion internet mobile pour télécharger ce fichier (%s) va consommer beaucoup de données. Si votre limite de données est dépassée, votre opérateur peut vous facturer du hors forfait. Pour attendre dêtre connecté en Wi-Fi, appuyez %s.</string>
+    <string name="wifi_recommended_body" formatted="false">Utiliser votre connexion Internet mobile pour télécharger ce fichier (%s) va consommer beaucoup de données. Si votre limite de données est dépassée, votre opérateur peut vous facturer du hors forfait. Pour attendre dêtre connecté en Wi-Fi, appuyez %s.</string>
     <string name="button_queue_for_wifi">Attendre</string>
     <string name="button_start_now">Télécharger</string>
     <string name="notification_title_all_paused">Téléchargement en pause</string>
@@ -144,11 +144,12 @@
     <string name="alert_message_clear_records">Supprimer le(s) enregistrement(s) sélectionné(s) ?</string>
     <string name="clear_records">Supprimer les enregistrements synchronisés</string>
     <string name="choose_call_records_count">%d éléments</string>
-    <string name="network_tip_dialog_title">Une connexion internet est nécessaire</string>
-    <string name="network_tip_dialog_content">Le moteur de reconnaissance vocale doit être connecté à internet pour fonctionner normalement.</string>
+    <string name="network_tip_dialog_title">Une connexion Internet est nécessaire</string>
+    <string name="network_tip_dialog_content">Le moteur de reconnaissance vocale doit être connecté à Internet pour fonctionner normalement.</string>
     <string name="network_tip_dialog_ok">Autoriser</string>
     <string name="network_tip_dialog_cancel">Annuler</string>
     <string name="head_set_tip_dialog_title">Utiliser le microphone interne</string>
     <string name="head_set_tip_dialog_msg">"Déconnectez vos écouteurs afin d'enregistrer du son avec des préréglages spécifiques (ex. Musique, Voix)."</string>
     <string name="head_set_tip_dialog_ok">"C'est compris"</string>
+    <string name="rename_fail_tip">Impossible de renommer. Un élément avec ce nom existe déjà.</string>
 </resources>

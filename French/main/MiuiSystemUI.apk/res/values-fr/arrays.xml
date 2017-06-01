@@ -2,31 +2,31 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>Recherche…</item>
+        <item>Analyse…</item>
         <item>Connexion…</item>
-        <item>Authentification...</item>
-        <item>"Récupération de l'adresse IP…"</item>
+        <item>Authentification…</item>
+        <item>"Obtention de l'adresse IP…"</item>
         <item>Connecté</item>
-        <item>Interrompu</item>
+        <item>Suspendu</item>
         <item>Déconnexion…</item>
         <item>Déconnecté</item>
-        <item>Échec</item>
+        <item>Unsuccessful</item>
         <item>Bloqué</item>
-        <item>Mauvaise connexion évitée momentanément</item>
+        <item>Temporarily avoiding poor connection</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Recherche…</item>
+        <item>Analyse…</item>
         <item>Connexion à %1$s…</item>
-        <item>Authentification avec %1$s…</item>
-        <item>"Récupération de l'adresse IP à partir de %1$s…"</item>
+        <item>Authenticating with %1$s…</item>
+        <item>Obtaining IP address from %1$s…</item>
         <item>Connecté à %1$s</item>
-        <item>Interrompu</item>
-        <item>Déconnexion de %1$s…</item>
+        <item>Suspendu</item>
+        <item>Disconnecting from %1$s…</item>
         <item>Déconnecté</item>
-        <item>Échec</item>
+        <item>Unsuccessful</item>
         <item>Bloqué</item>
-        <item>Mauvaise connexion évitée momentanément</item>
+        <item>Temporarily avoiding poor connection</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>IQA %1$s</item>

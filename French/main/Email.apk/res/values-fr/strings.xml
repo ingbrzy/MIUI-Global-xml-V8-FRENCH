@@ -24,7 +24,8 @@
     <string name="account_setting_message_body_load_text">Corps uniquement</string>
     <string name="account_settings_action">Paramètres du compte</string>
     <string name="account_settings_background_attachments_label">Télécharger les pièces jointes</string>
-    <string name="account_settings_background_attachments_summary">Télécharger les pièces jointes via Wi- Fi</string>
+    <string name="account_settings_background_attachments_summary">Télécharger les pièces jointes via Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary_inter">Télécharger les pièces jointes via Wi-Fi</string>
     <string name="account_settings_data_usage">Paramètres de synchronisation</string>
     <string name="account_settings_description_label">Nom du compte</string>
     <string name="account_settings_edit_quick_responses_label">Réponse rapide</string>
@@ -200,21 +201,21 @@
     <string name="auto_advance_help_title">"Après la suppression d'un message, voir…"</string>
     <string name="auto_advance_label">Supprimer le flux de messages</string>
     <string name="auto_advance_summary">Choisir quel message afficher après la suppression</string>
-    <string name="auto_remind_bind">Add</string>
-    <string name="auto_remind_discribe_text">Turn on to receive automatic reminders</string>
-    <string name="auto_remind_text">Automatic reminders</string>
-    <string name="auto_remind_unbind">Stop</string>
+    <string name="auto_remind_bind">Ajouter</string>
+    <string name="auto_remind_discribe_text">Activer pour recevoir les rappels automatiques</string>
+    <string name="auto_remind_text">Rappels automatiques</string>
+    <string name="auto_remind_unbind">Arrêter</string>
     <string name="auto_sync_off">Synchronisation auto désactivée.</string>
-    <string name="bank_card_detail">Credit card details</string>
+    <string name="bank_card_detail">Infos de la carte de crédit</string>
     <string name="battery_saver">Économiseur de batterie</string>
     <string name="battery_saver_keywords">économiseur de batterie;e-mail batterie</string>
     <string name="bcc">Cci</string>
     <string name="bcc_heading">"Cci : "</string>
-    <string name="bill_center_setting">Billing settings</string>
-    <string name="bill_center_setting_head">Import info from these accounts</string>
-    <string name="bill_cycle_text">Billing cycle</string>
-    <string name="bill_remind">Repayment reminder</string>
-    <string name="bill_remind_due">A repayment is due on %s, tap to view</string>
+    <string name="bill_center_setting">Paramètres de facturation</string>
+    <string name="bill_center_setting_head">Importer les informations de ces comptes</string>
+    <string name="bill_cycle_text">Cycle de facturation</string>
+    <string name="bill_remind">Rappel de remboursement</string>
+    <string name="bill_remind_due">Un remboursement est dû le %s, appuyez pour afficher</string>
     <string name="blank_feedback_toast">Vous devez écrire des commentaires</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">Rédiger un e-mail</string>
@@ -312,8 +313,8 @@
     <string name="copy_email">"Copier l'adresse e-mail"</string>
     <string name="copy_number">Copier le numéro de téléphone</string>
     <string name="create_action">Nouveau</string>
-    <string name="credit_limit_text">Credit limit</string>
-    <string name="cur_debt">Account balance</string>
+    <string name="credit_limit_text">Limite de crédit</string>
+    <string name="cur_debt">Solde du compte</string>
     <string name="custom_from_account_label">"Envoyer comme : "</string>
     <string name="date_heading">"Date : "</string>
     <string name="date_message_received">%1$s %2$s</string>
@@ -338,7 +339,7 @@
     <string name="dialog_gmail_proxy_server_is_error">Erreur de serveur proxy Gmail.</string>
     <string name="dialog_insufficient_space_on_external">Impossible de télécharger la pièce jointe. Espace insuffisant sur le stockage externe.</string>
     <string name="dialog_insufficient_space_on_internal">Espace disque insuffisant sur le stockage interne.</string>
-    <string name="disable_admin_warning">"AVERTISSEMENT : Désactiver l'autorisation de l'application E-mail pour administrer votre appareil supprimera tous les comptes E-mail qui l'exigent, tout avec leurs E-mails, contacts, évènements d'agenda et autres données."</string>
+    <string name="disable_admin_warning">"AVERTISSEMENT : désactiver l'autorisation de l'application E-mail pour administrer votre appareil supprimera tous les comptes E-mail qui l'exigent, tout avec leurs E-mails, contacts, évènements d'agenda et autres données."</string>
     <string name="discard">Effacer</string>
     <string name="discard_drafts">Effacer les brouillons</string>
     <string name="dismiss_tip_hover_text">"Désactiver l'astuce"</string>
@@ -363,13 +364,13 @@
     <string name="download_confirm_title">Téléchargement de la pièce jointe</string>
     <string name="download_message_failed_for_too_large">Le message est trop volumineux pour etre téléchargé.</string>
     <string name="draft_count_format"> (%1$s)</string>
-    <string name="drawer_bank_bill">Bank statements</string>
-    <string name="drawer_bill_title">Factures</string>
+    <string name="drawer_bank_bill">Relevés bancaires</string>
+    <string name="drawer_classification">Categories</string>
     <string name="drawer_close">Fermer le volet de navigation</string>
     <string name="drawer_contacts">Contacts</string>
     <string name="drawer_open">Ouvrir le volet de navigation</string>
-    <string name="due">Due</string>
-    <string name="due_date_text">Final repayment</string>
+    <string name="due">Échéance</string>
+    <string name="due_date_text">Remboursement final</string>
     <string name="edit_quick_response_dialog">Réponse rapide</string>
     <string name="email_netease">NetEase Mail</string>
     <string name="email_qq">QQ Mail</string>
@@ -402,7 +403,7 @@
     <string name="feedback_sent">Merci pour votre commentaire</string>
     <string name="feedback_user_edit_hint">Décrivez le problème ici. Nous vous enverrons un E-mail après vérification.</string>
     <string name="feedback_user_edit_tag">De MIUI</string>
-    <string name="fetch_bank_sender_list_failure">"Couldn't get info"</string>
+    <string name="fetch_bank_sender_list_failure">"Impossible d'obtenir les informations"</string>
     <string name="fetching_attachment">Obtention de la pièce jointe</string>
     <string name="file_deleted_success">Fichier supprimé</string>
     <string name="file_not_found">Fichier introuvable</string>
@@ -422,7 +423,7 @@
     <string name="forward_attribution_no_headers">---------- Message transféré ----------</string>
     <string name="forward_download_failed_ticker">Impossible de transférer une ou plusieurs pièces jointes.</string>
     <string name="forward_download_failed_title">Pièce jointe non transférée</string>
-    <string name="free_period_text">Interest-free period</string>
+    <string name="free_period_text">Période sans intérêt</string>
     <string name="from_heading">"De : "</string>
     <string name="general_preference_confirm_delete_label">Confirmer avant suppression</string>
     <string name="general_preference_confirm_send_label">Confirmer avant envoi</string>
@@ -444,6 +445,7 @@
     <string name="gmail_web_login_go">OK</string>
     <string name="gmail_web_login_required_message">Se connecter à Gmail</string>
     <string name="header_category_account">Comptes</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Commentaires</string>
     <string name="header_label_general_preferences">Paramètres généraux</string>
     <string name="help_and_info">Aide</string>
@@ -451,16 +453,17 @@
     <string name="hide_elided">▼ Cacher le texte cité</string>
     <string name="hint_quick_reply_all">Répondre à tous</string>
     <string name="imap_name">IMAP</string>
+    <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">Le mot de passe du serveur entrant est incorrect</string>
-    <string name="import_button_text">Import</string>
-    <string name="import_from_other_account">Import from other accounts</string>
+    <string name="import_button_text">Importer</string>
+    <string name="import_from_other_account">"Importer depuis d'autres comptes"</string>
     <string name="info_actionbar_normal_detail">Promotion</string>
-    <string name="info_item_hide">Masquer</string>
+    <string name="info_item_hide">Delete</string>
     <string name="info_switch_summary">Afficher les promotions dans la partie supérieure de la Boîte de réception</string>
     <string name="info_switch_title">Promotion</string>
     <string name="inline_picture_deleted">"Téléchargement de l'image manquante…"</string>
     <string name="input_password_prompt">Entrer votre mot de passe</string>
-    <string name="interact_with_server_error">"Couldn't connect to the server"</string>
+    <string name="interact_with_server_error">Impossible de se connecter au serveur</string>
     <string name="invalid_recipient">"L'adresse %s est invalide."</string>
     <string name="invalid_recipient_title">Erreur de destinataire</string>
     <string name="kilobytes">%s ko</string>
@@ -581,14 +584,14 @@
     <string name="mibill_privacy_policy_description">Autoriser Mi Wallet à analyser et gérer vos factures automatiquement. Cette fonctionnalités est automatiquement désactivé pour les adresses e-mails de travail.</string>
     <string name="mibill_privacy_policy_link">En utilisant cette fonctionnalité vous acceptez nos <a href="https://www.mipay.com/res/doc/eula/email.html">"Conditions d'Utilisation"</a></string>
     <string name="mibill_privacy_policy_title">Gérer les factures automatiquement</string>
-    <string name="min_payment_text">Minimum payment</string>
+    <string name="min_payment_text">Paiement minimal</string>
     <string name="more_atts_remaining">%1$d encore restant</string>
     <string name="more_context">Plus</string>
     <string name="move_to_selection_dialog_title">Déplacer vers un autre dossier</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Muet</string>
     <string name="network_error">Pas de connexion</string>
-    <string name="network_invaild">"Can't connect to the network"</string>
+    <string name="network_invaild">Impossible de se connecter au réseau</string>
     <string name="network_not_available">Connexion réseau non disponible</string>
     <string name="network_try_again">Vérifiez la connexion réseau et réessayez</string>
     <string name="network_unavailable">Réseau non disponible</string>
@@ -598,14 +601,16 @@
     <string name="no">Non</string>
     <string name="no_application_found">Aucune application ne peut ouvrir cette pièce jointe.</string>
     <string name="no_application_found_title">Ouvrir cette pièce jointe.</string>
-    <string name="no_bill_discribe">"Couldn't find any bills.
-Try switching to a different email account."</string>
+    <string name="no_bill_discribe">"Impossible de trouver une facture.
+Essayez un autre compte de messagerie."</string>
     <string name="no_contacts">Aucun contact.</string>
     <string name="no_content_in_body">[No Body]</string>
     <string name="no_conversations">Aucun message</string>
-    <string name="no_filtrable_email_account">No accounts to filter</string>
+    <string name="no_filtrable_email_account">Aucun compte à filtrer</string>
     <string name="no_mails">Aucun e-mail.</string>
     <string name="no_matched_attachment">Aucun résultat.</string>
+    <string name="no_recognize_describe">"Couldn't find emails containing tickets or bookings.
+Try a different inbox."</string>
     <string name="not_subject">"(Pas d'objet)"</string>
     <string name="not_synced_title">Compte non synchronisé</string>
     <string name="notification_action_archive">Archiver</string>
@@ -644,9 +649,10 @@ Try switching to a different email account."</string>
     <string name="outbox_alert_select_operation">Choisir une action</string>
     <string name="outbox_alert_title_sent_failed">"Impossible d'envoyer l'e-mail"</string>
     <string name="outbox_no_mails">Vide</string>
-    <string name="over_due">Overdue</string>
+    <string name="over_due">En retard</string>
     <string name="parase_setup_data">Obtention de donnée…</string>
-    <string name="parse_bill_discribe">Processing credit card bills…</string>
+    <string name="parse_bill_discribe">Traitement des factures de la carte crédit…</string>
+    <string name="parse_recognize_describe">Analyzing email…</string>
     <string name="password_expire_warning_content_title">Expiration du mot de passe</string>
     <string name="password_expire_warning_dialog_content_fmt">Vous devrez bientôt modifier le code PIN ou le mot de passe de verrouillage de votre écran, faute de quoi les données du compte %s seront effacées. Modifier maintenant ?</string>
     <string name="password_expire_warning_dialog_title">Expiration mot de passe de verrouillage</string>
@@ -679,8 +685,8 @@ Try switching to a different email account."</string>
     <string name="photo_load_failed">Impossible de charger les images</string>
     <string name="photo_view_count" formatted="false">%d de %d</string>
     <string name="please_fill_in_your_mailbox_information2">Entrez vos informations de boîte aux lettres</string>
-    <string name="pls_parse_bill_discribe">"Analyze bills and travel info in your email
-to receive reminders about payments and trips"</string>
+    <string name="pls_parse_bill_discribe">"Analyser les factures et les informations de voyage dans votre e-mail
+afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="policy_app_blacklist">Interdire les applications spécifiées</string>
     <string name="policy_app_whitelist">Autoriser seulement les applications spécifiées</string>
     <string name="policy_bluetooth_restricted">"Limiter l'utilisation du Bluetooth"</string>
@@ -698,6 +704,7 @@ to receive reminders about payments and trips"</string>
     <string name="policy_dont_allow_unsigned_apps">Ne pas autoriser les applications non signées</string>
     <string name="policy_dont_allow_unsigned_installers">"Ne pas autoriser l'installation des applications non signées"</string>
     <string name="policy_dont_allow_wifi">Ne pas autoriser le Wi-Fi</string>
+    <string name="policy_dont_allow_wifi_inter">Ne pas autoriser le Wi-Fi</string>
     <string name="policy_email_age">"Limiter le nombre d'e-mails synchronisés"</string>
     <string name="policy_html_truncation">Limiter la taille des e-mail HTML</string>
     <string name="policy_password_expiration">Définir une expiration des mots de passe</string>
@@ -722,7 +729,7 @@ to receive reminders about payments and trips"</string>
     <string name="previous_action">Retour</string>
     <string name="print">Imprimer</string>
     <string name="prompt_title">Prompt</string>
-    <string name="protocol_setting_toast">Tap the upper right corner to go to settings after you agree</string>
+    <string name="protocol_setting_toast">Appuyez sur le coin supérieur droit pour accéder aux paramètres après avoir accepté</string>
     <string name="pull_to_refresh">Tirer vers le bas pour actualiser</string>
     <string name="push_wps_better_confirm_download">Télécharger</string>
     <string name="push_wps_better_confirm_exit">Pas maintenant</string>
@@ -771,6 +778,32 @@ to receive reminders about payments and trips"</string>
     <string name="read_string">Conversation lue</string>
     <string name="recipient_needed">Ajouter au moins 1 destinataire.</string>
     <string name="recipient_needed_title">Avertir</string>
+    <string name="recognize_hotel_check_in_date">Check-in time</string>
+    <string name="recognize_hotel_hotel_money">Price %1$s</string>
+    <string name="recognize_hotel_notification_content">Enjoy your stay!</string>
+    <string name="recognize_hotel_notification_title">You booked a room at %1$s starting from %2$s/%3$s. Double check your booking before arriving there.</string>
+    <string name="recognize_hotel_order_money">Total</string>
+    <string name="recognize_hotel_other_money">Other expenses %1$s</string>
+    <string name="recognize_hotel_reverse_date">Check in before %1$s:%2$s %3$s</string>
+    <string name="recognize_hotel_room_type">Room</string>
+    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
+    <string name="recognize_hotel_title">Hotel booking</string>
+    <string name="recognize_hotel_user_names">Guest</string>
+    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
+    <string name="recognize_setting_title">Travel settings</string>
+    <string name="recognize_ticket_air_notification_content">Enjoy your flight!</string>
+    <string name="recognize_ticket_air_notification_title">Flight %3$s (%1$s/%2$s) will take off soon. Double check your flight info.</string>
+    <string name="recognize_ticket_air_state_stopover">Stopover</string>
+    <string name="recognize_ticket_air_state_transfer">Transfer</string>
+    <string name="recognize_ticket_air_user_name">Passenger:</string>
+    <string name="recognize_ticket_title">Plane &amp; train tickets</string>
+    <string name="recognize_ticket_train_alter">Changed</string>
+    <string name="recognize_ticket_train_depart_date">Departs at %3$s:%4$s on %1$s/%2$s</string>
+    <string name="recognize_ticket_train_notification_content">Bon Voyage!</string>
+    <string name="recognize_ticket_train_notification_title">Train %3$s (%1$s/%2$s) will depart soon. Double check your ticket.</string>
+    <string name="recognize_ticket_train_return">Returned</string>
+    <string name="recognize_ticket_train_user_name">Passenger: %1$s</string>
+    <string name="recognize_title">Travel information</string>
     <string name="reduce_the_receiving_frequencye_summary">Synchroniser la boîte de réception moins fréquemment quand le mode Ne pas déranger est activé</string>
     <string name="reduce_the_receiving_frequencye_title">Réduire la fréquence de synchronisation</string>
     <string name="refresh">Actualiser</string>
@@ -838,8 +871,8 @@ to receive reminders about payments and trips"</string>
     <string name="ser_resp_err_map_pserr">"Nom d'utilisateur ou mot de passe incorrect"</string>
     <string name="ser_resp_err_map_serclosed">%s serveur fermé</string>
     <string name="ser_resp_err_map_ssl">"Choisissez 'SSL / TLS (Accepter tous les certificats)' dans 'Type de sécurité'"</string>
-    <string name="service_protocol_discribe"><u>"I've read and agree with WPS Mail Service Agreement"</u></string>
-    <string name="service_protocol_title">Service Agreement</string>
+    <string name="service_protocol_discribe"><u>"J'ai lu et j'accepte le Contrat de service WPS Mail"</u></string>
+    <string name="service_protocol_title">Contrat de service</string>
     <string name="set_network">Configurer le réseau</string>
     <string name="settings_activity_title">Paramètres</string>
     <string name="share_choose">Choisissez un fichier à partager</string>
@@ -883,7 +916,7 @@ to receive reminders about payments and trips"</string>
     <string name="toast_bar_invalid_account">Vous devez vous connecter à nouveau</string>
     <string name="toast_bar_no_connection_network">"Vous n'êtes pas connecté à internet"</string>
     <string name="toast_bar_open_gmail_synchronization">Appuyez pour utiliser le serveur proxy pour Gmail</string>
-    <string name="today_text">Today</string>
+    <string name="today_text">"Aujourd'hui"</string>
     <string name="too_large_to_attach_additional">Taille du fichier ne doit pas dépasser %1$s .</string>
     <string name="too_large_to_attach_multiple">"Un ou plusieurs fichiers n'ont pas été joints. Limite de %1$s atteinte."</string>
     <string name="too_large_to_attach_single">Impossible de joindre un fichier supérieur à %1$s.</string>
@@ -903,12 +936,12 @@ to receive reminders about payments and trips"</string>
     entre le web, vos autres appareils, et votre %1$s."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Activer</string>
     <string name="turn_auto_sync_on_dialog_title">Activer la synchronisation auto ?</string>
-    <string name="unbind_dialog_text">"You won't be able to receive reminders after you stop analyzing bills.
-Stop now?"</string>
+    <string name="unbind_dialog_text">"Vous ne serez plus en mesure de recevoir de rappels si vous arrêtez l'analyse des factures.
+Arrêter maintenant ?"</string>
     <string name="undo">Annuler</string>
-    <string name="unknow">Unknown</string>
+    <string name="unknow">Inconnu</string>
     <string name="unread_string">Conversation non lue</string>
-    <string name="unsent_messages_in_outbox">%1$s e-mails non envoyés dans %2$s</string>
+    <string name="unsent_messages_in_outbox">%1$s e-mail(s) non envoyé(s) dans %2$s</string>
     <string name="unzip_file_failed">Impossible de décompresser le fichier</string>
     <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
     <string name="updated_at">Dernière mise à jour : %1$s</string>

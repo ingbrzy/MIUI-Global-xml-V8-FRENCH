@@ -50,7 +50,7 @@
     <string name="sync_sub_dspt">Un message SMS sortant peut être nécessaire pour activer ce service. Votre opérateur vous facturera ce message.</string>
     <string name="sync_sub_int_dspt">Un message SMS international sortant peut être nécessaire pour activer ce service. Votre opérateur vous facturera ce message.</string>
     <string name="access_denied">Accès refusé</string>
-    <string name="internet_access_dspt">Cette application doit se connecter à internet pour fonctionner normalement.</string>
+    <string name="internet_access_dspt">Cette application doit se connecter à Internet pour fonctionner normalement.</string>
     <string name="sync_on">Activé</string>
     <string name="sync_off">Désactivé</string>
     <string name="mx_dspt">Mi Message</string>
@@ -192,7 +192,7 @@ Si vous perdez ou endommagez votre appareil, vos données seront toujours en sé
 Lorsque votre compte Mi Cloud est plein, vos anciennes données ne seront pas supprimées. Cependant, tout nouveau contenu que vous ajoutez (ex : photos, vidéos, notes ou applis) ne sera pas sauvegardé.
 
 Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou acheter de l'espace de stockage supplémentaire."</string>
-    <string name="micloud_upgrade_space">"Obtenir plus d'espace de stockage"</string>
+    <string name="micloud_upgrade_space">"Obtenir de l'espace de stockage"</string>
     <string name="enable_sync_dspt">Synchro désactivée</string>
     <string name="enable_sync">Synchro activée</string>
     <string name="cloud_find_device">"Localiser l'appareil"</string>
@@ -242,6 +242,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
     <string name="micloud_main_suggest_setting">Changer les paramètres ou se connecter au Wi-Fi</string>
     <string name="micloud_main_sync_pending">Synchronisation en attente</string>
     <string name="micloud_main_sync_need_charge">Charger votre appareil</string>
+    <string name="micloud_main_sync_need_charge_or_sleep">"Chargez votre appareil et éteignez l'écran"</string>
     <string name="micloud_main_detail">Afficher les détails</string>
     <string name="micloud_main_network_abnormal">Impossible de se connecter au réseau</string>
     <string name="micloud_main_sync_init">"Obtention d'infos"</string>
@@ -290,7 +291,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
     <string name="micloud_detail_depend_wifi_title">Se connecter au Wi-Fi</string>
     <string name="micloud_detail_depend_wifi_message">Connectez-vous au Wi-Fi ou vérifez les paramètres de synchronisation.</string>
     <string name="micloud_detail_pause">Synchronisation en pause</string>
-    <string name="micloud_detail_need_charge">Connecter le chargeur pour reprendre la synchronisation</string>
+    <string name="micloud_detail_need_charge_or_sleep">Connect charger and turn off screen to resume syncing</string>
     <string name="micloud_detail_battery_low">Batterie faible</string>
     <string name="micloud_check_sim_title">"Vous avez changé de carte SIM. Connectez vous
 
@@ -315,7 +316,7 @@ a votre compte Mi pour réactiver Mi Cloud."</string>
     <string name="more_activity_in_upgrade_space">En savoir plus, <a href="http://i.mi.com">http://i.mi.com</a></string>
     <string name="success_upgraded_space">%s ajouté</string>
     <string name="total_space_upgraded_to">Espace total: %s</string>
-    <string name="apple_cloud">"Service Cloud d'Apple"</string>
+    <string name="apple_cloud">iCloud</string>
     <string name="google_cloud">Google Drive</string>
     <string name="microsoft_cloud">Service Cloud de Microsoft</string>
     <string name="apple_cloud_eng">iCloud</string>
@@ -349,11 +350,11 @@ Une carte bancaire de Chine est nécessaire à l'achat d'espace de stockage supp
     <string name="buy_more_space_c_class">"Une carte de crédit d'une banque chinoise est nécessaire pour utiliser cette fonctionnalité. 
  Pour obtenir plus d'espace de stockage, visitez mi.com/micloud."</string>
     <string name="micloud_member_buy_title">Confirmer la commande</string>
-    <string name="micloud_member_buy_content" formatted="false">"Validité %s-%s-%s
+    <string name="micloud_member_buy_content" formatted="false">"Valide jusqu'au %s-%s-%s
 
 %s Crédits Mi"</string>
     <string name="micloud_member_net_error_alert_title">Impossible de se connecter au réseau</string>
-    <string name="micloud_member_net_error_alert_message">"Vous n'êtes pas connecté à internet."</string>
+    <string name="micloud_member_net_error_alert_message">"Vous n'êtes pas connecté à Internet."</string>
     <string name="micloud_member_pay_fail_toast">Impossible de terminer le paiement</string>
     <string name="micloud_member_webload_fail_toast_5xx">Erreur du serveur</string>
     <string name="micloud_member_webload_fail_toast_4xx">Impossible de charger la page</string>
@@ -396,12 +397,12 @@ Dernière sauvegarde à %2$s"</string>
     <string name="micloud_confusion_ok">OK</string>
     <string name="micloud_confusion_entrance_title">Donnée modifiée</string>
     <string name="micloud_confusion_entrance_question">Avez-vous récemment modifié votre compte Mi en utilisant %s ?</string>
-    <string name="micloud_confusion_entrance_hint">Ne vous connectez pas à votre Compte Mi depuis des appreils publics</string>
+    <string name="micloud_confusion_entrance_hint">Ne vous connectez pas à votre Compte Mi depuis des appareils publics</string>
     <string name="micloud_confusion_account_title">Compte Mi</string>
     <string name="micloud_confusion_account_question">"Est-ce que l'ID du Compte Mi %s vous appartient-il ?"</string>
     <string name="micloud_confusion_account_hint">"Les changements que vous avez effectués sur cet appareil seront synchronisés sur tous vos appareils. Pour protéger votre compte, nous vous recommandons de désactiver la synchronisation pour les autres appareils lorsqu'ils ne sont pas utilisés."</string>
     <string name="micloud_confusion_setting_title">"Trop d'appareils"</string>
-    <string name="micloud_confusion_setting_question">Désactiver la synchronisation pour les autres appreils associés à votre compte.</string>
+    <string name="micloud_confusion_setting_question">Désactiver la synchronisation pour les autres appareils associés à votre compte.</string>
     <string name="micloud_confusion_finish_title">Compte vérifié</string>
     <string name="micloud_confusion_finish_message">Désactiver la synchronisation pour les autres appareils.</string>
     <string name="micloud_confusion_finish_hint">Les modifications apportées sur cet appareil seront synchronisés sur tous vos appareils. Pour protéger votre compte, nous vous recommandons de désactiver la synchronisation pour les autres appareils lorsque vous ne les utilisez pas.</string>
@@ -410,7 +411,7 @@ Dernière sauvegarde à %2$s"</string>
     <string name="micloud_confusion_account_notify_title">Vérifier le compte</string>
     <string name="micloud_confusion_account_notify_text">Un autre appareil est en train de modifier votre Compte Mi. Vérifiez votre compte maintenant.</string>
     <string name="micloud_confusion_setting_notify_title">Protégez votre compte</string>
-    <string name="micloud_confusion_setting_notify_text">Désactiver la synchronisation pour les autres appreils associés à votre compte.</string>
+    <string name="micloud_confusion_setting_notify_text">Désactiver la synchronisation pour les autres appareils associés à votre compte.</string>
     <string name="micloud_confusion_setting_password_error">Le mot de passe que vous avez entré est incorrect</string>
     <string name="micloud_confusion_toast_confirm">Appareil confirmé</string>
     <string name="micloud_confusion_toast_deny">Se connecter à votre compte Mi</string>
@@ -442,12 +443,14 @@ Dernière sauvegarde à %2$s"</string>
     <string name="micloud_notif_title_sync_finish">Synchronisé</string>
     <string name="micloud_notif_content_sync_finish">Compte</string>
     <string name="micloud_notif_title_sync_not_finish">"Certains éléments n'ont pas été synchronisés"</string>
-    <string name="micloud_notif_content_sync_not_finish">Détail</string>
+    <string name="micloud_notif_content_sync_not_finish">Détails</string>
     <string name="micloud_notif_title_clipboard_push">Contenu du rapport copié dans le presse-papiers</string>
     <string name="micloud_notif_content_clipboard_push">"Vous pouvez le coller n'importe où."</string>
     <string name="micloud_notif_title_multi_user_error">Impossible de synchroniser avec Mi Cloud</string>
     <string name="micloud_notif_content_multi_user_error">Vous vous êtes connecté avec le même compte dans le Premier Espace.</string>
-    <string name="micloud_find_device_guide_title">"Se connecter à %s pour localiser, vérrouiller,
+    <string name="micloud_notif_title_dirty_data">Vous avez des éléments non synchronisés</string>
+    <string name="micloud_notif_content_dirty_data">Détails</string>
+    <string name="micloud_find_device_guide_title">"Se connecter à %s pour localiser, verrouiller,
  ou réinitialiser votre appareil."</string>
     <string name="micloud_find_device_guide_content">"Lorsque vous basculez d'une carte SIM à une autre, un message sera envoyé automatiquement
 pour réactiver cette fonctionnalité."</string>
@@ -472,8 +475,8 @@ pour réactiver cette fonctionnalité."</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Vos données de Alipay seront securisées même si vous perdez votre appareil</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_qq">"QQ vous recommande d'activer Localiser l'appareil"</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Vos données de QQ seront securisées même si vous perdez votre appareil</string>
-    <string name="activate_finddevice">"Connectez-vous à internet pour activer votre l'appareil"</string>
-    <string name="account_related">"Votre appareil est associé avec un Compte Mi existant(%s). Connectez-vous à internet pour vérifier l'appareil."</string>
+    <string name="activate_finddevice">"Connectez-vous à Internet pour activer votre l'appareil"</string>
+    <string name="account_related">"Votre appareil est associé avec un Compte Mi existant(%s). Connectez-vous à Internet pour vérifier l'appareil."</string>
     <string name="connect_network">Se connecter au Wi-Fi ou insérer une carte SIM</string>
     <string name="trying_to_connect_to_network">Connexion au réseau…</string>
     <string name="detect_sim_card">Détection de la carte SIM</string>

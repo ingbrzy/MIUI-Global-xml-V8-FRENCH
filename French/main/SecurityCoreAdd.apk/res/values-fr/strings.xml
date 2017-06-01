@@ -12,9 +12,10 @@
     <string name="normal_app">Premier espace</string>
     <string name="hidden_app">Second espace</string>
     <string name="public_app">Les deux espaces</string>
-    <string name="switch_in_hidden_space">Importer vers le Second espace</string>
-    <string name="summary_switch_apps_settings">Sélectionner les applications utilisées dans le Second espace</string>
-    <string name="switch_out_hidden_space">Exporter les données depuis le Second espace</string>
+    <string name="current_space">Espace actuel</string>
+    <string name="switch_in_hidden_space">"Importer vers l'espace actuel"</string>
+    <string name="summary_switch_apps_settings">"Sélectionner les applications utilisées dans l'espace actuel"</string>
+    <string name="switch_out_hidden_space">"Exporter les données depuis l'espace actuel"</string>
     <string name="switch_out_contacts">Exporter les contacts</string>
     <string name="switch_out_privacy_contacts">Exporter les contacts privés</string>
     <string name="switch_out_photos">Exporter les photos</string>
@@ -94,7 +95,7 @@
     <string name="tryNow">Essayer maintenant</string>
     <string name="spaceSetting">Paramètres</string>
     <string name="closePassword">Désactiver le mot de passe</string>
-    <string name="closePasswordGuide">"Vous ne serez plus en mesure d'accéder le Second espace à partir de l'écran de verrouillage lorsque vous désactivez le mot de passe"</string>
+    <string name="closePasswordGuide">"Vous ne serez plus en mesure d'accéder au Second espace à partir de l'écran de verrouillage lorsque vous désactivez le mot de passe"</string>
     <string name="cancelClosePassword">Ne pas désactiver</string>
     <string name="confirmClose">Désactiver</string>
     <string name="opened">Activé</string>
@@ -105,8 +106,8 @@
     <string name="notificationSummary">Basculer entre les deux espaces à partir du Panneau de notification</string>
     <string name="otherSettings">Autres paramètres</string>
     <string name="privacyContactsTitle">Messages privés et contacts</string>
-    <string name="privacyContactsSummary">Afficher les éléments privés dans le Second espace</string>
-    <string name="switchDataSummary">Dépalcer les éléments entre les espaces</string>
+    <string name="privacyContactsSummary">Afficher des éléments privés dans le Second espace</string>
+    <string name="switchDataSummary">Déplacer des éléments entre les espaces</string>
     <string name="serNameSummary">Second espace</string>
     <string name="closeSecondSpaceSummary">Supprimer le Second espace avec ses données</string>
     <string name="notificationSetPassword">Définir un mot de passe</string>
@@ -114,7 +115,7 @@
     <string name="createANewSpace">Créer un nouvel espace sur votre téléphone.</string>
     <string name="dataSafe">Utiliser le Second espace est comme si vous aviez deux appareils.</string>
     <string name="createUserFail">Impossible de créer</string>
-    <string name="confirmCloseSpaceDes">"Vous ne serez pas en mesure d'entrer dans le Second espace une fois que vous le supprimer. Toutes les données seront déplacées ou supprimées."</string>
+    <string name="confirmCloseSpaceDes">"Vous ne serez plus en mesure d'entrer dans le Second espace une fois que vous le supprimer. Toutes les données seront déplacées ou supprimées."</string>
     <string name="confirmDelete">Supprimer</string>
     <string name="chooseDataTransfer">Que deviennent les données du Second espace ?</string>
     <string name="transferDataLable">Sélectionner les éléments à déplacer</string>
@@ -124,7 +125,7 @@
     <string name="deleteDataDes">"Vous n'avez sélectionné aucun élément à déplacer. Vous ne serez plus en mesure de restaurer les éléments après les avoir supprimés."</string>
     <string name="transferContact">Les contacts seront déplacés du Second espace vers le le Premier espace</string>
     <string name="transferMessage">Les messages seront déplacés du Second espace vers le le Premier espace</string>
-    <string name="transferImage">"Les photos du Second espace seront déplacés dans l'album \"Second espace\" dans le Premier espace"</string>
+    <string name="transferImage">"Les photos du Second espace seront déplacées dans l'album \"Second espace\" dans le Premier espace"</string>
     <string name="transferApp">Les applications installées dans le Second espace seront déplacées dans le Premier espace. Cependant, toutes les données des applications seront perdues.</string>
     <string name="transferFile">Sélectionner les autres fichiers manuellement</string>
     <string name="continueButton">Continuer</string>
@@ -145,19 +146,19 @@
     <string name="click_to_switch">Appuyez pour voir</string>
     <string name="confirm_main_space_password">Confirmer le mot de passe du Premier Espace</string>
     <string name="create_space_loading">Création du Second espace…</string>
-    <string name="close_second_space_success">Supprimer le Second espace</string>
+    <string name="close_second_space_success">Second espace supprimé</string>
     <string name="enable">Activer</string>
     <string name="disable">Désactiver</string>
     <string name="PrivacyContactDes1">"Les contacts deviendront privés.
-Les messages apparaîtront seulement dans le Second espace."</string>
+Les messages apparaîtront uniquement dans le Second espace."</string>
     <string name="PrivacyContactDes2">"Si vous utilisiez les messages privés dans le Premier espace,
 cette fonctionnalité sera automatiquement ajoutée dans le Second espace."</string>
     <string name="openSuccess">Activé</string>
     <string name="closeSuccess">Désactivé</string>
-    <string name="settings_notification_and_switch">Basculer &amp; notifications</string>
+    <string name="settings_notification_and_switch">Basculement &amp; notifications</string>
     <string name="settings_cross_notification_title">Notifications</string>
     <string name="settings_cross_notification_summary">"Recevoir des notifications à partir de l'autre espace"</string>
-    <string name="settings_switch_shortcut_title">Appuyer sur le raccourci pour changer</string>
+    <string name="settings_switch_shortcut_title">Appuyer sur le raccourci pour basculer</string>
     <string name="settings_switch_shortcut_summary">"Afficher le raccourci de l'Écran d'accueil dans le Premier espace"</string>
     <string name="settings_space_data">Donnée</string>
     <string name="settings_status_icon_title">Icône du Second espace</string>
@@ -189,16 +190,16 @@ Vous pouvez aussi les télécharger séparément."</string>
     <string name="complete_setting">Terminer</string>
     <string name="import_contacts_suc">Contacts privés importés</string>
     <string name="import_photo_suc">Photos importées</string>
-    <string name="import_file_suc">Éléments importés vers les fichiers</string>
+    <string name="import_file_suc">Éléments importés vers les dossiers</string>
     <string name="show_private_content">Afficher les éléments privés</string>
     <string name="show_normal_content">Ne pas afficher les éléments privés</string>
     <string name="guide_contact_title_desc">Afficher les éléments privés dans le Second espace ?</string>
     <string name="guide_contact_sub_title_desc">"Les contacts ajoutés dans le Second espace seront rendus privés.
-Les messages apparaîtront seulement dans le Second espace."</string>
+Les messages apparaîtront uniquement dans le Second espace."</string>
     <string name="guide_contact_suc_title_desc">Défini avec succès</string>
     <string name="guide_contact_suc_sub_title_desc">Seulement les contacts et messages privés seront affichés dans le Second espace</string>
     <string name="notification_setting_second_space">Configurer le Second espace</string>
-    <string name="notification_setting_second_space_desc">Ajouter le mot de passe du Second espace puis déplacer les données</string>
+    <string name="notification_setting_second_space_desc">Ajoutez le mot de passe du Second espace puis déplacez les données</string>
     <string name="show_private_msg">Afficher les messages privés</string>
     <string name="contact_titile_text">"Afficher les messages privés dans le Second espace
 pour les voir à tout moment"</string>
@@ -211,41 +212,41 @@ pour les voir à tout moment"</string>
     <string name="confirm_restore">Ne pas afficher</string>
     <string name="restore_show_toast">"N'affiche pas les messages privés"</string>
     <string name="remove_second_space_msg">"Supprimer le Second Espace revient à supprimer toutes les applications ainsi que les données qui s'y trouvent. Supprimer le Second Espace maintenant ?"</string>
-    <string name="second_space_finger_printf_title">Empreinte du Second Espace</string>
-    <string name="second_space_finger_printf_desc">Ajoutez une empreinte spécialement utilisée pour accéder au Second Espace</string>
-    <string name="setting_finger_print_title">"Ajouter l'empreinte du Second Espace"</string>
-    <string name="setting_finger_print_sub_title">"Assurez-vous que l'empreinte est différente de celle utilisée dans le Premier Espace"</string>
-    <string name="second_owner_finger_print">Empreinte du Second Espace</string>
-    <string name="finger_print_of_use">Utiliser une empreinte</string>
+    <string name="second_space_finger_printf_title">Empreinte digitale du Second Espace</string>
+    <string name="second_space_finger_printf_desc">Ajoutez une empreinte digitale spécialement utilisée pour accéder au Second Espace</string>
+    <string name="setting_finger_print_title">"Ajouter l'empreinte digitale du Second Espace"</string>
+    <string name="setting_finger_print_sub_title">"Assurez-vous que l'empreinte digitale est différente de celle utilisée dans le Premier Espace"</string>
+    <string name="second_owner_finger_print">Empreinte digitale du Second Espace</string>
+    <string name="finger_print_of_use">Utiliser une empreinte digitale</string>
     <string name="lock_screen_open_second_space">"Entrez dans le Second Espace depuis l'Écran de verrouillage"</string>
-    <string name="finger_print_num">Empreinte %d</string>
-    <string name="add_finger_print">Ajouter une empreinte</string>
-    <string name="please_diff_finger_print">"Assurez-vous que vous utilisez des empreintes différentes pour le Premier Espace et le Second Espace.
+    <string name="finger_print_num">Empreinte digitale %d</string>
+    <string name="add_finger_print">Ajouter une empreinte digitale</string>
+    <string name="please_diff_finger_print">"Assurez-vous que vous utilisez des empreintes digitales différentes pour le Premier Espace et le Second Espace.
 Dans le cas contraire vous pourrez ne plus avoir accès au Second Espace depuis l'Écran de verrouillage."</string>
-    <string name="start_input_finger_print">Ajouter une empreinte</string>
+    <string name="start_input_finger_print">Ajouter une empreinte dgigitale</string>
     <string name="need_set_second_space_pwd_first">Définir le mot de passe du Second Espace</string>
     <string name="need_set_second_space_desc">"Ajoutez le mot de passe Second Espace avant de d'y ajouter une empreinte digitale"</string>
     <string name="setting_fingerprint_title">Ajoutez le mot de passe du Second Espace</string>
-    <string name="start_new_fingerprint">Ajouter une nouvelle empreinte</string>
-    <string name="select_existed_fingerprint">Sélectionner une empreinte</string>
-    <string name="start_new_fingerprint_tips">"Utiliser l'empreinte du Second Espace
+    <string name="start_new_fingerprint">Ajouter une nouvelle empreinte digitale</string>
+    <string name="select_existed_fingerprint">Sélectionner une empreinte digitale</string>
+    <string name="start_new_fingerprint_tips">"Utiliser l'empreinte digitale du Second Espace
 pour y accéder depuis l'Écran de verrouillage"</string>
-    <string name="scanner_second_space_fingerprint">"Scanner l'empreinte du Second Espace"</string>
+    <string name="scanner_second_space_fingerprint">"Scanner l'empreinte digitale du Second Espace"</string>
     <string name="repeat_scanner_fingerprint">Ajouter à nouveau</string>
     <string name="sure_to_use">Confirmer</string>
-    <string name="scanner_fingerprint_tips_title">Entrer dans le Second Espace en utilisant une empreinte existante</string>
-    <string name="scanner_fingerprint_tips_desc">"Sélectionner une empreinte existante pour entrer dans le Second espace. Vous ne serez plus capable de l'utiliser dans le Premier espace."</string>
+    <string name="scanner_fingerprint_tips_title">Entrer dans le Second Espace en utilisant une empreinte digitale existante</string>
+    <string name="scanner_fingerprint_tips_desc">"Sélectionner une empreinte digitale existante pour entrer dans le Second espace. Vous ne serez plus capable de l'utiliser dans le Premier espace."</string>
     <string name="back">Retour</string>
-    <string name="scanner_fingerprint_error_tips_desc">Aucune empreinte correspondante. Ajouter une empreinte pour le Second Espace ?</string>
-    <string name="scanner_fingerprint_error_tips_title">Aucune empreinte correspondante</string>
-    <string name="no_match_repate_scanner">Impossible de trouver des empreintes correspondantes, scanner à nouveau</string>
-    <string name="delete_phone_fingerprint">"Supprimer l'empreinte du Second Espace"</string>
-    <string name="delete_fingerprint">Supprimer une empreinte</string>
-    <string name="delete_fingerprint_desc">"L'empreinte du Second espace sera supprimé avec le mot de passe"</string>
-    <string name="fingerprint_removal_failed">"Impossible de supprimer l'empreinte"</string>
+    <string name="scanner_fingerprint_error_tips_desc">Aucune empreinte digitale correspondante. Ajouter une empreinte digitale pour le Second Espace ?</string>
+    <string name="scanner_fingerprint_error_tips_title">Aucune empreinte digitale correspondante</string>
+    <string name="no_match_repate_scanner">Aucune empreinte digitale correspondante, scannez à nouveau</string>
+    <string name="delete_phone_fingerprint">"Supprimer l'empreinte digitale du Second Espace"</string>
+    <string name="delete_fingerprint">Supprimer une empreinte digitale</string>
+    <string name="delete_fingerprint_desc">"L'empreinte digitale du Second espace sera supprimé avec le mot de passe"</string>
+    <string name="fingerprint_removal_failed">"Impossible de supprimer l'empreinte digitale"</string>
     <string name="notification_recommend_title">Top 12 des applications du Second Espace</string>
-    <string name="scanner_fingerprint">"Identification d'empreinte…"</string>
-    <string name="scanner_fingerprint_enter_second">"Scannez l'empreinte du Second Espace
+    <string name="scanner_fingerprint">"Identification d'empreinte digitale…"</string>
+    <string name="scanner_fingerprint_enter_second">"Scannez l'empreinte digitale du Second Espace
 pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="xspace_guide_title">Créer une application clônée pour %s</string>
     <string name="xspace_guide_des">Utiliser 2 comptes sans basculer</string>
@@ -254,7 +255,7 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="space_des_default">Espace isolé avec des données chiffrées</string>
     <string name="create_work_space">Créer un Espace de travail</string>
     <string name="switch_download_space">"Changer d'Espace de travail"</string>
-    <string name="confirm_airspace_password">"Confirmer le mot de passe de l'Espace de travail"</string>
+    <string name="confirm_airspace_password">Confirmer le mot de passe %s</string>
     <string name="air_space_created">Espace de travail créé avec succès</string>
     <string name="enter_air_space">"Aller à l'Espace de travail"</string>
     <string name="invalid_qr_code">Code QR non valide</string>
@@ -268,10 +269,12 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="other">Autre</string>
     <string name="airspace_users_full">"Impossible de créer plus d'espace"</string>
     <string name="same_qr_code_title">%s existe déjà</string>
-    <string name="same_qr_code_des">"Il se peut que cet Espace de travail existe déjà. Vous pouvez utiliser les raccourcis de l'Écran d'accueil et du Panneau de notifications pour vous y aller. Aller maintenant ?"</string>
+    <string name="same_qr_code_des">"Il se peut que cet Espace de travail existe déjà. Vous pouvez utiliser les raccourcis de l'Écran d'accueil et du Panneau de notifications pour y aller. Aller maintenant ?"</string>
     <string name="same_qr_code_enter_space">"Aller à l'Espace de travail"</string>
     <string name="same_qr_code_create_space">En créer un autre</string>
     <string name="not_support_air_space">"Cette fonctionnalité n'est pas encore prise en charge sur votre téléphone"</string>
     <string name="loading">Un instant…</string>
     <string name="contact_us">Nous contacter</string>
+    <string name="space_deleted">Cet espace a été supprimé</string>
+    <string name="function_not_support">Non pris en charge sur cet appareil</string>
 </resources>

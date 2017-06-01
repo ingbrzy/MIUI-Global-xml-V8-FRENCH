@@ -32,7 +32,7 @@
     <string name="download_title_first">"Obtention d'infos…"</string>
     <string name="download_title_full_download">"Obtention d'infos…"</string>
     <string name="download_title">Téléchargement (%s)</string>
-    <string name="uncrypt_title">Déchiffrage (%s)</string>
+    <string name="uncrypt_title">Déchiffrement (%s)</string>
     <string name="apply_title">Mise à jour (%s)</string>
     <string name="timer_title">"L'appareil redémarrera dans %d secondes."</string>
     <string name="progress_title_checking">Vérification…</string>
@@ -41,6 +41,7 @@
     <string name="menu_title_pick_rom_file">Sélectionner une mise à jour à installer</string>
     <string name="menu_title_recovery">Redémarrer en mode Recovery</string>
     <string name="menu_title_current_version_log">Nouveautés de la mise à jour</string>
+    <string name="menu_title_apply_for_alpha">Inscription au programme de test bêta</string>
     <string name="install_file_explorer">"Installer l'Explorateur de fichiers d'abord"</string>
     <string name="check_update_policy">Paramètres</string>
     <string name="check_update_when_wifi_available">"Vérifier à l'aide d'une connexion Wi-Fi uniquement"</string>
@@ -70,12 +71,12 @@
     <string name="notification_reboot_seccess_des">Appuyez pour voir les informations de la mise à jour.</string>
     <string name="notification_share">Partager</string>
     <string name="notification_downloading">Téléchargement de la mise à jour…</string>
-    <string name="notification_uncrypting">Déchiffrage de la mise à jour…</string>
+    <string name="notification_uncrypting">Déchiffrement de la mise à jour…</string>
     <string name="notification_updating">Mise à jour…</string>
     <string name="set_network_title">Connecter au Wi-Fi</string>
     <string name="set_network_msg">Pour télécharger cette mise à jour, connectez-vous au Wi-Fi.</string>
     <string name="set_installfail_title">Essayer de télécharger la mise à jour à nouveau ?</string>
-    <string name="set_installfail_msg">Vous n’êtes pas connecté au Wi-Fi. Utilisez votre connexion mobile pour télécharger la mise à jour va consommer votre quota de données mobile. Si votre quota est dépassé, votre opérateur peut vous facturer du hors forfait.</string>
+    <string name="set_installfail_msg">Vous n’êtes pas connecté au Wi-Fi. Utilisez votre connexion mobile pour télécharger la mise à jour va consommer votre forfait de données mobile. Si votre quota est dépassé, votre opérateur peut vous facturer du hors forfait.</string>
     <string name="set_installfail_title_full">Impossible de mettre à jour</string>
     <string name="check_local_package_validate_error_msg">Impossible de vérifier la mise à jour.</string>
     <string name="check_local_package_validate_error_button">OK </string>
@@ -86,8 +87,8 @@
     <string name="space_not_enough_title">Espace de stockage insuffisant</string>
     <string name="space_not_enough_msg">Votre appareil est trop plein pour télécharger cette mise à jour. Nettoyez le stockage de votre appareil et essayez à nouveau.</string>
     <string name="clean_up_button">Nettoyer</string>
-    <string name="no_wifi_title">"Connectez vous au Wi-Fi"</string>
-    <string name="no_wifi_msg">Utiliser votre connexion de données mobiles peut générer des frais supplémentaires. Connectez vous au Wi-Fi pour télécharger les mises à jour.</string>
+    <string name="no_wifi_title">Se connecter au Wi-Fi</string>
+    <string name="no_wifi_msg">"L'utilisation des données mobiles peut générer des frais supplémentaires. Connectez-vous au Wi-Fi pour télécharger les mises à jour."</string>
     <string name="go_on_download">Télécharger</string>
     <string name="pause">Pause</string>
     <string name="repeat">Réessayer</string>
@@ -96,7 +97,7 @@
     <string name="recovery_power_not_enough_title">Batterie faible</string>
     <string name="recovery_power_not_enough_msg">Connectez votre chargeur pour mettre à jour si votre batterie est inférieur à 30%</string>
     <string name="recovery_power_not_enough_msg_plugged">La batterie doit être supérieure à 30% avant de pouvoir mettre à jour</string>
-    <string name="recovery_failed_msg">"Votre appareil n'a pas assez de mémoire pour entrer en mode Recovery et mettre à jour votre système. Veuillez utiliser Mi PC Suite :
+    <string name="recovery_failed_msg">"Votre appareil n'a pas assez de mémoire pour entrer en mode Recovery et mettre à jour votre système. Veuillez utiliser Mi PC Suite : 
 http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_button">OK</string>
     <string name="recovery_failed_notification_msg">"Impossible d'entrer en mode Recovery"</string>
@@ -114,7 +115,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="auto_dialog_msg_check_again">"Vous devez accepter notre nouvelle Politique de Confidentialité avant de mettre à jour votre système. "</string>
     <string name="auto_button_examine_immediately">Afficher</string>
     <string name="auto_button_sure_cancel">Annuler</string>
-    <string name="auto_update_sum">Télécharger les mises à jour automatiquement lorsque vous êtes connecté au Wi-Fi</string>
+    <string name="auto_update_sum">"Utiliser l'algorithme intelligent pour déterminer l'heure de mise à jour"</string>
     <string name="updater_nonetwork">Impossible de se connecter au réseau</string>
     <string name="updater_nonetwork_clause">Impossible de se connecter au réseau</string>
     <string name="updater_nolog">Aucun résumé de mise à jour.</string>
@@ -144,7 +145,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="share_qq">Poster sur Tencent weibo</string>
     <string name="install_qq">Installer Tencent weibo</string>
     <string name="upgrade_kernel">Le kernel est obsolète</string>
-    <string name="upgrade_kernel_msg">"La version actuelle du kernel ne correspond pas à la rom MIUI. Vous allez devoir procéder à une mise à jour manuelle. Référez vous au tutoriel de mise à jour:
+    <string name="upgrade_kernel_msg">"La version actuelle du kernel ne correspond pas à la rom MIUI. Vous allez devoir procéder à une mise à jour manuelle. Référez vous au tutoriel de mise à jour: 
 "</string>
     <string name="view_upgrade_tutorial">Voir</string>
     <string name="upgrade_close">Fermer</string>
@@ -166,7 +167,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="set_auto_msg">Télécharger les mises à jour automatiquement lorsque vous êtes connecté au Wi-Fi et les installer pendant la nuit ?</string>
     <string name="open_now">Oui</string>
     <string name="not_open">Non</string>
-    <string name="title_toast_auto">Les mises à jours se téléchargeront automatiquement</string>
+    <string name="title_toast_auto">Les mises à jour se téléchargeront automatiquement</string>
     <string name="check_local_package_update_title">Mettre à jour</string>
     <string name="check_local_package_update_btn">Redémarrer et mettre à jour</string>
     <string name="check_local_package_update_msg">Votre appareil va redémarrer automatiquement pour mettre à jour votre système à la version MIUI %s.</string>
@@ -213,6 +214,7 @@ Mais vous pourrez voter à partir de lundi prochain."</string>
     <string name="active_xiaomi_account_msg">Pour activer votre Compte Mi, allez à https://account.xiaomi.com/pass/serviceLogin.</string>
     <string name="active_xiaomi_account">Actif</string>
     <string name="update_comment_title">Commentaire</string>
+    <string name="update_comment_hint" />
     <string name="next">Suivant</string>
     <string name="previous">Précédent</string>
     <string name="finish">OK</string>
@@ -252,6 +254,12 @@ Veuillez réessayer."</string>
     <string name="vote_error5">"Erreur
 Impossible d'envoyer le retour"</string>
     <string name="miui_BBS">"       "<a href="http://bbs.miui.com">Aller sur le forum MIUI</a>   </string>
+    <string name="alpha_apply">Inscription au programme de bêta test</string>
+    <string name="alpha_cancel">Désinscription au programme de bêta test</string>
+    <string name="alpha_cancel_confirm">Se désinscrire maintenant ?</string>
+    <string name="alpha_cancel_ok">OK </string>
+    <string name="alpha_cancel_cancel">Annuler</string>
+    <string name="alpha_no_network">"Se connecter au réseau pour s'inscrire"</string>
     <string name="pm_root_acquired_button">Accès root</string>
     <string name="pm_root_acquired_rooting">"Obtention de l'accès root %s"</string>
     <string name="pm_root_acquired_notification_title">"Obtention de l'accès root"</string>
@@ -276,7 +284,4 @@ Impossible d'envoyer le retour"</string>
     <string name="sogou_uninstall_msg">"Le clavier Sogou (Édition Mi) n'est plus compatible avec MIUI 7. Changez de clavier ou mettez à jour vers une nouvelle version de Sogou."</string>
     <string name="sogou_uninstall_positive_button">Changement de claviers</string>
     <string name="sogou_uninstall_negative_button">Mettre à jour Sogou</string>
-    <string name="dialog_reboot_title">Mise à jour système</string>
-    <string name="dialog_reboot_message">MIUI sera mise à jour. Ce processus pourra durer 5 à 25 minutes. Veuillez laisser votre appareil en marche ni le redémarrer pendant sa mise à jour.</string>
-    <string name="dialog_reboot_yes">Mise à jour</string>
 </resources>

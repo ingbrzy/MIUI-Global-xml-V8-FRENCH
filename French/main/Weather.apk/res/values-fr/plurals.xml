@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">il y a %d mins</item>
+        <item quantity="other">il y a %d min</item>
         <item quantity="one">il y a %d min</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_day">
@@ -15,5 +15,17 @@
     <plurals name="view_realtime_clear">
         <item quantity="other">Dégagé</item>
         <item quantity="one">Dégagé</item>
+    </plurals>
+    <plurals name="total_voted_num_text">
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> personnes n'ont voté"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> personne n'a voté"</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other">| %1$s personnes</item>
+        <item quantity="one">| %1$s personne</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s personnes |</item>
+        <item quantity="one">%1$s personne |</item>
     </plurals>
 </resources>

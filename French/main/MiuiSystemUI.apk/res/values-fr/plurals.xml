@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d applications récentes</item>
-        <item quantity="one">1 application récente</item>
+        <item quantity="other">%d applications récentes</item>
+        <item quantity="one">1 application récente</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">Cacher les notifications de %d applications ?</item>

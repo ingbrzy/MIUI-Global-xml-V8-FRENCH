@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%d appels</item>
+        <item quantity="one">%d appel</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d messages</item>
+        <item quantity="one">%d message</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">"%d autres utilisateurs l'ont marqué comme"</item>
+        <item quantity="one">"%d autre utilisateur l'a marqué comme"</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d keywords</item>
+        <item quantity="one">%d keyword</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d numbers</item>
+        <item quantity="one">%d number</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">"Pas de suivi d'utilisation de données pour %d applications"</item>
         <item quantity="one">"Pas de suivi d'utilisation de données pour %d application"</item>
@@ -8,9 +28,21 @@
         <item quantity="other">"Suivi d'utilisation de données pour %d'applications"</item>
         <item quantity="one">"Suivi d'utilisation de données pour %d'application"</item>
     </plurals>
-    <plurals name="hints_install_apps_interval">
-        <item quantity="other">Utilisé il y a %d jours</item>
-        <item quantity="one">Utilisé hier</item>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d applications</item>
+        <item quantity="one">%d application</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">Vous avez déjà utilisé les limites de données quotidiennes de %s.</item>
+        <item quantity="one">Vous avez déjà utilisé les limites de données quotidiennes de %s.</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"You've already used %s daily data limits.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
+        <item quantity="one">"You've already used %s daily data limit.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Rechercher %d applications</item>
@@ -77,8 +109,8 @@
         <item quantity="one">Téléchargé par %1$d personne</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d vues</item>
-        <item quantity="one">%1$d vue</item>
+        <item quantity="other">%1$d views</item>
+        <item quantity="one">%1$d view</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d éléments sécurisés</item>
@@ -133,36 +165,16 @@
         <item quantity="one">%d risque trouvé, corriger maintenant</item>
     </plurals>
     <plurals name="virus_clean_num">
-        <item quantity="other">Tout semble bon</item>
-        <item quantity="one">Tout semble bon</item>
+        <item quantity="other">%1$d problèmes résolus. Tout semble bien maintenant.</item>
+        <item quantity="one">%1$d problème résolu. Tout semble bien maintenant.</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d applications contiennent des risques de confidentialité</item>
         <item quantity="one">%d application contient des risques de confidentialité</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Le mot de passe doit contenir au moins %d lettres.</item>
-        <item quantity="one">"Le mot de passe doit contenir au moins 1 lettre. "</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Le mot passe doit contenir au moins %d lettres en majuscule.</item>
-        <item quantity="one">Le mot passe doit contenir au moins 1 lettre en minuscule.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Le mot passe doit contenir au moins %d lettres en majuscule.</item>
-        <item quantity="one">Le mot passe doit contenir au moins 1 lettre en majuscule.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Le mot passe doit contenir au moins %d chiffres.</item>
-        <item quantity="one">Le mot de passe doit contenir au moins 1 chiffre.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Le mot passe doit contenir au moins %d caractères spéciaux.</item>
-        <item quantity="one">Le mot passe doit contenir au moins 1 caractère spécial.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Le mot passe doit contenir au moins %d caractères autre que des lettres.</item>
-        <item quantity="one">Le mot passe doit contenir au moins 1 caractère autre que des lettres.</item>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Patientez %d secondes et réessayez. "</item>
+        <item quantity="one">"Patientez %d seconde et réessayez. "</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d applications verrouillées</item>
@@ -211,5 +223,65 @@
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">%d jeux ajoutés</item>
+        <item quantity="one">%d jeu ajouté</item>
+    </plurals>
+    <plurals name="app_manager_apps_generation_title">
+        <item quantity="other">Mises à jour disponibles pour %d applications</item>
+        <item quantity="one">Mises à jour disponibles pour %d application</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_contact">
+        <item quantity="other">Contacts accédés %d fois</item>
+        <item quantity="one">Contacts accédés %d fois</item>
+    </plurals>
+    <plurals name="app_manager_permission_call_phone">
+        <item quantity="other">%d appels effectués</item>
+        <item quantity="one">%d appel effectué</item>
+    </plurals>
+    <plurals name="app_manager_permission_send_mms">
+        <item quantity="other">%d SMS envoyés</item>
+        <item quantity="one">%d SMS envoyé</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_mms">
+        <item quantity="other">SMS lus %d fois</item>
+        <item quantity="one">SMS lu %d fois</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_record">
+        <item quantity="other">Historique des appels lu %d fois</item>
+        <item quantity="one">Historique des appels lu %d fois</item>
+    </plurals>
+    <plurals name="app_manager_permission_read">
+        <item quantity="other">Accédé %d fois</item>
+        <item quantity="one">Accédé %d fois</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Allowed %d permissions</item>
+        <item quantity="one">Allowed %d permission</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Ask for %d permissions</item>
+        <item quantity="one">Ask for %d permission</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%d fois</item>
+        <item quantity="one">%d fois</item>
+    </plurals>
+    <plurals name="app_manager_reject_count">
+        <item quantity="other">Bloqué %d fois</item>
+        <item quantity="one">Bloqué %d fois</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Pas été utilisé depuis %d jours</item>
+        <item quantity="one">Pas été utilisé depuis %d jour</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Pas été utilisé depuis %d mois</item>
+        <item quantity="one">Pas été utilisé depuis %d mois</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Pas été utilisé depuis %d ans</item>
+        <item quantity="one">Pas été utilisé depuis %d an</item>
     </plurals>
 </resources>

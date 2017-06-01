@@ -69,11 +69,27 @@
         <item quantity="one">%d application installée</item>
     </plurals>
     <plurals name="wechat_copy_video_failed_dialog_msg">
-        <item quantity="other">"Impossible d'exporter les vidéos %d. Libérez de l'espace et essayez à nouveau"</item>
-        <item quantity="one">"Impossible d'exporter la vidéo %d. Libérez de l'espace et essayez à nouveau."</item>
+        <item quantity="other">"Impossible d'exporter %d vidéos. Libérez de l'espace et essayez à nouveau"</item>
+        <item quantity="one">"Impossible d'exporter %d vidéo. Libérez de l'espace et essayez à nouveau."</item>
     </plurals>
     <plurals name="wechat_empty_files">
-        <item quantity="other">（%1$d empty files）%2$s</item>
-        <item quantity="one">（%1$d empty file）%2$s</item>
+        <item quantity="other">(%1$d dossiers vides) %2$s</item>
+        <item quantity="one">(%1$d dossier vide) %2$s</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Pas été utilisé depuis %d jours</item>
+        <item quantity="one">Pas été utilisé depuis %d jour</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Pas été utilisé depuis %d mois</item>
+        <item quantity="one">Pas été utilisé depuis %d mois</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Pas été utilisé depuis %d ans</item>
+        <item quantity="one">Pas été utilisé depuis %d an</item>
+    </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> applications n'ont pas été utilisées depuis longtemps, allez voir.;"&lt;/Data></item>
+        <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> application n'a pas été utilisée depuis longtemps, allez voir.;"&lt;/Data></item>
     </plurals>
 </resources>

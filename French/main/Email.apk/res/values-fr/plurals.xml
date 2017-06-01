@@ -53,16 +53,16 @@
         <item quantity="one">%1$d conversation rapportée comme spam.</item>
     </plurals>
     <plurals name="day">
-        <item quantity="other">%d days</item>
-        <item quantity="one">%d day</item>
+        <item quantity="other">%d jours</item>
+        <item quantity="one">%d jour</item>
     </plurals>
     <plurals name="day_after">
-        <item quantity="other">In %d days</item>
-        <item quantity="one">In %d day</item>
+        <item quantity="other">Dans %d jours</item>
+        <item quantity="one">Dans %d jour</item>
     </plurals>
     <plurals name="day_before">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">%d day ago</item>
+        <item quantity="other">Il y a %d jours</item>
+        <item quantity="one">Il y a %d jour</item>
     </plurals>
     <plurals name="draft">
         <item quantity="other">Brouillons</item>
@@ -73,8 +73,8 @@
         <item quantity="one">%1$d message sera définitivement supprimé.</item>
     </plurals>
     <plurals name="month">
-        <item quantity="other">%d months</item>
-        <item quantity="one">%d month</item>
+        <item quantity="other">%d mois</item>
+        <item quantity="one">%d mois</item>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">Déplacer %1$d conversations</item>

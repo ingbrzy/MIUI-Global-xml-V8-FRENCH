@@ -42,7 +42,7 @@ Note : Les données des applications que vous avez installées ne seront pas sau
     <string name="cloud_app_no_data">Aucune sauvegarde</string>
     <string name="cloud_app_restore_error">Restauration impossible</string>
     <string name="cloud_app_restore_success">Applications restaurées</string>
-    <string name="cloud_app_backup_success">Restauration des applications terminée</string>
+    <string name="cloud_app_backup_success">Applications sauvegardées avec succès</string>
     <string name="cloud_app_check_data">Communication avec Mi Cloud…</string>
     <string name="cloud_app_no_network">Impossible de se connecter au réseau</string>
     <string name="button_delete">Supprimer</string>
@@ -84,7 +84,7 @@ Note : Les données des applications que vous avez installées ne seront pas sau
     <string name="cancel_recover_settings"><u>Annuler</u></string>
     <string name="recover_settings_description">Maintenez votre appareil allumé</string>
     <string name="recover_miui_settings">Restaurer les paramètres système</string>
-    <string name="wait_icon_download">"Télécharger les icônes d'applications"</string>
+    <string name="wait_icon_download">Téléchargement des icônes des application s</string>
     <string name="download_settings_fail">"Impossible de télécharger les paramètres de l'écran d'accueil"</string>
     <string name="backup_fail">Impossible de sauvegarder</string>
     <string name="backup_success">Sauvegardé avec succès</string>
@@ -100,7 +100,7 @@ Note : Les données des applications que vous avez installées ne seront pas sau
     <string name="success_open_cloudbackup">Sauvegarde des applications activée</string>
     <string name="as_new_device">"Remplacer l'écran d'accueil et les paramètres précédents"</string>
     <string name="as_new_device_summary">Effacer les sauvegardes précédentes</string>
-    <string name="restore_data_summary">Cette fonctionnalité nécessite une connexion internet.</string>
+    <string name="restore_data_summary">Cette fonctionnalité nécessite une connexion Internet.</string>
     <string name="query_restore_summary">"Une sauvegarde Mi Cloud a été trouvée pour cet appareil. Restaurer les applis de l'écran d'accueil et les paramètres ou l'utiliser comme un nouvel appareil et effacer les sauvegardes Mi Cloud précédentes ?"</string>
     <string name="query_restore_back_view">Sauvegarde Mi Cloud</string>
     <string name="restore_home_screen_apps">Restaurer à partir de la sauvegarde Mi Cloud</string>

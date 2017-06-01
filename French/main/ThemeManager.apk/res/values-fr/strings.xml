@@ -307,7 +307,7 @@
     <string name="theme_user_agreement_content2">Accord Utilisateur</string>
     <string name="theme_user_agreement_content3">" et "</string>
     <string name="theme_user_agreement_content4">Politique de confidentialité</string>
-    <string name="theme_user_agreement_content5">". Cette fonctionnalité doit se connecter à internet pour fonctionner normalement. "</string>
+    <string name="theme_user_agreement_content5">". Cette fonctionnalité doit se connecter à Internet pour fonctionner normalement. "</string>
     <string name="theme_user_agreement_title">"Conditions d'utilisation"</string>
     <string name="theme_user_agreement_allow">Accepter</string>
     <string name="theme_user_agreement_exit">Quitter</string>
@@ -384,6 +384,7 @@
     <string name="title_my_audio_resource">Mes sonneries</string>
     <string name="title_system_wallpaper_resource">"Fond d'écran du système"</string>
     <string name="title_my_wallpaper_resource">"Mes fonds d'écran"</string>
+    <string name="title_my_miwallpaper_resource">"Mes fonds d'écran animés"</string>
     <string name="current_using_lockscreen_wallpaper_text">Écran de verrouillage</string>
     <string name="current_using_desktop_wallpaper_text">"Écran d'accueil"</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Sonnerie</string>
@@ -402,6 +403,9 @@
     <string name="multi_sim_ringtone_settings_dialog_message">La sonnerie est appliquée pour les deux cartes SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">Ne plus afficher</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">"C'est compris"</string>
+    <string name="uid_change_dialog_title">"Redémarrer l'appareil"</string>
+    <string name="uid_change_dialog_message">"Vous avez supprimé les mises à jour. Redémarrez l'appareil pour pouvoir utiliser les thèmes."</string>
+    <string name="uid_change_dialog_ok">"C'est compris"</string>
     <string name="wallpaper_scroll_type_tips">"Faire défiler les fonds d'écran"</string>
     <string name="both_all_apply_success">"Fond d'écran appliqué"</string>
     <string name="both_all_apply_failured">"Impossible d'appliquer le fond d'écran"</string>
@@ -409,15 +413,16 @@
     <string name="lockscreen_apply_failured">"Impossible d'appliquer le fond d'écran de verrouillage"</string>
     <string name="home_apply_success">"Fond d'écran de l'écran d'accueil appliqué"</string>
     <string name="home_apply_failured">"Impossible d'appliquer le fond d'écran de l'écran d'accueil"</string>
-    <string name="lockscreen_apply_success_but_home_apply_failured">"Le fond d'écran de l'écran de verrrouillage est appliqué mais impossible d'appliquer celui de l'écran d'accueil"</string>
-    <string name="lockscreen_apply_failured_but_home_apply_success">"Le fond d'écran de l'écran d'accueil est appliqué mais impossible d'appliquer celui de l'écran de verrouillage"</string>
+    <string name="lockscreen_apply_success_but_home_apply_failured">"Le fond d'écran de l'écran de verrrouillage est appliqué. Impossible d'appliquer celui de l'écran d'accueil."</string>
+    <string name="lockscreen_apply_failured_but_home_apply_success">"Le fond d'écran de l'écran de verrrouillage est appliqué. Impossible d'appliquer celui de l'écran d'accueil."</string>
     <string name="the_picture_is_too_small">"L'image est trop petite"</string>
+    <string name="the_picture_is_not_support">"L'image n'est pas prise en charge"</string>
     <string name="is_setting_wallpaper_message">"Définition du fond d'écran…"</string>
     <string name="ad_app_download_start">Démarrage du téléchargement…</string>
     <string name="ad_app_is_downloading">Téléchargement…</string>
-    <string name="wallpaper_settings_page_title">"fond d'écran"</string>
-    <string name="wallpaper_auto_change_title">Écran de vérrouillage</string>
-    <string name="wallpaper_settings_lockscreen_text">Écran de vérrouillage</string>
+    <string name="wallpaper_settings_page_title">"Fond d'écran"</string>
+    <string name="wallpaper_auto_change_title">Écran de verrouillage</string>
+    <string name="wallpaper_settings_lockscreen_text">Écran de verrouillage</string>
     <string name="wallpaper_settings_desktop_text">"Écran d'accueil"</string>
     <string name="wallpaper_settings_change_wallpaper">Changer</string>
 </resources>

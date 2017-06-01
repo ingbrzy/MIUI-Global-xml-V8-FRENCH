@@ -2,6 +2,10 @@
 <resources>
     <plurals name="call_recording_notification_complete">
         <item quantity="other">%d appels enregistrés.</item>
-        <item quantity="one">1 appel enregistré.</item>
+        <item quantity="one">%d appel enregistré.</item>
+    </plurals>
+    <plurals name="livetalk_left_minute">
+        <item quantity="other">%d minutes restantes</item>
+        <item quantity="one">%d minute restante</item>
     </plurals>
 </resources>

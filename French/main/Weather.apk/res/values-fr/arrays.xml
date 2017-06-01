@@ -49,6 +49,14 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_detail_title">
+        <item>Bon</item>
+        <item>Modéré</item>
+        <item>Malsain pour les groupes sensibles</item>
+        <item>Malsain</item>
+        <item>Très malsain</item>
+        <item>Hasardeux</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Dégagé</item>
         <item>Nuageux</item>
@@ -80,8 +88,8 @@
     </string-array>
     <string-array name="indices_uv_level">
         <item>Faible</item>
-        <item>Moyen</item>
-        <item>Élevé</item>
+        <item>Modéré</item>
+        <item>Elevé</item>
     </string-array>
     <string-array name="indices_sport">
         <item>Convenable</item>
@@ -92,6 +100,16 @@
         <item>Inaproprié</item>
     </string-array>
     <string-array name="wind_direction">
+        <item>Nord</item>
+        <item>Nord-est</item>
+        <item>Est</item>
+        <item>Sud-est</item>
+        <item>Sud</item>
+        <item>Sud-ouest</item>
+        <item>Ouest</item>
+        <item>Nord-ouest</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
         <item>N</item>
         <item>NE</item>
         <item>E</item>
@@ -102,18 +120,69 @@
         <item>NO</item>
     </string-array>
     <string-array name="wind_power">
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
-        <item>%s</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bien</item>
+        <item>Satisfaisant</item>
+        <item>Modérément pollué</item>
+        <item>Faible</item>
+        <item>Très faible</item>
+        <item>Sévère</item>
+        <item>Beyond index</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>Échelle de Beaufort</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Force 2</item>
+        <item>&lt;6.0 km/h</item>
+        <item>&lt;1.7 m/s</item>
+        <item>&lt;3.7 mph</item>
+        <item>&lt;3.2 kn</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Échelle de Beaufort</item>
+        <item>Kilomètres par heure (km/h)</item>
+        <item>Mètres par seconde (m/s)</item>
+        <item>Miles par heure (mph)</item>
+        <item>Nœud (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>Force %1$s</item>
+        <item>%1$s km/h</item>
+        <item>%1$s m/s</item>
+        <item>%1$s mph</item>
+        <item>%1$s kn</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>Fort</item>
+        <item>Modéré</item>
+        <item>Faible</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excellent</item>
+        <item>Bonne</item>
+        <item>Légèrement pollué</item>
+        <item>Modérément pollué</item>
+        <item>Fortement pollué</item>
+        <item>Gravement pollué</item>
+        <item>Beyond index</item>
     </string-array>
 </resources>

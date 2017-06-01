@@ -3,7 +3,7 @@
     <string name="welcome">Bienvenue</string>
     <string name="app_name">Provision</string>
     <string name="input_method_setting">Choisir un clavier</string>
-    <string name="input_method_category">"Choisissez le clavier par défaut que vous utiliserez lors de la rédaction des e-mails, notes, et partout ailleurs. Notez que vous pourrez installer d'autres claviers plus tard."</string>
+    <string name="input_method_category">"Choisissez le clavier par défaut que vous utiliserez lors de la rédaction des e-mails, notes et partout ailleurs. Notez que vous pourrez installer d'autres claviers plus tard."</string>
     <string name="provision_inputmethod_policy_description">"
 Voir la politique de confidentialité du clavier sélectionné."</string>
     <string name="provision_inputmethod_policy_description1">Politique de confidentialité</string>
@@ -13,9 +13,9 @@ Voir la politique de confidentialité du clavier sélectionné."</string>
     <string name="sim_card_detecting_title">Vérifier la carte SIM</string>
     <string name="sim_card_detection_info">"Pour insérez la carte SIM, veuillez consulter le manuel fourni avec l'appareil."</string>
     <string name="sim_card_detecting">Vérification de votre carte SIM…</string>
-    <string name="other_settings">Autres paramètres</string>
+    <string name="other_settings">Paramètres supplémentaires</string>
     <string name="other_settings_location">Localisation</string>
-    <string name="other_settings_location_summary">"Permettre aux applications d'accéder à votre localisation"</string>
+    <string name="other_settings_location_summary">Autoriser des applications à accéder à votre localisation.</string>
     <string name="other_settings_user_experience">"Programme d'expérience utilisateur"</string>
     <string name="other_settings_user_experience_summary">"Aidez à améliorer nos produits et services en envoyant de façon anonyme des données d'utilisation."</string>
     <string name="other_settings_upload_debug_log_title">Envoyer automatiquement les données de diagnostic</string>
@@ -40,15 +40,15 @@ Voir la politique de confidentialité du clavier sélectionné."</string>
     <string name="terms_of_use">"Conditions d'utilisation"</string>
     <string name="terms_of_use_label">"Votre vie privée est très importante pour nous. Veuillez lire les conditions d'utilisation ainsi que la politique de confidentialité pour savoir quelles informations nous collectons, comment nous les utilisons et les différents choix disponibles.
 
-Vous devez les accepter avant de pouvoir utiliser MIUI. Durant l'activation, les services Mi, le composant système MSA, le composant système MAB et les composants statistiques se connecteront à internet et localiseront votre appareil."</string>
+Vous devez les accepter avant de pouvoir utiliser MIUI. Durant l'activation, les services Mi, les services d'activation de la SIM Mi, Mi Cloud, Localiser l'appareil, les modules Écran d'accueil, Service de jeux, les composants système, Direct Service, MAB et MSA ainsi que les composants statistiques se connecteront à Internet et localiseront votre appareil."</string>
     <string name="user_agreement">"Conditions générales d'utilisation"</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="agree">Accepter</string>
     <string name="disagree">Annuler</string>
     <string name="setting_locale">Définition de la région…</string>
     <string name="agree_terms">"J'ai lu et accepté les Conditions générales d'utilisation et la Politique de confidentialité."</string>
-    <string name="miui_terms_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir les Conditions Générales d'Utilisation sur %s."</string>
-    <string name="miui_privacy_policy_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir la Politique de Confidentialité sur %s."</string>
+    <string name="miui_terms_no_network">"Vous n'avez pas de connexion Internet. Vous pouvez voir les Conditions Générales d'Utilisation sur %s."</string>
+    <string name="miui_privacy_policy_no_network">"Vous n'avez pas de connexion Internet. Vous pouvez voir la Politique de Confidentialité sur %s."</string>
     <string name="locale_picker_title">Sélectionnez votre région</string>
     <string name="install_preinstall_app">Chargement des applications…</string>
     <string name="title_fingerprint">Ajouter votre empreinte</string>
@@ -57,9 +57,14 @@ Vous devez les accepter avant de pouvoir utiliser MIUI. Durant l'activation, les
     <string name="next_fingerprint">Suivant</string>
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">Utilisez votre empreinte pour déverrouiller votre appareil, ou pour se connecter à des applications ou services.</string>
-    <string name="content_description_start">Commencer</string>
+    <string name="content_description_start">Démarrer</string>
     <string name="content_description_miui_version">MIUI 8</string>
     <string name="content_description_complete">Terminé</string>
     <string name="content_description_language_picker">Sélectionnez une langue</string>
-    <string name="language_picker_other_languages_title">More Languages</string>
+    <string name="language_picker_other_languages_title">Plus de langues</string>
+    <string name="enable_accessibility_dialog_message">"Vous avez activé TalkBack en appuyant sur l'écran avec 2 doigts pendant plus de 10 secondes. TalkBack offre un commentaire vocal aux personnes malvoyantes. Si vous l'avez activé par accident, appuyez sur le bouton Annuler et puis appuyez rapidement deux fois sur l'écran."</string>
+    <string name="enable_accessibility_dialog_positive_btn">OK</string>
+    <string name="enable_accessibility_dialog_negative_btn">Annuler</string>
+    <string name="cm_terms_title">"Accord de l'opérateur du réseau mobile"</string>
+    <string name="cm_terms_content">"Afin d'améliorer les services qui vous sont fournis, l'opérateur de réseau mobile de votre choix peut télécharger vos données personnelles et les informations concernant cet appareil sur ses serveurs en utilisant des réseaux Wi-Fi ou des connexions de données mobiles. Ces informations ne seront utilisées qu'à des fins statistiques pour améliorer la qualité des services et fournir un contenu plus personnalisé. Ces informations ne seront pas utilisées pour vous identifier personnellement et ne seront pas divulguées à des tiers."</string>
 </resources>

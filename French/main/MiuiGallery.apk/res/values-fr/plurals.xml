@@ -77,8 +77,8 @@
         <item quantity="one">Supprimer cette photo %2$s ?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
-        <item quantity="other">Supprimer %1$d vidéos de %2$s ?</item>
-        <item quantity="one">Supprimer cette vidéo de %2$s ?</item>
+        <item quantity="other">Supprimer %1$d vidéos %2$s ?</item>
+        <item quantity="one">Supprimer cette vidéo %2$s ?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
         <item quantity="other">Supprimer%1$d éléments de %2$s ?</item>

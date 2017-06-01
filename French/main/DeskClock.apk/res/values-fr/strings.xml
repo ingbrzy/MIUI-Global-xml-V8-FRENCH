@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="slider_text">Blayez vers le haut pour désactiver</string>
+    <string name="slider_text">Balayez vers le haut pour désactiver</string>
     <string name="snooze_confirm_cancel">"Ignorer l'alarme"</string>
     <string name="timer_alarm_cancel_pad">"Appuyez sur l'écran pour arrêter la sonnerie"</string>
     <string name="timer_alarm_alert_pad">%s</string>

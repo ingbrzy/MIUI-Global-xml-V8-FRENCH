@@ -7,7 +7,7 @@
     <string name="title_optimizer">"Conditions d'utilisation"</string>
     <string name="header_optimizer">En utilisant cette fonctionnalité, vous acceptez de %s.</string>
     <string name="byteShort">o</string>
-    <string name="kilobyteShort">Ko</string>
+    <string name="kilobyteShort">ko</string>
     <string name="megabyteShort">Mo</string>
     <string name="gigabyteShort">Go</string>
     <string name="terabyteShort">To</string>
@@ -36,7 +36,7 @@
     <string name="button_text_known">OK</string>
     <string name="button_text_cleanup">Nettoyer</string>
     <string name="button_text_delete_from_white_list">Retirer</string>
-    <string name="empty_title_garbage_white_list">Maintenir les éléments pour les ajouter aux exceptions.</string>
+    <string name="empty_title_garbage_white_list">Aucune exception.</string>
     <string name="button_text_view_detail">Détails</string>
     <string name="button_text_view_file">Fichier</string>
     <string name="button_text_add_to_white_list">Exception</string>
@@ -62,8 +62,8 @@
     <string name="pref_title_apps_cleanup_size">Lorsque la taille du cache atteint</string>
     <string name="pref_title_expand_cache_group">Afficher les éléments mis en cache</string>
     <string name="pref_summary_expand_cache_group">Afficher les détails du cache automatiquement</string>
-    <string name="pref_category_title_auto_clean_settings">Nettoyer automatiquement</string>
-    <string name="pref_title_clean_alert">Nettoyer automatiquement</string>
+    <string name="pref_category_title_auto_clean_settings">Rappel de nettoyage</string>
+    <string name="pref_title_clean_alert">Rappel de nettoyage</string>
     <string name="pref_summary_auto_clean_and_alert">"Planifiez le nettoyeur pour qu'il se lance automatiquement"</string>
     <string name="pref_category_title_other_clean_settings">Paramètres additionnels</string>
     <string name="pref_summary_garbage_process_mode">Afficher une notification pendant le nettoyage</string>
@@ -115,7 +115,7 @@
     <string name="white_list_residual_header">Résidus : %d</string>
     <string name="white_list_title">Exceptions</string>
     <string name="toast_network_eror">Impossible de se connecter au réseau</string>
-    <string name="sc_allow_network_dialog_message">Autoriser cette application à se connecter à internet pour recevoir les mises à jours ?</string>
+    <string name="sc_allow_network_dialog_message">Autoriser cette application à se connecter à Internet pour recevoir les mises à jour ?</string>
     <string name="sc_allow_network_dialog_button">Autoriser</string>
     <string name="auto_clean_switch_on">Activé</string>
     <string name="auto_clean_switch_off">Désactivé</string>
@@ -154,8 +154,8 @@
     <string name="title_delete_cache">Nettoyer le cache des applications</string>
     <string name="summary_delete_cache">Nettoyer le cache des applications sélectionnées ?</string>
     <string name="positive_confirm">OK</string>
-    <string name="title_auto_cleaner">Nettoyer automatiquement ?</string>
-    <string name="summary_auto_cleaner">Nettoyer votre système automatiquement tous les 3 jours ?</string>
+    <string name="title_auto_cleaner">Rappel de nettoyage</string>
+    <string name="summary_auto_cleaner">Recevoir des notifications chaque fois que la taille de la corbeille atteint 100 Mo ?</string>
     <string name="confirm_auto_cleaner">OK</string>
     <string name="auto_cleaner_open">Activer</string>
     <string name="btn_text_done">Terminer</string>
@@ -194,8 +194,8 @@
     <string name="last_check_canceled">Analyse précédente annulée</string>
     <string name="default_cache_type">Fichiers de donnée</string>
     <string name="deepclean_normal_title">Nettoyer automatiquement</string>
-    <string name="deepclean_normal_item_desc1">Dossiers Corbeille</string>
-    <string name="deepclean_normal_item_desc2">"L'activité du nettoyeur n'influencera la performance du système"</string>
+    <string name="deepclean_normal_item_desc1">Fichiers de la corbeille</string>
+    <string name="deepclean_normal_item_desc2">"L'activité du nettoyeur n'influencera pas la performance du système"</string>
     <string name="deepclean_1_k_clean">Nettoyage rapide</string>
     <string name="similar_image_title">Photos</string>
     <string name="similar_image_desc">Supprimer les photos similaires</string>
@@ -289,7 +289,7 @@
     <string name="no_network">Impossible de se connecter au réseau, réessayez plus tard</string>
     <string name="back">Retour</string>
     <string name="total_clean">Total nettoyé : %s</string>
-    <string name="toast_network_switch">Cette application peut se connecter à internet</string>
+    <string name="toast_network_switch">Cette application peut se connecter à Internet</string>
     <string name="open">Activer</string>
     <string name="close">Fermer</string>
     <string name="download">Télécharger</string>
@@ -299,21 +299,13 @@
     <string name="downloading">Téléchargement</string>
     <string name="installing">Installation</string>
     <string name="start_install">Installer maintenant</string>
-    <string name="safety_check_detail">%1$d fois, gagné %2$d points</string>
-    <string name="garbage_cleanup_detail">%1$d fois, nettoyé %2$s</string>
-    <string name="net_assistant_detail">Utilisé %1$s, sauvé %2$s</string>
-    <string name="harass_detail">Bloqué %1$d SMS et %2$d appels</string>
-    <string name="authorize_detail">Bloqué %d applications</string>
-    <string name="safety_rank">Plus de %d%% utilisateurs MIUI en termes de sécurité</string>
-    <string name="net_assistant_title">Utilisé %s de données mobiles ce mois-ci</string>
-    <string name="traffic_top">TOP 5 de consommation des applications</string>
     <string name="empty">" "</string>
     <string name="open_browser">Ouvrir dans le navigateur</string>
     <string name="title_share_link">"Partager l'URL"</string>
     <string name="connecting">Connexion…</string>
     <string name="clear_bigfiles">"Supprimer les gros fichiers, les photos en double et d'autres éléments obsolètes"</string>
     <string name="clear_immediately">Nettoyer maintenant</string>
-    <string name="clear_safe_notify">Barre de notification de sécurité</string>
+    <string name="clear_safe_notify">Widget du panneau de notifications</string>
     <string name="nb_clear_set">Effacer le cache, afficher les informations de la batterie et de liste noire dans la barre de notifications</string>
     <string name="seton_immediately">Activer</string>
     <string name="notify_when">Obtenir une notification lorsque la taille de la corbeille atteint 100 Mo</string>
@@ -331,8 +323,8 @@
     <string name="tips_of_app_manage">Supprimer des applis rarement utilisées pour libérer de la mémoire</string>
     <string name="title_of_traffic_notification">Barre de statistiques de données</string>
     <string name="tips_of_traffic_notification">Voir les statistiques de données mobiles dans le panneau de notification</string>
-    <string name="title_of_package_set">Paramètres du quota de données</string>
-    <string name="tips_of_package_set">Régler votre plan de données et contrôler la quantité de trafic que vous utilisez</string>
+    <string name="title_of_package_set">Paramètres du forfait de données</string>
+    <string name="tips_of_package_set">Régler votre forfait de données et contrôler la quantité de trafic que vous utilisez</string>
     <string name="title_of_garbage_cloud_scan">Analyse Cloud</string>
     <string name="tips_of_garbage_cloud_scan">"Trouver la poubelle cachée avec l'analyse Cloud"</string>
     <string name="title_of_operators_set">Paramètres opérateur</string>
@@ -416,11 +408,10 @@
     <string name="low_memory_warning_dialog_msg">"Libérer de l'espace sur l'appareil pour continuer"</string>
     <string name="low_memory_warning_dialog_ok_button">Effacer</string>
     <string name="low_memory_warning_dialog_cancel_button">Annuler</string>
-    <string name="deep_clean_normal_clean_progress_desc">%1$s fichiers nettoyés</string>
     <string name="deep_clean_data_path_clean_title">Vider le cache</string>
     <string name="btn_text_quick_cleanup_appdata">Supprimer les données sélectionnées %1$s</string>
     <string name="btn_text_quick_cleanup_large_file">Supprimer les fichiers sélectionnés %1$s</string>
-    <string name="btn_text_quick_cleanup_video">Supprimer les vidéos sélectionnés %1$s</string>
+    <string name="btn_text_quick_cleanup_video">Supprimer les vidéos sélectionnées %1$s</string>
     <string name="btn_text_quick_cleanup_apk">Supprimer les applications sélectionnées %1$s</string>
     <string name="deepclean_install_info_desc2">"Supprimer des application pour libérer de l'espace"</string>
     <string name="ad_install_success_dialog_title">%1$s installé avec succès. Ouvrir maintenant ?</string>
@@ -443,7 +434,7 @@
     <string name="wechat_clean_stop_confirm">"Arrêter l'analyse ?"</string>
     <string name="wechat_clean_stop_confirm_msg">"Arrêter l'analyse maintenant ?"</string>
     <string name="wechat_clean_exit_confirm">Quitter ?</string>
-    <string name="wechat_clean_exit_confirm_msg">Arrêter la recherche et quitter maintenant ?</string>
+    <string name="wechat_clean_exit_confirm_msg">"Arrêter l'analyse et quitter maintenant ?"</string>
     <string name="wechat_clean_downloads">Fichiers reçus</string>
     <string name="wechat_clean_downloads_desc">Fichiers reçus sur WeChat</string>
     <string name="wechat_chat_data_type_normal">Corbeille</string>
@@ -451,7 +442,7 @@
     <string name="wechat_chat_data_type_normal_clean_tips">"Ce sont des fichiers techniques. Si vous les supprimez, cela n'affectera pas votre utilisation."</string>
     <string name="wechat_chat_data_type_cache">Cache de WeChat</string>
     <string name="wechat_chat_data_type_cache_desc">Vous pourrez restaurer ces fichiers après vous être connecté à Internet.</string>
-    <string name="wechat_chat_data_type_chat">Historique de discussion</string>
+    <string name="wechat_chat_data_type_chat">Historique de conversation</string>
     <string name="wechat_chat_data_type_chat_desc">"Vous ne pourrez pas restaurer l'historique des conversations."</string>
     <string name="wechat_chat_data_type_other">Autre</string>
     <string name="wechat_chat_data_type_other_desc">Attention, il se peut que vous ne puissiez pas restaurer ces fichiers après les avoir supprimés.</string>
@@ -460,11 +451,15 @@
     <string name="wechat_copy_video_failed_dialog_title">Exportation impossible</string>
     <string name="wechat_copying_video_success">Exporté avec succès</string>
     <string name="wechat_copying_video_dialog_title">Exporter vers la Galerie</string>
-    <string name="wechat_copying_video_dialog_msg">Les fichiers seront sauvegardés dans ce dossier: /DCIM/WeChat</string>
-    <string name="wechat_copying_video_dialog_checkbox">"Effacer les fichiers après l'export"</string>
+    <string name="wechat_copying_video_dialog_msg">Les fichiers seront sauvegardés dans ce dossier : /DCIM/WeChat</string>
+    <string name="wechat_copying_video_dialog_checkbox">"Effacer les fichiers après l'exportation"</string>
     <string name="wechat_copying_video_empty">Aucune vidéo a exporter</string>
     <string name="wechat_content_empty">Aucun fichier a exporter</string>
     <string name="wechat_content_bad_pic_file">Le fichier est corrompu</string>
+    <string name="main_title_filesize">%1$s déchets</string>
     <string name="file_not_found">Fichier non trouvé</string>
-    <string name="wechat_add_to_cleanlist">Nettoyé avec succès</string>
+    <string name="app_usage_never">Pas récemment utilisé</string>
+    <string name="app_usage_recently">Récemment utilisé</string>
+    <string name="resutl_function_deep_clean_summary">" "<Data>"&lt;font color=#ff0000 >%1$s&lt;/font> fichiers de plus peuvent être effacés. Libérez plus d'espace.;"</Data>" "</string>
+    <string name="resutl_function_wechat_clean_summary">" "<Data>"&lt;font color=#ff0000 >%1$s&lt;/font> du cache de WeChat. Libérez plus d'espace.;"</Data>" "</string>
 </resources>
