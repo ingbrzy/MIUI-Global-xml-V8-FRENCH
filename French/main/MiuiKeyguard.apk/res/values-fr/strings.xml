@@ -75,35 +75,35 @@ S'identifier dans i.mi.com, aller dans “Find device”, sélectionner l'appare
     <string name="fingerprint_enter_second_psw_title">Saisir le mot de passe du Second espace</string>
     <string name="fingerprint_enter_second_psw_msg">"Entrez le mot de passe du Second espace après avoir redémarrer l'appareil afin de pouvoir utiliser le lecteur d'empreinte"</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">"Impossible d'entrer dans le Second espace lorsque vous êtes en Mode simplifié"</string>
-    <string name="keyguard_charging_info_click_to_detail">View details</string>
-    <string name="keyguard_quick_charging_info_click_to_detail">快充中，点击查看</string>
-    <string name="keyguard_quickly_charging_info_charging_text">正在快充</string>
-    <string name="keyguard_charging_info_finished_charging_text">Fully charged</string>
+    <string name="keyguard_charging_info_click_to_detail">Voir les détails</string>
+    <string name="keyguard_quick_charging_info_click_to_detail">Chargement rapide. Touchez pour les détails.</string>
+    <string name="keyguard_quickly_charging_info_charging_text">Chargement rapide…</string>
+    <string name="keyguard_charging_info_finished_charging_text">Chargement complet</string>
     <string name="keyguard_charging_info_charging_text">En charge</string>
-    <string name="keyguard_charging_info_charging_full_need_min_time__text">About %dmin until full​</string>
-    <string name="keyguard_charging_info_charging_full_need_hour_time__text">About %dhr until full</string>
-    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">About %dhr %dmin until full</string>
-    <string name="keyguard_charging_info_could_use_min_time_text">About %dmin left</string>
-    <string name="keyguard_charging_info_could_use_hour_time_text">About %dhr left</string>
-    <string name="keyguard_charging_info_could_use_time_text" formatted="false">About %dhr %dmin left</string>
+    <string name="keyguard_charging_info_charging_full_need_min_time__text">%dmin avant chargement complet​</string>
+    <string name="keyguard_charging_info_charging_full_need_hour_time__text">%dhr avant chargement complet</string>
+    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">%dhr %dmin avant chargement complet</string>
+    <string name="keyguard_charging_info_could_use_min_time_text">%dmin restant</string>
+    <string name="keyguard_charging_info_could_use_hour_time_text">%dhr restant</string>
+    <string name="keyguard_charging_info_could_use_time_text" formatted="false">%dhr %dmin left</string>
     <string name="keyguard_charging_info_last_charge_today_time">"Aujourd'hui %s"</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Hier %s</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_drained_hour_time_format">%d h</string>
     <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
     <string name="keyguard_charging_info_drained_time_format" formatted="false">%dhr %dmin</string>
-    <string name="keyguard_charging_info_current_now_text">Real-time monitor</string>
+    <string name="keyguard_charging_info_current_now_text">Moniteur temps réel</string>
     <string name="keyguard_charging_info_charging_voltage_text">Voltage</string>
     <string name="keyguard_charging_info_battery_temperature_text">Température de la batterie</string>
     <string name="keyguard_charging_info_last_charged_time_text">Dernière charge</string>
-    <string name="keyguard_charging_info_battery_used_time_text">On battery</string>
-    <string name="keyguard_charging_info_drained_power_percent_text">Drained</string>
-    <string name="keyguard_charging_info_tip_text1">Keep your device at least 10% charged all the time to extend battery life.</string>
-    <string name="keyguard_charging_info_tip_text2">"Don't overcharge your device. Multiple shorter charges are better than an overnight charge."</string>
-    <string name="keyguard_charging_info_tip_text3">Avoid charging your device when the surrounding temperature is lower than 0℃.</string>
-    <string name="keyguard_charging_info_tip_text4">"Don't use your device actively while it's charging to avoid overheating."</string>
-    <string name="keyguard_charging_info_tip_text5">Batteries charge longer when they get hotter than usual.</string>
-    <string name="keyguard_charging_info_tip_text6">Turn the screen off and put your device away to cool it off.</string>
+    <string name="keyguard_charging_info_battery_used_time_text">Sur batterie</string>
+    <string name="keyguard_charging_info_drained_power_percent_text">Décharge</string>
+    <string name="keyguard_charging_info_tip_text1">Gardez votre téléphone chargé à 10% pour étendre la durée de vie de votre batterie</string>
+    <string name="keyguard_charging_info_tip_text2">"Ne surcharger pas votre appareil. De multiple petit charge sont meilleur qu'un surchargement nocturne."</string>
+    <string name="keyguard_charging_info_tip_text3">Évitez de recharger votre appareil lorsque la température environnante est inférieure à 0 ℃.</string>
+    <string name="keyguard_charging_info_tip_text4">"N'utilisez pas votre appareil pendant son chargement pour éviter une surchauffe."</string>
+    <string name="keyguard_charging_info_tip_text5">Les batteries rechargent lentement lorsqu'elles sont plus chaudes que d'habitude</string>
+    <string name="keyguard_charging_info_tip_text6">Éteignez votre appareil pour le refroidir.</string>
     <string name="keyguard_charging_info_data_ma">%s mA</string>
     <string name="keyguard_charging_info_data_v">%s V</string>
     <string name="keyguard_charging_info_data_c">%s℃</string>
