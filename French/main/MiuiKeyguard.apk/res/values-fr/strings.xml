@@ -102,7 +102,7 @@ S'identifier dans i.mi.com, aller dans “Find device”, sélectionner l'appare
     <string name="keyguard_charging_info_tip_text2">"Ne surcharger pas votre appareil. De multiple petit charge sont meilleur qu'un surchargement nocturne."</string>
     <string name="keyguard_charging_info_tip_text3">Évitez de recharger votre appareil lorsque la température environnante est inférieure à 0 ℃.</string>
     <string name="keyguard_charging_info_tip_text4">"N'utilisez pas votre appareil pendant son chargement pour éviter une surchauffe."</string>
-    <string name="keyguard_charging_info_tip_text5">Les batteries rechargent lentement lorsqu'elles sont plus chaudes que d'habitude</string>
+    <string name="keyguard_charging_info_tip_text5">"Les batteries rechargent lentement lorsqu'elles sont plus chaudes que d'habitude"</string>
     <string name="keyguard_charging_info_tip_text6">Éteignez votre appareil pour le refroidir.</string>
     <string name="keyguard_charging_info_data_ma">%s mA</string>
     <string name="keyguard_charging_info_data_v">%s V</string>
