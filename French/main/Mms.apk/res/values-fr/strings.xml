@@ -479,8 +479,8 @@ Dernière tentative : %s."</string>
     <string name="pref_switch_sdk_setting">Changer prestataire de services SMS intelligents</string>
     <string name="title_show_blocked_messages">Afficher les SMS bloqués</string>
     <string name="pref_show_blocked_messages_summary">Afficher les SMS bloqués dans la liste des conversations</string>
-    <string name="title_show_list_avatar">Display photos and info</string>
-    <string name="pref_show_list_avatar_summary">Display photos and other contact info in list view</string>
+    <string name="title_show_list_avatar">Afficher photos et infos</string>
+    <string name="pref_show_list_avatar_summary">Afficher les photos et les infos supplémentaires dans la liste de contact</string>
     <string name="sp_mark_as_read_title">Marquer toutes les notifications comme lues ?</string>
     <string name="sp_mark_as_read">Marquer tous les messages comme lus ?</string>
     <string name="sp_mark_as_read_progress">En cours</string>
@@ -652,4 +652,7 @@ Dernière tentative : %s."</string>
     <string name="hybrid_pull_to_refresh_refreshing_label">Un instant…</string>
     <string name="title_use_gsm_alphabet">"Utiliser l'alphabet GSM"</string>
     <string name="fail_to_add_attachment">"Impossible d'ajouter la pièce jointe"</string>
+    <string name="earlier">Plus tôt</string>
+    <string name="yesterday">Hier</string>
+    <string name="today">Aujourd'hui</string>
 </resources>
