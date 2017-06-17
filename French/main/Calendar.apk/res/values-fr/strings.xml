@@ -136,8 +136,6 @@
     <string name="setting_features_title">Paramètres de fonctionnalités</string>
     <string name="setting_title_holiday_display">Afficher les vacances</string>
     <string name="event_info_reminders_label_1">Rappel</string>
-    <string name="edit_event_no_reminder_value">Ne plus me rappeler</string>
-    <string name="event_reminder_value_zero">"Avant l'évènement"</string>
     <string name="event_reminder_allday_day_zero">Ce jour à %2$s</string>
     <string name="event_reminders_to_max">Peut régler %d rappels</string>
     <string name="event_account">"Compte de l'agenda"</string>

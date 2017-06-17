@@ -582,8 +582,6 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir sa configurati
     <string name="bluetooth_pairing_key_msg">"Code d'association Bluetooth"</string>
     <string name="bluetooth_enter_passkey_msg">"Saisissez le code d'association, puis appuyez sur Retour ou Entrée."</string>
     <string name="bluetooth_enable_alphanumeric_pin">Le code PIN contient des lettres ou des symboles.</string>
-    <string name="bluetooth_pin_values_hint">Habituellement 0000 ou 1234</string>
-    <string name="bluetooth_pin_values_hint_16_digits">Doit comporter 16 chiffres.</string>
     <string name="bluetooth_enter_pin_other_device">"Vous devrez peut-être également saisir ce code PIN sur l'autre appareil."</string>
     <string name="bluetooth_enter_passkey_other_device">"Vous devrez peut-être également saisir ce mot de passe sur l'autre appareil."</string>
     <string name="bluetooth_confirm_passkey_msg">"Pour associer votre appareil à :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assurez-vous que le mot de passe &lt;br>&lt;b>%2$s&lt;/b> s'affiche."</string>
@@ -1317,8 +1315,6 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
     <string name="terms_title">"Conditions d'utilisation"</string>
     <string name="webview_license_title">Licence WebView du système</string>
     <string name="wallpaper_attributions">"Fonds d'écran"</string>
-    <string name="wallpaper_attributions_values">"Fournisseurs d'images satellite :
-© CNES/Astrium, DigitalGlobe, Bluesky 2014"</string>
     <string name="settings_license_activity_title">Licences open source</string>
     <string name="settings_license_activity_unavailable">Un problème est survenu lors du chargement des licences.</string>
     <string name="settings_license_activity_loading">Chargement...</string>
@@ -1465,7 +1461,6 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
     <string name="security_settings_billing_desc">Cette application peut engendrer des frais :</string>
     <string name="security_settings_premium_sms_desc">Envoyer un SMS premium</string>
     <string name="computing_size">Traitement...</string>
-    <string name="invalid_size_value">Impossible de calculer la taille du package.</string>
     <string name="empty_list_msg">"Aucune application tierce n'est installée."</string>
     <string name="version_text">version %1$s</string>
     <string name="move_app">Déplacer</string>
@@ -3265,7 +3260,6 @@ Cela permet de protéger les données de vos appareils en cas de perte ou de vol
     <string name="available_size">%s Disponible</string>
     <string name="total_size">%s total</string>
     <string name="memory_title">Disponible : %1$s\u0009\u0009Total : %2$s</string>
-    <string name="memory_rightvalue">Disponible : %s</string>
     <string name="account_list">Autres comptes</string>
     <string name="account_add">Ajouter</string>
     <string name="xiaomi_account">Compte Mi</string>

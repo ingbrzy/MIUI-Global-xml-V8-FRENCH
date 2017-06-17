@@ -134,15 +134,6 @@
         <item>11</item>
         <item>12</item>
     </string-array>
-    <string-array name="aqi_value">
-        <item>Bien</item>
-        <item>Satisfaisant</item>
-        <item>Modérément pollué</item>
-        <item>Faible</item>
-        <item>Très faible</item>
-        <item>Sévère</item>
-        <item>Beyond index</item>
-    </string-array>
     <string-array name="wind_unit_simple">
         <item>Échelle de Beaufort</item>
         <item>km/h</item>

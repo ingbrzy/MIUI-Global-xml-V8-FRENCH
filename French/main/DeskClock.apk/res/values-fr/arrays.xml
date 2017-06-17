@@ -326,14 +326,6 @@
         <item>Du lundi au vendredi</item>
         <item>Personnalisé</item>
     </string-array>
-    <string-array name="aqi_value">
-        <item>Bon</item>
-        <item>Satisfaisant</item>
-        <item>Modérément pollué</item>
-        <item>Faible</item>
-        <item>Très faible</item>
-        <item>Sévère</item>
-    </string-array>
     <string-array name="alarm_set">
         <item>"L'alarme sonnera dans moins d'une minute."</item>
         <item>"L'alarme sonnera dans %1$s."</item>

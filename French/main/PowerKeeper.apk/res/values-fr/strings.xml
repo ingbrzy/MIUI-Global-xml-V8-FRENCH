@@ -7,7 +7,6 @@
     <string name="menu_text_power_analysis">Tester la batterie</string>
     <string name="menu_text_power_configure">Paramètres de la batterie</string>
     <string name="power_keeper">Économiseur de batterie</string>
-    <string name="invalid_size_value">"Impossible d'obtenir la taille du paquet."</string>
     <string name="disabled">Désactivé</string>
     <string name="no_applications">Vide</string>
     <string name="add_applications">"Choisir l'application"</string>
