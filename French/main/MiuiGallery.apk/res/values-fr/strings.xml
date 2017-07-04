@@ -664,6 +664,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="cloud_storage_ok_append_desc">Disponible %s</string>
     <string name="cloud_storage_warn_title">Pas assez de stockage dans Mi Cloud</string>
     <string name="cloud_storage_warn_desc">Achat cloud VIP pour un stockage supplémentaire</string>
+    <string name="percent_sign">%</string>
     <string name="user_agreement2">"Conditions d'Utilisation"</string>
     <string name="user_agreement4">Politique de Confidentialité</string>
     <string name="user_agree">Accepter</string>
@@ -760,6 +761,8 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="search_people_jump_failed">Attendez que les photos avec les personnes soient synchronisées avec Mi Cloud et essayez à nouveau</string>
     <string name="search_album_jump_failed">Wait until albums are synced with Mi Cloud and try again</string>
     <string name="search_clear_histories">Vider</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_icon">search_icon</string>
     <string name="loading">Un instant</string>
     <string name="loading_dots">Un instant…</string>
     <string name="load_failed">Impossible de charger les informations, appuyez pour réessayer</string>
