@@ -13,6 +13,7 @@
   <string name="alarm_summary_12h">hh:mm a</string>
   <string name="alarm_summary_24h">kk:mm</string>
   <string name="alarm_time">Heure de l\'alarme</string>
+  <string name="alarm_value">Alarme %s%%</string>
   <string name="app">Lancer une application</string>
   <string name="app_center">Applications</string>
   <string name="app_name">Mi Tag</string>
@@ -98,6 +99,7 @@ Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="input_password_gain">Veuillez confirmer le mot de passe</string>
   <string name="input_password_warning">Le mot de passe va être écrit sur le tag, ne l\'oubliez pas !</string>
   <string name="local_app">Applications téléchargées</string>
+  <string name="media_value">Média %s%%</string>
   <string name="meeting_mode">Mode réunion</string>
   <string name="miui_ringer_mode">Mode de sonnerie</string>
   <string name="mode">mode</string>
@@ -109,6 +111,7 @@ Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="no_available_networks_summary">Veuillez vous connecter à un réseau Wi-fi puis réessayer</string>
   <string name="no_available_xiaomi_shop">Impossible d\'ouvrir le market Xiaomi</string>
   <string name="not_save_btn">Non</string>
+  <string name="notification_value">Notifications %s%%</string>
   <string name="null_task">Aucune tâche</string>
   <string name="off">Désactiver</string>
   <string name="on">Activer</string>
@@ -132,6 +135,7 @@ Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="ringer_mode">Mode de sonnerie</string>
   <string name="ringer_normal">Sonnerie</string>
   <string name="ringer_silent">Silencieux</string>
+  <string name="ringer_value">Sonnerie %s%%</string>
   <string name="running">est en cours d\'exécution</string>
   <string name="save_alert">Enregistrer cette tâche ?</string>
   <string name="save_btn">Enregistrer</string>
@@ -182,6 +186,7 @@ toucher le dos de votre téléphone avec un autre tag.""</string>
   <string name="vibrate_mode">Vibreur</string>
   <string name="vibrate_off">Vibreur désactivé</string>
   <string name="vibrate_on">Vibreur activé</string>
+  <string name="voice_call_value">Volume d\'appel %s%%</string>
   <string name="volume">Son</string>
   <string name="web_label">Libellé (optionnel)</string>
   <string name="web_url">URL</string>
