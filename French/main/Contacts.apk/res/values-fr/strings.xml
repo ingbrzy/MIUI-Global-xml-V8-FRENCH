@@ -328,7 +328,6 @@ Pour ajouter des contacts, pressez la touche "<b><font fgcolor="#ffffffff">Menu<
     <string name="vcard_export_will_start_message">%s sera exporté rapidement.</string>
     <string name="vcard_export_request_rejected_message">"Exportation impossible. Renouvelez l'opération ultérieurement."</string>
     <string name="vcard_unknown_filename">contact</string>
-    <string name="percentage">%s%%</string>
     <string name="confirm_export_title">Exporter les contacts ?</string>
     <string name="confirm_export_message">Votre liste de contacts va être exporter dans le fichier : %s.</string>
     <string name="exporting_contact_failed_title">Exportation impossible</string>
@@ -1074,7 +1073,6 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="device_import_local_account">Compte local</string>
     <string name="import_name">Nom</string>
     <string name="import_percent">0%</string>
-    <string name="percent_sign">%</string>
     <string name="ret_sign">"
 "</string>
     <string name="checkhint">Vérifier le téléphone de destination</string>
