@@ -141,7 +141,7 @@
         <item>Faible</item>
         <item>Très faible</item>
         <item>Sévère</item>
-        <item>Beyond index</item>
+        <item>"Au-delà de l'index"</item>
     </string-array>
     <string-array name="wind_unit_simple">
         <item>Échelle de Beaufort</item>
@@ -183,6 +183,6 @@
         <item>Modérément pollué</item>
         <item>Fortement pollué</item>
         <item>Gravement pollué</item>
-        <item>Beyond index</item>
+        <item>"Au-delà de l'index"</item>
     </string-array>
 </resources>

@@ -25,8 +25,8 @@
         <item quantity="one">Téléchargé par %1$d personne</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d vues</item>
-        <item quantity="one">%1$d vue</item>
+        <item quantity="other">%1$s vues</item>
+        <item quantity="one">%1$s vue</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d groupes</item>
@@ -89,7 +89,7 @@
         <item quantity="one">Pas été utilisé depuis %d an</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> applications n'ont pas été utilisées depuis longtemps, allez voir.;"&lt;/Data></item>
-        <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> application n'a pas été utilisée depuis longtemps, allez voir.;"&lt;/Data></item>
+        <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> les applications n'ont pas été utilisées depuis longtemps, allez voir."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> l'application n'a pas été utilisée depuis longtemps, allez voir."&lt;/Data></item>
     </plurals>
 </resources>

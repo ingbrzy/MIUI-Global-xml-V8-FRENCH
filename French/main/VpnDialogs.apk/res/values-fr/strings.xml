@@ -1,30 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2013 The Android Open Source Project
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
- -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="prompt">%s tente de créer une connexion VPN.</string>
-  <string name="warning">"En continuant, vous autorisez l\'application à intercepter l\'ensemble du trafic réseau. "<b>"N\'acceptez PAS, sauf si vous avez confiance en l\'application."</b>"Sinon, vos données risquent d\'être piratées par un logiciel malveillant."</string>
-  <string name="accept">"J'ai confiance en cette application."</string>
-  <string name="legacy_title">VPN connecté</string>
   <string name="configure">Configurer</string>
-  <string name="disconnect">Déconnecter</string>
-  <string name="session">Session :</string>
-  <string name="duration">Durée :</string>
-  <string name="data_transmitted">Envoyé :</string>
   <string name="data_received">Reçu :</string>
+  <string name="data_transmitted">Envoyé :</string>
+  <string name="data_value_format">%1$s octets / %2$s paquets</string>
+  <string name="disconnect">Déconnecter</string>
+  <string name="duration">Durée :</string>
+  <string name="legacy_title">VPN connecté</string>
+  <string name="prompt">Demande de connexion</string>
+  <string name="session">Session :</string>
+  <string name="warning">"%s souhaite configurer une connexion VPN qui permet de surveiller le trafic réseau. N'acceptez que si vous faites confiance à la source. &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt; s'affiche en haut de votre écran lorsqu'une connexion VPN est active."</string>
 </resources>

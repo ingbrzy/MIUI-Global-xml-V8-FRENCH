@@ -37,8 +37,16 @@
         <item>Autre</item>
         <item>Personnalisée</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>"Pour effectuer des appels et envoyer des messages via le Wi-Fi, demandez tout d'abord à votre opérateur de configurer ce service. Réactivez ensuite les appels Wi-Fi dans les paramètres."</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Inscrivez-vous auprès de votre opérateur.</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Appels Wi-Fi %s</item>
+    </string-array>
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">

@@ -80,10 +80,6 @@
         <item quantity="other">%d chansons</item>
         <item quantity="one">%d chanson</item>
     </plurals>
-    <plurals name="Nnew_local_audios">
-        <item quantity="other">%d chansons ajoutées</item>
-        <item quantity="one">%d chanson ajoutée</item>
-    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d éléments sélectionnés</item>
         <item quantity="one">%d élément sélectionné</item>

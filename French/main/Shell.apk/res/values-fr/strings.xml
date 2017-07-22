@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-/*
-* Copyright (C) 2013 The Android Open Source Project
-*
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at
-*
-*      http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
- -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Shell</string>
-  <string name="bugreport_finished_title">Rapport de bug enregistré</string>
-  <string name="bugreport_finished_text">Appuyer ici pour partager votre rapport de bug</string>
-  <string name="bugreport_confirm">"Les rapports de bug contiennent des données des fichiers journaux du système, y compris des informations personnelles et privées. Ne partagez les rapports de bug qu\'avec les applications et les personnes que vous estimez fiables."</string>
-  <string name="bugreport_confirm_repeat">Afficher ce message la prochaine fois</string>
+  <string name="bugreport_add_details_to_zip_failed">"Impossible d'ajouter les détails du rapport de bug au fichier .zip"</string>
+  <string name="bugreport_confirm">"Les rapports de bug contiennent des données des fichiers journaux du système, y compris des informations que vous considérez sensibles concernant, par exemple, la consommation par application et la localisation. Nous vous recommandons de ne partager ces rapports qu'avec des personnes et des applications que vous estimez fiables."</string>
+  <string name="bugreport_confirm_dont_repeat">Ne plus afficher</string>
+  <string name="bugreport_finished_pending_screenshot_text">"Appuyer pour partager rapport de bug sans capture d'écran ou attendre finalisation capture d'écran"</string>
+  <string name="bugreport_finished_text">Appuyer pour partager votre rapport de bug</string>
+  <string name="bugreport_finished_title">Le rapport de bug \"#%d\" a bien été enregistré</string>
+  <string name="bugreport_in_progress_title">Le rapport de bug \"#%d\" est en cours de création</string>
+  <string name="bugreport_info_action">Détails</string>
+  <string name="bugreport_info_description">Résumé du bug</string>
+  <string name="bugreport_info_dialog_title">Informations sur le rapport de bug \"#%d\"</string>
+  <string name="bugreport_info_name">Nom de fichier</string>
+  <string name="bugreport_info_title">Titre du bug</string>
+  <string name="bugreport_screenshot_action">"Captures d'écran"</string>
+  <string name="bugreport_screenshot_failed">"Impossible d'effectuer une capture d'écran."</string>
+  <string name="bugreport_screenshot_taken">"La capture d'écran a bien été effectuée."</string>
+  <string name="bugreport_storage_title">"Rapports d'erreur"</string>
+  <string name="bugreport_unnamed">sans nom</string>
+  <string name="bugreport_unreadable_text">Impossible de lire le fichier de rapport de bug.</string>
+  <string name="bugreport_updating_title">"Ajout d'informations au rapport de bug"</string>
+  <string name="bugreport_updating_wait">Veuillez patienter…</string>
+  <string name="save">Enregistrer</string>
 </resources>

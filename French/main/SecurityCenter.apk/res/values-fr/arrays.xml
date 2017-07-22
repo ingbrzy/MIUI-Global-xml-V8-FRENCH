@@ -28,30 +28,12 @@
         <item>"Aujourd'hui Wi-Fi"</item>
         <item>Ce mois (Wi-Fi)</item>
     </string-array>
-    <string-array name="date_of_app">
-        <item>Hier (données)</item>
-        <item>"Aujourd'hui (données)"</item>
-        <item>Ce mois (Données)</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
-        <item>3 s</item>
-        <item>4 s</item>
-        <item>5 s</item>
-        <item>6 s</item>
-        <item>7 s</item>
-        <item>8 s</item>
-        <item>9 s</item>
-    </string-array>
     <string-array name="traffic_type">
         <item>"Utilisation des données mobile "</item>
         <item>"Utilisation du Wi-Fi "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Utilisation des données mobile "</item>
-        <item>"Utilisation du Wi-Fi "</item>
-    </string-array>
-    <string-array name="traffic_sort_type">
-        <item>"Utilisation des données mobiles "</item>
         <item>"Utilisation du Wi-Fi "</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
@@ -68,22 +50,30 @@
         <item>"Lorsque l'appareil est verrouillé ou en sortant d'une application"</item>
         <item>"Lorsque l'appareil est verrouillé ou 1 minute après la sortie d'une application"</item>
     </string-array>
-    <string-array name="long_add_menu">
-        <item>Ajouter aux exceptions</item>
+    <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
     </string-array>
     <string-array name="sort_type">
+        <item>État</item>
+        <item>"Nom de l'application"</item>
+        <item>"Fréquence d'utilisation"</item>
+        <item>Stockage utilisé</item>
+        <item>Utilisation des données</item>
+        <item>Utilisation de la batterie</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Trier par état</item>
         <item>Trier par nom</item>
-        <item>Trier par taille</item>
+        <item>"Trier par fréquence d'utilisation"</item>
+        <item>Trier par stockage utilisé</item>
+        <item>Trier par utilisation de données</item>
+        <item>Trier par utilisation de batterie</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>Utilisation de données</item>
         <item>Solde du téléphone</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Après 1 minute</item>
-        <item>Après 5 minutes</item>
-        <item>Après 10 minutes</item>
-        <item>Jamais</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Une fois</item>
@@ -97,6 +87,12 @@
         <item>Chaque jour</item>
         <item>Lundi au vendredi</item>
         <item>Personnalisé</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Après 1 minute</item>
+        <item>Après 5 minutes</item>
+        <item>Après 10 minutes</item>
+        <item>Jamais</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
         <item>15 secondes</item>
@@ -120,5 +116,10 @@
         <item>Jamais</item>
         <item>Vibrer en mode silencieux</item>
         <item>Toujours</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

@@ -1,27 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="prjection_title">Affichage sans fil</string>
-    <string name="search_for_devices">Actualiser</string>
-    <string name="media_feature_projection">Écran miroir</string>
-    <string name="media_status_error">Erreur</string>
-    <string name="media_status_starting">Connexion…</string>
-    <string name="media_status_started">Connecté</string>
-    <string name="media_status_stopping">Arrêt…</string>
-    <string name="media_status_stopped">Arrêté</string>
-    <string name="wifi_display_settings_title">Caster</string>
-    <string name="wifi_display_enable_menu_item">"Activer l'affichage sans fil"</string>
-    <string name="wifi_display_no_devices_found">Impossible de trouver des appareils à proximité.</string>
-    <string name="wifi_display_status_connecting">Connexion</string>
-    <string name="wifi_display_status_connected">Connecté</string>
-    <string name="wifi_display_status_in_use">"En cours d'utilisation"</string>
-    <string name="wifi_display_status_not_available">Indisponible</string>
-    <string name="wifi_display_details">"Paramètres d'affichage"</string>
-    <string name="wifi_display_options_title">"Paramètres d'affichage sans fil"</string>
-    <string name="wifi_display_options_forget">Oublier</string>
-    <string name="wifi_display_options_done">Terminé</string>
-    <string name="wifi_display_options_name">Nom</string>
-    <string name="cancel">Annuler</string>
-    <string name="enable_wifi_title">Activer le Wi-Fi</string>
-    <string name="enable_wifi_message">Activer le Wi-Fi pour rechercher et connecter des appareils à proximité.</string>
-    <string name="enable_wifi_btn">Activer</string>
+  <string name="app_name">Serveur Média</string>
+  <string name="cancel">Annuler</string>
+  <string name="enable_wifi_btn">Activer</string>
+  <string name="enable_wifi_message">Activer le Wi-Fi pour rechercher et connecter des appareils à proximité.</string>
+  <string name="enable_wifi_title">Activer le Wi-Fi</string>
+  <string name="media_feature_projection">Écran miroir</string>
+  <string name="media_route_controller_disconnect">Déconnecter</string>
+  <string name="media_status_error">Erreur</string>
+  <string name="media_status_started">Connecté</string>
+  <string name="media_status_starting">Connexion…</string>
+  <string name="media_status_stopped">Arrêté</string>
+  <string name="media_status_stopping">Arrêt…</string>
+  <string name="noti_projection_status_desc_on">Projection écran activée</string>
+  <string name="noti_projection_status_title">Lecteur Mi Affichage Sans Fil</string>
+  <string name="prjection_title">Affichage sans fil</string>
+  <string name="search_for_devices">Actualiser</string>
+  <string name="wifi_display_details">"Paramètres d'affichage"</string>
+  <string name="wifi_display_enable_menu_item">"Activer l'affichage sans fil"</string>
+  <string name="wifi_display_no_devices_found">Impossible de trouver des appareils à proximité.</string>
+  <string name="wifi_display_options_done">Terminé</string>
+  <string name="wifi_display_options_forget">Oublier</string>
+  <string name="wifi_display_options_name">Nom</string>
+  <string name="wifi_display_options_title">"Paramètres d'affichage sans fil"</string>
+  <string name="wifi_display_settings_title">Caster</string>
+  <string name="wifi_display_status_connected">Connecté</string>
+  <string name="wifi_display_status_connecting">Connexion</string>
+  <string name="wifi_display_status_in_use">"En cours d'utilisation"</string>
+  <string name="wifi_display_status_not_available">Indisponible</string>
 </resources>

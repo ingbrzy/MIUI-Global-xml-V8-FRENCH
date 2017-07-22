@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_label">Service de localisation(AutoNavi)</string>
-    <string name="location_warning_title">Avertissement</string>
-    <string name="location_warning_message">"Autoriser le service de localisation d'AutoNavi à collecter des données de localisation anonymes. Certaines données peuvent être stockées sur votre appareil, et cette collecte peut s'effectuer même si aucune application n'est en fonctionnement. Des frais d'utilisation de données peuvent s'appliquer durant le processus."</string>
-    <string name="agree">Accepter</string>
-    <string name="disagree">Refuser</string>
-</resources>

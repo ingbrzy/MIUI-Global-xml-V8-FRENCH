@@ -12,6 +12,14 @@
         <item>Grand-père maternel</item>
         <item>Grand-mère maternelle</item>
     </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Père</item>
+        <item>Mère</item>
+        <item>Grand-père paternel</item>
+        <item>Grand-mère paternelle</item>
+        <item>Grand-père maternel</item>
+        <item>Grand-mère maternelle</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>Moi</item>
         <item>Enfant</item>

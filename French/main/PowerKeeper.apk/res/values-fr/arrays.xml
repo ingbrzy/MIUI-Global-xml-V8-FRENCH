@@ -59,8 +59,8 @@
         <item>Récemment</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Bloquer le mode Sommeil profond</item>
-        <item>Bloquer le mode Sommeil</item>
+        <item>Bloquer le mode veille profond</item>
+        <item>Bloquer le mode Veille</item>
         <item>Recherche de Wi-Fi</item>
         <item>Utiliser GPS</item>
         <item>Occupation du CPU</item>
@@ -78,5 +78,13 @@
         <item></item>
         <item></item>
         <item></item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Default warm control mode</item>
+        <item>Mode performance en premier</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>The current temperature control mode, the temperature of experience is preferred</item>
+        <item>The current performance model, performance experience is preferred, temperatures could rise</item>
     </string-array>
 </resources>

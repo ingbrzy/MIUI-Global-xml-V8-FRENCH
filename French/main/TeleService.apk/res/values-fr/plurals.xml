@@ -12,4 +12,26 @@
         <item quantity="other">"L'action sélectionnée n'est pas disponible en mode appel d'urgence. Le téléphone sera dans ce mode pendant %s minutes. Voulez vous quitter maintenant ?"</item>
         <item quantity="one">"L'action sélectionnée n'est pas disponible en mode appel d'urgence. Le téléphone sera dans ce mode pendant %s minute. Voulez vous quitter maintenant ?"</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d nombres</item>
+        <item quantity="one">%d numéros</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d numéros seront supprimés.</item>
+        <item quantity="one">%d numéro sera supprimé.</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">"Vous pouvez ajouter jusqu'à %s personnes, sélectionner à nouveau."</item>
+        <item quantity="one">Vous pouvez ajouter %s personne, sélectionner à nouveau.</item>
+    </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">délai : %s secondes</item>
+        <item quantity="one">délai : %s seconde</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d tentatives restantes."</item>
+        <item quantity="one">"
+%d tentative restante."</item>
+    </plurals>
 </resources>

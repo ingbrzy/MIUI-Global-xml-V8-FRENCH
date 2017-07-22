@@ -13,12 +13,12 @@
         <item quantity="one">"%d autre utilisateur l'a marqué comme"</item>
     </plurals>
     <plurals name="st_show_num_keyword">
-        <item quantity="other">%d keywords</item>
-        <item quantity="one">%d keyword</item>
+        <item quantity="other">%d mots-clés</item>
+        <item quantity="one">%d mot-clé</item>
     </plurals>
     <plurals name="st_show_num_number">
-        <item quantity="other">%d numbers</item>
-        <item quantity="one">%d number</item>
+        <item quantity="other">%d numéros</item>
+        <item quantity="one">%d numéro</item>
     </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">"Pas de suivi d'utilisation de données pour %d applications"</item>
@@ -37,12 +37,12 @@
         <item quantity="one">Vous avez déjà utilisé les limites de données quotidiennes de %s.</item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
-        <item quantity="other">"You've already used %s daily data limits.
+        <item quantity="other">"Vous avez déjà atteint les limites de données quotidiennes de %s.
 
-If you turn on mobile data again, your carrier may charge you for additional data."</item>
-        <item quantity="one">"You've already used %s daily data limit.
+Si vous activez les données mobiles, votre opérateur pourrait vous facturer des frais supplémentaires."</item>
+        <item quantity="one">"Vous avez déjà atteint la limite de données quotidiennes de %s.
 
-If you turn on mobile data again, your carrier may charge you for additional data."</item>
+Si vous activez les données mobiles, votre opérateur pourrait vous facturer des frais supplémentaires."</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Rechercher %d applications</item>
@@ -92,10 +92,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d problèmes de batterie détectés, réparer</item>
         <item quantity="one">%d problème de batterie détecté, réparer</item>
     </plurals>
-    <plurals name="app_check_title_text">
-        <item quantity="other">%d éléments peuvent être optimisés</item>
-        <item quantity="one">%d élément peut être optimisé</item>
-    </plurals>
     <plurals name="people">
         <item quantity="other">Téléchargé par %1$d personnes</item>
         <item quantity="one">Téléchargé par %1$d personne</item>
@@ -104,21 +100,41 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Téléchargé par %1$d personnes</item>
         <item quantity="one">Téléchargé par %1$d personne</item>
     </plurals>
-    <plurals name="million">
-        <item quantity="other">Téléchargé par %1$d personnes</item>
-        <item quantity="one">Téléchargé par %1$d personne</item>
-    </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d views</item>
-        <item quantity="one">%1$d view</item>
+        <item quantity="other">%1$d vues</item>
+        <item quantity="one">%1$d vue</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">Found %d viruses and insecure apps</item>
+        <item quantity="one">Found %d virus app</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">Found %d unofficial apps</item>
+        <item quantity="one">Found %d unofficial app</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s applications de paiement sont protégées</item>
+        <item quantity="one">%s application de paiement est protégée</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s applications sont protégées</item>
+        <item quantity="one">%s application est protégée</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s applications ne sont pas protégées</item>
+        <item quantity="one">"%s application n'est pas protégée"</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d éléments sécurisés</item>
         <item quantity="one">%1$d élément sécurisé</item>
     </plurals>
     <plurals name="cache_check_content">
-        <item quantity="other">%d applications protégées</item>
-        <item quantity="one">%d application protégée</item>
+        <item quantity="other">Protection de %d applis</item>
+        <item quantity="one">Protection de %d appli</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d applications peuvent démarrer automatiquement</item>
@@ -144,9 +160,21 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">"%d applications n'ont pas d'accès ROOT"</item>
         <item quantity="one">"%d application n'a pas d'accès ROOT"</item>
     </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d exceptions</item>
+        <item quantity="one">%d exception</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">"Les statistiques de l'utilisation des données de l'opérateur n'ont pas été synchronisées depuis %d jours"</item>
+        <item quantity="one">"Les statistiques de l'utilisation des données de l'opérateur n'ont pas été synchronisées depuis %d jour"</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Mises à jour disponibles pour %d applications.</item>
         <item quantity="one">Mise à jour disponible pour %d application.</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d jours depuis la dernière vérification</item>
+        <item quantity="one">%d jour depuis la dernière vérification</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d risques,</item>
@@ -156,21 +184,13 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d chevaux de Troie</item>
         <item quantity="one">%d cheval de Troie</item>
     </plurals>
-    <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d risques</item>
-        <item quantity="one">%d risque</item>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Applis dangereuses : %d</item>
+        <item quantity="one">Appli dangereuse : %d</item>
     </plurals>
-    <plurals name="hints_scan_result_danger">
-        <item quantity="other">%d risques trouvés, corriger maintenant</item>
-        <item quantity="one">%d risque trouvé, corriger maintenant</item>
-    </plurals>
-    <plurals name="virus_clean_num">
-        <item quantity="other">%1$d problèmes résolus. Tout semble bien maintenant.</item>
-        <item quantity="one">%1$d problème résolu. Tout semble bien maintenant.</item>
-    </plurals>
-    <plurals name="notification_apps">
-        <item quantity="other">%d applications contiennent des risques de confidentialité</item>
-        <item quantity="one">%d application contient des risques de confidentialité</item>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Chevaux de Troie : %d</item>
+        <item quantity="one">Cheval de Troie : %d</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Patientez %d secondes et réessayez. "</item>
@@ -192,26 +212,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d applications trouvées</item>
         <item quantity="one">%d application trouvée</item>
     </plurals>
-    <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d éléments</item>
-        <item quantity="one">1 élément</item>
-    </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s risques de paiement</item>
-        <item quantity="one">%s risque de paiement</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_count">
-        <item quantity="other">%s applications de paiement sont protégées</item>
-        <item quantity="one">%s application de paiement est protégée</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">%s applications sont protégées</item>
-        <item quantity="one">%s application est protégée</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">%s applications ne sont pas protégées</item>
-        <item quantity="one">"%s application n'est pas protégée"</item>
-    </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d applications verrouillées en attente pour être nettoyées</item>
         <item quantity="one">%d application verrouillée en attente pour être nettoyée</item>
@@ -228,41 +228,13 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d jeux ajoutés</item>
         <item quantity="one">%d jeu ajouté</item>
     </plurals>
-    <plurals name="app_manager_apps_generation_title">
-        <item quantity="other">Mises à jour disponibles pour %d applications</item>
-        <item quantity="one">Mises à jour disponibles pour %d application</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_contact">
-        <item quantity="other">Contacts accédés %d fois</item>
-        <item quantity="one">Contacts accédés %d fois</item>
-    </plurals>
-    <plurals name="app_manager_permission_call_phone">
-        <item quantity="other">%d appels effectués</item>
-        <item quantity="one">%d appel effectué</item>
-    </plurals>
-    <plurals name="app_manager_permission_send_mms">
-        <item quantity="other">%d SMS envoyés</item>
-        <item quantity="one">%d SMS envoyé</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_mms">
-        <item quantity="other">SMS lus %d fois</item>
-        <item quantity="one">SMS lu %d fois</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_record">
-        <item quantity="other">Historique des appels lu %d fois</item>
-        <item quantity="one">Historique des appels lu %d fois</item>
-    </plurals>
-    <plurals name="app_manager_permission_read">
-        <item quantity="other">Accédé %d fois</item>
-        <item quantity="one">Accédé %d fois</item>
-    </plurals>
     <plurals name="app_manager_permission_summary_accept">
-        <item quantity="other">Allowed %d permissions</item>
-        <item quantity="one">Allowed %d permission</item>
+        <item quantity="other">%d autorisations acceptées</item>
+        <item quantity="one">%d autorisation acceptée</item>
     </plurals>
     <plurals name="app_manager_permission_summary_ask">
-        <item quantity="other">Ask for %d permissions</item>
-        <item quantity="one">Ask for %d permission</item>
+        <item quantity="other">Demander %d autorisations</item>
+        <item quantity="one">Demander %d autorisation</item>
     </plurals>
     <plurals name="app_manager_start_count">
         <item quantity="other">%d fois</item>
@@ -273,15 +245,23 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="one">Bloqué %d fois</item>
     </plurals>
     <plurals name="app_usage_day">
-        <item quantity="other">Pas été utilisé depuis %d jours</item>
-        <item quantity="one">Pas été utilisé depuis %d jour</item>
+        <item quantity="other">Utilisé il y a %d jours</item>
+        <item quantity="one">Utilisé il y a %d jour</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">Pas été utilisé depuis %d mois</item>
-        <item quantity="one">Pas été utilisé depuis %d mois</item>
+        <item quantity="other">Utilisé il y a %d mois</item>
+        <item quantity="one">Utilisé il y a %d mois</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">Pas été utilisé depuis %d ans</item>
-        <item quantity="one">Pas été utilisé depuis %d an</item>
+        <item quantity="other">Utilisé il y a %d ans</item>
+        <item quantity="one">Utilisé il y a %d an</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Added %d games</item>
+        <item quantity="one">Added %d game</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">"Haven't added %d games"</item>
+        <item quantity="one">"Haven't added %d game"</item>
     </plurals>
 </resources>

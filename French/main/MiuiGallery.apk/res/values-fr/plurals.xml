@@ -49,16 +49,16 @@
         <item quantity="one">"a ignoré une photo ne se trouvant pas sur l'appareil."</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">Impossible de télécharger %1$d photos, réessayer ?</item>
-        <item quantity="one">Impossible de télécharger une photo, réessayer ?</item>
+        <item quantity="other">Impossible de télécharger les %1$d photos, réessayer ?</item>
+        <item quantity="one">Impossible de télécharger la photo, réessayer ?</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">Impossible de télécharger les %1$d photos, veuillez vous connecter au réseau puis réessayez</item>
         <item quantity="one">Impossible de télécharger la photo, veuillez vous connecter au réseau puis réessayez</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">Impossible de télécharger %1$d photos (%2$d Mo), réessayer ?</item>
-        <item quantity="one">Impossible de télécharger une photo (%2$dMB), réessayer ?</item>
+        <item quantity="other">Impossible de télécharger les %1$d photos (%2$d Mo), réessayer ?</item>
+        <item quantity="one">Impossible de télécharger la photo (%2$d Mo), réessayer ?</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">Impossible de télécharger les %1$d photos (%2$d Mo), veuillez vous connecter au réseau puis réessayez</item>
@@ -128,6 +128,10 @@
         <item quantity="other">%d vidéos</item>
         <item quantity="one">%d vidéo</item>
     </plurals>
+    <plurals name="add_to_secret_successful">
+        <item quantity="other">Added %1$d photos to hidden album</item>
+        <item quantity="one">Added 1 photo to hidden album</item>
+    </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d photos</item>
         <item quantity="one">1 photo</item>
@@ -161,8 +165,8 @@
         <item quantity="one">Sauvegarde en cours 1 objet…</item>
     </plurals>
     <plurals name="download_error">
-        <item quantity="other">Impossible de télécharger %1$d éléments</item>
-        <item quantity="one">Impossible de télécharger %1$d élément</item>
+        <item quantity="other">Impossible de télécharger %1$d fichiers</item>
+        <item quantity="one">Impossible de télécharger %1$d fichier</item>
     </plurals>
     <plurals name="download_retry_message">
         <item quantity="other">Impossible de télécharger %1$d fichiers, vérifiez la connexion réseau puis réessayez</item>

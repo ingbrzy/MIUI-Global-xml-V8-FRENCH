@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Glissé</item>
+        <item>Diapositive</item>
         <item>Fondu</item>
-        <item>Eventail</item>
+        <item>Tumble</item>
         <item>Page</item>
         <item>Cascade</item>
-        <item>Rotation</item>
+        <item>Pivoter</item>
         <item>Cube</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
@@ -16,6 +16,10 @@
         <item>Droite</item>
     </string-array>
     <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
         <item>4x4</item>
         <item>4x5</item>
     </string-array>

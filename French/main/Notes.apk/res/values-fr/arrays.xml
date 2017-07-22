@@ -9,8 +9,8 @@
         <item>Galerie</item>
     </string-array>
     <string-array name="note_sort_way">
-        <item>Trié par date de création</item>
-        <item>Trié par date de modification</item>
+        <item>Par date de création</item>
+        <item>Par date de modification</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Nom</item>
@@ -41,30 +41,30 @@ Utilisez les modèles pour changer les fonds et les styles de vos notes.
 Appuyez sur le bouton en bas droit à droite de la note pour choisir un modèle."</item>
         <item>"Créez des dossiers
 Organisez vos notes dans des dossiers.
-Il y a 2 méthode pour créer un dossier :
-1. Appuyez l'icône dans le coin supérieur droit, puis appuyez le plus (+).
-2. Maintenez une note jusqu'à ce qu'un menu instantané apparaisse, et choisissez \u0090« Déplacer vers » - « Nouveau dossier »."</item>
+Il y a 2 méthodes pour créer un dossier :
+1. Appuyez l'icône dans le coin supérieur droit, puis appuyez sur le plus (+).
+2. Maintenez une note jusqu'à ce qu'un menu contextuel apparaisse, et choisissez \u0090 \"Déplacer vers\" - \"Nouveau dossier\"."</item>
         <item>"Masquez des notes
 Protégez vos notes avec un mot de passe.
 Il y a deux façons de masquer une note :
-1. Appuyez sur le bouton « Plus » dans le coins supérieur droit d'une note, et sélectionnez « Masquer ».
-2. Maintenez une note jusqu'à ce qu'un menu instantané apparaisse, et sélectionnez « Masquer »."</item>
+1. Appuyez sur le bouton \"Plus\" dans le coins supérieur droit d'une note, et sélectionnez \"Masquer\".
+2. Maintenez une note jusqu'à ce qu'un menu instantané apparaisse, et sélectionnez \"Masquer\"."</item>
         <item>"Encore des fonctionnalités formidables !
- -Des images, des checklists, des rappels.
+ -Des images, des listes de contrôle, des rappels.
 
 Ajouter des images
 Appuyez l'icône de l'image au bas de la note pour ajouter une image.
 Vous pouvez prendre une photo ou en choisir une dans Galerie.
 Lorsqu'une note contient une image, cette image sera utilisée en miniature pour représenter la note en vue grille.
 
-Créez des checklists
-La caseest un élément essentiel dans une liste de tâches.
+Créez des listes de contrôle
+La case est un élément essentiel dans une liste de tâches.
 Appuyez sur l'icône de la case dans le coin inférieur d'une note pour ajouter une case à cocher à un paragraphe de texte.
 Cochez la case lorsque la tâche est terminée.
 
 Définir des rappels
-Définissez des rappels directement dans les ntoes.
-Appuyez sur le bouton «Plus» dans le coin supérieur droit d'une note, sélectionnez «Rappels», définissez l'heure.
+Définissez des rappels directement dans les notes.
+Appuyez sur le bouton \"Plus\" dans le coin supérieur droit d'une note, sélectionnez \"Rappels\", définissez l'heure.
 "</item>
     </string-array>
     <string-array name="welcome_notes_image">

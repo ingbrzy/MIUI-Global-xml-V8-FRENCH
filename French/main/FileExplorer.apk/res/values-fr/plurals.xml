@@ -48,49 +48,13 @@
         <item quantity="other">il y a %1$d jours</item>
         <item quantity="one">il y a %1$d jour</item>
     </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%1$d secondes</item>
-        <item quantity="one">%1$d seconde</item>
-    </plurals>
-    <plurals name="mins">
-        <item quantity="other">%1$d minutes</item>
-        <item quantity="one">%1$d minute</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%1$d heures</item>
-        <item quantity="one">%1$d heure</item>
-    </plurals>
-    <plurals name="days">
-        <item quantity="other">%1$d jours</item>
-        <item quantity="one">%1$d jour</item>
-    </plurals>
     <plurals name="found_new_files">
         <item quantity="other">%1$d nouveaux fichiers trouvés</item>
         <item quantity="one">%1$d nouveau fichier trouvé</item>
     </plurals>
-    <plurals name="file_notify_title">
-        <item quantity="other">Reçu %1$d fichiers de %2$s</item>
-        <item quantity="one">Reçu %1$d fichier de %2$s</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">%1$d fichiers reçus de WeChat</item>
-        <item quantity="one">%1$d fichier reçu de WeChat</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d vidéos vont bientôt expirer</item>
-        <item quantity="one">%1$d vidéos va bientôt expirer</item>
-    </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">%1$d vidéos dans les conversations WeChat vont bientôt expirer. Les sauvergarder sur le stockage interne de votre appareil ?</item>
         <item quantity="one">%1$d vidéo dans les conversations WeChat va bientôt expirer. La sauvergarder sur le stockage interne de votre appareil ?</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_sticker">
-        <item quantity="other">"%1$d nouveaux autocollants WeChat aujourd'hui"</item>
-        <item quantity="one">"%1$d nouvel autocollant Wechat aujourd'hui"</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">%1$d vidéos de WeChat ont été sauvegardées.</item>
-        <item quantity="one">1 vidéo de WeChat a été sauvegardée.</item>
     </plurals>
     <plurals name="remote_video_update">
         <item quantity="other">%1$s nouvelles vidéos trouvées</item>
@@ -144,17 +108,13 @@
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> abonnés</item>
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> abonné</item>
     </plurals>
-    <plurals name="video_like_num">
-        <item quantity="other">"%1$s J'aime"</item>
-        <item quantity="one">"%1$s J'aime"</item>
-    </plurals>
     <plurals name="gems">
         <item quantity="other">%1$s gems</item>
         <item quantity="one">%1$s gem</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">Collecter &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> plus de gemmes afin de participer au tirage au sort</item>
-        <item quantity="one">Collecter &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> plus de gemmes afin de participer au tirage au sort</item>
+        <item quantity="other">Recueillir &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> plus de pierres précieuses pour participer au tirage au sort.;</item>
+        <item quantity="one">Recueillir &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> plus de pierres précieuses pour participer au tirage au sort.;</item>
     </plurals>
     <plurals name="clockin_days">
         <item quantity="other">"Enregistré en %1$s jours d'affilée"</item>

@@ -20,9 +20,33 @@
         <item quantity="other">%1$s personnes</item>
         <item quantity="one">%1$s personne</item>
     </plurals>
+    <plurals name="to_count">
+        <item quantity="other">%d destinataires</item>
+        <item quantity="one">%d destinataire</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">%1$s messages envoyés</item>
+        <item quantity="one">%1$s message envoyé</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">"Impossible d'envoyer à %d contacts"</item>
+        <item quantity="one">"Impossible d'envoyer à %d contact"</item>
+    </plurals>
     <plurals name="batch_delete_confirm_dialog_message">
-        <item quantity="other">Retirer%1$s messages ?</item>
-        <item quantity="one">Retirer%1$s message ?</item>
+        <item quantity="other">Supprimer %1$s messages ?</item>
+        <item quantity="one">Supprimer %1$s message ?</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">"%d messages programmés n'ont pas été envoyés"</item>
+        <item quantity="one">"%d message programmé n'a pas été envoyé"</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d messages)</item>
+        <item quantity="one">(%d message)</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d messages</item>
+        <item quantity="one">%d message</item>
     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d messages</item>

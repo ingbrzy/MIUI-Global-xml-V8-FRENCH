@@ -8,9 +8,17 @@
         <item quantity="other">%s applications ne peuvent pas afficher les notifications</item>
         <item quantity="one">1 application ne peut pas afficher les notifications</item>
     </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d toggles placed above bar are active</item>
+        <item quantity="one">1 toggle placed above bar are active</item>
+    </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Plus que %1$d étapes pour devenir développeur</item>
         <item quantity="one">Plus que %1$d étape pour devenir développeur</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Supprimer les langues sélectionnées ?</item>
+        <item quantity="one">Supprimer la langue sélectionnée ?</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">%1$d empreintes digitales configurées</item>
@@ -43,6 +51,58 @@
     <plurals name="wrong_pin_code">
         <item quantity="other">Code PIN de la carte SIM erroné. Il vous reste %d tentatives.</item>
         <item quantity="one">Code PIN de la carte SIM erroné. Il vous reste %d tentative.</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d éléments</item>
+        <item quantity="one">%d élément</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Délai extrêmement court (%1$d ms)</item>
+        <item quantity="one">Délai extrêmement court (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Délai très court (%1$d ms)</item>
+        <item quantity="one">Délai très court (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Court délai (%1$d ms)</item>
+        <item quantity="one">Court délai (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Long délai (%1$d ms)</item>
+        <item quantity="one">Long délai (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Délai très long (%1$d ms)</item>
+        <item quantity="one">Délai très long (%1$d ms)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">"%d tâches d'impression"</item>
+        <item quantity="one">"%d tâche d'impression"</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Considérer les certificats comme fiables ou les supprimer</item>
+        <item quantity="one">Considérer le certificat comme fiable ou le supprimer</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s a installé des autorités de certification sur votre appareil afin de contrôler l'activité réseau de l'appareil, y compris les e-mails, les applications et les sites Web sécurisés.
+
+Pour en savoir plus sur ces certificats, contactez votre administrateur."</item>
+        <item quantity="one">"%s a installé une autorité de certification sur votre appareil afin de contrôler l'activité réseau de l'appareil, y compris les e-mails, les applications et les sites Web sécurisés.
+
+Pour en savoir plus sur ce certificat, contactez votre administrateur."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s a installé des autorités de certification pour votre profil professionnel afin de contrôler l'activité sur le réseau, y compris les e-mails, les applications et les sites Web sécurisés.
+
+Pour en savoir plus sur ces certificats, contactez votre administrateur."</item>
+        <item quantity="one">"%s a installé une autorité de certification pour votre profil professionnel afin de contrôler l'activité sur le réseau, y compris les e-mails, les applications et les sites Web sécurisés.
+
+Pour en savoir plus sur ce certificat, contactez votre administrateur."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Vérifier les certificats</item>
+        <item quantity="one">Vérifier le certificat</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d applications peuvent lire les notifications.</item>
@@ -80,9 +140,37 @@
         <item quantity="other">%1$d applications ont utilisé de la mémoire au cours de la période suivante : %2$s.</item>
         <item quantity="one">%1$d application a utilisé de la mémoire au cours de la période suivante : %2$s.</item>
     </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">Envoi bloqué pour %d applications</item>
+        <item quantity="one">Envoi bloqué pour %d application</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">"%1$d applications autorisées à utiliser des données illimitées lorsque l'économiseur de données est activé"</item>
+        <item quantity="one">"%1$d application autorisée à utiliser des données illimitées lorsque l'économiseur de données est activé"</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d risques trouvés</item>
+        <item quantity="one">%d risque trouvé</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d applications sont autorisées à démarrer automatiquement</item>
+        <item quantity="one">%d application est autorisée à démarrer automatiquement</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">Le code PIN doit comporter %d chiffres</item>
+        <item quantity="one">Le code PIN doit comporter %d chiffre</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d réseaux partagés</item>
+        <item quantity="one">%d réseau partagé</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d appareils</item>
         <item quantity="one">%d appareil</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d people connected</item>
+        <item quantity="one">%1$d people connected</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Encore %1$d pas pour accéder aux infos de l'appareil."</item>

@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
-	authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Matzounet & s0me-1
-    more infos : https://github.com/MiFrance/miui-xml-V7-FRENCH -->
 <resources>
-  <plurals name="uninstall_dialog_title_format">
-      <item quantity="other">Désinstaller %1$s et %2$d autres applis ?</item>
-      <item quantity="one">Désinstaller %s ?</item>
-  </plurals>
-  <plurals name="uninstall_result_succeeded">
-      <item quantity="other">%1$d applis désinstallées</item>
-      <item quantity="one">Appli désinstallée</item>
-  </plurals>
-  <plurals name="uninstall_result_failed">
-      <item quantity="other">Impossible de désinstaller 1$s et %2$d autres applis</item>
-      <item quantity="one">Impossible de désinstaller %s</item>
-      <item quantity="two">Impossible de désinstaller %s et 1 autre appli</item>
-  </plurals>
-  <plurals name="editing_mode_title">
-      <item quantity="other">%1$d icônes sélectionnées</item>
-      <item quantity="zero">Aucune icône sélectionnée</item>
-      <item quantity="one">%1$d icône sélectionnée</item>
-  </plurals>
+    <plurals name="editing_mode_title">
+        <item quantity="other">%1$d sélectionnés</item>
+        <item quantity="one">%1$d sélectionné</item>
+    </plurals>
+    <plurals name="uninstall_dialog_title_multi_format">
+        <item quantity="other">Désinstaller %1$d applications ?</item>
+        <item quantity="one">Désinstaller %1$d application ?</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_succeeded">
+        <item quantity="other">%1$d applications désinstallées</item>
+        <item quantity="one">%1$d application désinstallée</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_failed">
+        <item quantity="other">Impossible de désinstaller %1$d applications</item>
+        <item quantity="one">Impossible de désinstaller %1$d application</item>
+    </plurals>
+    <plurals name="scroll_tip_format_when_announce_accessibility">
+        <item quantity="other">page %1$d, %2$d applications</item>
+        <item quantity="one">page %1$d, %2$d application</item>
+    </plurals>
+    <plurals name="delete_wallpapers_message">
+        <item quantity="other">"Supprimer %1$d fonds d'écran ?"</item>
+        <item quantity="one">"Supprimer %1$d fond d'écran ?"</item>
+    </plurals>
 </resources>

@@ -9,8 +9,8 @@
         <item quantity="one">%d résultat</item>
     </plurals>
     <plurals name="last_num_days">
-        <item quantity="other">Il y a %d jours</item>
-        <item quantity="one">Il y a %d jour</item>
+        <item quantity="other">Les %d derniers jours</item>
+        <item quantity="one">%d dernier jour</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d sur %2$d</item>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="copy_email">"Copier l'adresse de courriel"</string>
+  <string name="copy_number">Copier le numéro de téléphone</string>
+  <string name="done">Renvoyer</string>
+  <string name="more_string">+%1$s</string>
+</resources>

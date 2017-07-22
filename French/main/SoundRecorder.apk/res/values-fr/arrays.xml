@@ -19,6 +19,12 @@
         <item>Interview</item>
         <item>HD</item>
     </string-array>
+    <string-array name="record_scenes_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
     <string-array name="record_scenes_summaries">
         <item>Enregistrez de la musique avec une meilleure qualité</item>
         <item>Rapprochez le micro de la source du son pour une meilleure qualité</item>
@@ -35,6 +41,11 @@
         <item>Élevée</item>
         <item>Normale</item>
         <item>Faible</item>
+    </string-array>
+    <string-array name="record_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="record_quality_summaries">
         <item>MP3, ~192kbit/s, ~90Mo/h</item>

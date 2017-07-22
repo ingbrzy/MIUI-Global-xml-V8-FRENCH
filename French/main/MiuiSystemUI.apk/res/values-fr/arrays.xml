@@ -10,23 +10,170 @@
         <item>Suspendu</item>
         <item>Déconnexion…</item>
         <item>Déconnecté</item>
-        <item>Unsuccessful</item>
+        <item>Échec</item>
         <item>Bloqué</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Éviter temporairement une mauvaise connexion</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Analyse…</item>
         <item>Connexion à %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
+        <item>Connexion à %1$s…</item>
+        <item>"Récupération de l'adresse IP depuis %1$s…"</item>
         <item>Connecté à %1$s</item>
         <item>Suspendu</item>
-        <item>Disconnecting from %1$s…</item>
+        <item>Déconnexion de %1$s…</item>
         <item>Déconnecté</item>
-        <item>Unsuccessful</item>
+        <item>Échec</item>
         <item>Bloqué</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Éviter temporairement une mauvaise connexion</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Ne jamais vérifier</item>
+        <item>Vérifier pour le contenu DRM uniquement</item>
+        <item>Toujours vérifier</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Ne jamais utiliser la vérification HDCP</item>
+        <item>Utiliser la vérification HDCP pour le contenu DRM uniquement</item>
+        <item>Toujours utiliser la vérification HDCP</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Désactivé</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Désactivé</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Désactivé</item>
+        <item>64K par tampon journal</item>
+        <item>256K par tampon journal</item>
+        <item>1M par tampon de journal</item>
+        <item>4M par tampon de journal</item>
+        <item>16M par tampon de journal</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animation désactivée</item>
+        <item>"Échelle d'animation .5x"</item>
+        <item>"Échelle d'animation 1x"</item>
+        <item>"Échelle d'animation 1.5x"</item>
+        <item>"Échelle d'animation 2x"</item>
+        <item>"Échelle d'animation 5x"</item>
+        <item>"Échelle d'animation 10x"</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animation désactivée</item>
+        <item>"Échelle d'animation .5x"</item>
+        <item>"Échelle d'animation 1x"</item>
+        <item>"Échelle d'animation 1.5x"</item>
+        <item>"Échelle d'animation 2x"</item>
+        <item>"Échelle d'animation 5x"</item>
+        <item>"Échelle d'animation 10x"</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animation désactivée</item>
+        <item>"Échelle d'animation .5x"</item>
+        <item>"Échelle d'animation 1x"</item>
+        <item>"Échelle d'animation 1.5x"</item>
+        <item>"Échelle d'animation 2x"</item>
+        <item>"Échelle d'animation 5x"</item>
+        <item>"Échelle d'animation 10x"</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Aucun</item>
+        <item>480p</item>
+        <item>480p (sécurisé)</item>
+        <item>720p</item>
+        <item>720p (sécurisé)</item>
+        <item>1080p</item>
+        <item>1080p (sécurisé)</item>
+        <item>4K</item>
+        <item>4K (sécurisé)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (double écran)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Aucun</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphique)</item>
+        <item>"Pile d'appel sur glGetError"</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Désactivé</item>
+        <item>Dessiner une région de clip non rectangulaire en bleu</item>
+        <item>Surligner les commandes de dessin testées en vert</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Désactivé</item>
+        <item>"À l'écran comme des barres"</item>
+        <item>Dans adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Désactivé</item>
+        <item>Afficher les zones de superposition</item>
+        <item>Show areas for Deuteranomaly</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Limite standard</item>
+        <item>Aucun processus en arrière-plan</item>
+        <item>Au moins 1 processus</item>
+        <item>Au moins 2 processus</item>
+        <item>Au moins 3 processus</item>
+        <item>Au moins 4 processus</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>En charge</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
+        <item>Very fast</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Fastest</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (default)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Enhanced colors</item>
+        <item>Natural colors as seen by the eye</item>
+        <item>Colors optimized for digital content</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>IQA %1$s</item>
