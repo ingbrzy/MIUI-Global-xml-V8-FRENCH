@@ -551,7 +551,6 @@ Prenez plus de photos à vos amis !"</string>
   <string name="people_jump_failed">Attendez que les photos avec les personnes soient synchronisées avec Mi Cloud et essayez à nouveau</string>
   <string name="people_page_label">Personnes</string>
   <string name="people_page_unname">Sans nom</string>
-  <string name="percent_sign">%</string>
   <string name="pet_album_display_name">"Photos d'animaux"</string>
   <string name="petabyteShort">Po</string>
   <string name="photo">Photos</string>
@@ -662,8 +661,6 @@ Prenez plus de photos à vos amis !"</string>
   <string name="search_title_people">Personnes</string>
   <string name="search_title_recommend">Recommandé</string>
   <string name="search_title_tag">Objets</string>
-  <string name="search_transition_element_icon">search_icon</string>
-  <string name="search_transition_element_input">search_input</string>
   <string name="secret_album_card_description">Le meilleur endroit pour tous vos petits secrets</string>
   <string name="secret_album_card_title">Essayer de cacher un album</string>
   <string name="secret_album_display_name">Album privé</string>
@@ -848,7 +845,6 @@ Prenez plus de photos à vos amis !"</string>
   <string name="view_by_gallery_tip">Gallerie Miui</string>
   <string name="view_face_album">"Afficher l'album"</string>
   <string name="view_queuing_status">"Vérifier l'état"</string>
-  <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">Bienvenue sur Mi Cloud</string>
   <string name="welcome_to_slim">Optimiser le stockage local</string>
   <string name="where_is_barcode">Où est le code QR?</string>

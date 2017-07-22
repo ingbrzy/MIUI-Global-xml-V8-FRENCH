@@ -439,7 +439,6 @@ au cas où vous l'oubliez"</string>
   <string name="card_main_private_space_summary">Utiliser le Second espace est comme si vous aviez deux appareils</string>
   <string name="card_main_private_space_title">Second espace</string>
   <string name="card_main_sectool_title">Outils</string>
-  <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
   <string name="card_main_speeddetail_title">Vitesse de connexion</string>
   <string name="card_main_speeddetailt_summary">Afficher individuellement la vitesse de connexion des applications</string>
   <string name="card_main_xspace_action">Créer</string>

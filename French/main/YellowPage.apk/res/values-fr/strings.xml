@@ -367,7 +367,6 @@ Vérifiez votre numéro de suivi."</string>
   <string name="quick_yellow_page_tab_phones">Téléphone</string>
   <string name="recharge_actual_price">Prix :</string>
   <string name="recharge_charge_range">Prix : %1$s-%2$s RMB</string>
-  <string name="recharge_charge_value">Prix : %s RMB</string>
   <string name="recharge_follow_name">Recharger</string>
   <string name="recharge_history">Historique de rechargement</string>
   <string name="recharge_history_empty">Vide</string>

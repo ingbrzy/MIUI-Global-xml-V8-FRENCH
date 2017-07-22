@@ -668,7 +668,6 @@ Raison: \"%s\""</string>
   <string name="miprofile_contact_header">Contacts avec des cartes de contact</string>
   <string name="miprofile_contact_meaasge">Contacts locaux</string>
   <string name="miprofile_contact_verifying">Vérification</string>
-  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">Éditer le profil</string>
   <string name="miprofile_error_accept_self">"Impossible d'échanger votre propre carte de contact"</string>
   <string name="miprofile_error_no_miaccount">Connectez-vous à votre compte Mi</string>
@@ -859,8 +858,6 @@ Pour ajouter des contacts, pressez la touche "&lt;b&gt;&lt;font fgcolor="#ffffff
   <string name="path_wipe_data">Applications système/Contacts/Organiser les contacts/Effacer les données</string>
   <string name="payphone">Cabine téléphonique</string>
   <string name="people">Contacts</string>
-  <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Téléphone</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Ce numéro est trop long</string>
