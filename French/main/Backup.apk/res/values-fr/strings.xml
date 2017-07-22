@@ -85,7 +85,6 @@
   <string name="delete_backup_title">Supprimer la sauvegarde</string>
   <string name="delete_failed_backup_confirm">Cette sauvegarde contient des erreurs.</string>
   <string name="deselect_all">Tout désélectionner</string>
-  <string name="digit_percent">%</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_title">Désactiver le chiffrement</string>
   <string name="enable_encrypt">Activer le chiffrement</string>

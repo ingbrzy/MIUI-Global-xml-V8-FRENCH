@@ -447,7 +447,6 @@
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Se connecter à Gmail</string>
   <string name="header_category_account">Comptes</string>
-  <string name="header_category_general">@string/header_label_general_preferences</string>
   <string name="header_category_other">Commentaires</string>
   <string name="header_label_general_preferences">Paramètres généraux</string>
   <string name="help_and_info">Aide</string>
@@ -788,10 +787,8 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="recognize_hotel_other_money">Autres dépenses %1$s</string>
   <string name="recognize_hotel_reverse_date">Enregistrement avant %1$s:%2$s %3$s</string>
   <string name="recognize_hotel_room_type">Chambre</string>
-  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
   <string name="recognize_hotel_title">Réservation dhôtel</string>
   <string name="recognize_hotel_user_names">Invité</string>
-  <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
   <string name="recognize_setting_title">Paramètres de voyage</string>
   <string name="recognize_ticket_air_notification_content">Profitez de votre vol !</string>
   <string name="recognize_ticket_air_notification_title">Le vol %3$s (%2$s/%1$s) va bientôt décoller. Vérifiez bien vos informations de vol.</string>
