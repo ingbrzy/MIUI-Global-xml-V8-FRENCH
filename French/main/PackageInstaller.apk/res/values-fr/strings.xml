@@ -409,7 +409,6 @@ Toutes vos données d'utilisateur précédentes vont être enregistrées."</stri
   <string name="uninstall_activity_text">"%1$s fait partie de l'application suivante :"</string>
   <string name="uninstall_all_blocked_profile_owner">"Cette application nécessaire pour certains utilisateurs ou profils a été désinstallée pour d'autres."</string>
   <string name="uninstall_application_text">Voulez-vous désinstaller cette application ?</string>
-  <string name="uninstall_application_text_all_users">Voulez-vous désinstaller cette application pour &lt;b&gt;tous&lt;/b&gt;" les utilisateurs&amp;#160;? L'application et ses donn&amp;#233;es seront supprim&amp;#233;es pour "&lt;b&gt;tous&lt;/b&gt;" les utilisateurs de l'appareil."</string>
   <string name="uninstall_application_text_user">"Voulez-vous désinstaller cette application pour l'utilisateur %1$s ?"</string>
   <string name="uninstall_application_title">"Désinstaller l'application"</string>
   <string name="uninstall_blocked_device_owner">Impossible désinstaller appli, car elle est requise par administrateur appareil.</string>

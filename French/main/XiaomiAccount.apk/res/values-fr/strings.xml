@@ -277,7 +277,6 @@ Pour activer votre compte, suivez le
   <string name="passport_register">Créer un compte</string>
   <string name="passport_register_account_goto_email">Aller à la boite de réception</string>
   <string name="passport_register_account_verified_confirm">Compte vérifié</string>
-  <string name="passport_register_by_email">&lt;u&gt;"Cr&amp;#233;er un compte en utilisant l'adresse e-mail"&lt;/u&gt;</string>
   <string name="passport_register_restricted">Trop de comptes ont été associés à ce numéro, essayez avec un autre</string>
   <string name="passport_register_restricted_title">"Impossible d'utiliser ce numéro de téléphone"</string>
   <string name="passport_registered_phone_user_ID">ID utilisateur : %s</string>
@@ -295,7 +294,6 @@ Pour activer votre compte, suivez le
   <string name="passport_restart_register_prompt">Un autre message de vérification peut être requis pour créer votre compte.</string>
   <string name="passport_restart_register_title">Créer un compte Mi</string>
   <string name="passport_retry">Veuillez réessayer</string>
-  <string name="passport_select_reg_ways_title">&lt;u&gt;"Autres moyens de s'inscrire"&lt;/u&gt;</string>
   <string name="passport_send_too_many_code">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et essayez à nouveau.</string>
   <string name="passport_setting">Configuration…</string>
   <string name="passport_skip_login">Ignorer</string>

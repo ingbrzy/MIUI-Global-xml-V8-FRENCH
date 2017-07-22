@@ -343,7 +343,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="micloud_space_applist_title">Gérer les applications</string>
   <string name="micloud_space_duokan_detail">"Télécharger et gérer les e-books avec l'application Duokan."</string>
   <string name="micloud_space_duokan_title">Duokan</string>
-  <string name="micloud_space_full_influence">&lt;u&gt;"Que se passe-t-il si je n'ai plus d'espace&amp;#160;?"&lt;/u&gt;</string>
+  <string name="micloud_space_full_influence">"Que se passe-t-il si je n'ai plus d'espace&amp;#160;?"</string>
   <string name="micloud_space_soundrecorder_detail">Gérer les enregistrements stockés sur votre appareil</string>
   <string name="micloud_space_soundrecorder_title">Enregistrements</string>
   <string name="micloud_storage">Stockage</string>

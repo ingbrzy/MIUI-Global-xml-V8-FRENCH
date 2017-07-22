@@ -75,15 +75,6 @@ Si l'appareil est utilisé par plusieurs personnes, l'utilisation de ce raccourc
   <string name="accessibility_power_button_ends_call_prerefence_title">Bouton Marche/Arrêt pour raccrocher</string>
   <string name="accessibility_screen_magnification_enable">"Gestes d'agrandissement"</string>
   <string name="accessibility_screen_magnification_short_summary">Appuyer trois fois pour zoomer</string>
-  <string name="accessibility_screen_magnification_summary">&lt;b&gt;Pour faire un zoom&lt;/b&gt;", appuyez rapidement sur l'&amp;#233;cran &amp;#224; trois reprises avec un doigt.
-"&lt;li&gt;&lt;ul&gt;"Faites glisser deux doigts ou plus pour faire d&amp;#233;filer l'&amp;#233;cran.
-"&lt;li&gt;Pincez deux doigts ou plus ou &amp;#233;cartez-les pour r&amp;#233;gler le niveau de zoom.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
-
-"&lt;b&gt;Pour faire un zoom temporaire&lt;/b&gt;", appuyez rapidement sur l'&amp;#233;cran &amp;#224; trois reprises et de mani&amp;#232;re prolong&amp;#233;e la troisi&amp;#232;me fois.
-"&lt;li&gt;&lt;ul&gt;"Faites glisser un doigt pour vous d&amp;#233;placer sur l'&amp;#233;cran.
-"&lt;li&gt;Relevez le doigt pour faire un zoom arri&amp;#232;re.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
-
-Il est impossible de faire un zoom avant sur le clavier et la barre de navigation."</string>
   <string name="accessibility_screen_magnification_title">"Geste d'agrandissement"</string>
   <string name="accessibility_service_default_description">Aucune description fournie</string>
   <string name="accessibility_services_title">Services</string>
@@ -2242,8 +2233,6 @@ Vous pouvez définir un nouveau verrouillage de l'écran pour votre appareil et 
 Vous êtes actuellement connecté aux comptes suivants :
 "</string>
   <string name="master_clear_all">Effacer la totalité des données pour revenir en configuration usine ? Cette opération est irréversible !</string>
-  <string name="master_clear_apply_step_1">&lt;b&gt;"La r&amp;#233;initialisation des valeurs d'usine effacera toutes les donn&amp;#233;es de votre t&amp;#233;l&amp;#233;phone"&lt;/b&gt;", y compris les photos, chansons, notes et autres donn&amp;#233;es personnelles. S'assurer de sauvegarder tous les &amp;#233;l&amp;#233;ments importants sur votre ordinateur."</string>
-  <string name="master_clear_apply_step_2">Assurez-vous que tous les éléments importants sont sauvegardés sur votre ordinateur. Toutes les données sur cet appareil seront effacées lors de la réinitialisation. &lt;b&gt;"Vous ne serez plus en mesure de restaurer les &amp;#233;l&amp;#233;ments que vous n'avez pas sauvegard&amp;#233;s."&lt;/b&gt;</string>
   <string name="master_clear_apply_title">Attention</string>
   <string name="master_clear_button_text">Réinitialiser le téléphone</string>
   <string name="master_clear_confirm_title">Réinitialiser ?</string>

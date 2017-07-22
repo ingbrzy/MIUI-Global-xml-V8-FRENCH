@@ -534,7 +534,6 @@ attendez un instant après l'action."</string>
   <string name="press_to_continue_match">Appuyez pour continuer</string>
   <string name="press_to_match">Appuyez pour appairer</string>
   <string name="prev_remote">Télécommande précédente</string>
-  <string name="privacy_content">Lire la &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Politique de confidentialit&amp;#233;&lt;/a&gt; et&lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;"l'Accord Utilisateur"&lt;/a&gt;" avant d'utiliser Mi Remote. L'acc&amp;#232;s &amp;#224; internet et au service de localisation est n&amp;#233;cessaire pour le bon fonctionnement de l'application."</string>
   <string name="privacy_nohit">Ne plus montrer</string>
   <string name="privacy_title">"Conditions d'utilisation"</string>
   <string name="projection_failed_for_disconnect">Appareils non connectés</string>

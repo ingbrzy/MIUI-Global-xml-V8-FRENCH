@@ -584,7 +584,7 @@
   <string name="mibill_privacy_policy_button1">Plus tard</string>
   <string name="mibill_privacy_policy_button2">Accepter</string>
   <string name="mibill_privacy_policy_description">Autoriser Mi Wallet à analyser et gérer vos factures automatiquement. Cette fonctionnalités est automatiquement désactivé pour les adresses e-mails de travail.</string>
-  <string name="mibill_privacy_policy_link">En utilisant cette fonctionnalité vous acceptez nos &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;"Conditions d'Utilisation"&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_link">"En utilisant cette fonctionnalité vous acceptez nos Conditions d'Utilisation"</string>
   <string name="mibill_privacy_policy_title">Gérer les factures automatiquement</string>
   <string name="min_payment_text">Paiement minimal</string>
   <string name="more_atts_remaining">%1$d encore restant</string>
@@ -873,7 +873,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
   <string name="ser_resp_err_map_pserr">"Nom d'utilisateur ou mot de passe incorrect"</string>
   <string name="ser_resp_err_map_serclosed">%s serveur fermé</string>
   <string name="ser_resp_err_map_ssl">"Choisissez 'SSL / TLS (Accepter tous les certificats)' dans 'Type de sécurité'"</string>
-  <string name="service_protocol_discribe">&lt;u&gt;"J'ai lu et j'accepte le Contrat de service WPS Mail"&lt;/u&gt;</string>
+  <string name="service_protocol_discribe">"J'ai lu et j'accepte le Contrat de service WPS Mail"</string>
   <string name="service_protocol_title">Contrat de service</string>
   <string name="set_network">Configurer le réseau</string>
   <string name="settings_activity_title">Paramètres</string>
